@@ -1,0 +1,169 @@
+[
+    {
+        "type": "article",
+        "title": "Hindko in Kohat and Peshawar",
+        "author": ["Christopher Shackle"],
+        "journal": "Bulletin of the School of Oriental and African Studies, University of London",
+        "year": 1980,
+        "volume": 43,
+        "number": 3,
+        "pages": "482--510",
+        "url": "https://www.jstor.org/stable/615737",
+        "languages": {
+            "Hindko": ["Kohat", "Peshawar"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Grammar of Hindko, Panjabi, and Saraiki",
+        "author": ["Elena Bashir", "Thomas J. Conners", "Brook Hefright"],
+        "publisher": "De Gruyter",
+        "year": 2019,
+        "languages": {
+            "Hindko": ["Abbottabad"],
+            "Saraiki": ["Multan"],
+            "Punjabi": ["Lahore"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Saraiki",
+        "author": ["Firdos Atta", "Jeroen van de Weijer", "Lei Zhu"],
+        "year": 2020,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/abs/saraiki/6ED3484594B71833BB030429B7229F1A",
+        "languages": {
+            "Saraiki": ["Dera Ghazi Khan"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Language of the Khetrans of Barkhan of Pakistani Balochistan: A preliminary description",
+        "author": ["Ali H. Birmani", "Fasih Ahmed"],
+        "journal": "Lingua",
+        "volume": 191,
+        "pages": "3--21",
+        "year": 2017,
+        "publisher": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0024384116302236",
+        "languages": {
+            "Khetrani": ["Barkhan"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Shipwrecked and landlocked: Kholosi, an Indo-Aryan language in south-west Iran",
+        "author": ["Erik Anonby", "Hassan Mohebbi Bahmani"],
+        "journal": "Studia Iranica",
+        "volume": 43,
+        "pages": "1--23",
+        "year": 2016,
+        "languages": {
+            "Kholosi": ["Kholos"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "Towards a grammatical description of Palula: An Indo-Aryan language of the Hindu Kush",
+        "author": ["Henrik Liljegren"],
+        "year": 2008,
+        "url": "https://www.diva-portal.org/smash/get/diva2%3A198468/FULLTEXT01.pdf",
+        "languages": {
+            "Palula": ["Ashret"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "Palula vocabulary",
+        "author": ["Henrik Liljegren", "Naseem Haider"],
+        "year": 2011,
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A461738&dswid=3483",
+        "languages": {
+            "Palula": ["Ashret"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Where have all the verbs gone? On verb stretching and semi-words in Indo-Aryan Palula",
+        "author": ["Henrik Liljegren"],
+        "year": 2010,
+        "url": "https://escholarship.org/content/qt8kr5z2d7/qt8kr5z2d7.pdf",
+        "languages": {
+            "Palula": ["Ashret"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Punjabi (Lyallpuri variety)",
+        "author": ["Qandeel Hussain", "Michael Proctor", "Mark Harvey", "Katherine Demuth"],
+        "year": 2019,
+        "url": "http://www.mproctor.net/docs/hussain19_punjabi.pdf",
+        "languages": {
+            "Punjabi": ["Lyallpur"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "A Language Movement in Pakistan",
+        "author": ["Christopher Shackle"],
+        "journal": "Modern Asian Studies",
+        "year": 1977,
+        "volume": 11,
+        "number": 3,
+        "pages": "379--403",
+        "url": "https://www.jstor.org/stable/311504",
+        "publisher": "Cambridge University Press",
+        "languages": {
+            "Saraiki": ["Multan"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Sindhi",
+        "author": ["Paroo Nihalani"],
+        "volume": 25,
+        "number": 2,
+        "pages": "95--98",
+        "year": 1995,
+        "url": "https://www.jstor.org/stable/44526186",
+        "languages": {
+            "Sindhi": ["Hyderabad, Pakistan"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "A Grammatical Description of Dameli",
+        "author": ["Emil Perder"],
+        "year": 2013,
+        "url": "https://www.diva-portal.org/smash/get/diva2:651418/FULLTEXT02",
+        "publisher": "Stockholm Universty",
+        "languages": {
+            "Dameli": ["Peshawar", "Domel"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "A grammar sketch of Sauji: An Indo-Aryan language of Afghanistan",
+        "author": ["Nina Knobloch"],
+        "year": 2020,
+        "url": "https://www.diva-portal.org/smash/get/diva2:1440556/FULLTEXT01.pdf",
+        "publisher": "Stockholm Universty",
+        "languages": {
+            "Sauji": ["Sau"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "An acoustic and articulatory study of laryngeal and place contrasts of Kalasha (Indo-Aryan, Dardic)",
+        "author": ["Qandeel Hussaina", "Jeff Mielke"],
+        "year": 2020,
+        "journal": "Journal of the Acoustical Society of America",
+        "volume": 147,
+        "number": 4,
+        "pages": "2873--2890",
+        "url": "https://asa.scitation.org/doi/full/10.1121/10.0000999",
+        "languages": {
+            "Kalasha": ["Bumburet"]
+        }
+    }
+]
