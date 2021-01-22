@@ -165,5 +165,88 @@
         "languages": {
             "Kalasha": ["Bumburet"]
         }
+    },
+    {
+        "type": "book",
+        "title": "A Practical Guide to Hindko Grammar",
+        "author": ["Halil Toker"],
+        "year": 2014,
+        "publisher": "Trafford Publishing",
+        "url": "https://www.google.com/books/edition/A_PRACTICAL_GUIDE_TO_HINDKO_GRAMMAR/neThAgAAQBAJ?hl=en&gbpv=0",
+        "languages": {
+            "Hindko": ["Peshawar"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "Punjabi: a conginitive-descriptive grammar",
+        "author": ["Tej K. Bhatia"],
+        "year": 1993,
+        "publisher": "Routledge",
+        "languages": {
+            "Punjabi": ["Lahore", "Amritsar"]
+        }
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Thari: A dialect of Sindhi language",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/169640",
+        "author": ["Murli D. Bhawnani"],
+        "year": "n.d.",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Sindhi": ["Chachro", "Chelhar"]
+        }
+    },
+    {
+        "type": "thesis",
+        "title": "Morphology of Sindhi: A Descriptive Analysis of Vicoli, the Standard Sindhi Dialect",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145755",
+        "author": ["Murlidhar Kishinchand Jetley"],
+        "year": 1964,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Sindhi": ["Hyderabad, Pakistan"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "A grammar of the Shina language of Indus Kohistan",
+        "date": 2008,
+        "author": ["Ruth Laila Schmidt", "Razwal Kohistani"],
+        "languages": {
+            "Kohistani Shina": ["Palas Valley"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "A grammar and dictionary of Indus Kohistani",
+        "year": 2005,
+        "author": ["Claus Peter Zoller"],
+        "languages": {
+            "Indus Kohistani": ["Kandia Valley", "Duber Valley", "Bankhar"]
+        }
+    },
+    {
+        "type": "thesis",
+        "title": "Phonology and morphology of Jadeja dialect of Sindhi",
+        "author": ["Sibasis Mukherjee"],
+        "year": "n.d.",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/173289",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Kutchi": ["Nirona"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "Modern Kashmiri Grammar",
+        "author": ["Omkar N. Koul", "Kashi Wali"],
+        "year": 2006,
+        "url": "https://www.academia.edu/3093359/Modern_Kashmiri_Grammar",
+        "publisher": "Dunwoody Press",
+        "languages": {
+            "Kashmiri": ["Srinagar"]
+        }
     }
 ]

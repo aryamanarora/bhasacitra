@@ -56,7 +56,6 @@
             .scaleExtent([1, 12])
             .on("zoom", zoomed)
         svg.call(zoom)
-        svg.on("click", unzoomed)
 
         Promise.all([
             d3.json("coords.json"),
@@ -78,6 +77,7 @@
                     .attr("stroke", "black")
                     .attr("stroke-width", 0.2)
             
+            var clicked = null
             langs = {}
             refs = {}
             cities = {}
@@ -102,10 +102,13 @@
                 }
             });
 
+            var lines = g.append("g")
             var subg = g.append("g")
             
+            var stored_coords = {}
             for (lang in langs) {
                 var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
+                stored_coords[lang] = loc
                 var r = Math.sqrt(refs[lang].length) * 3
                 var x = g.append("circle")
                     .attr("cx", loc[0])
@@ -114,40 +117,91 @@
                     .attr("fill", "white")
                     .attr("id", lang)
                     .attr("stroke", "black")
-                    
+
                 x.on("mouseover", function(event, d) {
                     var l = d3.select(this).attr("id")
-                    var board = d3.select(".card-body")
-                    d3.select(".name").text(l)
-                    board.append("p")
-                        .attr("class", "card-text")
-                        .html(refs[l].length + " source(s) covering " + langs[l].length + " location(s).")
-                    board = board.append("ul")
-                        .attr("class", "card-text")
-                    refs[l].forEach(x => {
-                        var note = `${x.author.join(', ')} (${x.year}). <em>${x.title}</em>.`
-                        if (x.url) note += ` <a href="${x.url}">link</a>`
-                        board.append("li")
-                            .html(note)
-                    })
-                    for (city in subcities[l]) {
-                        console.log(city)
-                        d3.select("#" + l).transition().style("opacity", 0)
-                        subg.append("circle")
-                            .attr("cx", projection([coord.cities[city][1], coord.cities[city][0]])[0])
-                            .attr("cy", projection([coord.cities[city][1], coord.cities[city][0]])[1])
-                            .transition()
-                            .attr("r", Math.sqrt(subcities[l][city]) * 3)
-                            .attr("fill", "steelblue")
-                            .attr("stroke", "black")
-                    }
+                    var loc = stored_coords[l]
+                    var r = Math.sqrt(refs[l].length) * 3
+
+                    g.append("text")
+                        .attr("x", loc[0] + r)
+                        .attr("y", loc[1] - r)
+                        .style("opacity", 0)
+                        .text(l)
+                        .transition()
+                        .style("opacity", null)
                 })
 
-                x.on("mouseout", function() {
-                    d3.selectAll(".card-text").remove()
-                    d3.select(".name").text("Hover over a dot.")
-                    d3.select(this).transition().style("opacity", 1)
-                    subg.selectAll("*").transition().attr("r", 0).remove()
+                x.on("mouseout", function(event, d) {
+                    d3.selectAll("text").transition().style("opacity", 0).remove()
+                })
+                    
+                x.on("click", function(event, d) {
+                    var l = d3.select(this).attr("id")
+                    if (clicked != l) {
+                        if (clicked != null) {
+                            d3.selectAll(".card-text").remove()
+                            d3.select(".name").text("Hover over a dot.")
+                            subg.selectAll("*").transition().attr("r", 0).remove()
+                            lines.selectAll("*")
+                                .transition()
+                                .attr("x1", stored_coords[l][0])
+                                .attr("y1", stored_coords[l][1])
+                                .remove()
+                        }
+                        d3.selectAll("circle")
+                            .style("opacity", 0.3)
+                        clicked = l
+                        var board = d3.select(".card-body")
+                        d3.select(".name").text(l)
+                        board.append("p")
+                            .attr("class", "card-text")
+                            .html(refs[l].length + " source(s) covering " + langs[l].length + " location(s).")
+                        board = board.append("ul")
+                            .attr("class", "card-text")
+                        refs[l].forEach(x => {
+                            var note = `${x.author.join(', ')} (${x.year}). <em>${x.title}</em>.`
+                            x.languages[l].forEach(city => {
+                                note += ` <span class="badge bg-secondary">${city}</span>`
+                            })
+                            if (x.url) note += ` <a href="${x.url}">link</a>`
+                            board.append("li")
+                                .html(note)
+                        })
+                        for (city in subcities[l]) {
+                            var loc2 = projection([coord.cities[city][1], coord.cities[city][0]])
+                            var r = Math.sqrt(subcities[l][city]) * 3
+                            subg.append("circle")
+                                .attr("cx", loc2[0])
+                                .attr("cy", loc2[1])
+                                .transition()
+                                .attr("r", r)
+                                .attr("fill", "steelblue")
+                                .attr("stroke", "black")
+                            lines.append("line")
+                                .attr("x2", stored_coords[l][0])
+                                .attr("y2", stored_coords[l][1])
+                                .attr("x1", stored_coords[l][0])
+                                .attr("y1", stored_coords[l][1])
+                                .transition()
+                                .attr("x1", loc2[0])
+                                .attr("y1", loc2[1])
+                                .attr("stroke", "black")
+                        }
+                    }
+                    else {
+                        clicked = null
+                        d3.selectAll("circle")
+                            .style("opacity", null)
+                        d3.selectAll(".card-text").remove()
+                        d3.select(".name").text("Hover over a dot.")
+                        subg.selectAll("*").transition().attr("r", 0).remove()
+                        lines.selectAll("*")
+                            .transition()
+                            .attr("x1", stored_coords[l][0])
+                            .attr("y1", stored_coords[l][1])
+                            .remove()
+                    }
                 })
             }
         }
