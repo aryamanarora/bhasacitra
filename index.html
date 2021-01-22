@@ -16,7 +16,7 @@
     <body>
         <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card bg-dark text-white shadow">
             <div class="card-body">
-                <h3 class="card-title name">Hover over a dot.</h3>
+                <h3 class="card-title name">Hover over/click a dot.</h3>
             </div>
         </div>
         <svg id="map"></svg>
@@ -141,7 +141,7 @@
                     if (clicked != l) {
                         if (clicked != null) {
                             d3.selectAll(".card-text").remove()
-                            d3.select(".name").text("Hover over a dot.")
+                            d3.select(".name").text("Hover over/click a dot.")
                             subg.selectAll("*").transition().attr("r", 0).remove()
                             lines.selectAll("*")
                                 .transition()
@@ -194,7 +194,7 @@
                         d3.selectAll("circle")
                             .style("opacity", null)
                         d3.selectAll(".card-text").remove()
-                        d3.select(".name").text("Hover over a dot.")
+                        d3.select(".name").text("Hover over/click a dot.")
                         subg.selectAll("*").transition().attr("r", 0).remove()
                         lines.selectAll("*")
                             .transition()
