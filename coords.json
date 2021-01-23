@@ -68,7 +68,18 @@
         "Jaisalmer District": [27.0243821, 69.7869516],
         "Nagaur District": [27.0587728, 73.6671699],
         "Jalore District": [25.2087915, 71.5788423],
-        "Upper Assam": [26.915029, 94.337478]
+        "Addu Atoll": [0.6301, 73.1586]
+        "Haddhunmati Atoll": [1.9431, 73.4180]
+        "Fuvahmulah Atoll": [0.2984, 73.4269]
+        "Huvadhoo Atoll": [0.2984, 73.4269]
+        "Minicoy": [8.2740, 73.0496]
+        "Malé": [4.1755, 73.5093]
+        "Colombo": [6.9271, 79.8612]
+        "Northern Province": [8.7542, 80.4982]
+        "Dambana": [7.4844, 81.1812]
+        "Kurunegala": [7.4818, 80.3609]
+        "Kadugannawa": [7.2550, 80.5188]
+        
     },
     "family": {
         "Punjabi": ["Indo-Aryan", "Punjabic"],
@@ -106,5 +117,9 @@
         "Nepali": ["Indo-Aryan", "Pahari"],
         "Bengali": ["Indo-Aryan", "Eastern"],
         "Assamese": ["Indo-Aryan", "Eastern"]
+        "Sinhalese": ["Indo-Aryan", "Insular"]
+        "Rodiya": ["Indo-Aryan (Secret Language)", "Insular"]
+        "Vedda": ["Indo-Aryan (Creole)", "Insular"]
+        "Divehi": ["Indo-Aryan", "Insular"]
     }
 }
