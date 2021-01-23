@@ -490,7 +490,8 @@
         "languages": {
             "Hindi": ["Rankhandi", "Sivaya", "Kalron"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonology"],
+        "url": "https://www.jstor.org/stable/410824"
     },
     {
         "type": "book",
@@ -512,7 +513,6 @@
         "languages": {
             "Hindi": ["Delhi"]
         },
-        "url": "https://www.jstor.org/stable/410824",
         "topics": ["overview"]
     },
     {
@@ -527,6 +527,393 @@
             "Hadothi": ["Bundi District", "Kota District"]
         },
         "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Marathi",
+        "author": ["Ramesh Vaman Dhongde", "Kashi Wali"],
+        "year": 2009,
+        "publisher": "John Benjamins Publishing Company",
+        "languages": {
+            "Marathi": ["Pune"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Survey of Konkani in Kerala",
+        "author": ["R. C. Nigam"],
+        "year": 1971,
+        "publisher": "Census of India",
+        "languages": {
+            "Konkani": ["Kochi", "Varapuzha", "Kasargod", "Kannur", "Kodungallur", "Thiruvananthapuram"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Sound System of Lawatiyya",
+        "author": ["Amel Salman", "Nafla S. Kharusi"],
+        "year": 2012,
+        "journal": "Journal of Academic and Applied Studies",
+        "pages": "36--44",
+        "languages": {
+            "Luwati": ["Muscat"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Bhadarwahi: A Typological Sketch",
+        "author": ["Amitabh Vikram Dwivedi"],
+        "year": 2015,
+        "journal": "Acta Linguistica Asiatica",
+        "volume": 5,
+        "number": 1,
+        "pages": "125--148",
+        "url": "https://revije.ff.uni-lj.si/ala/article/view/3159",
+        "languages": {
+            "Bhadarwahi": ["Doda District"]
+        },
+        "topics": ["phonology", "syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar of Old Tamil for Students",
+        "author": ["Eva Wilden"],
+        "url": "https://halshs.archives-ouvertes.fr/halshs-01892342v2/document",
+        "year": 2018,
+        "publisher": "Institut français de Pondichéry",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Reference Grammar of Classical Tamil Poetry",
+        "author": ["V. S. Rajam"],
+        "year": 1992,
+        "publisher": "The American Philological Society",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Modern Tamil",
+        "author": ["Thomas Lehmann"],
+        "year": 1993,
+        "publisher": "All India Press",
+        "location": "Pondicherry",
+        "languages": {
+            "Tamil": ["Thanjavur", "Tiruchirappalli"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Reference Grammar of Spoken Tamil",
+        "author": ["Harold F. Schiffman"],
+        "year": 1999,
+        "publisher": "Cambridge University Press",
+        "location": "Cambridge",
+        "languages": {
+            "Tamil": ["Thanjavur", "Tiruchirappalli", "Madurai"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Tamil",
+        "author": ["R. E. Asher"],
+        "year": 1989,
+        "publisher": "Routledge",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Kanyakumari Muslim Tamil: A descriptive analysis",
+        "author": ["F. S. Abdul Salam"],
+        "year": 1974,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/155074",
+        "languages": {
+            "Tamil": ["Kanyakumari"]
+        },
+        "topics": ["overview", "sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Negombo Fishermen's Tamil: A Case of Indo-Aryan Contact-Induced Change in a Dravidian Dialect",
+        "author": ["Steven Bonta"],
+        "year": 2010,
+        "journal": "Anthropological Linguistics",
+        "volume": 52,
+        "number": 3,
+        "pages": "310--343",
+        "url": "https://muse.jhu.edu/article/462414/pdf",
+        "languages": {
+            "Tamil": ["Negombo"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Reflections of Certain Social Differences in Jaffna Tamil",
+        "author": ["S. Suseendirarajah"],
+        "year": 1970,
+        "journal": "Anthropological Linguistics",
+        "volume": 12,
+        "number": 7,
+        "pages": "113--138",
+        "url": "https://www.jstor.org/stable/30029257",
+        "languages": {
+            "Tamil": ["Jaffna"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Some features of Ceylon Tamil",
+        "author": ["Kamil Zvelebil"],
+        "year": "1965--1966",
+        "journal": "Indo-Iranian Journal",
+        "volume": 9,
+        "issue": 2,
+        "pages": "113--138",
+        "url": "https://www.jstor.org/stable/24650188",
+        "languages": {
+            "Tamil": ["Jaffna", "Trincomalee", "Batticaloa"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "A Study of Pronouns in Batticaloa Tamil",
+        "author": ["S. Suseendirarajah"],
+        "year": 1973,
+        "journal": "Anthropological Linguistics",
+        "volume": 15,
+        "number": 4,
+        "pages": "172--182",
+        "url": "https://www.jstor.org/stable/30029533",
+        "languages": {
+            "Tamil": ["Batticaloa"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Dialects of Tamil I--V",
+        "author": ["Kamil Zvelebil"],
+        "year": "1959--1963",
+        "journal": "Archiv Orientalni",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["sociolinguistics", "overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Reference Grammar of Spoken Kannada",
+        "author": ["Harold F. Schiffman"],
+        "year": 1983,
+        "publisher": "University of Washington Press",
+        "languages": {
+            "Kannada": ["Bengaluru", "Mysuru"]
+        },
+        "topics": ["sociolinguistics", "overview"]
+    },
+    {
+        "type": "book",
+        "title": "Kannada",
+        "author": ["S. N. Sridhar"],
+        "year": 1990,
+        "publisher": "Taylor & Francis",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["sociolinguistics", "overview"]
+    },
+    {
+        "type": "book",
+        "title": "Kannada-English Etymological Dictionary",
+        "author": ["N. Ucida", "BB. Rajapurohit"],
+        "year": 2013,
+        "publisher": "Tokyo Institute of Foreign Studies",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["lexicography", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Dialects of Kannada in the Mysore Area",
+        "author": ["D. N. Shankara Bhat"],
+        "year": "1967--1968",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 28,
+        "number": "1/2",
+        "pages": "66--76",
+        "languages": {
+            "Kannada": ["Mysuru"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.jstor.org/stable/42929868"
+    },
+    {
+        "type": "article",
+        "title": "Linguistic Aspects of Antiquity: A Dialect Study",
+        "author": ["Helen E. Ullrich"],
+        "year": 1971,
+        "journal": "Anthropological Linguistics",
+        "volume": 13,
+        "number": 3,
+        "pages": "106--113",
+        "url": "https://www.jstor.org/stable/30029284",
+        "languages": {
+            "Kannada": ["Northern Malenadu"]
+        },
+        "topics": ["overview", "sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Malayalam",
+        "author": ["R. Asher", "T. C. Kumari"],
+        "year": 2013,
+        "publisher": "Routledge",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mapila Malayalam",
+        "author": ["Suseela P. Upadhyaya"],
+        "year": 1969,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/155758",
+        "languages": {
+            "Malayalam": ["Dakshina Kannada District"]
+        },
+        "topics": ["overview", "sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of the Malabari dialect of Malayalam",
+        "author": ["M. V. Sreedhar"],
+        "year": 1964,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/154401",
+        "languages": {
+            "Malayalam": ["Kannur District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Modern Telugu",
+        "author": ["Bh. Krishnamurti", "J. P. L. Gwynn"],
+        "year": 1985,
+        "publisher": "Oxford University Press",
+        "languages": {
+            "Telugu": ["Guntur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Historical Grammar of Inscriptional Telugu",
+        "author": ["K. K. Rangachandracharyulu,"],
+        "year": 1987,
+        "publisher": "Osmania University",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Study of Telugu Regional and Social Dialects: A Prosodic Analysis",
+        "author": ["J. Venkateswara Sastry"],
+        "url": "https://eprints.soas.ac.uk/28842/1/10673011.pdf",
+        "year": 1994,
+        "publisher": "Central Institute for Indian Languages",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["prosody", "sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A grammar of Betta Kurumba",
+        "author": ["Gail Coelho"],
+        "url": "https://www.academia.edu/2107734/A_grammar_of_Betta_Kurumba_doctoral_thesis_",
+        "year": 2003,
+        "publisher": "The University of Texas at Austin",
+        "languages": {
+            "Betta Kurumba": ["Masinagudi", "Theppakadu"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Complex predicates in Betta Kurumba",
+        "author": ["Gail Coelho"],
+        "journal": "Journal of South Asian Languages and Linguistics",
+        "volume": 5,
+        "number": 1,
+        "pages": "23--77",
+        "year": 2018,
+        "languages": {
+            "Betta Kurumba": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Bëṭṭu̵ Kuṟumba: First Report on a Tribal Language",
+        "author": ["Kamil Zvelebil"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 102,
+        "number": 3,
+        "pages": "523--527",
+        "year": 1982,
+        "languages": {
+            "Betta Kurumba": ["Theppakadu"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Irula language",
+        "author": ["Kamil Zvelebil"],
+        "year": 1973,
+        "publisher": "Harrassowitz",
+        "languages": {
+            "Irula": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Iruḷa Vowels",
+        "author": ["Kamil Zvelebil"],
+        "journal": "Indo-Iranian Journal",
+        "volume": 13,
+        "number": 2,
+        "pages": "113-122",
+        "year": 1972,
+        "languages": {
+            "Irula": ["The Nilgiris District"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "thesis",
@@ -601,8 +988,8 @@
         "title": "Sinhala",
         "author": ["Dileep Chandralal"],
         "year": 2010,
-        "series": London Oriental and African Language Library,
-        "publisher": John Benjamins,
+        "series": "London Oriental and African Language Library",
+        "publisher": "John Benjamins",
         "languages": {
             "Sinhala": ["Western Province"]
         },
@@ -627,7 +1014,7 @@
         "author": ["W. S. Karunatillake"],
         "year": 1969,
         "languages": {
-            "Sinhala": ["Western Province"],
+            "Sinhala": ["Western Province"]
          },
         "topics": ["phonology", "historical"]
     },
@@ -637,7 +1024,7 @@
         "author": ["W. S. Karunatillake"],
         "year": 1969,
         "languages": {
-            "Sinhala": ["Western Province"],
+            "Sinhala": ["Western Province"]
          },
         "topics": ["phonology", "historical"]
     },
@@ -680,6 +1067,5 @@
             "Rodiya": ["Kurunegala", "Kadugannawa"]
         },
         "topics": ["overview", "lexicon"]
-    },
-    
+    }
 ]
