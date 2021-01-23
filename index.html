@@ -55,11 +55,9 @@
 
             // Average each set of hex numbers going via dec
             // always rounds down
-            console.log("bruh", b1, b2)
             for (var i=b1.length; i;) {
                 var a = hex2dec(b1[--i])
                 var b = hex2dec(b2[i])
-                console.log(a, b, v1, v2)
                 t = dec2hex(Math.round(a * v1 + b * v2));
                 // Add leading zero if only one character
                 c[i] = t.length == 2? '' + t : '0' + t; 
@@ -183,7 +181,6 @@
                 var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
                 stored_coords[lang] = loc
                 colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0], 3, 1))
-                console.log(colour)
                 var r = Math.sqrt(refs[lang].length) * 3
                 var x = g.append("circle")
                     .attr("cx", loc[0])
