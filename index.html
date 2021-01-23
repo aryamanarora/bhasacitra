@@ -8,6 +8,7 @@
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
         <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="https://unpkg.com/d3-geo-voronoi@1.5"></script>
         <script src="https://unpkg.com/topojson@3"></script>
         <style>
             html, body {margin: 0; height: 100%; overflow: hidden}
@@ -43,8 +44,10 @@
             function dec2hex(v) {return v.toString(16);}
             function hex2dec(v) {return parseInt(v,16);}
 
-            return function (c1, c2) {
-
+            return function (c1, c2, v1 = 1, v2 = 1) {
+            var sum = v1 + v2
+            v1 /= sum
+            v2 /= sum
             // Split into parts
             var b1 = c1.match(reSegment);
             var b2 = c2.match(reSegment);
@@ -52,9 +55,12 @@
 
             // Average each set of hex numbers going via dec
             // always rounds down
+            console.log("bruh", b1, b2)
             for (var i=b1.length; i;) {
-                t = dec2hex( (hex2dec(b1[--i]) + hex2dec(b2[i])) >> 1 );
-
+                var a = hex2dec(b1[--i])
+                var b = hex2dec(b2[i])
+                console.log(a, b, v1, v2)
+                t = dec2hex(Math.round(a * v1 + b * v2));
                 // Add leading zero if only one character
                 c[i] = t.length == 2? '' + t : '0' + t; 
             }
@@ -106,6 +112,7 @@
         
         function load(coord, ref, world) {
             topo = topojson.feature(world, world.objects.land).features
+            // var defs = svg.append("defs")
             g.selectAll("path")
                 .data(topo)
                 .enter()
@@ -115,6 +122,12 @@
                     .attr("fill", "#EEE")
                     .attr("stroke", "black")
                     .attr("stroke-width", 0.2)
+
+            // var mask = defs.append("mask")
+            //     .attr("id", "clip")
+                
+            // mask.append("use")
+            //     .attr("xlink:href", "#land")
             
             var clicked = null
             langs = {}
@@ -125,8 +138,9 @@
                 for (lang in d.languages) {
                     if (!(lang in langs)) langs[lang] = []
                     d.languages[lang].forEach(city => {
-                        if (!(city in cities)) cities[city] = 0
-                        cities[city]++
+                        if (!(city in cities)) cities[city] = {}
+                        if (!(lang in cities[city])) cities[city][lang] = 0
+                        cities[city][lang]++
                         langs[lang].push(coord.cities[city])
                     })
 
@@ -141,6 +155,26 @@
                 }
             });
 
+            // var cities_voronoi = []
+            // for (city in cities) {
+            //     cities_voronoi.push([coord.cities[city][1], coord.cities[city][0], city])
+            // }
+            // var voronoi = d3.geoVoronoi()(cities_voronoi)
+            // g.append("g")
+            //     .attr("mask", "url(#clip)")
+            //     .selectAll("path")
+            //     .data(voronoi.polygons().features)
+            //     .enter()
+            //     .append("path")
+            //         .attr("d", path)
+            //         .attr("fill", d => {
+            //             console.log(cities[d.properties.site[2]])
+            //             var colour1 = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0], 3, 1))
+            //             return "#EEE"
+            //         })
+            //         .attr("stroke", "black")
+            //         .attr("stroke-width", 1)
+
             var lines = g.append("g")
             var subg = g.append("g")
             
@@ -148,9 +182,8 @@
             for (lang in langs) {
                 var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
                 stored_coords[lang] = loc
-                var colour = stringToColour(coord.family[lang][1])
-                var colour2 = stringToColour(coord.family[lang][0])
-                colour = '#' + averageRGB(colour, colour2)
+                colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0], 3, 1))
+                console.log(colour)
                 var r = Math.sqrt(refs[lang].length) * 3
                 var x = g.append("circle")
                     .attr("cx", loc[0])
@@ -204,6 +237,8 @@
                             .html(refs[l].length + " source(s) covering " + langs[l].length + " location(s).")
                         board = board.append("ul")
                             .attr("class", "card-text")
+                            .style("overflow-y", "scroll")
+                            .style("max-height", "70vh")
                         refs[l].forEach(x => {
                             var note = `${x.author.join(', ')} (${x.year}). <em>${x.title}</em>.`
                             x.languages[l].forEach(city => {
@@ -252,6 +287,7 @@
                     }
                 })
             }
+            
         }
     </script>
 </html>
