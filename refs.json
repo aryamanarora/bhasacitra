@@ -11,7 +11,8 @@
         "url": "https://www.jstor.org/stable/615737",
         "languages": {
             "Hindko": ["Kohat", "Peshawar"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -23,7 +24,8 @@
             "Hindko": ["Abbottabad"],
             "Saraiki": ["Multan"],
             "Punjabi": ["Lahore"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "article",
@@ -34,7 +36,8 @@
         "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/abs/saraiki/6ED3484594B71833BB030429B7229F1A",
         "languages": {
             "Saraiki": ["Dera Ghazi Khan"]
-        }
+        },
+        "topics": ["phonology"]
     },
     {
         "type": "article",
@@ -48,7 +51,8 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S0024384116302236",
         "languages": {
             "Khetrani": ["Barkhan"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "article",
@@ -60,7 +64,8 @@
         "year": 2016,
         "languages": {
             "Kholosi": ["Kholos"]
-        }
+        },
+        "topics": ["lexicography", "phonology"]
     },
     {
         "type": "book",
@@ -70,7 +75,8 @@
         "url": "https://www.diva-portal.org/smash/get/diva2%3A198468/FULLTEXT01.pdf",
         "languages": {
             "Palula": ["Ashret"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -80,7 +86,8 @@
         "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A461738&dswid=3483",
         "languages": {
             "Palula": ["Ashret"]
-        }
+        },
+        "topics": ["lexicography"]
     },
     {
         "type": "article",
@@ -90,7 +97,8 @@
         "url": "https://escholarship.org/content/qt8kr5z2d7/qt8kr5z2d7.pdf",
         "languages": {
             "Palula": ["Ashret"]
-        }
+        },
+        "topics": ["syntax"]
     },
     {
         "type": "article",
@@ -100,7 +108,8 @@
         "url": "http://www.mproctor.net/docs/hussain19_punjabi.pdf",
         "languages": {
             "Punjabi": ["Lyallpur"]
-        }
+        },
+        "topics": ["phonology"]
     },
     {
         "type": "article",
@@ -115,7 +124,8 @@
         "publisher": "Cambridge University Press",
         "languages": {
             "Saraiki": ["Multan"]
-        }
+        },
+        "topics": ["sociolinguistics"]
     },
     {
         "type": "article",
@@ -128,7 +138,8 @@
         "url": "https://www.jstor.org/stable/44526186",
         "languages": {
             "Sindhi": ["Hyderabad, Pakistan"]
-        }
+        },
+        "topics": ["phonology"]
     },
     {
         "type": "book",
@@ -139,7 +150,8 @@
         "publisher": "Stockholm Universty",
         "languages": {
             "Dameli": ["Peshawar", "Domel"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -150,7 +162,8 @@
         "publisher": "Stockholm Universty",
         "languages": {
             "Sauji": ["Sau"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "article",
@@ -164,7 +177,8 @@
         "url": "https://asa.scitation.org/doi/full/10.1121/10.0000999",
         "languages": {
             "Kalasha": ["Bumburet"]
-        }
+        },
+        "topics": ["phonology"]
     },
     {
         "type": "book",
@@ -175,17 +189,19 @@
         "url": "https://www.google.com/books/edition/A_PRACTICAL_GUIDE_TO_HINDKO_GRAMMAR/neThAgAAQBAJ?hl=en&gbpv=0",
         "languages": {
             "Hindko": ["Peshawar"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
-        "title": "Punjabi: a conginitive-descriptive grammar",
+        "title": "Punjabi: a congnitive-descriptive grammar",
         "author": ["Tej K. Bhatia"],
         "year": 1993,
         "publisher": "Routledge",
         "languages": {
             "Punjabi": ["Lahore", "Amritsar"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "thesis",
@@ -196,7 +212,8 @@
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
             "Sindhi": ["Chachro", "Chelhar"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "thesis",
@@ -207,7 +224,8 @@
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
             "Sindhi": ["Hyderabad, Pakistan"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -216,7 +234,8 @@
         "author": ["Ruth Laila Schmidt", "Razwal Kohistani"],
         "languages": {
             "Kohistani Shina": ["Palas Valley"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -225,7 +244,8 @@
         "author": ["Claus Peter Zoller"],
         "languages": {
             "Indus Kohistani": ["Kandia Valley", "Duber Valley", "Bankhar"]
-        }
+        },
+        "topics": ["overview", "lexicography"]
     },
     {
         "type": "thesis",
@@ -236,7 +256,8 @@
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
             "Kutchi": ["Nirona"]
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -247,6 +268,264 @@
         "publisher": "Dunwoody Press",
         "languages": {
             "Kashmiri": ["Srinagar"]
-        }
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Zargari language: An endangered European Romani in Iran",
+        "author": ["Hassan Rezai Baghbidi"],
+        "year": 2003,
+        "journal": "Romani Studies",
+        "volume": 5,
+        "issue": 2,
+        "pages": "123--148",
+        "url": "https://www.academia.edu/download/4198178/luprsv013p02a00123.pdf",
+        "languages": {
+            "Zargari": ["Zargar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Sociolinguistic survey of selected Rajasthani speech varieties of Rajasthan, India, Volume 2: Mewari",
+        "author": ["Binny Abraham", "Binoy Koshy", "Vimal Raj R."],
+        "year": 2012,
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/68/70/14/6870143033950833387495743809646566379/silesr2012_030.pdf",
+        "languages": {
+            "Mewari": ["Udaipur District", "Chittorgarh District", "Rajsamand District", "Bhilwara District"],
+            "Marwari": ["Bhilwara District", "Pali District", "Ajmer District"],
+            "Malvi": ["Mandsaur District", "Chittorgarh District"],
+            "Hadothi": ["Baran District", "Bundi District"],
+            "Wagri": ["Udaipur District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Sociolinguistic survey of selected Rajasthani speech varieties of Rajasthan, India, Volume 3: Hadothi",
+        "author": ["Binoy Koshy"],
+        "year": 2012,
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/12/02/49/120249476052563267208171988194774449488/silesr2012_031.pdf",
+        "languages": {
+            "Hadothi": ["Baran District", "Bundi District", "Jhalawar District", "Kota District"],
+            "Shahwadi": ["Baran District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Sociolinguistic survey of selected Rajasthani speech varieties of Rajasthan, India, Volume 4: Mewati",
+        "author": ["Eldose K. Mathai"],
+        "year": 2012,
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/13/23/82/132382886086871280065143468400730610740/silesr2012_032.pdf",
+        "languages": {
+            "Mewati": ["Gurgaon District", "Alwar District", "Mathura District", "Bharatpur District"],
+            "Ahirwadi": ["Gurgaon District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Sociolinguistic survey of selected Rajasthani speech varieties of Rajasthan, India, Volume 5: Dhundari and Shekhawati",
+        "author": ["Theodor Gipson Benjamin", "Liahey Ngwazah"],
+        "year": 2012,
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/75/53/53/75535303576294442250487465796474682066/silesr2012_033.pdf",
+        "languages": {
+            "Dhundari": ["Jaipur District", "Dausa District", "Tonk District"],
+            "Shekhawati": ["Sikar District", "Jhunjhunu District", "Churu District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Sociolinguistic survey of selected Rajasthani speech varieties of Rajasthan, India, Volume 6: Marwari, Merwari, and Godwari",
+        "author": ["Sajayan Chacko", "Liahey Ngwazah"],
+        "year": 2012,
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/75/53/53/75535303576294442250487465796474682066/silesr2012_034.pdf",
+        "languages": {
+            "Marwari": ["Bikaner District", "Jaisalmer District", "Jodhpur District"],
+            "Merwari": ["Nagaur District"],
+            "Godwari": ["Pali District", "Jalore District"],
+            "Shekhawati": ["Sikar District", "Jhunjhunu District", "Churu District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Punjabi in Lahore",
+        "author": ["Christopher Shackle"],
+        "journal": "Modern Asian Studies",
+        "year": 1970,
+        "volume": 4,
+        "number": 3,
+        "pages": "239--267",
+        "url": "https://www.jstor.com/stable/311495",
+        "publisher": "Cambridge University Press",
+        "languages": {
+            "Punjabi": ["Lahore"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Southeastern Pashayi",
+        "author": ["Abd-El-Malek Lamuwal", "Adam Baker"],
+        "year": 2013,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100313000133",
+        "languages": {
+            "Southeastern Pashayi": ["Dara-i-Nur"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Bengali (Bangladeshi Standard)",
+        "author": ["Sameer ud Dowla Khan"],
+        "year": 2010,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100310000071",
+        "languages": {
+            "Bengali": ["Dhaka"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Assamese",
+        "author": ["Shakuntala Mahanta"],
+        "year": 2012,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100312000096",
+        "languages": {
+            "Assamese": ["Upper Assam"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Khowar",
+        "author": ["Henrik Liljegren", "Afsar Ali Khan"],
+        "year": 2016,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100316000220",
+        "languages": {
+            "Khowar": ["Mastuj"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Kalasha (Bumburet variety)",
+        "author": ["Alexei Kochetov", "Paul Arsenault", "Jan Heegård Petersen", "Sikandar Kalas", "Taj Khan Kalash"],
+        "year": 2020,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100319000367",
+        "languages": {
+            "Kalasha": ["Bumburet"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Hindi",
+        "author": ["Manjari Ohala"],
+        "year": 2009,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100300004990",
+        "languages": {
+            "Hindi": ["Delhi", "Varanasi", "Lucknow"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Nepali",
+        "author": ["Rajesh Khatiwada"],
+        "year": 2009,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://doi.org/10.1017/S0025100309990181",
+        "languages": {
+            "Nepali": ["Madi"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Evolution of Awadhi (A Branch of Hindi)",
+        "author": ["B. R. Saksena"],
+        "year": 1971,
+        "publisher": "Motilal Banarsidass",
+        "languages": {
+            "Awadhi": ["Lakhimpur"]
+        },
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "The Origin and Development of Bhojpuri",
+        "author": ["Udai Narain Tiwari"],
+        "year": 1960,
+        "publisher": "The Asiatic Society",
+        "languages": {
+            "Bhojpuri": ["Ballia", "Saran", "Champaran", "Gorakhpur", "Basti", "Azamgarh", "Varanasi", "Mirzapur"]
+        },
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Phonological Differences in Three Hindi Dialects",
+        "author": ["John J. Gumperz"],
+        "year": 1958,
+        "journal": "Language",
+        "volume": 34,
+        "number": 2,
+        "pages": "212--224",
+        "languages": {
+            "Hindi": ["Rankhandi", "Sivaya", "Kalron"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Hindi",
+        "author": ["Yamuna Kachru"],
+        "year": 2006,
+        "publisher": "John Benjamins Publishing Company",
+        "languages": {
+            "Hindi": ["Delhi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Modern Hindi Grammar",
+        "author": ["Omkar N. Koul"],
+        "year": 2008,
+        "publisher": "Dunwoody Press",
+        "languages": {
+            "Hindi": ["Delhi"]
+        },
+        "url": "https://www.jstor.org/stable/410824",
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Postpositions and agreement in Rajasthani languages: A comparative analysis of alignment features in Marwari and Harauti",
+        "author": ["Saartje Verbeke"],
+        "year": 2010,
+        "journal": "Indogermanische Forschungen",
+        "pages": "35--64",
+        "languages": {
+            "Marwari": ["Jodhpur District"],
+            "Hadothi": ["Bundi District", "Kota District"]
+        },
+        "topics": ["syntax"]
     }
 ]
