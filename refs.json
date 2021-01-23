@@ -527,5 +527,159 @@
             "Hadothi": ["Bundi District", "Kota District"]
         },
         "topics": ["syntax"]
-    }
+    },
+    {
+        "type": "thesis",
+        "title": "Dhivehi (Maldivian): A Synchronic and Diachronic Study",
+        "author": ["Bruce D. Cain"],
+        "year": 2000,
+        "languages": {
+            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City"]
+        },
+        "url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_407629",
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "The Dhivehi Language: Descriptive and Historical Grammar of Maldivian and Its Dialects",
+        "author": ["Sonja Fritz"],
+        "year": 2002,
+        "publisher": "Ergon Verlag",
+        "languages": {
+            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"]
+        },
+        "url": "https://titus.uni-frankfurt.de/personal/sf/sf_2002a.pdf",
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "Frames of spatial reference in Dhivehi language and cognition",
+        "author": ["Jonathon Lum"],
+        "year": 2016,
+        "languages": {
+            "Dhivehi": ["Malé City", "Haddhunmathi (Laamu) Atoll"]
+        },
+        "url": "https://bridges.monash.edu/articles/thesis/Frames_of_spatial_reference_in_Dhivehi_language_and_cognition/5923873",
+        "topics": ["semantics"]
+    },
+    {
+        "type": "article",
+        "title": "An egophoric analysis of Dhivehi verbal morphology",
+        "author": ["Jonathon Lum"],
+        "year": 2020,
+        "journal": "Evidentiality, egophoricity, and engagement",
+        "series": "Studies in Diversity Linguistics",
+        "pages": "95--139",
+        "languages": {
+            "Dhivehi": ["Malé City", "Haddhunmathi (Laamu) Atoll"]
+         },
+        "topics": ["morphology", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "Dhivehi: The Language of the Maldives",
+        "author": ["Amalia Gnanadesikan"],
+        "year": 2016,
+        "publisher": "De Gruyter Mouton",
+        "languages": {
+            "Dhivehi": ["Malé City"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mahl- A descriptive analysis",
+        "author": ["Joseph Joy"],
+        "year": 1992,
+        "languages": {
+            "Mahl (Dhivehi)": ["Minicoy"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Sinhala",
+        "author": ["Dileep Chandralal"],
+        "year": 2010,
+        "series": London Oriental and African Language Library,
+        "publisher": John Benjamins,
+        "languages": {
+            "Sinhala": ["Western Province"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar of the Sinhalese Language",
+        "author": ["Wilhelm Geiger"],
+        "year": 1938,
+        "publisher": "The Royal Asiatic Society, Ceylon Branch",
+        "languages": {
+            "Sinhala": ["Western Province"],
+            "Vedda": ["Maduru Oya National Park"],
+            "Rodiya": ["Kurunegala", "Kadugannawa"]
+        },
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "Historical Phonology of Sinhalese from Old Indo-Aryan to the 14th century A.D.",
+        "author": ["W. S. Karunatillake"],
+        "year": 1969,
+        "languages": {
+            "Sinhala": ["Western Province"],
+         },
+        "topics": ["phonology", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Historical Phonology of Sinhalese from Old Indo-Aryan to the 14th century A.D.",
+        "author": ["W. S. Karunatillake"],
+        "year": 1969,
+        "languages": {
+            "Sinhala": ["Western Province"],
+         },
+        "topics": ["phonology", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Language of the Veddas",
+        "author": ["Wilhem Geiger"],
+        "year": 1935,
+        "journal": "Indian Historical Quarterly",
+        "volume": 11,
+        "number": 3,
+        "pages": "504-516",
+        "languages": {
+            "Vedda": ["Maduru Oya National Park"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The creolization of an aboriginal language: the case of Vedda in Sri Lanka (Ceylon)",
+        "author": ["K. N. O. Dharmadasa"],
+        "year": 1974,
+        "journal": "Anthropological Linguistics",
+        "volume": 16,
+        "pages": "79-106",
+        "languages": {
+            "Vedda": ["Maduru Oya National Park"]
+        },
+        "topics": ["creolization", "sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "The Language of the Rodiyas of Ceylon",
+        "author": ["Wilhem Geiger"],
+        "year": 1919,
+        "journal": "Ceylon Antiquary And Literary Register",
+        "volume": 5,
+        "pages": "103-118",
+        "languages": {
+            "Rodiya": ["Kurunegala", "Kadugannawa"]
+        },
+        "topics": ["overview", "lexicon"]
+    },
+    
 ]
