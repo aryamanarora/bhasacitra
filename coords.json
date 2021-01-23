@@ -68,7 +68,18 @@
         "Jaisalmer District": [27.0243821, 69.7869516],
         "Nagaur District": [27.0587728, 73.6671699],
         "Jalore District": [25.2087915, 71.5788423],
-        "Upper Assam": [26.915029, 94.337478]
+        "Upper Assam": [26.915029, 94.337478],
+        "Minicoy": [8.2740, 73.0496],
+        "Malé City": [4.1755, 73.5093],
+        "Addu City": [0.6301, 73.1586],
+        "Fuvahmulah City": [0.2984, 73.4269],
+        "Haddhunmathi (Laamu) Atoll": [1.9333, 73.4167],
+        "Huvadhu (Gaafu Alifu/Dhaalu) Atoll": [0.5000, 73.3000]
+        "Northern Province": [8.7542, 80.4982],
+        "Western Province": [6.9271, 79.8612],
+        "Maduru Oya National Park": [7.4844, 81.1812],
+        "Kadugannawa": [7.2550, 80.5188],
+        "Kurunegala": [7.4818, 80.3609]
     },
     "family": {
         "Punjabi": ["Indo-Aryan", "Punjabic"],
@@ -105,6 +116,11 @@
         "Hindi": ["Indo-Aryan", "Western Hindi"],
         "Nepali": ["Indo-Aryan", "Pahari"],
         "Bengali": ["Indo-Aryan", "Eastern"],
-        "Assamese": ["Indo-Aryan", "Eastern"]
+        "Assamese": ["Indo-Aryan", "Eastern"],
+        "Dhivehi": ["Indo-Aryan", "Insular"],
+        "Mahl (Dhivehi)": ["Indo-Aryan", "Insular"],
+        "Sinhalese": ["Indo-Aryan", "Insular"],
+        "Rodiya": ["Indo-Aryan (Secret Language)", "Insular"],
+        "Vedda": ["Indo-Aryan (Creole)", "Insular"]
     }
 }
