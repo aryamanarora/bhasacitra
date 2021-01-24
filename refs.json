@@ -546,7 +546,7 @@
         "year": 1971,
         "publisher": "Census of India",
         "languages": {
-            "Konkani": ["Kochi", "Varapuzha", "Kasargod", "Kannur", "Kodungallur", "Thiruvananthapuram"]
+            "Konkani": ["Kochi", "Varapuzha", "Kasaragod", "Kannur", "Kodungallur", "Thiruvananthapuram"]
         },
         "topics": ["overview"]
     },
@@ -1067,5 +1067,143 @@
             "Rodiya": ["Kurunegala", "Kadugannawa"]
         },
         "topics": ["overview", "lexicon"]
+    },
+    {
+        "type": "book",
+        "title": "A Badaga-English dictionary",
+        "author": ["C. Pilot Raichoor", "P. Hockings"],
+        "year": 1992,
+        "publisher": "De Gruyter",
+        "languages": {
+            "Badaga": []
+        },
+        "topics": ["lexicography"],
+        "url": "https://www.google.com/books/edition/A_Badaga_English_Dictionary/a74HA_RX3rIC?hl=en&gbpv=0"
+    },
+    {
+        "type": "article",
+        "title": "The Vowels of the Badaga Language",
+        "author": ["M. B. Emeneau"],
+        "year": 1939,
+        "journal": "Language",
+        "volume": 15,
+        "number": 1,
+        "languages": {
+            "Badaga": ["The Nilgiris District"]
+        },
+        "topics": ["phonology"],
+        "url": "https://www.jstor.org/stable/409407"
+    },
+    {
+        "type": "book",
+        "title": "Badaga: A Dravidian language",
+        "author": ["R. Balakrishnan"],
+        "year": 1999,
+        "publisher": "Annamalai University",
+        "languages": {
+            "Badaga": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Toda grammar and texts",
+        "author": ["M. B. Emeneau"],
+        "year": 1984,
+        "publisher": "American Philosophical Society",
+        "languages": {
+            "Toda": ["The Nilgiris District"]
+        },
+        "topics": ["overview", "corpora"]
+    },
+    {
+        "type": "thesis",
+        "title": "A grammar of Tulu: a Dravidian language",
+        "author": ["S. L. Bhatt"],
+        "year": 2005,
+        "languages": {
+            "Tulu": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Comparative Study of Tulu Dialects",
+        "author": ["Padmanabha K."],
+        "year": 1990,
+        "publisher": "Mangalore University",
+        "languages": {
+            "Tulu": ["Kasaragod", "Dakshina Kannada District", "Kodagu District", "Udupi District"]
+        },
+        "topics": ["overview", "sociolinguistics"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/131855"
+    },
+    {
+        "type": "thesis",
+        "title": "A comparative grammar of Gondi dialects",
+        "author": ["Uma Maheshwar Rao"],
+        "year": 2008,
+        "publisher": "Dravidian University",
+        "languages": {
+            "Gondi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive grammar of Abujhmaria",
+        "author": ["G. V. Natarajan"],
+        "year": 1981,
+        "publisher": "University of Mysore",
+        "languages": {
+            "Gondi": ["Bastar District"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/91945"
+    },
+    {
+        "type": "thesis",
+        "title": "A Grammar of Dandami Maria",
+        "author": ["Keshinath Pandey"],
+        "year": 1979,
+        "publisher": "Pt. Ravishankar Shukla University",
+        "languages": {
+            "Gondi": ["Bastar District", "Koraput District"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/29647"
+    },
+    {
+        "type": "article",
+        "title": "Synchronic Variation and Diachronic Change in Dialects of Marathi",
+        "author": ["Sonal Kulkarni-Joshi", "Manasi Kelkar"],
+        "year": 2018,
+        "url": "https://sdml.ac.in/pdfs/synchronic-variation-and-diachronic-change-marathi.pdf",
+        "languages": {
+            "Marathi": ["Chandgad", "Malwan", "Sangameshwar", "Trimbak", "Dhule", "Udgir", "Akkalkot"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Synchronic and Historical Phonology of Six Konkani Dialects",
+        "author": ["Rocky V. Miranda"],
+        "year": 1971,
+        "languages": {
+            "Konkani": ["Dakshina Kannada District", "Bardez", "Salcete"]
+        },
+        "topics": ["overview", "sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Syntactic Sketch of Garhwali",
+        "author": ["Anoop Chandra Chandola"],
+        "year": 1966,
+        "publisher": "University of Chicago",
+        "url": "https://drive.google.com/drive/folders/1UpsvVnSVoikteSsmUgoTTGEXnC-GwWC0",
+        "languages": {
+            "Garhwali": ["Pauri"]
+        },
+        "topics": ["syntax"]
     }
 ]

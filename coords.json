@@ -83,7 +83,7 @@
         "Pune": [18.5204, 73.8567],
         "Kochi": [9.9312, 76.2673],
         "Varapuzha": [10.0758, 76.2714],
-        "Kasargod": [12.4996, 74.9869],
+        "Kasaragod": [12.4996, 74.9869],
         "Kannur": [11.8745, 75.3704],
         "Kodungallur": [10.2277, 76.1971],
         "Thiruvananthapuram": [8.5241, 76.9366],
@@ -105,7 +105,21 @@
         "Guntur": [16.3008, 80.4428],
         "Masinagudi": [11.5702218, 76.6339301],
         "Theppakadu": [11.579939, 76.5813214],
-        "The Nilgiris District": [11.4483606, 76.3438637]
+        "The Nilgiris District": [11.4483606, 76.3438637],
+        "Kodagu District": [12.4208, 75.7397],
+        "Udupi District": [13.35, 74.75],
+        "Bastar District": [19.066667, 82.033056],
+        "Koraput District": [18.8083, 82.7083],
+        "Chandgad": [15.9485749, 74.165799],
+        "Malwan": [16.0618956, 73.4569928],
+        "Sangameshwar": [17.1876784, 73.5480701],
+        "Trimbak": [19.93, 73.53],
+        "Dhule": [20.8857109, 74.6938202],
+        "Udgir": [18.3907613, 77.102394],
+        "Akkalkot": [17.5200165, 76.1831049],
+        "Bardez": [15.5723, 73.8184],
+        "Salcete": [15.2437, 73.9830],
+        "Pauri": [30.15, 78.78]
     },
     "family": {
         "Punjabi": ["Indo-Aryan", "Punjabic"],
@@ -152,11 +166,16 @@
         "Marathi": ["Indo-Aryan", "Marathi-Konkani"],
         "Konkani": ["Indo-Aryan", "Marathi-Konkani"],
         "Bhadarwahi": ["Indo-Aryan", "Western Pahari"],
+        "Garhwali": ["Indo-Aryan", "Western Pahari"],
         "Tamil": ["Dravidian", "Southern"],
         "Kannada": ["Dravidian", "Southern"],
         "Malayalam": ["Dravidian", "Southern"],
         "Telugu": ["Dravidian", "South-Central"],
         "Betta Kurumba": ["Dravidian", "Southern"],
-        "Irula": ["Dravidian", "Southern"]
+        "Irula": ["Dravidian", "Southern"],
+        "Badaga": ["Dravidian", "Southern"],
+        "Toda": ["Dravidian", "Southern"],
+        "Tulu": ["Dravidian", "Southern"],
+        "Gondi": ["Dravidian", "South-Central"]
     }
 }

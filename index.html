@@ -84,8 +84,23 @@
         function zoomed(event) {
             g.attr("transform", event.transform)
             scale = event.transform.k
-            d3.selectAll(".city")
-                .attr("r", 2.5 / event.transform.k)
+            d3.selectAll("circle")
+                .attr("r", function() {
+                    return d3.select(this).attr("data-r") / event.transform.k
+                })
+                .attr("stroke-width", function() {
+                    return 1 / event.transform.k
+                })
+            d3.selectAll("#land")
+                .attr("stroke-width", function() {
+                    return 0.5 / event.transform.k
+                })
+            d3.selectAll("line")
+                .attr("stroke-width", function() {
+                    return 1 / event.transform.k
+                })
+            d3.selectAll("text")
+                .attr("font-size", 30 / event.transform.k)
         }
         function unzoomed() {
             svg.transition().duration(1000).call(
@@ -103,13 +118,13 @@
         Promise.all([
             d3.json("coords.json"),
             d3.json("refs.json"), 
-            d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json")
+            d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json")
         ]).then(function(files) {
             load(files[0], files[1], files[2])
         })
         
         function load(coord, ref, world) {
-            topo = topojson.feature(world, world.objects.land).features
+            topo = topojson.feature(world, world.objects.countries).features
             // var defs = svg.append("defs")
             g.selectAll("path")
                 .data(topo)
@@ -119,7 +134,7 @@
                     .attr("d", path)
                     .attr("fill", "#EEE")
                     .attr("stroke", "black")
-                    .attr("stroke-width", 0.2)
+                    .attr("stroke-width", 0.5)
 
             // var mask = defs.append("mask")
             //     .attr("id", "clip")
@@ -180,26 +195,31 @@
             for (lang in langs) {
                 var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
                 stored_coords[lang] = loc
+                stored_coords[lang][0] += Math.random() * 4 - 2
+                stored_coords[lang][1] += Math.random() * 4 - 2
                 colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0], 3, 1))
-                var r = Math.sqrt(refs[lang].length) * 3
+                var r = Math.sqrt(refs[lang].length) * 5
                 var x = g.append("circle")
-                    .attr("cx", loc[0])
-                    .attr("cy", loc[1])
+                    .attr("cx", stored_coords[lang][0])
+                    .attr("cy", stored_coords[lang][1])
                     .attr("r", r)
+                    .attr("data-r", r)
                     .attr("fill", colour)
                     .attr("id", lang)
                     .attr("stroke", "black")
+                    .attr("stroke-width", 1 / scale)
 
                 x.on("mouseover", function(event, d) {
                     var l = d3.select(this).attr("id")
                     var loc = stored_coords[l]
-                    var r = Math.sqrt(refs[l].length) * 3
-
                     g.append("text")
-                        .attr("x", loc[0] + r)
-                        .attr("y", loc[1] - r)
+                        .attr("x", +loc[0])
+                        .attr("y", +loc[1])
+                        .attr("pointer-events", "none")
+                        .attr("font-size", 30 / scale)
                         .style("opacity", 0)
                         .text(l)
+                        .attr("id", l + "_text")
                         .transition()
                         .style("opacity", null)
                 })
@@ -250,14 +270,16 @@
                         })
                         for (city in subcities[l]) {
                             var loc2 = projection([coord.cities[city][1], coord.cities[city][0]])
-                            var r = Math.sqrt(subcities[l][city]) * 3
+                            var r = Math.sqrt(subcities[l][city]) * 5
                             subg.append("circle")
                                 .attr("cx", loc2[0])
                                 .attr("cy", loc2[1])
                                 .transition()
-                                .attr("r", r)
+                                .attr("r", r / scale)
+                                .attr("data-r", r)
                                 .attr("fill", "steelblue")
                                 .attr("stroke", "black")
+                                .attr("stroke-width", 1 / scale)
                             lines.append("line")
                                 .attr("x2", stored_coords[l][0])
                                 .attr("y2", stored_coords[l][1])
@@ -267,6 +289,7 @@
                                 .attr("x1", loc2[0])
                                 .attr("y1", loc2[1])
                                 .attr("stroke", "black")
+                                .attr("stroke-width", 1 / scale)
                         }
                     }
                     else {
