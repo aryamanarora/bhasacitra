@@ -149,7 +149,7 @@
         "url": "https://www.diva-portal.org/smash/get/diva2:651418/FULLTEXT02",
         "publisher": "Stockholm Universty",
         "languages": {
-            "Dameli": ["Peshawar", "Domel"]
+            "Dameli": ["Domel"]
         },
         "topics": ["overview"]
     },
@@ -1372,7 +1372,7 @@
         "publisher": "Gauhati University",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67830",
         "languages": {
-            "Bengali": ["Cachar District"]
+            "Sylheti": ["Cachar District"]
         },
         "topics": ["overview"]
     },
@@ -1421,7 +1421,7 @@
         "publisher": "Gauhati University",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67070",
         "languages": {
-            "Assamese": ["Goalpara District"]
+            "Kamtapuri": ["Goalpara District"]
         },
         "topics": ["overview"]
     },
@@ -1434,6 +1434,128 @@
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145369",
         "languages": {
             "Kannada": ["Ballari", "Gulbarga", "Kumta", "Nanjangud"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Domari Language of Aleppo (Syria)",
+        "author": ["Bruno Herin"],
+        "journal": "Linguistic Discovery",
+        "volume": 10,
+        "number": 2,
+        "year": 2012,
+        "url": "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/article/412",
+        "languages": {
+            "Domari": ["Aleppo"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Domari",
+        "author": ["Yaron Matras"],
+        "year": 2012,
+        "publisher": "De Gruyter",
+        "languages": {
+            "Domari": ["Jerusalem"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Tājuzbekī",
+        "author": ["Bholanath Tiwari"],
+        "year": 1970,
+        "publisher": "National Publishing House",
+        "languages": {
+            "Parya": ["Tashkent"]
+        },
+        "topics": ["overview"],
+        "url": "https://archive.org/details/Tajuzbeki-Dr.BholanathTiwari"
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Survey of the Dogri Language, Jammu and Kashmir",
+        "author": ["Jeremy D. Brightbill", "Scott D. Turner"],
+        "year": 2007,
+        "publisher": "SIL International",
+        "languages": {
+            "Dogri": ["Reasi", "Ramnagar, Udhampur District", "Udhampur", "Samba", "Bilawar"]
+        },
+        "topics": ["sociolinguistics"],
+        "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.521.5971&rep=rep1&type=pdf"
+    },
+    {
+        "type": "book",
+        "title": "Jaunsari: A Sociolinguistic Survey",
+        "author": ["Matthews John"],
+        "year": 2008,
+        "publisher": "SIL International",
+        "languages": {
+            "Jaunsari": ["Chakrata", "Bhandroli", "Chapanu", "Kandar", "Maindrath", "Lakhamandal"],
+            "Garhwali": ["Lakhamandal"]
+        },
+        "topics": ["sociolinguistics"],
+        "url": "https://www.sil.org/system/files/reapdata/13/61/38/136138879857923730999543684874534219059/silesr2008_013.pdf"
+    },
+    {
+        "type": "book",
+        "title": "Bagri of Rajasthan, Punjab, and Haryana",
+        "author": ["Eldose K. Mathai"],
+        "year": 2011,
+        "publisher": "SIL International",
+        "languages": {
+            "Bagri": ["Ferozepur District", "Hanumangarh District", "Sirsa District", "Hisar District", "Churu District", "Bikaner District"],
+            "Punjabi": ["Ganganagar District"]
+        },
+        "url": "https://www.sil.org/system/files/reapdata/19/40/63/1940635207052342109682542171657282993/silesr2011_048.pdf",
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "A grammar of Oriya",
+        "author": ["Lukas Neukom", "Manideepa Patnaik"],
+        "year": 2003,
+        "publisher": "Arbeiten des Seminars für Allgemeine Sprachwissenschaft der Universität",
+        "location": "Zurich",
+        "url": "https://www.comparativelinguistics.uzh.ch/dam/jcr:00000000-17e0-420f-ffff-ffffd3785a01/ASAS_17_Neukom_Patnaik_2003_A_grammar_of_Oriya.pdf",
+        "languages": {
+            "Odia": ["Bhubaneswar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Reference Grammar of Maithili",
+        "author": ["Ramawatar Yadav"],
+        "year": 1996,
+        "publisher": "De Gruyter Mouton",
+        "languages": {
+            "Maithili": ["Darbhanga", "Rajbiraj", "Biratnagar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Formation of the Maithili Language",
+        "author": ["Subhadra Jha"],
+        "year": 1958,
+        "publisher": "Luzac and Company, Ltd",
+        "location": "London",
+        "languages": {
+            "Maithili": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Gujarati",
+        "author": ["Raimond Doctor"],
+        "year": 2004,
+        "publisher": "Lincom Europa",
+        "languages": {
+            "Gujarati": ["Vadodara", "Gandhinagar", "Surendranagar", "Kheda"]
         },
         "topics": ["overview"]
     }

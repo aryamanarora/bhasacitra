@@ -1,0 +1,109 @@
+{
+    "breathy voice": {
+        "description": "Is there at least one breathy-voiced consonant in the phoneme inventory?",
+        "data": {
+            "Hindi": {
+                "Delhi": "yes",
+                "Varanasi": "yes",
+                "Lucknow": "yes",
+                "Rankhandi": "yes",
+                "Sivaya": "yes",
+                "Kalron": "yes"
+            },
+            "Awadhi": {
+                "Lakhimpur": "yes"
+            },
+            "Nepali": {
+                "Madi": "yes"
+            },
+            "Luwati": {
+                "Muscat": "no"
+            },
+            "Marathi": {
+                "Pune": "yes"
+            },
+            "Chakma": {
+                "Kolkata": "yes",
+                "Rangamati": "no"
+            },
+            "Assamese": {
+                "Upper Assam": "yes",
+                "Barpeta District": "yes",
+                "Goalpara District": "yes"
+            },
+            "Bengali": {
+                "Dhaka": "yes",
+                "Cachar District": "no",
+                "Kandi": "yes",
+                "Rangamati": "no"
+            },
+            "Bhojpuri": {
+                "Ballia": "yes",
+                "Saran": "yes",
+                "Champaran": "yes",
+                "Gorakhpur": "yes",
+                "Basti": "yes",
+                "Azamgarh": "yes",
+                "Varanasi": "yes",
+                "Mirzapur": "yes"
+            },
+            "Punjabi": {
+                "Lahore": "no",
+                "Amritsar": "no",
+                "Lyallpur": "no"
+            },
+            "Sindhi": {
+                "Hyderabad, Pakistan": "yes",
+                "Chachro": "yes",
+                "Chelhar": "yes"
+            },
+            "Saraiki": {
+                "Multan": "yes",
+                "Dera Ghazi Khan": "yes"
+            },
+            "Hindko": {
+                "Kohat": "yes",
+                "Peshawar": "yes",
+                "Abbottabad": "yes"
+            },
+            "Dameli": {
+                "Domel": "no"
+            },
+            "Kashmiri": {
+                "Srinagar": "no"
+            },
+            "Kholosi": {
+                "Kholos": "no"
+            },
+            "Kohistani Shina": {
+                "Palas Valley": "yes"
+            },
+            "Bhadarwahi": {
+                "Doda District": "yes"
+            },
+            "Garhwali": {
+                "Pauri": "yes"
+            },
+            "Indus Kohistani": {
+                "Kandia Valley": "yes",
+                "Duber Valley": "yes",
+                "Bankhar": "yes"
+            },
+            "Khowar": {
+                "Mastuj": "no"
+            },
+            "Kalasha": {
+                "Bumburet": "yes"
+            },
+            "Palula": {
+                "Ashret": "yes"
+            },
+            "Sauji": {
+                "Sau": "no"
+            },
+            "Southeastern Pashayi": {
+                "Dara-i-Nur": "no"
+            }
+        }
+    }
+}
