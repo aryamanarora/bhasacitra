@@ -1351,5 +1351,90 @@
             "Dhivehi": ["Malé City"]
          },
         "topics": ["phonology", "phonetics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study of the Bengali dialect of the Kandi subdivision of Murshidabad district",
+        "author": ["Aditi Ray"],
+        "year": 1978,
+        "publisher": "University of Calcutta",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/158004",
+        "languages": {
+            "Bengali": ["Kandi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A critical study of the Kachari dialect of Bengali",
+        "author": ["Usharanjan Bhattacharjya"],
+        "year": 1976,
+        "publisher": "Gauhati University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67830",
+        "languages": {
+            "Bengali": ["Cachar District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A critical study of Barpeta dialect",
+        "author": ["Deepali Ojah"],
+        "year": 1995,
+        "publisher": "Gauhati University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67822",
+        "languages": {
+            "Assamese": ["Barpeta District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A linguistic study of Halari dialect",
+        "author": ["Shantibhai Acharya"],
+        "year": 1968,
+        "publisher": "Gujarat University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/46486",
+        "languages": {
+            "Gujarati": ["Jamnagar District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Linguistic study of Chakma",
+        "author": ["Sumana Bhattacharyya"],
+        "year": 2004,
+        "publisher": "University of Calcutta",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/155435",
+        "languages": {
+            "Chakma": ["Rangamati", "Kolkata"],
+            "Bengali": ["Rangamati"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Goalpariya dialect a critical study",
+        "author": ["Anima Chowdhury"],
+        "year": 1992,
+        "publisher": "Gauhati University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67070",
+        "languages": {
+            "Assamese": ["Goalpara District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A comparative study of four Kannada dialects",
+        "author": ["U. P. Upadhyaya"],
+        "year": 1968,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145369",
+        "languages": {
+            "Kannada": ["Ballari", "Gulbarga", "Kumta", "Nanjangud"]
+        },
+        "topics": ["overview"]
     }
 ]

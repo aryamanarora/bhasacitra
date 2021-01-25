@@ -122,7 +122,18 @@
         "Pauri": [30.15, 78.78],
         "Kudagama": [7.3635, 80.3575],
         "Kalawewa": [8.0116, 80.5577],
-        "Kaluwewa": [8.0447217,80.7358237]
+        "Kaluwewa": [8.0447217,80.7358237],
+        "Kandi": [23.9540798, 88.0288336],
+        "Cachar District": [24.7447435, 92.2753268],
+        "Barpeta District": [26.4363504, 90.6821876],
+        "Jamnagar District": [22.3285115, 69.634599],
+        "Rangamati": [22.6558186, 92.1643066],
+        "Kolkata": [22.5726, 88.3639],
+        "Goalpara District": [26.0505103, 90.050489],
+        "Ballari": [15.1357583, 76.8365523],
+        "Gulbarga": [17.3390841, 76.8049206],
+        "Kumta": [14.4269499, 74.4100708],
+        "Nanjangud": [12.1132631, 76.6577359]
     },
     "family": {
         "Punjabi": ["Indo-Aryan", "Punjabic"],
@@ -179,6 +190,8 @@
         "Badaga": ["Dravidian", "Southern"],
         "Toda": ["Dravidian", "Southern"],
         "Tulu": ["Dravidian", "Southern"],
-        "Gondi": ["Dravidian", "South-Central"]
+        "Gondi": ["Dravidian", "South-Central"],
+        "Gujarati": ["Indo-Aryan", "Western"],
+        "Chakma": ["Indo-Aryan", "Eastern"]
     }
 }
