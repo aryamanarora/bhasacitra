@@ -660,7 +660,7 @@
         "languages": {
             "Tamil": ["Negombo"]
         },
-        "topics": ["overview"]
+        "topics": ["overview", "language shift"]
     },
     {
         "type": "article",
@@ -924,7 +924,7 @@
             "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City"]
         },
         "url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_407629",
-        "topics": ["overview", "historical"]
+        "topics": ["overview", "historical", "dialectology"]
     },
     {
         "type": "book",
@@ -936,7 +936,7 @@
             "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"]
         },
         "url": "https://titus.uni-frankfurt.de/personal/sf/sf_2002a.pdf",
-        "topics": ["overview", "historical"]
+        "topics": ["overview", "historical", "dialectology"]
     },
     {
         "type": "thesis",
@@ -965,7 +965,7 @@
     {
         "type": "book",
         "title": "Dhivehi: The Language of the Maldives",
-        "author": ["Amalia Gnanadesikan"],
+        "author": ["Amalia E. Gnanadesikan"],
         "year": 2016,
         "publisher": "De Gruyter Mouton",
         "languages": {
@@ -1003,7 +1003,7 @@
         "publisher": "The Royal Asiatic Society, Ceylon Branch",
         "languages": {
             "Sinhala": ["Western Province"],
-            "Vedda": ["Maduru Oya National Park"],
+            "Vedda": [],
             "Rodiya": ["Kurunegala", "Kadugannawa"]
         },
         "topics": ["overview", "historical"]
@@ -1066,7 +1066,7 @@
         "languages": {
             "Rodiya": ["Kurunegala", "Kadugannawa"]
         },
-        "topics": ["overview", "lexicon"]
+        "topics": ["overview", "lexicography"]
     },
     {
         "type": "book",
@@ -1205,5 +1205,151 @@
             "Garhwali": ["Pauri"]
         },
         "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Sri Lanka Gypsy Telugu: A Dravidian Dialect from Sri Lanka’s Sinhalese Heartland",
+        "author": ["Steven Bonta"],
+        "year": 2015,
+        "url": "https://www.academia.edu/41985712/Sri_Lanka_Gypsy_Telugu_A_Dravidian_Dialect_from_Sri_Lankas_Sinhalese_Heartland",
+        "languages": {
+            "Telugu": ["Kaluwewa", "Kudagama"]
+        },
+        "topics": ["overview", "sociolinguistics", "dialectology"]
+    },
+    {
+        "type": "article",
+        "title": "A Phonological Sketch of Ceylon Gypsy-Telugu",
+        "author": ["W. S. Karunatillake"],
+        "year": 1974,
+        "journal": "Anthropological Linguistics",
+        "volume": 16,
+        "number": 2,
+        "pages": "420--424",
+        "languages": {
+            "Telugu": ["Kudagama", "Kaluwewa"]
+        },
+        "topics": ["phonology"],
+        "url": "https://www.jstor.org/stable/30029427"
+    },
+    {
+        "type": "article",
+        "title": "Nominal Inflection in Sri Lanka Gypsy Telugu: an outline.",
+        "author": ["W. S. Karunatillake"],
+        "year": 1982,
+        "journal": "International Journal of Dravidian Linguistics",
+        "volume": 11,
+        "number": 2,
+        "pages": "376--382",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "thesis",
+        "title": "Some aspects of the Vanni dialect of Sinhalese as contrasted with the dialect of the western region of Sri Lanka",
+        "author": ["Pushpakumara V. Premaratne"],
+        "year": 1974,
+        "languages": {
+            "Sinhala": ["Northern Province"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "article",
+        "title": "The Vanni and the Western Dialects of Sinhala",
+        "author": ["Pushpakumara V. Premaratne"],
+        "year": 2000,
+        "journal": "Journal of the Royal Asiatic Society of Sri Lanka",
+        "volume": 45,
+        "pages": "71--92",
+        "languages": {
+            "Sinhala": ["Northern Province"]
+        },
+        "topics": ["dialectology"],
+        "url": "https://www.jstor.org/stable/23732461"
+    },
+    {
+        "type": "book",
+        "title": "Vedda Language of Ceylon: Texts and Lexicon",
+        "author": ["M. W. Sugathapala De Silva"],
+        "year": 1972,
+        "publisher": "R. Kitzinger",
+        "languages": {
+            "Vedda": ["Maduru Oya National Park"]
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "The Veddas",
+        "author": ["Brenda Z. Seligman", "C. G. Seligman"],
+        "year": 1911,
+        "publisher": "Cambridge University Press",
+        "languages": {
+            "Vedda": []
+        },
+        "topics": ["lexicography"],
+        "url": "https://archive.org/details/veddas__00seliuoft/"
+    },
+    {
+        "type": "book",
+        "title": "A Comprehensive Grammar of the Sinhalese Language",
+        "author": ["Abraham Mendis Gunasekara"],
+        "year": 1911,
+        "publisher": " G. J. A. Skeen",
+        "languages": {
+            "Sinhala": ["Western Province"],
+            "Vedda": [],
+            "Rodiya": []
+        },
+        "topics": ["overview", "lexicography"],
+        "url": "https://archive.org/details/acomprehensiveg00gunagoog/"
+    },
+    {
+        "type": "book",
+        "title": "Historical and Linguistic Survey of Divehi: Final Report",
+        "author": ["S. Wijesundera", "G. D. Wiyayawardhana", "J.B. Disayanaka", "H. A. Manik", "M. Luthfie"],
+        "year": 1988,
+        "languages": {
+            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"],
+         },
+        "topics": ["overview", "dialectology", "historical"]
+    }
+    {
+        "type": "book",
+        "title": "Historical and Linguistic Survey of Divehi: Final Report",
+        "author": ["S. Wijesundera", "G. D. Wiyayawardhana", "J.B. Disayanaka", "H. A. Manik", "M. Luthfie"],
+        "year": 1988,
+        "publisher": " G. J. A. Skeen",
+        "languages": {
+            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"],
+         },
+        "topics": ["overview", "dialectology", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Coronal features and retroflexion in Dhivehi and other Indo-Aryan languages",
+        "author": ["Paul Arsenault"],
+        "year": 2009,
+        "journal": "Toronto Working Papers in Linguistics",
+        "volume": 30,
+        "languages": {
+            "Dhivehi": ["Malé City"],
+         },
+        "topics": ["phonology", "phonetics"]
+    },
+    {
+        "type": "article",
+        "title": "Coda/Onset Asymmetries in Dhivehi",
+        "author": ["Amalia E. Gnanadesikan"],
+        "year": 2009,
+        "journal": "Toronto Working Papers in Linguistics",
+        "volume": 30,
+        "languages": {
+            "Dhivehi": ["Malé City"],
+         },
+        "topics": ["phonology", "phonetics"]
     }
 ]
