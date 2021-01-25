@@ -154,6 +154,9 @@
                         if (!(city in cities)) cities[city] = {}
                         if (!(lang in cities[city])) cities[city][lang] = 0
                         cities[city][lang]++
+                        // if (!(city in coord.cities)) {
+                        //     console.log("Missing coordinates for " + city)
+                        // }
                         langs[lang].push(coord.cities[city])
                     })
 

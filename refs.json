@@ -1234,7 +1234,7 @@
     },
     {
         "type": "article",
-        "title": "Nominal Inflection in Sri Lanka Gypsy Telugu: an outline.",
+        "title": "Nominal Inflection in Sri Lanka Gypsy Telugu: an outline",
         "author": ["W. S. Karunatillake"],
         "year": 1982,
         "journal": "International Journal of Dravidian Linguistics",
@@ -1313,10 +1313,10 @@
         "author": ["S. Wijesundera", "G. D. Wiyayawardhana", "J.B. Disayanaka", "H. A. Manik", "M. Luthfie"],
         "year": 1988,
         "languages": {
-            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"],
+            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"]
          },
         "topics": ["overview", "dialectology", "historical"]
-    }
+    },
     {
         "type": "book",
         "title": "Historical and Linguistic Survey of Divehi: Final Report",
@@ -1324,7 +1324,7 @@
         "year": 1988,
         "publisher": " G. J. A. Skeen",
         "languages": {
-            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"],
+            "Dhivehi": ["Malé City", "Addu City", "Fuvahmulah City", "Huvadhu (Gaafu Alifu/Dhaalu) Atoll"]
          },
         "topics": ["overview", "dialectology", "historical"]
     },
@@ -1336,7 +1336,7 @@
         "journal": "Toronto Working Papers in Linguistics",
         "volume": 30,
         "languages": {
-            "Dhivehi": ["Malé City"],
+            "Dhivehi": ["Malé City"]
          },
         "topics": ["phonology", "phonetics"]
     },
@@ -1348,7 +1348,7 @@
         "journal": "Toronto Working Papers in Linguistics",
         "volume": 30,
         "languages": {
-            "Dhivehi": ["Malé City"],
+            "Dhivehi": ["Malé City"]
          },
         "topics": ["phonology", "phonetics"]
     }
