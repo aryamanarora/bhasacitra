@@ -13,6 +13,7 @@
         <style>
             html, body {margin: 0; height: 100%; overflow: hidden}
         </style>
+        <title>Bhāṣācitra</title>
     </head>
     <body>
         <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card bg-dark text-white shadow">
@@ -92,7 +93,7 @@
                 .attr("stroke-width", function() {
                     return 1 / event.transform.k
                 })
-            d3.selectAll("#land")
+            d3.selectAll("#land, #voronoi")
                 .attr("stroke-width", function() {
                     return 0.5 / event.transform.k
                 })
@@ -190,14 +191,18 @@
                 .data(voronoi.polygons().features)
                 .enter()
                 .append("path")
+                    .attr("id", "voronoi")
                     .attr("d", path)
+                    .attr("stroke", "black")
+                    .attr("stroke-width", 0.5)
                     .attr("fill", d => {
                         var count = 0, colour = null
                         var city = d.properties.site[2]
+                        if (city == "blank") return "#EEEEEE"
                         for (lang in cities[city]) {
-                            var new_colour = "#EEEEEE"
-                            if (lang in data["breathy voice"].data && city in data["breathy voice"].data[lang]) new_colour = stringToColour(data["breathy voice"].data[lang][city])
-                            console.log(new_colour)
+                            var new_colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 2)
+                            // if (lang in data["breathy voice"].data && city in data["breathy voice"].data[lang]) new_colour = stringToColour(data["breathy voice"].data[lang][city])
+                            // console.log(new_colour)
                             if (count == 0) {
                                 count += cities[city][lang]
                                 colour = new_colour
@@ -284,7 +289,8 @@
                             .style("overflow-y", "scroll")
                             .style("max-height", "70vh")
                         refs[l].forEach(x => {
-                            var note = `${x.author.join(', ')} (${x.year}). <em>${x.title}</em>.`
+                            var note = `${x.author.join(', ')} (${x.year}). ${x.type == 'article' ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
+                            if (x.journal) note += ` In <em>${x.journal}</em>${(' ' + x.volume) || ''}${('(' + x.number + ')' || '')}.`
                             x.languages[l].forEach(city => {
                                 note += ` <span class="badge bg-secondary">${city}</span>`
                             })
@@ -305,7 +311,7 @@
                                 .attr("r", r / scale)
                                 .attr("data-r", r)
                                 .attr("fill", "steelblue")
-                                .attr("stroke", "black")
+                                .attr("stroke", "white")
                                 .attr("stroke-width", 1 / scale)
                             lines.append("line")
                                 .attr("x2", stored_coords[l][0])
@@ -315,7 +321,7 @@
                                 .transition()
                                 .attr("x1", loc2[0])
                                 .attr("y1", loc2[1])
-                                .attr("stroke", "black")
+                                .attr("stroke", "white")
                                 .attr("stroke-width", 1 / scale)
                         }
                     }

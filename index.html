@@ -13,6 +13,7 @@
         <style>
             html, body {margin: 0; height: 100%; overflow: hidden}
         </style>
+        <title>Bhāṣācitra</title>
     </head>
     <body>
         <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card bg-dark text-white shadow">
@@ -260,7 +261,8 @@
                             .style("overflow-y", "scroll")
                             .style("max-height", "70vh")
                         refs[l].forEach(x => {
-                            var note = `${x.author.join(', ')} (${x.year}). <em>${x.title}</em>.`
+                            var note = `${x.author.join(', ')} (${x.year}). ${x.type == 'article' ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
+                            if (x.journal) note += ` In <em>${x.journal}</em>${(' ' + x.volume) || ''}${('(' + x.number + ')' || '')}.`
                             x.languages[l].forEach(city => {
                                 note += ` <span class="badge bg-secondary">${city}</span>`
                             })

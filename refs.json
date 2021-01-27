@@ -1558,5 +1558,280 @@
             "Gujarati": ["Vadodara", "Gandhinagar", "Surendranagar", "Kheda"]
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Hindi",
+        "author": ["Michael C. Shapiro"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "276--314",
+        "languages": {
+            "Hindi": ["Delhi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Urdu",
+        "author": ["Ruth Laila Schmidt"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "315--385",
+        "languages": {
+            "Urdu": ["Delhi", "Lucknow"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Bangla",
+        "author": ["Probal Dasgupta"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "386--428",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Asamiya",
+        "author": ["G. C. Goswami", "Jyotiprakash Tamuli"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "429--484",
+        "languages": {
+            "Assamese": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Oriya",
+        "author": ["Tapas S. Ray"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "485--522",
+        "languages": {
+            "Odia": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Maithili",
+        "author": ["Ramawatar Yadav"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "523--546",
+        "languages": {
+            "Maithili": ["Madhubani", "Rajbiraj"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Magahi",
+        "author": ["Sheela Verma"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "547--565",
+        "languages": {
+            "Magahi": ["Patna District", "Gaya District", "Nalanda District", "Nawada District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Bhojpuri",
+        "author": ["Manindra K. Verma"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "566--589",
+        "languages": {
+            "Bhojpuri": ["Bhojpur District", "Ballia", "Rohtas District", "Champaran", "Ghazipur District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Nepali",
+        "author": ["Theodore Riccardi"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "590--636",
+        "languages": {
+            "Nepali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Punjabi",
+        "author": ["Christopher Shackle"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "637--682",
+        "languages": {
+            "Punjabi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Sindhi",
+        "author": ["Lachman M. Khubchandani"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "683--721",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Gujarati",
+        "author": ["George Cardona", "Babu Sathar"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "722--765",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Marathi",
+        "author": ["Rajeshwari Pandharipande"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "766--802",
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Konkani",
+        "author": ["Rocky V. Miranda"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "803--846",
+        "languages": {
+            "Konkani": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Sinhala",
+        "author": ["James W. Gair"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "847--904",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Dardic",
+        "author": ["Elena Bashir"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "905--990",
+        "languages": {
+            "Southeastern Pashayi": ["Dara-i-Nur"],
+            "Gawarbati": ["Kunar Valley"],
+            "Shumashti": ["Upper Shumasht"],
+            "Grangali": ["Grangal"],
+            "Dameli": ["Domel"],
+            "Khowar": ["Chitral District"],
+            "Kalasha": [],
+            "Tirahi": ["Jalalabad"],
+            "Kalam Kohistani": ["Kalam"],
+            "Torwali": ["Swat Valley"],
+            "Wotapuri-Katarqalai": ["Katarqala"],
+            "Indus Kohistani": [],
+            "Shina": ["Gilgit"],
+            "Palula": [],
+            "Sauji": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Kashmiri",
+        "author": ["Omkar N. Koul"],
+        "year": 2003,
+        "booktitle": "The Indo-Aryan languages",
+        "editor": ["George Cardona", "Dhanesh Jain"],
+        "publisher": "Routledge",
+        "pages": "991--1051",
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Parlons Khowar. Langue et culture de l'ancien royaume de Chitral au Pakistan",
+        "author": ["Erik L'Homme"],
+        "year": 1999,
+        "publisher": "L'Harmattan",
+        "languages": {
+            "Khowar": ["Chitral District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Some Features of Khowar Morphology",
+        "author": ["Georg Morgenstierne"],
+        "year": 1947,
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": "XIV",
+        "languages": {
+            "Khowar": []
+        },
+        "topics": ["morphology"]
     }
 ]
