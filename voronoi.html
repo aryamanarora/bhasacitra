@@ -195,12 +195,14 @@
                     .attr("d", path)
                     .attr("stroke", "black")
                     .attr("stroke-width", 0.5)
-                    .attr("fill", d => {
+                    .attr("fill", function(d) {
                         var count = 0, colour = null
                         var city = d.properties.site[2]
                         if (city == "blank") return "#EEEEEE"
                         for (lang in cities[city]) {
+                            $(this).addClass(lang.replace(" ", "_"))
                             var new_colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 2)
+                            // console.log(city, lang, cities[city][lang], new_colour)
                             // if (lang in data["breathy voice"].data && city in data["breathy voice"].data[lang]) new_colour = stringToColour(data["breathy voice"].data[lang][city])
                             // console.log(new_colour)
                             if (count == 0) {
@@ -211,7 +213,7 @@
                                 colour = '#' + averageRGB(
                                     new_colour,
                                     colour,
-                                    cities[city][lang] || 0,
+                                    cities[city][lang],
                                     count)
                                 count += cities[city][lang]
                             }
@@ -243,6 +245,7 @@
 
                 x.on("mouseover", function(event, d) {
                     var l = d3.select(this).attr("id")
+                    d3.selectAll("." + l.replace(" ", "_")).transition().style("opacity", 0.2)
                     var loc = stored_coords[l]
                     g.append("text")
                         .attr("x", +loc[0])
@@ -257,6 +260,8 @@
                 })
 
                 x.on("mouseout", function(event, d) {
+                    var l = d3.select(this).attr("id")
+                    d3.selectAll("." + l.replace(" ", "_")).transition().style("opacity", null)
                     d3.selectAll("text").transition().style("opacity", 0).remove()
                 })
                     
@@ -311,7 +316,7 @@
                                 .attr("r", r / scale)
                                 .attr("data-r", r)
                                 .attr("fill", "steelblue")
-                                .attr("stroke", "white")
+                                .attr("stroke", "black")
                                 .attr("stroke-width", 1 / scale)
                             lines.append("line")
                                 .attr("x2", stored_coords[l][0])
@@ -321,7 +326,7 @@
                                 .transition()
                                 .attr("x1", loc2[0])
                                 .attr("y1", loc2[1])
-                                .attr("stroke", "white")
+                                .attr("stroke", "black")
                                 .attr("stroke-width", 1 / scale)
                         }
                     }

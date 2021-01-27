@@ -272,6 +272,28 @@
         "topics": ["overview"]
     },
     {
+        "type": "book",
+        "title": "Kashmiri: A Cognitive Descriptive Grammar",
+        "author": ["Omkar N. Koul", "Kashi Wali"],
+        "year": 1997,
+        "publisher": "Routledge",
+        "languages": {
+            "Kashmiri": ["Srinagar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Reference Grammar of Kashmiri",
+        "author": ["Braj B. Kachru"],
+        "year": 1969,
+        "publisher": "University of Illinois",
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["overview"]
+    },
+    {
         "type": "article",
         "title": "The Zargari language: An endangered European Romani in Iran",
         "author": ["Hassan Rezai Baghbidi"],
@@ -490,7 +512,7 @@
         "languages": {
             "Hindi": ["Rankhandi", "Sivaya", "Kalron"]
         },
-        "topics": ["phonology"],
+        "topics": ["phonology", "dialectology"],
         "url": "https://www.jstor.org/stable/410824"
     },
     {
@@ -1507,7 +1529,7 @@
         "publisher": "SIL International",
         "languages": {
             "Bagri": ["Ferozepur District", "Hanumangarh District", "Sirsa District", "Hisar District", "Churu District", "Bikaner District"],
-            "Punjabi": ["Ganganagar District"]
+            "Punjabi": ["Sri Ganganagar District"]
         },
         "url": "https://www.sil.org/system/files/reapdata/19/40/63/1940635207052342109682542171657282993/silesr2011_048.pdf",
         "topics": ["sociolinguistics"]
@@ -1833,5 +1855,87 @@
             "Khowar": []
         },
         "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "The Dardic Languages. Khowar",
+        "author": ["Džoj Jo. Èdelʲman"],
+        "pages": "210--226",
+        "booktitle": "The Dardic & Nuristani Languages",
+        "editor": ["Džoj Jo. Èdelʲman"],
+        "year": 1983,
+        "languages": {
+            "Khowar": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Chitrali Grammar",
+        "author": ["Rehmat Ali Chitrali"],
+        "publisher": "Khowar Academy",
+        "year": 2009,
+        "languages": {
+            "Khowar": ["Chitral District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Kalasha Texts — With Introductory Grammar",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/03740463.2015.1069049",
+        "journal": "Acta Linguistica Hafniensia",
+        "volume": 47,
+        "number": "sup1",
+        "author": ["Jan Heegård Petersen"],
+        "year": 2015,
+        "languages": {
+            "Kalasha": ["Grum", "Anish", "Karakul"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Topics in Kalasha Syntax: An Areal and Typological Perspective",
+        "author": ["Elena Bashir"],
+        "publsiher": "University of Michigan",
+        "year": 1988,
+        "languages": {
+            "Kalasha": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Kalasha Dictionary — With English & Urdu",
+        "author": ["Ronald L. Trail", "Gregory R. Cooper", "Abdul Khaleeq", "members of the Kalasha tribes"],
+        "publisher": "National Institute of Pakistan Studies & Summer Institute of Linguistics",
+        "year": 1999,
+        "languages": {
+            "Kalasha": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Grammar of Gurezi Shina",
+        "author": ["Musavir Ahmed"],
+        "year": 2019,
+        "languages": {
+            "Shina": ["Gurez Valley"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.sil.org/system/files/reapdata/42/76/58/42765842007020906671347350716367943401/sillcdd_40.pdf",
+        "publisher": "SIL International"
+    },
+    {
+        "type": "book",
+        "title": "Dialect Survey of Malayalam (Ezhava-Tiiya)",
+        "author": ["V. I. Subramoniam"],
+        "year": 1974,
+        "languages": {
+            "Malayalam": ["Padmanabhapuram", "Kottayam", "Kollam", "Vembanad Lake", "Kasaragod", "Kochi", "Wayanad"]
+        },
+        "topics": ["dialectology"]
     }
 ]
