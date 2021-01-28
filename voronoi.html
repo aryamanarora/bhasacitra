@@ -201,6 +201,7 @@
                         if (city == "blank") return "#EEEEEE"
                         for (lang in cities[city]) {
                             $(this).addClass(lang.replace(" ", "_"))
+                            // var new_colour = "#EEEEEE"
                             var new_colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 2)
                             // console.log(city, lang, cities[city][lang], new_colour)
                             // if (lang in data["breathy voice"].data && city in data["breathy voice"].data[lang]) new_colour = stringToColour(data["breathy voice"].data[lang][city])

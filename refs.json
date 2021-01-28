@@ -15,6 +15,17 @@
         "topics": ["overview"]
     },
     {
+        "type": "thesis",
+        "title": "A descriptive grammar of Pashai: The language and speech community of Darrai Nur",
+        "author": ["Rachel Lehr"],
+        "publisher": "University of Chicago",
+        "year": 2014,
+        "languages": {
+            "Southeastern Pashayi": ["Dara-i-Nur"]
+        },
+        "topics": ["overview"]
+    },
+    {
         "type": "book",
         "title": "A Descriptive Grammar of Hindko, Panjabi, and Saraiki",
         "author": ["Elena Bashir", "Thomas J. Conners", "Brook Hefright"],
@@ -176,7 +187,7 @@
         "pages": "2873--2890",
         "url": "https://asa.scitation.org/doi/full/10.1121/10.0000999",
         "languages": {
-            "Kalasha": ["Bumburet"]
+            "Kalasha-mon": ["Bumburet"]
         },
         "topics": ["phonology"]
     },
@@ -231,7 +242,8 @@
         "type": "book",
         "title": "A grammar of the Shina language of Indus Kohistan",
         "date": 2008,
-        "author": ["Ruth Laila Schmidt", "Razwal Kohistani"],
+        "author": ["Ruth Laila Schmidt", "Razwal Kohistani", "Mohammad M. Zarin"],
+        "publisher": "Harrassowitz",
         "languages": {
             "Kohistani Shina": ["Palas Valley"]
         },
@@ -450,7 +462,7 @@
         "journal": "Journal of the International Phonetic Association",
         "url": "https://doi.org/10.1017/S0025100319000367",
         "languages": {
-            "Kalasha": ["Bumburet"]
+            "Kalasha-mon": ["Bumburet"]
         },
         "topics": ["phonology"]
     },
@@ -868,7 +880,7 @@
         "year": 1994,
         "publisher": "Central Institute for Indian Languages",
         "languages": {
-            "Telugu": []
+            "Telugu": ["Vizianagaram", "Rajahmundry", "Kadapa", "Warangal"]
         },
         "topics": ["prosody", "sociolinguistics"]
     },
@@ -1807,7 +1819,7 @@
             "Grangali": ["Grangal"],
             "Dameli": ["Domel"],
             "Khowar": ["Chitral District"],
-            "Kalasha": [],
+            "Kalasha-mon": [],
             "Tirahi": ["Jalalabad"],
             "Kalam Kohistani": ["Kalam"],
             "Torwali": ["Swat Valley"],
@@ -1890,7 +1902,7 @@
         "author": ["Jan Heegård Petersen"],
         "year": 2015,
         "languages": {
-            "Kalasha": ["Grum", "Anish", "Karakul"]
+            "Kalasha-mon": ["Grum", "Anish", "Karakul"]
         },
         "topics": ["overview"]
     },
@@ -1901,7 +1913,7 @@
         "publsiher": "University of Michigan",
         "year": 1988,
         "languages": {
-            "Kalasha": []
+            "Kalasha-mon": []
         },
         "topics": ["syntax"]
     },
@@ -1912,7 +1924,7 @@
         "publisher": "National Institute of Pakistan Studies & Summer Institute of Linguistics",
         "year": 1999,
         "languages": {
-            "Kalasha": []
+            "Kalasha-mon": []
         },
         "topics": ["lexicography"]
     },
@@ -1937,5 +1949,442 @@
             "Malayalam": ["Padmanabhapuram", "Kottayam", "Kollam", "Vembanad Lake", "Kasaragod", "Kochi", "Wayanad"]
         },
         "topics": ["dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "A sketch of Kalam Kohistani grammar",
+        "year": 1999,
+        "url": "https://www.academia.edu/1992272/A_Sketch_of_Kalam_Kohistani_grammar",
+        "author": ["Joan L. G. Baart"],
+        "publisher": "National Institute of Pakistan Studies and Summer Institute of Linguistics",
+        "languages": {
+            "Kalam Kohistani": ["Kalam"]
+        },
+        "location": "Islamabad",
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "A first look at the language of Kundal Shahi in Azad Kashmir",
+        "author": ["Joan L. G. Baart", "Khawaja A. Rehman"],
+        "year": 2005,
+        "url": "https://www.sil.org/system/files/reapdata/10/55/83/10558360034839761273787716304857102032/silewp2005_008.pdf",
+        "languages": {
+            "Kundal Shahi": ["Kundal Shahi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Linguistic Survey of Kashmiri Dialects",
+        "publisher": "Central Institute for Indian Languages",
+        "author": ["Nazir A. Dhar", "Maharaj K. Koul"],
+        "year": 2012,
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Argument Structure in Kashmiri: Form and Function of Pronomial Suffixes",
+        "year": 2018,
+        "publisher": "Brill",
+        "author": ["Saartje Verbeke"],
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Jazyk Kašmiri",
+        "year": 1971,
+        "author": ["Boris A. Zaxarʲin", "Džoj Jo. Èdelʲman"],
+        "languages": {
+            "Kashmiri": []
+        },
+        "publisher": "Nauka",
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Problemy Sravnitelʲno-Istoričeskogo Izučenija Jazyka Kašmiri",
+        "year": 2016,
+        "publisher": "Studia Philologica",
+        "author": ["Anton I. Kogan"],
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "The languages of the northern Himalayas, being studies in the grammar of twenty-six Himalayan dialects",
+        "author": ["Thomas G. Bailey"],
+        "year": 1908,
+        "publisher": "Royal Asiatic Society",
+        "location": "London",
+        "languages": {
+            "Mahasu Pahari": ["Solan", "Kiunthal State", "Kotgarh", "Kotkhai", "Seraj"],
+            "Kullui": ["Seraj", "Sainj"],
+            "Mandeali": ["Mandi", "Jhatingri", "Chota Bhangal"],
+            "Churahi": ["Chaurah Tehsil"],
+            "Bhateali": ["Bhattiyat Tehsil"],
+            "Gaddi": ["Bharmour"],
+            "Chambeali": ["Chamba"],
+            "Bhadarwahi": ["Bhaderwah", "Bhalessa", "Paddar"],
+            "Pangwali": ["Pangi Tehsil"],
+            "Gojri": ["Murree"],
+            "Hindko": ["Hazara"],
+            "Pahari-Pothwari": ["Hazara", "Poonch District"],
+            "Sarazi": ["Doda"],
+            "Rambani": ["Ramban"],
+            "Poguli": ["Ramsoo"],
+            "Kishtwari": ["Kishtwar"],
+            "Kangri": ["Kangra District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Pahari and Pothwari: A sociolinguistic survey",
+        "year": 2010,
+        "publisher": "SIL International",
+        "author": ["Michael Lothers", "Laura Lothers"],
+        "languages": {
+            "Pahari-Pothwari": ["Rawalpindi District", "Abbottabad", "Bagh", "Muzaffarabad District", "Mirpur"],
+            "Hindko": ["Abbottabad", "Mansehra District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Sarazi: Endangered Language of the Chenab Valley",
+        "url": "https://www.sahapedia.org/sarazi-endangered-language-of-the-chenab-valley",
+        "year": 2018,
+        "author": ["Vikalp Ashiqehind"],
+        "languages": {
+            "Sarazi": ["Doda"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Kishtawari",
+        "author": ["Omkar N. Koul"],
+        "booktitle": "The Languages of Jammu and Kashmir",
+        "editor": ["Omkar N. Koul"],
+        "publisher": "Orient BlackSwan",
+        "year": 2014,
+        "languages": {
+            "Kishtwari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Noun Morphology of Kashtawari: A Descriptive Study",
+        "author": ["Sameer Kuchay"],
+        "publisher": "Lap Lambert",
+        "year": 2015,
+        "languages": {
+            "Kishtwari": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Poguli",
+        "author": ["Neelofar H. Wani", "Aadil A. Kak"],
+        "booktitle": "The Languages of Jammu and Kashmir",
+        "editor": ["Omkar N. Koul"],
+        "publisher": "Orient BlackSwan",
+        "year": 2014,
+        "languages": {
+            "Poguli": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Description of Postpositions in Poguli",
+        "author": ["Neelofar H. Wani"],
+        "journal": "Erevna",
+        "volume": 2,
+        "number": 1,
+        "year": 2020,
+        "languages": {
+            "Poguli": []
+        },
+        "topics": ["case and adpositions"]
+    },
+    {
+        "type": "article",
+        "title": "Poguli Syntax in Light of Kashmiri: A Preliminary Report",
+        "author": ["Peter E. Hook"],
+        "journal": "Linguistic Sciences",
+        "volume": 17,
+        "year": 1987,
+        "languages": {
+            "Poguli": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "A Morphological Study of Siraji",
+        "author": ["Shabir A. Bhat"],
+        "year": 2012,
+        "publisher": "Lap Lambert",
+        "languages": {
+            "Sarazi": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "book",
+        "title": "Brokskat Grammar",
+        "author": ["N. Ramaswami"],
+        "year": 1982,
+        "publisher": "Central Institute for Indian Languages",
+        "languages": {
+            "Brokskat": ["Garkhon"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Concise Grammar and Dictionary of Brok-skad",
+        "author": ["D. D. Sharma"],
+        "year": 1998,
+        "publisher": "Mittal Publications",
+        "languages": {
+            "Brokskat": []
+        },
+        "topics": ["lexicography", "overview"]
+    },
+    {
+        "type": "book",
+        "title": "Shina-Texte Aus Gilgit. Sprichworter und Materialien zum Volksglauben",
+        "author": ["Almuth Degener"],
+        "year": 2008,
+        "publisher": "Harrassowitz",
+        "languages": {
+            "Kohistani Shina": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Aspects of the Sound System of Gilgiti Shina",
+        "author": ["Carla F. Radloff"],
+        "year": 1999,
+        "publisher": "National Institute of Pakistan Studies & Summer Institute of Linguistics",
+        "languages": {
+            "Shina": ["Gilgit"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Ṣiṇā Qāida aur Graymar",
+        "author": ["Mohammad A. Zia"],
+        "year": 1986,
+        "publisher": "Zia",
+        "languages": {
+            "Shina": ["Gilgit"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar of the Shina (Ṣiṇā) Language",
+        "author": ["Thomas G. Bailey"],
+        "year": 1924,
+        "publisher": "Royal Asiatic Society",
+        "languages": {
+            "Shina": ["Gilgit"],
+            "Brokskat": []
+        },
+        "topics": ["overview"],
+        "url": "https://archive.org/details/in.ernet.dli.2015.506274"
+    },
+    {
+        "type": "article",
+        "title": "A Descriptive Study of the Phonology of Gurezi Shina",
+        "author": ["Musavir Ahmed"],
+        "journal": "Acta Orientalia Academiæ Scientiarum Hungaricæ",
+        "year": 2016,
+        "volume": 69,
+        "number": 1,
+        "languages": {
+            "Shina": ["Gurez Valley"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "A Grammatical Sketch of Guresi Shina",
+        "author": ["Ruth L. Schmidt", "Vijay K. Kaul:"],
+        "journal": "Studia Orientalia Electronica",
+        "year": 2010,
+        "volume": 108,
+        "languages": {
+            "Shina": ["Gurez Valley"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar of the Shina Language and Vocabulary",
+        "author": ["B. B. Rajapurohit"],
+        "publisher": "Central Institute for Indian Languages",
+        "year": 2012,
+        "languages": {
+            "Shina": ["Dras"]
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "The Dangari Tongue of Choke and Machoke: Tracing the proto-language of Shina enclaves in the Hindu Kush",
+        "author": ["Henrik Liljegren"],
+        "year": 2009,
+        "journal": "Acta Orientalia",
+        "volume": 70,
+        "languages": {
+            "Palula": [],
+            "Sauji": [],
+            "Kalkoti": []
+        },
+        "topics": ["historical"],
+        "url": "http://su.diva-portal.org/smash/get/diva2:290519/FULLTEXT01.pdf"
+    },
+    {
+        "type": "article",
+        "title": "Notes on Kalkoti: A Shina Language with Strong Kohistani Influences",
+        "author": ["Henrik Liljegren"],
+        "year": 2013,
+        "journal": "Linguistic Discovery",
+        "volume": 11,
+        "number": 1,
+        "url": "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/article/423?htmlOnce=yes",
+        "languages": {
+            "Kalkoti": ["Kalkot"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Die Sprache von Sau in Ostafghanistan",
+        "author": ["Georg Buddruss"],
+        "year": 1967,
+        "publisher": "Kitzinger",
+        "languages": {
+            "Sauji": ["Sau"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Dogri: Phonology and Grammatical Sketch",
+        "author": ["Ujjal S. Bahri"],
+        "year": 2001,
+        "publisher": "Bahri",
+        "languages": {
+            "Dogri": ["Jammu"]
+        },
+        "topics": ["phonology", "overview"]
+    },
+    {
+        "type": "article",
+        "title": "A Short Account of Ḍogri Dialect",
+        "author": ["Gauri Shankar"],
+        "journal": "Indian Linguistics",
+        "year": 1966,
+        "languages": {
+            "Dogri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Light Verb Constructions in Potwari",
+        "author": ["Farah Nazir"],
+        "publisher": "University of Manchester",
+        "year": 2014,
+        "url": "https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:262036&datastreamId=FULL-TEXT.PDF",
+        "languages": {
+            "Pahari-Pothwari": ["Mirpur"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "The Siraiki Language of Central Pakistan: A Reference Grammar",
+        "author": ["Christopher Shackle"],
+        "publisher": "SOAS",
+        "year": 1976,
+        "languages": {
+            "Saraiki": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Khetrāni Phonology",
+        "author": ["Josef H. Elfenbein"],
+        "journal": "Studien zur Indologie und Iranistik",
+        "volume": 19,
+        "year": 1994,
+        "languages": {
+            "Khetrani": []
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "A note on the Khetrani dialect of Lahnda",
+        "journal": "Acta Orientalia",
+        "volume": 13,
+        "author": ["Georg Morgenstierne"],
+        "year": 1934,
+        "languages": {
+            "Khetrani": []
+        }
+    },
+    {
+        "type": "book",
+        "title": "Die Sprache der armenischen Zigeuner",
+        "author": ["Frank N. Finck"],
+        "year": 1907,
+        "publisher": "Mémoires de l'Académie imperiale des Sciences de St.-Pétersbourg",
+        "languages": {
+            "Lomavren": ["Yerevan"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Očerk Grammatiki Sovremennogo Bradža",
+        "author": ["B. P. Liperovskij"],
+        "publisher": "Nauka",
+        "year": 1988,
+        "languages": {
+            "Braj": ["Mathura"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Hindi Classical Tradition: A Braj Bhāṣā Reader",
+        "author": ["Rupert Snell"],
+        "year": 1991,
+        "publisher": "SOAS",
+        "languages": {
+            "Braj": []
+        },
+        "topics": ["pedagogical", "literature"]
     }
 ]
