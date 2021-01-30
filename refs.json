@@ -1910,7 +1910,7 @@
         "type": "thesis",
         "title": "Topics in Kalasha Syntax: An Areal and Typological Perspective",
         "author": ["Elena Bashir"],
-        "publsiher": "University of Michigan",
+        "publisher": "University of Michigan",
         "year": 1988,
         "languages": {
             "Kalasha-mon": []
@@ -2171,7 +2171,7 @@
         "year": 2008,
         "publisher": "Harrassowitz",
         "languages": {
-            "Kohistani Shina": []
+            "Shina": ["Gilgit"]
         },
         "topics": ["overview"]
     },
@@ -2386,5 +2386,267 @@
             "Braj": []
         },
         "topics": ["pedagogical", "literature"]
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Grammar of the Kui language",
+        "author": ["C. Maheswaran"],
+        "year": 2008,
+        "publisher": "Dravidian University",
+        "languages": {
+            "Kui": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Kui Languages",
+        "author": ["W. W. Winfield"],
+        "year": 1928,
+        "publisher": "Asiatic Society of Bengal",
+        "languages": {
+            "Kui": ["Kalahandi District", "Kandhamal District", "Gunpur", "Udayagiri"]
+        },
+        "topics": ["overview"],
+        "url": "https://archive.org/details/in.gov.ignca.37202"
+    },
+    {
+        "type": "article",
+        "title": "Some notes on the Kui dialect as spoken by the Kuttia Kandhs of North-East Koraput",
+        "author": ["T. Burrow", "S. Bhattacharya"],
+        "year": "1961--1962",
+        "journal": "Indo-Iranian Journal",
+        "volume": 5,
+        "number": 2,
+        "pages": "118--135",
+        "languages": {
+            "Kui": ["Lakshmipur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Kuvi language",
+        "author": ["M. Israel"],
+        "year": 1979,
+        "publisher": "Dravidian Linguistics Association",
+        "languages": {
+            "Kuvi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Kuvi language",
+        "author": ["F. V. P. Schulze"],
+        "year": 1911,
+        "publisher": "Graves, Cookson and Co",
+        "languages": {
+            "Kuvi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Kuvi grammar",
+        "author": ["Reddy Joy"],
+        "year": 1979,
+        "publisher": "Central Institute for Indian Languages",
+        "languages": {
+            "Kuvi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Kuvi with a short vocabulary",
+        "author": ["T. Burrow", "S. Bhattacharya"],
+        "year": 1963,
+        "journal": "Indo-Iranian Journal",
+        "volume": 6,
+        "number": "3/4",
+        "pages": "231--289",
+        "languages": {
+            "Kuvi": ["Araku", "Bissam Cuttack", "Gudari"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Kurux Language: Grammar, Texts and Lexicon",
+        "author": ["Masato Kobayashi", "Bablu Tirkey"],
+        "year": 2017,
+        "publisher": "Brill",
+        "languages": {
+            "Kurux": ["Bendora", "Sisai", "Tekul", "Hirhi", "Chandali", "Puriyo", "Pugu", "Jana", "Dumardanr", "Patiya", "Palma", "Jashpur", "Gumla", "Lohardaga", "Ranchi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Kurukh Grammar",
+        "author": ["Ferdinand Hahn"],
+        "year": 1911,
+        "publisher": "Bengal Secretariat Press",
+        "languages": {
+            "Kurux": ["Ranchi"]
+        },
+        "topics": ["overview"],
+        "url": "https://archive.org/details/kurukhgrammar00hahnuoft"
+    },
+    {
+        "type": "thesis",
+        "title": "The Phonology and Morphology of Malto",
+        "author": ["B. P. Mahapatra"],
+        "year": 1976,
+        "publisher": "University of Calcutta",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/158129",
+        "languages": {
+            "Malto": ["Rajmahal", "Godda", "Surujbera", "Pakur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Koraga Grammar: A descriptive study of dravidian dialect",
+        "author": ["Ramakrishna Shetty"],
+        "year": 1978,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145443",
+        "languages": {
+            "Koraga": ["Mangaluru"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Language of Malavedas",
+        "author": ["Hyrunnisa Beegum"],
+        "year": 1991,
+        "publisher": "University of Kerala",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/98280",
+        "languages": {
+            "Malaveda": ["Pathanamthitta District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Prārambʰik Paṅgvāṛī Vyākaraṇ",
+        "author": ["Binaya Sundar Nayak"],
+        "year": 2011,
+        "publisher": "Pangiteam",
+        "url": "https://www.pangi.in/sites/all/libraries/pdf.js/web/viewer.html?file=/en/file/38/force_download",
+        "languages": {
+            "Pangwali": ["Pangi Tehsil"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Survey of Mandeali and Kului in Himachal Pradesh",
+        "author": ["P. Padmanabha"],
+        "year": 1971,
+        "publisher": "Census of India",
+        "url": "http://lsi.gov.in:8081/jspui/handle/123456789/4878",
+        "languages": {
+            "Kullui": ["Kulu Valley"],
+            "Mandeali": ["Mandi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Survey of Konkani in Karnataka, Goa and Maharashtra",
+        "author": ["B. P. Mahapatra"],
+        "year": 1971,
+        "publisher": "Census of India",
+        "url": "http://lsi.gov.in:8081/jspui/handle/123456789/6162",
+        "languages": {
+            "Konkani": ["Dakshina Kannada District", "Uttara Kannada District", "Panaji", "Ratnagiri District", "Nashik"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Marathi: Descriptive Grammars",
+        "author": ["Rajeshwari Pandharipande"],
+        "year": 1997,
+        "publisher": "Routledge",
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Aspect in Marathi in a Cross-dialectal Perspective",
+        "author": ["Sambhaji Jadhav"],
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://sdml.ac.in/pdfs/aspect-in-marathi-marathi.pdf",
+        "year": 2019,
+        "languages": {
+            "Marathi": ["Kolhapur District", "Latur District", "Nagpur District"]
+        },
+        "topics": ["dialectology", "syntax"]
+    },
+    {
+        "type": "website",
+        "title": "Survey of Dialects of the Marathi Language",
+        "year": "2019?",
+        "url": "https://sdml.ac.in/",
+        "author": ["Department of Linguistics, Deccan College", "Pune and Rajya Marathi Vikas Sanstha, Mumbai"],
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Khandeshi dialect: As spoken by farmers in the village of Mohadi in the Dhulia Taluka",
+        "year": 1964,
+        "author": ["Vijaya Shridhar Chitnis"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/173627",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Khandeshi": ["Mohadi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "South Western Bengali (The South Western Midnapur Dialects)",
+        "author": ["Sudhir Kumar Karan"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/157884",
+        "year": "n.d.",
+        "publisher": "University of Calcutta",
+        "languages": {
+            "Bengali": ["Midnapore"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Descriptive Grammar of Āre Marāthi: Dialect Of Rayalaseema",
+        "author": ["J. Pratap Reddy"],
+        "publisher": "Sri Venkateswara University",
+        "year": 1988,
+        "languages": {
+            "Marathi": ["Kurnool District"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/201098",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of Eastern Awadhi dialect of Jaunpur",
+        "author": ["Suhail Ahmad"],
+        "year": 1986,
+        "publisher": "Aligarh Muslim University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/57604",
+        "languages": {
+            "Awadhi": ["Jaunpur"]
+        },
+        "topics": ["overview"]
     }
 ]
