@@ -297,7 +297,10 @@
         "Tartoli": [24.4965094, 72.7945903],
         "Rampur": [31.4516834, 77.625388],
         "Kinnaur District": [31.583333, 78.416667],
-        "Saraz": [33.173996, 75.711074]
+        "Saraz": [33.173996, 75.711074],
+        "Kathmandu": [27.7172, 85.324],
+        "Kalimpong": [27.0594, 88.4695],
+        "Sikkim": [27.55, 88.5]
     },
     "family": {
         "Punjabi": ["Indo-Aryan", "Northwestern", "Punjabic"],
@@ -416,6 +419,7 @@
         "Kurux": ["Dravidian", "Northern", "Kurux-Malto"],
         "Malto": ["Dravidian", "Northern", "Kurux-Malto"],
         "Koraga": ["Dravidian", "Southern", "Tulu"],
-        "Malaveda": ["Dravidian", "Southern", "Tamil-Malayalam"]
+        "Malaveda": ["Dravidian", "Southern", "Tamil-Malayalam"],
+        "Lepcha": ["Sino-Tibetan", "Tibeto-Burman", "Himalayish"]
     }
 }

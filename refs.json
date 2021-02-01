@@ -1148,7 +1148,8 @@
         "languages": {
             "Toda": ["The Nilgiris District"]
         },
-        "topics": ["overview", "corpora"]
+        "topics": ["overview", "corpora"],
+        "url": "https://www.google.com/books/edition/Toda_Grammar_and_Texts/-B94uj2p4hQC?hl=en"
     },
     {
         "type": "thesis",
@@ -1171,6 +1172,18 @@
         },
         "topics": ["overview", "sociolinguistics"],
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/131855"
+    },
+    {
+        "type": "book",
+        "title": "Descriptive analysis of Tulu: A language of the Dravidian family",
+        "author": ["D. N. Shankara Bhat"],
+        "year": 1962,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Tulu": []
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/161520"
     },
     {
         "type": "thesis",
@@ -2893,5 +2906,29 @@
             "Sarazi": ["Saraz"]
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A descriptive grammar of Nepali and an analyzed corpus",
+        "author": ["Jayaraj Acharya"],
+        "year": 1991,
+        "publisher": "Georgetown University Press",
+        "location": "Washington",
+        "languages": {
+            "Nepali": ["Kathmandu"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Grammar of Lepcha",
+        "author": ["H. Plaisier"],
+        "year": 2006,
+        "publisher": "Leiden University",
+        "languages": {
+            "Lepcha": ["Kalimpong", "Sikkim"]
+        },
+        "topics": ["overview"],
+        "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/4379"
     }
 ]
