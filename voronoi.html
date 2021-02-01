@@ -25,10 +25,10 @@
         <title>Bhāṣācitra</title>
     </head>
     <body>
-        <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card bg-dark text-white shadow">
-            <div class="card-body">
-                <h3 class="card-title name">Hover over/click a dot.</h3>
-            </div>
+        <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card shadow">
+            <ul class="list-group list-group-flush" id="facets">
+                <li class="list-group-item mt-3"><h3 class="card-title name">Hover over/click a dot.</h3></li>
+            </ul>
         </div>
         <svg id="map"></svg>
     </body>
@@ -195,44 +195,79 @@
                 cities_voronoi.push([coord.cities[city][1], coord.cities[city][0], city])
             }
             var voronoi = d3.geoVoronoi()(cities_voronoi)
-            g.append("g")
-                .attr("mask", "url(#clip)")
-                .selectAll("path")
-                .data(voronoi.polygons().features)
-                .enter()
-                .append("path")
-                    .attr("id", "voronoi")
-                    .attr("d", path)
-                    .attr("stroke", "black")
-                    .attr("stroke-width", 0.5)
-                    .attr("fill", function(d) {
-                        var count = 0, colour = null
-                        var city = d.properties.site[2]
-                        if (city == "blank") return "#EEEEEE"
-                        for (lang in cities[city]) {
-                            $(this).addClass(lang.replace(" ", "_"))
-                            // var new_colour = "#EEEEEE"
-                            var new_colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 3)
-                            if (coord.family[lang].length == 3) new_colour = '#' + averageRGB(stringToColour(coord.family[lang][2]), new_colour, 1, 3)
-                            // console.log(city, lang, cities[city][lang], new_colour)
-                            // if (lang in data["breathy voice"].data && city in data["breathy voice"].data[lang]) new_colour = stringToColour(data["breathy voice"].data[lang][city])
-                            // console.log(new_colour)
-                            if (count == 0) {
-                                count += cities[city][lang]
-                                colour = new_colour
+            var voronoi_layer = g.append("g")
+            change("facet-family")
+
+            function change(text) {
+                d3.selectAll(".active").attr("class", "list-group-item")
+                d3.select("#" + text).attr("class", "list-group-item active")
+                text = text.replace("facet-", "")
+                text = text.replace("_", " ")
+                voronoi_layer.selectAll("*").remove()
+                voronoi_layer
+                    .attr("mask", "url(#clip)")
+                    .selectAll("path")
+                    .data(voronoi.polygons().features)
+                    .enter()
+                    .append("path")
+                        .attr("id", "voronoi")
+                        .attr("d", path)
+                        .attr("stroke", "black")
+                        .attr("stroke-width", 0.5 / scale)
+                        .attr("fill", function(d) {
+                            var count = 0, colour = null
+                            var city = d.properties.site[2]
+                            if (city == "blank") return "#EEEEEE"
+                            for (lang in cities[city]) {
+                                $(this).addClass(lang.replace(" ", "_"))
+                                var new_colour = "#EEEEEE"
+                                if (text == "family") {
+                                    new_colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 3)
+                                    if (coord.family[lang].length == 3) new_colour = '#' + averageRGB(stringToColour(coord.family[lang][2]), new_colour, 1, 3)
+                                }
+                                else {
+                                    if (lang in data[text].data) {
+                                        if (city in data[text].data[lang]) new_colour = stringToColour(data[text].data[lang][city])
+                                        else if ("default" in data[text].data[lang]) new_colour = stringToColour(data[text].data[lang].default)
+                                    }
+                                }
+                                if (count == 0) {
+                                    count += cities[city][lang]
+                                    colour = new_colour
+                                }
+                                else {
+                                    colour = '#' + averageRGB(
+                                        new_colour,
+                                        colour,
+                                        cities[city][lang],
+                                        count)
+                                    count += cities[city][lang]
+                                }
                             }
-                            else {
-                                colour = '#' + averageRGB(
-                                    new_colour,
-                                    colour,
-                                    cities[city][lang],
-                                    count)
-                                count += cities[city][lang]
-                            }
-                        }
-                        return colour
+                            return colour
+                        })
+            }
+
+            for (key in data) {
+                var l = d3.select("#facets")
+                    .append("li")
+                    .attr("class", "list-group-item")
+                    .attr("id", "facet-" + key.replace(" ", "_"))
+                
+                l.append("div")
+                    .style("font-variant", "small-caps")
+                    .text(key)
+                l.append("div")
+                    .append("small")
+                    .text(data[key].description)
+                l.append("a")
+                    .attr("href", "#")
+                    .attr("id", "facet-" + key.replace(" ", "_"))
+                    .on("click", function(d) {
+                        change(d3.select(this).attr("id"))
                     })
-            
+                    .attr("class", "stretched-link")
+            }
 
             var lines = g.append("g")
             var subg = g.append("g")
@@ -278,85 +313,6 @@
                     d3.selectAll("text").transition().style("opacity", 0).remove()
                 })
                     
-                x.on("click", function(event, d) {
-                    var l = d3.select(this).attr("id")
-                    if (clicked != l) {
-                        if (clicked != null) {
-                            d3.selectAll(".card-text").remove()
-                            d3.select(".name").text("Hover over/click a dot.")
-                            subg.selectAll("*").transition().attr("r", 0).remove()
-                            lines.selectAll("*")
-                                .transition()
-                                .attr("x1", stored_coords[l][0])
-                                .attr("y1", stored_coords[l][1])
-                                .remove()
-                        }
-                        d3.selectAll("circle")
-                            .style("opacity", 0.3)
-                        clicked = l
-                        var board = d3.select(".card-body")
-                        d3.select(".name").text(l)
-                        board.append("p")
-                            .attr("class", "card-text lead")
-                            .html(`${coord.family[l][0]} / ${coord.family[l][1]} ${coord.family[l].length == 3 ? "/ " + coord.family[l][2] : ""}`)
-                        board.append("p")
-                            .attr("class", "card-text")
-                            .html(refs[l].length + " source(s) covering " + langs[l].length + " location(s).")
-                        board = board.append("ul")
-                            .attr("class", "card-text")
-                            .style("overflow-y", "scroll")
-                            .style("max-height", "70vh")
-                        refs[l].forEach(x => {
-                            var note = `${x.author.join(', ')} (${x.year}). ${x.type == 'article' ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
-                            if (x.journal) note += ` In <em>${x.journal}</em>${x.volume ? (' ' + x.volume) : ''}${x.number ? ('(' + x.number + ')') : ''}.`
-                            x.languages[l].forEach(city => {
-                                note += ` <span class="badge bg-secondary">${city}</span>`
-                            })
-                            x.topics.forEach(topic => {
-                                note += ` <span class="badge bg-primary">${topic}</span>`
-                            })
-                            if (x.url) note += ` <a href="${x.url}">link</a>`
-                            board.append("li")
-                                .html(note)
-                        })
-                        for (city in subcities[l]) {
-                            var loc2 = projection([coord.cities[city][1], coord.cities[city][0]])
-                            var r = Math.sqrt(subcities[l][city]) * 5
-                            subg.append("circle")
-                                .attr("cx", loc2[0])
-                                .attr("cy", loc2[1])
-                                .transition()
-                                .attr("r", r / scale)
-                                .attr("data-r", r)
-                                .attr("fill", "steelblue")
-                                .attr("stroke", "black")
-                                .attr("stroke-width", 1 / scale)
-                            lines.append("line")
-                                .attr("x2", stored_coords[l][0])
-                                .attr("y2", stored_coords[l][1])
-                                .attr("x1", stored_coords[l][0])
-                                .attr("y1", stored_coords[l][1])
-                                .transition()
-                                .attr("x1", loc2[0])
-                                .attr("y1", loc2[1])
-                                .attr("stroke", "black")
-                                .attr("stroke-width", 1 / scale)
-                        }
-                    }
-                    else {
-                        clicked = null
-                        d3.selectAll("circle")
-                            .style("opacity", null)
-                        d3.selectAll(".card-text").remove()
-                        d3.select(".name").text("Hover over/click a dot.")
-                        subg.selectAll("*").transition().attr("r", 0).remove()
-                        lines.selectAll("*")
-                            .transition()
-                            .attr("x1", stored_coords[l][0])
-                            .attr("y1", stored_coords[l][1])
-                            .remove()
-                    }
-                })
             }
             
         }

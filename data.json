@@ -1,26 +1,24 @@
 {
+    "family": {
+        "description": "In what genetic groupings is the language generally put in?"
+    },
     "breathy voice": {
-        "description": "Is there at least one breathy-voiced consonant in the phoneme inventory?",
+        "description": "Is there at least one breathy-voiced consonant (e.g. /bʱ, d͡ʒʱ/) in the phoneme inventory?",
         "data": {
             "Hindi": {
-                "Delhi": "yes",
-                "Varanasi": "yes",
-                "Lucknow": "yes",
-                "Rankhandi": "yes",
-                "Sivaya": "yes",
-                "Kalron": "yes"
+                "default": "yes"
             },
             "Awadhi": {
-                "Lakhimpur": "yes"
+                "default": "yes"
             },
             "Nepali": {
-                "Madi": "yes"
+                "default": "yes"
             },
             "Luwati": {
-                "Muscat": "no"
+                "default": "no"
             },
             "Marathi": {
-                "Pune": "yes"
+                "default": "yes"
             },
             "Chakma": {
                 "Kolkata": "yes",
@@ -38,72 +36,71 @@
                 "Rangamati": "no"
             },
             "Bhojpuri": {
-                "Ballia": "yes",
-                "Saran": "yes",
-                "Champaran": "yes",
-                "Gorakhpur": "yes",
-                "Basti": "yes",
-                "Azamgarh": "yes",
-                "Varanasi": "yes",
-                "Mirzapur": "yes"
+                "default": "yes"
             },
             "Punjabi": {
-                "Lahore": "no",
-                "Amritsar": "no",
-                "Lyallpur": "no"
+                "default": "no"
             },
             "Sindhi": {
-                "Hyderabad, Pakistan": "yes",
-                "Chachro": "yes",
-                "Chelhar": "yes"
+                "default": "yes"
             },
             "Saraiki": {
-                "Multan": "yes",
-                "Dera Ghazi Khan": "yes"
+                "default": "yes"
             },
             "Hindko": {
-                "Kohat": "yes",
-                "Peshawar": "yes",
-                "Abbottabad": "yes"
+                "default": "yes"
             },
             "Dameli": {
-                "Domel": "no"
+                "default": "no"
             },
             "Kashmiri": {
-                "Srinagar": "no"
+                "default": "no"
             },
             "Kholosi": {
-                "Kholos": "no"
+                "default": "no"
             },
             "Kohistani Shina": {
-                "Palas Valley": "yes"
+                "default": "yes"
             },
             "Bhadarwahi": {
-                "Doda District": "yes"
+                "default": "yes"
             },
             "Garhwali": {
-                "Pauri": "yes"
+                "default": "yes"
             },
             "Indus Kohistani": {
-                "Kandia Valley": "yes",
-                "Duber Valley": "yes",
-                "Bankhar": "yes"
+                "default": "yes"
             },
             "Khowar": {
-                "Mastuj": "no"
+                "default": "no"
             },
             "Kalasha": {
-                "Bumburet": "yes"
+                "default": "yes"
             },
             "Palula": {
-                "Ashret": "yes"
+                "default": "yes"
             },
             "Sauji": {
-                "Sau": "no"
+                "default": "no"
             },
             "Southeastern Pashayi": {
-                "Dara-i-Nur": "no"
+                "default": "no"
             }
+        }
+    },
+    "post-nasal voicing": {
+        "description": "Is there voicing of post-nasal plosives?",
+        "data": {
+            "Poguli": {"default": "no"},
+            "Rambani": {"default": "no"},
+            "Sarazi": {"default": "no"},
+            "Kashmiri": {"default": "yes"},
+            "Punjabi": {"default": "yes"},
+            "Sindhi": {"default": "yes"},
+            "Hindi": {"default": "no"},
+            "Marathi": {"default": "no"},
+            "Bengali": {"default": "no"},
+            "Gujarati": {"default": "no"}
         }
     }
 }

@@ -300,7 +300,10 @@
         "Saraz": [33.173996, 75.711074],
         "Kathmandu": [27.7172, 85.324],
         "Kalimpong": [27.0594, 88.4695],
-        "Sikkim": [27.55, 88.5]
+        "Sikkim": [27.55, 88.5],
+        "Naggar": [32.113731, 77.164654],
+        "Kullu": [31.9546208, 77.0937828],
+        "Manali": [32.2395071, 77.1696102]
     },
     "family": {
         "Punjabi": ["Indo-Aryan", "Northwestern", "Punjabic"],

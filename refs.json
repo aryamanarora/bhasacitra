@@ -2930,5 +2930,38 @@
         },
         "topics": ["overview"],
         "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/4379"
+    },
+    {
+        "type": "book",
+        "title": "Pahāṛī Bʰāṣā: Kuluī kē viśēṣ sandarbʰ mēⁿ",
+        "author": ["Ma͜ulūrām Ṭʰākur"],
+        "publisher": "Sanmārg Prakāśan",
+        "year": 1975,
+        "languages": {
+            "Kullui": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "website",
+        "title": "Himachali: Indo-Aryan Languages of North India",
+        "author": ["Eugenia A. Renkovskaya", "Julia V. Mazurova", "Irina V. Samarina", "Elena M. Knyazeva", "Anastasia S. Krylova", "Ksenia A. Melnikova"],
+        "year": "2014--2019",
+        "languages": {
+            "Kullui": ["Kullu", "Naggar", "Manali"]
+        },
+        "topics": ["overview"],
+        "url": "http://pahari-languages.ru/?lang=en"
+    },
+    {
+        "type": "book",
+        "title": "The Kulu Dialect of Hindi",
+        "author": ["Alexander Henderson Diack"],
+        "year": 1896,
+        "url": "https://www.google.com/books/edition/The_Kulu_Dialect_of_Hindi/ZitFAQAAMAAJ?hl=en&gbpv=0",
+        "languages": {
+            "Kullui": []
+        },
+        "topics": ["overview"]
     }
 ]
