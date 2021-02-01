@@ -85,7 +85,7 @@
         "year": 2008,
         "url": "https://www.diva-portal.org/smash/get/diva2%3A198468/FULLTEXT01.pdf",
         "languages": {
-            "Palula": ["Ashret"]
+            "Palula": ["Ashret", "Bhiuri"]
         },
         "topics": ["overview"]
     },
@@ -96,7 +96,7 @@
         "year": 2011,
         "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A461738&dswid=3483",
         "languages": {
-            "Palula": ["Ashret"]
+            "Palula": ["Ashret", "Bhiuri"]
         },
         "topics": ["lexicography"]
     },
@@ -1827,7 +1827,7 @@
         "pages": "905--990",
         "languages": {
             "Southeastern Pashayi": ["Dara-i-Nur"],
-            "Gawarbati": ["Kunar Valley"],
+            "Gawarbati": ["Arandu"],
             "Shumashti": ["Upper Shumasht"],
             "Grangali": ["Grangal"],
             "Dameli": ["Domel"],
@@ -2963,5 +2963,59 @@
             "Kullui": []
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Sociolinguistic Survey of Northern Pakistan: Hindko and Gujari",
+        "author": ["Calvin R. Rensch", "Calinda E. Hallberg", "Clare F. O'Leary"],
+        "year": 1992,
+        "url": "https://www.sil.org/system/files/reapdata/96/89/72/96897258586620875850976172253716042392/32846_SSNP03.pdf",
+        "languages": {
+            "Hindko": ["Jammun", "Balakot", "Abbottabad", "Mansehra District", "Sherpur", "Peshawar", "Kohat", "Attock", "Pakha Ghulam", "Wadpagga"],
+            "Saraiki": ["Dera Ismail Khan"],
+            "Punjabi": ["Talagang"],
+            "Gojri": ["Kunar Province", "Shishi Koh Valley", "Dir", "Swat District", "Naltar Valley", "Mittikot", "Hazara", "Trarkhel", "Kotli", "Poonch District"]
+        },
+        "publisher": "SIL International",
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Sociolinguistic Survey of Northern Pakistan: Languages of Chitral",
+        "author": ["Kendall D. Decker"],
+        "url": "https://www.sil.org/system/files/reapdata/27/02/58/27025885940262322544465526417847562858/32850_SSNP05.pdf",
+        "publisher": "SIL International",
+        "year": 1992,
+        "languages": {
+            "Khowar": ["Ushu", "Chatorkhand", "Mastuj", "Torkhow Valley", "Garam Chashma", "Kesu"],
+            "Kalasha-mon": ["Bumburet", "Birir Valley", "Urtsun Valley"],
+            "Palula": ["Ashret", "Bhiuri", "Shishi Koh Valley"],
+            "Sauji": ["Sau"],
+            "Gawarbati": ["Arandu"],
+            "Dameli": ["Domel"],
+            "Kamviri": ["Langurbat"],
+            "Katavari": ["Barg-i-Matal"],
+            "Yidgha": ["Garam Chashma"],
+            "Munji": ["Kuran wa Munjan District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Sociolinguistic Survey of Northern Pakistan: Languages of Kohistan",
+        "author": ["Calvin R. Rensch", "Calinda E. Hallberg", "Clare F. O'Leary"],
+        "url": "https://www.sil.org/system/files/reapdata/10/84/73/108473746620733697887240640040710459748/32836_SSNP01.pdf",
+        "publisher": "SIL International",
+        "year": 1992,
+        "languages": {
+            "Torwali": ["Bahrain, Swat District", "Chail"],
+            "Kalam Kohistani": ["Kalam", "Ushu", "Thal", "Patrak", "Kalkot"],
+            "Ushojo": ["Karial"],
+            "Indus Kohistani": ["Kandia Valley", "Duber Valley", "Pattan"],
+            "Chilisso": ["Jalkot", "Mahrin"],
+            "Gowro": ["Mahrin"],
+            "Bateri": ["Batera"]
+        },
+        "topics": ["sociolinguistics"]
     }
 ]

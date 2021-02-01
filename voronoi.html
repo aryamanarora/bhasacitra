@@ -204,6 +204,7 @@
                 text = text.replace("facet-", "")
                 text = text.replace("_", " ")
                 voronoi_layer.selectAll("*").remove()
+                var lang_counts = {}
                 voronoi_layer
                     .attr("mask", "url(#clip)")
                     .selectAll("path")
