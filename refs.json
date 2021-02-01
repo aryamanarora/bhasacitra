@@ -607,7 +607,7 @@
         "pages": "125--148",
         "url": "https://revije.ff.uni-lj.si/ala/article/view/3159",
         "languages": {
-            "Bhadarwahi": ["Doda District"]
+            "Bhadarwahi": ["Bhaderwah"]
         },
         "topics": ["phonology", "syntax"]
     },
@@ -2026,19 +2026,25 @@
         "publisher": "Royal Asiatic Society",
         "location": "London",
         "languages": {
-            "Mahasu Pahari": ["Solan", "Kiunthal State", "Kotgarh", "Kotkhai", "Seraj"],
-            "Kullui": ["Seraj", "Sainj"],
+            "Mahasu Pahari": ["Solan", "Kotkhai"],
+            "Kiunthali": ["Kiunthal State"],
+            "Outer Siraji": ["Seraj"],
+            "Inner Siraji": ["Seraj"],
+            "Kotgarhi": ["Kotgarh"],
+            "Kullui": ["Sainj"],
             "Mandeali": ["Mandi", "Jhatingri", "Chota Bhangal"],
             "Churahi": ["Chaurah Tehsil"],
             "Bhateali": ["Bhattiyat Tehsil"],
             "Gaddi": ["Bharmour"],
             "Chambeali": ["Chamba"],
-            "Bhadarwahi": ["Bhaderwah", "Bhalessa", "Paddar"],
+            "Bhadarwahi": ["Bhaderwah"],
+            "Bhalesi": ["Bhalessa"],
+            "Padari": ["Paddar"],
             "Pangwali": ["Pangi Tehsil"],
             "Gojri": ["Murree"],
             "Hindko": ["Hazara"],
             "Pahari-Pothwari": ["Hazara", "Poonch District"],
-            "Sarazi": ["Doda"],
+            "Sarazi": ["Saraz"],
             "Rambani": ["Ramban"],
             "Poguli": ["Ramsoo"],
             "Kishtwari": ["Kishtwar"],
@@ -2065,7 +2071,7 @@
         "year": 2018,
         "author": ["Vikalp Ashiqehind"],
         "languages": {
-            "Sarazi": ["Doda"]
+            "Sarazi": ["Saraz"]
         },
         "topics": ["overview"]
     },
@@ -2166,7 +2172,7 @@
     },
     {
         "type": "book",
-        "title": "Shina-Texte Aus Gilgit. Sprichworter und Materialien zum Volksglauben",
+        "title": "Shina-Texte aus Gilgit. Sprichworter und Materialien zum Volksglauben",
         "author": ["Almuth Degener"],
         "year": 2008,
         "publisher": "Harrassowitz",
@@ -2373,6 +2379,17 @@
         "year": 1988,
         "languages": {
             "Braj": ["Mathura"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Očerk Grammatiki Sovremennogo Avadhi",
+        "author": ["B. P. Liperovskij"],
+        "publisher": "Izdatel’skaja Firma ‘Vostočnaja Literatura’ RAN",
+        "year": 1997,
+        "languages": {
+            "Awadhi": []
         },
         "topics": ["overview"]
     },
@@ -2646,6 +2663,234 @@
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/57604",
         "languages": {
             "Awadhi": ["Jaunpur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Profile of Bundeli",
+        "author": ["Ed Boehm"],
+        "publisher": "SIL International",
+        "year": 2015,
+        "url": "https://www.sil.org/system/files/reapdata/97/05/84/97058446415136540756726069269245317313/silesr2015_015.pdf",
+        "languages": {
+            "Bundeli": ["Chhatarpur District", "Sagar District", "Hamirpur District", "Tikamgarh District", "Panna District", "Damoh District", "Bhind District", "Datia District", "Jalaun District", "Seoni District", "Hoshangabad District", "Chhindwara District", "Banda District", "Balaghat District"],
+            "Braj": ["Mathura"],
+            "Bagheli": ["Rewa District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Kanauji of Kanpur: A brief overview",
+        "author": ["Pankaj Dwivedi", "Somdev Kar"],
+        "journal": "Acta Linguistica Asiatica",
+        "volume": 6,
+        "number": 1,
+        "year": 2016,
+        "url": "https://revije.ff.uni-lj.si/ala/article/view/4535",
+        "languages": {
+            "Kannauji": ["Kanpur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Phonology of Kanauji",
+        "author": ["Pankaj Dwivedi", "Somdev Kar"],
+        "booktitle": "Advances in Hindi Language Teaching and Applied Linguistics",
+        "pages": "189--220",
+        "year": 2018,
+        "url": "https://www.researchgate.net/publication/328530969_Phonology_of_Kanauji",
+        "languages": {
+            "Kannauji": ["Kanpur"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "book",
+        "title": "The Phonetics of Bagheli: A Phonetic and Phonological Study of a Dialect of Hindi",
+        "author": ["R. S. Pathak"],
+        "publisher": "National Publishing House",
+        "year": 1980,
+        "languages": {
+            "Bagheli": []
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Sambalpuri of Orissa, India: A brief sociolinguistic survey",
+        "author": ["Eldose K. Mathai", "Juliana Kelsall"],
+        "year": 2013,
+        "publisher": "SIL International",
+        "languages": {
+            "Sambalpuri": ["Sambalpur District", "Bargarh District", "Jharsuguda District", "Balangir District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Outer Siraji: An SVO language",
+        "author": ["J. C. Sharma"],
+        "year": 2003,
+        "journal": "International Journal of Dravidian Linguistics",
+        "volume": "XXXII",
+        "pages": "55--68",
+        "languages": {
+            "Outer Siraji": ["Seraj"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Is Bangani a V2 language?",
+        "author": ["Claus Peter Zoller"],
+        "year": 2007,
+        "journal": "European Bulletin of Himalayan Research",
+        "volume": 31,
+        "pages": "83--141",
+        "url": "http://himalaya.socanth.cam.ac.uk/collections/journals/ebhr/pdf/EBHR_31.pdf#page=83",
+        "languages": {
+            "Bangani": ["Uttarkashi District"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "The perfective adverb in Bhitrauti",
+        "author": ["Peter E. Hook", "Mohabbat Singh Man Singh Chauhan"],
+        "journal": "Word",
+        "volume": 39,
+        "number": 3,
+        "year": 1988,
+        "pages": "177--186",
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/00437956.1988.11435788",
+        "languages": {
+            "Bhitrauti": ["Tartoli"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "First Results of a Linguistic Fieldwork on Baṅgāṇī",
+        "author": ["Andrea Drocco"],
+        "journal": "International Journal of Language and Linguistics",
+        "volume": 3,
+        "number": 3,
+        "year": 2016,
+        "url": "https://iris.unive.it/retrieve/handle/10278/3698618/126134/PUBBL_10_a.pdf",
+        "languages": {
+            "Bangani": ["Uttarkashi District"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Debate on archaism of some select Bangani words",
+        "author": ["Anvita Abbi"],
+        "journal": "Indian Linguistics",
+        "volume": 58,
+        "number": "1-4",
+        "pages": "1--14",
+        "year": 1997,
+        "url": "http://www-personal.umich.edu/~pehook/bangani.abbi2.html",
+        "languages": {
+            "Bangani": ["Uttarkashi District"]
+        },
+        "topics": ["lexicography", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "A propos du vocabulaire Bangani",
+        "author": ["Xavier Delamarre"],
+        "journal": "Historische Sprachforschung",
+        "volume": 108,
+        "year": 1995,
+        "pages": "165--171",
+        "url": "https://www.jstor.org/stable/pdf/40849158.pdf",
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "Himachali Studies",
+        "author": ["Hans Hendriksen"],
+        "year": 1976,
+        "url": "https://www.royalacademy.dk/Publications/Low/683_Hendriksen,%20Hans.pdf",
+        "languages": {
+            "Kotgarhi": ["Kotgarh"],
+            "Kochi": ["Rampur"]
+        },
+        "topics": ["overview", "lexicography", "corpora"]
+    },
+    {
+        "type": "book",
+        "title": "Kinnauri Pahari Grammar",
+        "author": ["Ajesh Kumar", "Saramma Bezily"],
+        "year": 2018,
+        "url": "https://www.academia.edu/38823638/Kinnauri_Pahari_Grammar",
+        "languages": {
+            "Pahari Kinnauri": ["Kinnaur District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Kinnauri Pahari: Phonemic Summary, Himachal Pradesh, India",
+        "author": ["Ajesh Kumar", "Saramma Bezily"],
+        "year": 2015,
+        "url": "https://www.academia.edu/32017918/Kinnauri_Pahari_Phonemic_Summary",
+        "languages": {
+            "Pahari Kinnauri": ["Kinnaur District"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Phonological Description of Bhaderwahi",
+        "author": ["Aejaz Mohammed Sheikh", "Zargar Adil Ahmad"],
+        "journal": "Interdisciplinary Journal of Linguistics",
+        "year": 2017,
+        "volume": 10,
+        "pages": "85--92",
+        "languages": {
+            "Bhadarwahi": ["Bhaderwah"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Bhadarwahi",
+        "author": ["Amitabh Vikram Dwivedi"],
+        "year": 2013,
+        "publisher": "Lincom Europa",
+        "languages": {
+            "Bhadarwahi": ["Bhaderwah"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Bhalesī dialect",
+        "author": ["Siddheshwar Varma"],
+        "year": 1948,
+        "publisher": "Royal Asiatic Society of Bengal",
+        "languages": {
+            "Bhalesi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Sarazi",
+        "author": ["Ravi Parihar", "Amitabh Vikram Dwivedi"],
+        "year": 2019,
+        "publisher": "Lincom",
+        "languages": {
+            "Sarazi": ["Saraz"]
         },
         "topics": ["overview"]
     }

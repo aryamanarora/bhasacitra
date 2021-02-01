@@ -137,6 +137,7 @@
         
         function load(coord, ref, data, world) {
             topo = topojson.feature(world, world.objects.land).features
+            console.log(world)
             defs.selectAll("path")
                 .data(topo)
                 .enter()
