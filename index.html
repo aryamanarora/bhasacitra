@@ -192,6 +192,7 @@
 
             var cities_voronoi = []
             for (city in cities) {
+                console.log(city)
                 cities_voronoi.push([coord.cities[city][1], coord.cities[city][0], city])
             }
             var voronoi = d3.geoVoronoi()(cities_voronoi)

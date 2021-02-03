@@ -1221,6 +1221,18 @@
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/29647"
     },
     {
+        "type": "thesis",
+        "title": "A descriptive analysis of Madiya dialect",
+        "author": ["S. Veena"],
+        "year": 1965,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Gondi": ["Chandrapur District"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/156148"
+    },
+    {
         "type": "article",
         "title": "Synchronic Variation and Diachronic Change in Dialects of Marathi",
         "author": ["Sonal Kulkarni-Joshi", "Manasi Kelkar"],
@@ -3017,5 +3029,273 @@
             "Bateri": ["Batera"]
         },
         "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Pahāṛī and Other Tribal Dialects of Jammu",
+        "author": ["P. K. Kaul"],
+        "year": 2006,
+        "publisher": "Eastern Book Linkers",
+        "languages": {
+            "Padari": ["Paddar"],
+            "Bhalesi": ["Bhalessa"],
+            "Bhadarwahi": ["Bhaderwah"],
+            "Khasali": ["Bhatote"],
+            "Gaddi": ["Bharmour"],
+            "Sarazi": ["Saraz"],
+            "Rambani": ["Ramban"],
+            "Khasi": ["Gulabgarh"],
+            "Kishtwari": ["Kishtwar"],
+            "Poguli": ["Pogal Paristan Tehsil"],
+            "Chinali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Survey of Lahul Valley, Himachal Pradesh",
+        "author": ["Brad Chamberlain", "Wendy Chamberlain"],
+        "year": 2019,
+        "url": "https://www.sil.org/system/files/reapdata/14/18/32/141832844209183669770425266092693708252/silesr2019_006.pdf",
+        "publisher": "SIL International",
+        "languages": {
+            "Pangwali": ["Tindi"],
+            "Chinali": ["Gushal", "Nalda"],
+            "Lohari": ["Gondhla"],
+            "Pattani": ["Gushal", "Jobrang", "Thirot", "Udaipur, Himachal Pradesh", "Mooling", "Tholang", "Salgram"],
+            "Tinani": ["Sissu", "Gondhla"],
+            "Bunan": ["Keylong", "Stingri"],
+            "Ladakhi": ["Darcha", "Kolong", "Rarig", "Tingrat", "Khoksar", "Leh", "Spiti"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "A sociolinguistic survey on the Sansi language (Rajasthan)",
+        "author": ["Nithin Saju", "Clinton George", "Praison Cherian", "Blesson N. Kochumon"],
+        "year": 2019,
+        "url": "https://www.sil.org/system/files/reapdata/61/38/03/61380324721583689243438810234546365160/Saju_N_2020_A_sociolinguistic_survey_on_the_Sansi_language_Rajasthan_2020_10_22.pdf",
+        "publisher": "SIL International",
+        "languages": {
+            "Sansi": ["Hanumangarh District", "Sri Ganganagar District", "Ajmer District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Study of Bareli/Pauri and Related Languages",
+        "author": ["Vinod Wilson Varkey", "Kishore Kumar Vunnamatla"],
+        "year": 2018,
+        "url": "https://www.sil.org/system/files/reapdata/21/77/99/21779931578427577212724772957525485566/silesr2018_011.pdf",
+        "publisher": "SIL International",
+        "languages": {
+            "Rathwi Pauri": ["Jalgaon District", "Barwani District"],
+            "Rathwi Bareli": ["Khargone District", "Barwani District", "Dewas District", "Khandwa District"],
+            "Bhilali": ["Jhabua District", "Dhar District", "Khargone District", "Barwani District"],
+            "Bhili": ["Jhabua District", "Dhar District", "Dahod District"],
+            "Parya Bhilali": ["Barwani District"],
+            "Rathawi": ["Vadodara District"],
+            "Palya": ["Barwani District", "Dhule District"],
+            "Bareli Pauri": ["Barwani District", "Nandurbar District"],
+            "Nimadi": ["Khargone District", "Khandwa District"],
+            "Ahirani": ["Dhule District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Carotarnī Bolī: Bʰāṣāvaijñānik Adʰyayan",
+        "author": ["Bhanuprasad R. Chokshi"],
+        "year": 1956,
+        "publisher": "Maharaja Sayajirao University of Baroda",
+        "languages": {
+            "Gujarati": ["Kheda"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/59490",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive grammar of the Khatri Dialect",
+        "author": ["L. G. Joshi"],
+        "year": 1964,
+        "publisher": "Savitribai Phule Pune University",
+        "languages": {
+            "Saurashtra": ["Hubli"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145338",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Tigala dialect in comparision with standard colloquial Tamil",
+        "author": ["K. Chingaram"],
+        "year": 1962,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Tigalari": ["Tumkur District"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/156211",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Dacca dialect of Eastern Bengali",
+        "author": ["Animesh Kanti Pal"],
+        "year": 1969,
+        "publisher": "University of Calcutta",
+        "languages": {
+            "Bengali": ["Dhaka"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/205386",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Varhadi dialect: A study of Varhadi dialect in the neighbourhood of Akola",
+        "author": ["Madhuree Madhaw Bhagwat"],
+        "year": 1967,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Marathi": ["Akola District"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/154333",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Phonology and morphology of a Magahi dialect",
+        "author": ["Anil Chandra Sinha"],
+        "year": 1966,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Magahi": ["Munger District"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/155089",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Kātkarī dialect",
+        "author": ["S. B. Kulkarni"],
+        "year": 1969,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Katkari": ["Mangaon"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/160307",
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Survey of the Bhatri-speaking Communities of Central India",
+        "author": ["Dave Beine"],
+        "year": 2017,
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/21/74/29/21742940895660885467606140855248618814/silesr2017_005.pdf",
+        "languages": {
+            "Bhatri": ["Koraput District", "Bastar District"],
+            "Halbi": ["Bastar District"],
+            "Odia": ["Cuttack"],
+            "Desiya": ["Araku"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Phonological Analysis of Sadri",
+        "author": ["Juri Saikia"],
+        "year": 2015,
+        "publisher": "Assam University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/293377",
+        "languages": {
+            "Sadri": ["Upper Assam"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Rabha dialects: a linguistic study",
+        "author": ["Jibeswar Koch"],
+        "year": 2014,
+        "publisher": "Gauhati University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/116528",
+        "languages": {
+            "Rabha": ["Goalpara District", "Kokrajhar District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mixed dialects bordering on Panjabi Pahari and Khari boli",
+        "author": ["Sanyukta"],
+        "year": 1966,
+        "publisher": "Panjab University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/94076",
+        "languages": {
+            "Haryanvi": ["Ambala District", "Karnal District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Mewati",
+        "author": ["D. R. Bharadwaj"],
+        "year": 1974,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/149220",
+        "languages": {
+            "Mewati": ["Alwar District", "Bharatpur District", "Gurgaon District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Phalghat Tamil dialect",
+        "author": ["Saroja Ramkrishna"],
+        "year": 1981,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145461",
+        "languages": {
+            "Tamil": ["Palakkad"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mānak Hindī aur Bāṅgrū kā Vyatirekī Viśleṣaṇ",
+        "author": ["Som Dutt"],
+        "year": 1981,
+        "publisher": "Panjab University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/111835",
+        "languages": {
+            "Haryanvi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Socio-descriptive study of the dialects of Western Hindi",
+        "author": ["Pallav Vishnu"],
+        "year": 2008,
+        "publisher": "Aligarh Muslim University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/52320",
+        "languages": {
+            "Hindi": ["Delhi", "Budaun", "Bulandshahr", "Khurja", "Bareilly", "Dadri"],
+            "Braj": [],
+            "Kannauji": []
+        },
+        "topics": ["dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive study of the western Pahari dialect Kandiali as spoken in the north east hills of district Gurdaspur",
+        "author": ["Darshan Kumar Tripathi"],
+        "year": 1975,
+        "publisher": "Panjab University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/83193",
+        "languages": {
+            "Kandiali": ["Shahpur Kandi"]
+        }
     }
 ]
