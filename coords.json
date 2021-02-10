@@ -392,9 +392,21 @@
         "Bulandshahr": [28.4058999, 77.8382413],
         "Khurja": [28.2511192, 77.8397718],
         "Bareilly": [28.3760609, 79.3518994],
-        "Dadri": [28.5574578, 77.5348834]
+        "Dadri": [28.5574578, 77.5348834],
+        "Chhotedongar": [19.4578794, 81.3188874],
+        "Sonapal": [19.6541276, 81.4077412],
+        "Bijapur District": [16.813821, 75.3426067],
+        "Saptari District": [26.6491325, 86.6295852],
+        "Masjed Solaymān": [31.9515749, 49.2194259],
+        "Sukhsar": [23.1532947, 74.0175002],
+        "Dungarpur": [23.8466967, 73.6962814],
+        "Bhaktapur": [27.6773935, 85.3894471],
+        "Cherrapunji": [25.2702081, 91.7147788],
+        "Kandahar": [31.6289, 65.7372],
+        "Quetta": [30.1798, 66.9750]
     },
     "family": {
+        "Bakhtiari": ["Iranian", "Western", "Southwestern"],
         "Rathwi Pauri": ["Indo-Aryan", "Western", "Bhil"],
         "Rathwi Bareli": ["Indo-Aryan", "Western", "Bhil"],
         "Bhilali": ["Indo-Aryan", "Western", "Bhil"],
@@ -409,6 +421,7 @@
         "Sansi": ["Indo-Aryan", "Northwestern", "Punjabic"],
         "Saraiki": ["Indo-Aryan", "Northwestern", "Lahndic"],
         "Sindhi": ["Indo-Aryan", "Northwestern", "Sindhic"],
+        "Dhatki": ["Indo-Aryan", "Northwestern", "Sindhic"],
         "Hindko": ["Indo-Aryan", "Northwestern", "Lahndic"],
         "Kutchi": ["Indo-Aryan", "Northwestern", "Sindhic"],
         "Khetrani": ["Indo-Aryan", "Northwestern", "Sindhic"],
@@ -434,6 +447,7 @@
         "Malvi": ["Indo-Aryan", "Western", "Rajasthanic"],
         "Hadothi": ["Indo-Aryan", "Western", "Rajasthanic"],
         "Bhitrauti": ["Indo-Aryan", "Western", "Rajasthanic"],
+        "Lambadi": ["Indo-Aryan", "Western", "Rajasthanic"],
         "Wagri": ["Indo-Aryan", "Western", "Bhil"],
         "Shahwadi": ["Indo-Aryan", "Western", "Rajasthanic"],
         "Ahirwadi": ["Indo-Aryan", "Western", "Rajasthanic"],
@@ -526,7 +540,7 @@
         "Chambeali": ["Indo-Aryan", "Pahari", "Western Pahari"],
         "Pangwali": ["Indo-Aryan", "Pahari", "Western Pahari"],
         "Gojri": ["Indo-Aryan", "Western", "Rajasthanic"],
-        "Pahari-Pothwari": ["Indo-Aryan", "Lahndic"],
+        "Pahari-Pothwari": ["Indo-Aryan", "Northwestern", "Lahndic"],
         "Sarazi": ["Indo-Aryan", "Dardic", "Kashmiric"],
         "Rambani": ["Indo-Aryan", "Dardic", "Kashmiric"],
         "Kangri": ["Indo-Aryan", "Pahari", "Western Pahari"],
@@ -549,6 +563,9 @@
         "Kamviri": ["Nuristani", "Northern", "Kamkata-vari"],
         "Katavari": ["Nuristani", "Northern", "Kamkata-vari"],
         "Yidgha": ["Iranian", "Eastern", "Pamir"],
-        "Munji": ["Iranian", "Eastern", "Pamir"]
+        "Munji": ["Iranian", "Eastern", "Pamir"],
+        "Newar": ["Sino-Tibetan", "Newaric"],
+        "Khasi (Austroasiatic)": ["Austroasiatic", "Khasi-Palaungic", "Khasic"],
+        "Pashto": ["Iranian", "Eastern", "Pashto"]
     }
 }

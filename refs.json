@@ -222,7 +222,7 @@
         "year": "n.d.",
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
-            "Sindhi": ["Chachro", "Chelhar"]
+            "Dhatki": ["Chachro", "Chelhar"]
         },
         "topics": ["overview"]
     },
@@ -2383,7 +2383,8 @@
         "year": 1934,
         "languages": {
             "Khetrani": []
-        }
+        },
+        "topics": ["overview"]
     },
     {
         "type": "book",
@@ -3296,6 +3297,179 @@
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/83193",
         "languages": {
             "Kandiali": ["Shahpur Kandi"]
-        }
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Language and Politics in a Pakistan Province: The Sindhi Language Movement",
+        "author": ["Tariq Rahman"],
+        "journal": "Asian Survey",
+        "year": 1995,
+        "volume": 35,
+        "number": 11,
+        "url": "https://www.jstor.org/stable/pdf/2645724.pdf",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Halbi: an Indo-Aryan language",
+        "author": ["Chitra Kaushikkar"],
+        "year": 1972,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/154339",
+        "languages": {
+            "Halbi": ["Chhotedongar", "Sonapal"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of Lambani language spoken in Bijapur district",
+        "author": ["V. H. Barikeri"],
+        "year": 1982,
+        "publisher": "Karnatak University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/93923",
+        "languages": {
+            "Lambadi": ["Bijapur District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive study of Maithili language in Nepal spoken in Saptari District",
+        "author": ["Bal Krishna Jha"],
+        "year": 1984,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/152114",
+        "languages": {
+            "Maithili": ["Saptari District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Bakhtiari Studies: Phonology, Text, Lexicon",
+        "author": ["Erik Anonby", "Ashraf Asadi"],
+        "series": "Studia Iranica Upsaliensia",
+        "seriesvolume": 24,
+        "publisher": "Acta Universitatis Upsaliensis",
+        "year": 2014,
+        "url": "https://www.diva-portal.org/smash/get/diva2:758171/FULLTEXT01.pdf",
+        "languages": {
+            "Bakhtiari": ["Masjed Solaymān"]
+        },
+        "topics": ["overview", "phonology", "corpora", "lexicography"]
+    },
+    {
+        "type": "thesis",
+        "title": "Siraiki: A Sociolinguistic Study of Language Desertion",
+        "author": ["Saiqa Imtiaz Asif"],
+        "year": 2005,
+        "publisher": "Lancaster University",
+        "url": "https://eprints.lancs.ac.uk/id/eprint/133467/1/11003560.pdf",
+        "languages": {
+            "Saraiki": ["Multan"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A linguistic study of Bhili dialects: a descriptive study of central and north Bhili",
+        "author": ["Yogendra D. Vyas"],
+        "year": 1967,
+        "publisher": "Gujarat University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/49002",
+        "languages": {
+            "Bhili": ["Dungarpur", "Sukhsar"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive study of the Bhaktapur dialect of Newari",
+        "author": ["Sunder Krishna Joshi"],
+        "year": 1984,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/258128",
+        "languages": {
+            "Newar": ["Bhaktapur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A description of Nepali literary and colloquial",
+        "author": ["Bellabh Mani Dehal"],
+        "year": 1974,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/258113",
+        "languages": {
+            "Nepali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of Khasi",
+        "author": ["K. S. Nagaraja"],
+        "year": 1977,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/258094",
+        "languages": {
+            "Khasi (Austroasiatic)": ["Cherrapunji"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Four Varieties of Pashto",
+        "author": ["Michael M. T. Henderson"],
+        "journal": "Journal of the American Oriental Society",
+        "year": 1983,
+        "volume": 103,
+        "number": 3,
+        "url": "https://www.jstor.org/stable/pdf/602038.pdf",
+        "languages": {
+            "Pashto": ["Kandahar", "Quetta", "Peshawar"]
+        },
+        "topics": ["dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "Acoustic Analysis of Sindhi Speech--A Pre-curser for an ASR System",
+        "author": ["Ayaz Keerio"],
+        "publisher": "University of Sussex",
+        "year": 2010,
+        "url": "https://core.ac.uk/reader/2710121",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["phonology", "computational"]
+    },
+    {
+        "type": "inbook",
+        "title": "Agreement and verb types in Kutchi Gujarati",
+        "author": ["Patrick Grosz", "Pritty Patel-Grosz"],
+        "year": 2014,
+        "booktitle": "The Lexicon–Syntax Interface: Perspectives from South Asian Languages",
+        "languages": {
+            "Kutchi": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "The Gawri Language of Kalam and Dir Kohistan",
+        "author": ["Joan L. G. Baart", "Muhammad Zaman Sagar"],
+        "year": 2002,
+        "languages": {
+            "Kalam Kohistani": ["Kalam"]
+        },
+        "url": "https://www.academia.edu/2900061/The_Gawri_Language_of_Kalam_and_Dir_Kohistan_with_Muhammad_Zaman_Sagar_",
+        "topics": ["overview"]
     }
 ]

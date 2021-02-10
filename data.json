@@ -47,6 +47,12 @@
             "Saraiki": {
                 "default": "yes"
             },
+            "Khetrani": {"default": "yes"},
+            "Marwari": {"default": "yes"},
+            "Braj": {"default": "yes"},
+            "Kannauji": {"default": "yes"},
+            "Bagheli": {"default": "yes"},
+            "Bundeli": {"default": "yes"},
             "Hindko": {
                 "default": "yes"
             },
@@ -85,7 +91,10 @@
             },
             "Southeastern Pashayi": {
                 "default": "no"
-            }
+            },
+            "Tirahi": {"default": "no"},
+            "Kalam Kohistani": {"default": "no"},
+            "Torwali": {"default": "yes"}
         }
     },
     "post-nasal voicing": {

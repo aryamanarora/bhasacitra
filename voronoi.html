@@ -220,7 +220,7 @@
                             var city = d.properties.site[2]
                             if (city == "blank") return "#EEEEEE"
                             for (lang in cities[city]) {
-                                $(this).addClass(lang.replace(" ", "_"))
+                                d3.select(this).attr("data-lang", d3.select(this).attr("data-lang") + " " + lang.replace(" ", "_"))
                                 var new_colour = "#EEEEEE"
                                 if (text == "family") {
                                     new_colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 3)
@@ -294,7 +294,7 @@
 
                 x.on("mouseover", function(event, d) {
                     var l = d3.select(this).attr("id")
-                    d3.selectAll("." + l.replace(" ", "_")).transition().style("opacity", 0.2)
+                    d3.selectAll('[data-lang~="' + l.replace(" ", "_") + '"]').transition().style("opacity", 0.2)
                     var loc = stored_coords[l]
                     g.append("text")
                         .attr("x", +loc[0])
@@ -310,7 +310,7 @@
 
                 x.on("mouseout", function(event, d) {
                     var l = d3.select(this).attr("id")
-                    d3.selectAll("." + l.replace(" ", "_")).transition().style("opacity", null)
+                    d3.selectAll('[data-lang~="' + l.replace(" ", "_") + '"]').transition().style("opacity", null)
                     d3.selectAll("text").transition().style("opacity", 0).remove()
                 })
                     
