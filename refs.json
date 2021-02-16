@@ -2079,6 +2079,31 @@
     },
     {
         "type": "book",
+        "title": "The languages of the northern Himalayas, being studies in the grammar of fifteen Himalayan dialects",
+        "author": ["Thomas G. Bailey"],
+        "year": 1915,
+        "publisher": "Royal Asiatic Society",
+        "location": "London",
+        "languages": {
+            "Purgi": ["Kargil"],
+            "Lower Kinnauri": ["Satluj Valley"],
+            "Chitkuli Kinnauri": ["Chitkul", "Rakchham"],
+            "Hindko": ["Kaghan Valley"],
+            "Punjabi": ["Pir Pinjal Pass"],
+            "Kochi": ["Rampur", "Rohru", "Baghi", "Dodra"],
+            "Barari": ["Jubbal"],
+            "Bishshau": ["Jubbal"],
+            "Eastern Mandeali": ["Mandi"],
+            "Eastern Suketi": ["Suket"],
+            "Suket Siraji": ["Suket"],
+            "Bakhli": ["Suket"],
+            "Bilaspuri": ["Bilaspur"],
+            "Handuri": ["Nalagarh"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
         "title": "Pahari and Pothwari: A sociolinguistic survey",
         "year": 2010,
         "publisher": "SIL International",
@@ -2994,6 +3019,22 @@
     },
     {
         "type": "book",
+        "title": "Sociolinguistic Survey of Northern Pakistan: Languages of Northern Areas",
+        "author": ["Peter C. Backstrom", "Carla F. Radloff"],
+        "year": 1992,
+        "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.603.1682&rep=rep1&type=pdf",
+        "languages": {
+            "Balti": ["Roundu Valley", "Shigar", "Skardu Valley", "Khaplu", "Kharmang", "Chorbat Valley"],
+            "Burushaski": ["Murtazabad", "Hunza Valley", "Yasin Valley"],
+            "Wakhi": ["Passu", "Shimshal", "Darkot", "Immit"],
+            "Domaaki": ["Nomal Valley"],
+            "Shina": []
+        },
+        "publisher": "SIL International",
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
         "title": "Sociolinguistic Survey of Northern Pakistan: Languages of Chitral",
         "author": ["Kendall D. Decker"],
         "url": "https://www.sil.org/system/files/reapdata/27/02/58/27025885940262322544465526417847562858/32850_SSNP05.pdf",
@@ -3471,5 +3512,87 @@
         },
         "url": "https://www.academia.edu/2900061/The_Gawri_Language_of_Kalam_and_Dir_Kohistan_with_Muhammad_Zaman_Sagar_",
         "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Language Shift in Northern Pakistan: The Case of Domaakí and Pashto",
+        "author": ["Matthias Weinreich"],
+        "journal": "Iran & the Caucasus",
+        "volume": 14,
+        "number": 1,
+        "year": 2010,
+        "pages": "43--56",
+        "url": "https://www.jstor.org/stable/25703832",
+        "languages": {
+            "Domaaki": [],
+            "Pashto": []
+        },
+        "topics": ["sociolinguistics", "language shift"]
+    },
+    {
+        "type": "article",
+        "title": "Domaki Noun Inflection and Case Syntax",
+        "journal": "Studia Orientalia",
+        "author": ["Bertil Tikkanen"],
+        "year": 2011,
+        "volume": 110,
+        "pages": "205--228",
+        "url": "https://www.academia.edu/4077752/Domaki_Noun_Inflection_and_Case_Syntax?email_work_card=view-paper",
+        "languages": {
+            "Domaaki": ["Hunza Valley"]
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Two Varieties of Ḍomaakí",
+        "journal": "Zeitschrift der Deutschen Morgenländischen Gesellschaft",
+        "author": ["Matthias Weinreich"],
+        "year": 2008,
+        "volume": 158,
+        "number": 2,
+        "pages": "299--316",
+        "url": "https://www.jstor.org/stable/10.13173/zeitdeutmorggese.158.2.0299",
+        "languages": {
+            "Domaaki": ["Hunza Valley", "Nagar Valley"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Tone sandhi in Chakma and Cak",
+        "author": ["Huziwara Keisuke"],
+        "year": 2003,
+        "journal": "36th International Conference on Sino-Tibetan Languages and Linguistics",
+        "languages": {
+            "Chakma": ["Chittagong Hill Tracts"]
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Kumaoni Language and Literature",
+        "author": ["Trepan Singh Chauhan", "Purabi Panwar"],
+        "journal": "Indian Literature",
+        "year": 2002,
+        "volume": 46,
+        "number": 2,
+        "pages": "108--113",
+        "url": "https://www.jstor.org/stable/23345725",
+        "languages": {
+            "Kumaoni": ["Haldwani"]
+        },
+        "topics": ["literature"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Study of Dotyali",
+        "author": ["Stephanie R. Eichentopf"],
+        "publisher": "SIL International",
+        "url": "https://www.sil.org/system/files/reapdata/11/64/37/116437364756589393671740952808131787382/Dotyali_report.pdf",
+        "languages": {
+            "Dotyali": ["Doti District", "Baitadi", "Darchula District", "Bajhang District"]
+        },
+        "topics": ["sociolinguistics"]
     }
 ]
