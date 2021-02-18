@@ -3594,5 +3594,203 @@
             "Dotyali": ["Doti District", "Baitadi", "Darchula District", "Bajhang District"]
         },
         "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Reconstructing linguistic history in a dialect continuum: The Kamta, Rajbanshi, and Northern Deshi Bangla subgroup of Indo-Aryan",
+        "author": ["Matthew William Stirling Toulmin"],
+        "publisher": "Matthew William Stirling",
+        "year": 2006,
+        "url": "https://openresearch-repository.anu.edu.au/handle/1885/45743",
+        "languages": {
+            "Kamtapuri": ["Rangeli", "Maheshpur", "Shalkumar", "Rangpur", "Bhatibari", "Bongaigaon", "Thakurgaon"],
+            "Surjapuri": ["Kishanganj"]
+        },
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "inbook",
+        "title": "Sadani / Sadri",
+        "author": ["John Peterson", "Savita Kiran"],
+        "booktitle": "Новые индоарийскиеязыки, Языки мира",
+        "year": "n.d.",
+        "url": "http://www.southasiabibliography.de/uploads/Sadri.pdf",
+        "languages": {
+            "Sadri": ["Ranchi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive grammar of Bagri",
+        "author": ["Lakhan Gusain"],
+        "year": 1999,
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/16847",
+        "languages": {
+            "Bagri": ["Chautala", "Madhosinghana", "Sureran", "Abohar", "Fazilka", "Hanumangarh District", "Sri Ganganagar District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Description of Konkani (India)",
+        "author": ["Matthew Almeida"],
+        "year": 1989,
+        "publisher": "Georgetown University",
+        "languages": {
+            "Konkani": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Language of Kavaras",
+        "author": ["Prema Nair S."],
+        "year": 1993,
+        "publisher": "University of Kerala",
+        "languages": {
+            "Kavara": ["Palakkad"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/164307"
+    },
+    {
+        "type": "thesis",
+        "title": "Description of the language of Mudugas",
+        "author": ["Rajendran N."],
+        "year": 1978,
+        "publisher": "University of Kerala",
+        "languages": {
+            "Muduga": ["Attappadi"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/101622",
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Descriptive Grammar of Muduga and Kurumba Languages",
+        "author": ["P. N. Ravindran", "C. G. Syama", "Syam SK"],
+        "year": 2017,
+        "publisher": "Kerala Institute for Research Training and Development Studies of Scheduled Castes and Scheduled Tribes",
+        "url": "https://repository.tribal.gov.in/bitstream/123456789/74679/1/KIRT_2017_002.pdf",
+        "languages": {
+            "Muduga": ["Attappadi"],
+            "Betta Kurumba": ["Attappadi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "An acoustic study on retracted and fronted vowels in Muduga",
+        "author": ["Binny Abraham"],
+        "url": "https://www.youtube.com/watch?v=SDYVW7Wvfd8",
+        "year": 2020,
+        "languages": {
+            "Muduga": []
+        },
+        "topics": ["phonology"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Descriptive Analysis of Yerava",
+        "author": ["B. Mallikarjun"],
+        "year": 1982,
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/93866",
+        "publisher": "Karnatak University",
+        "languages": {
+            "Yerava": ["Kodagu District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Language of the Shōlegas, Nilgiri Area, South India",
+        "author": ["Kamil V. Zvelebil"],
+        "year": 1990,
+        "journal": "Journal of the American Oriental Society",
+        "volume": 110,
+        "number": 3,
+        "pages": "417--433",
+        "url": "https://www.jstor.org/stable/603185",
+        "languages": {
+            "Sholaga": ["Theppakadu"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Jēnu Kuṟumba: Brief Report on a \"Tribal\" Language of the Nilgiri Area",
+        "author": ["Kamil V. Zvelebil"],
+        "year": 1988,
+        "journal": "Journal of the American Oriental Society",
+        "volume": 108,
+        "number": 2,
+        "pages": "297--301",
+        "url": "https://www.jstor.org/stable/603656",
+        "languages": {
+            "Jenu Kurumba": ["Theppakadu"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Kodagu",
+        "author": ["Ramaswami Balakrishnan"],
+        "year": 1977,
+        "publisher": "Annamalai University",
+        "languages": {
+            "Kodava": ["Kodagu District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Koṇḍa or Kūbi, A Dravidian language: Texts, grammar, and vocabulary",
+        "author": ["Bhadriraju Krishnamurti"],
+        "year": 1969,
+        "publisher": "Tribal Cultural Research & Training Centre",
+        "languages": {
+            "Konda": ["Vizianagaram", "Koraput District"]
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Kolavagoṭṭi (Kolami of Adilabad)",
+        "author": ["P. S. Subrahmanyam"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": "70/71",
+        "pages": "173--248",
+        "year": "2010--2011",
+        "languages": {
+            "Kolami": ["Utnoor", "Jainoor", "Kinwat"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.jstor.org/stable/42931246"
+    },
+    {
+        "type": "article",
+        "title": "Naiki of Chanda",
+        "author": ["S. Bhattacharya"],
+        "journal": "Indo-Iranian Journal",
+        "volume": 5,
+        "number": 2,
+        "year": "1961--1962",
+        "url": "https://www.jstor.org/stable/24646639",
+        "languages": {
+            "Naiki": ["Mul"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Konekor Gadaba: A Dravidian language",
+        "author": ["Peri Bhaskararao"],
+        "year": 1980,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Kondekor Gadaba": ["Srikakulam District"]
+        },
+        "topics": ["overview"]
     }
 ]
