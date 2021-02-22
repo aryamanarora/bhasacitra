@@ -48,7 +48,7 @@
         "languages": {
             "Saraiki": ["Dera Ghazi Khan"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -76,7 +76,7 @@
         "languages": {
             "Kholosi": ["Kholos"]
         },
-        "topics": ["lexicography", "phonology"]
+        "topics": ["lexicography", "phonetics/phonology"]
     },
     {
         "type": "book",
@@ -120,7 +120,7 @@
         "languages": {
             "Punjabi": ["Lyallpur"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -150,7 +150,7 @@
         "languages": {
             "Sindhi": ["Hyderabad, Pakistan"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -189,7 +189,7 @@
         "languages": {
             "Kalasha-mon": ["Bumburet"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -416,7 +416,7 @@
         "languages": {
             "Southeastern Pashayi": ["Dara-i-Nur"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -428,7 +428,7 @@
         "languages": {
             "Bengali": ["Dhaka"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -440,7 +440,7 @@
         "languages": {
             "Assamese": ["Upper Assam"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -452,7 +452,7 @@
         "languages": {
             "Khowar": ["Mastuj"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -464,7 +464,7 @@
         "languages": {
             "Kalasha-mon": ["Bumburet"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -476,7 +476,7 @@
         "languages": {
             "Hindi": ["Delhi", "Varanasi", "Lucknow"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -488,7 +488,7 @@
         "languages": {
             "Nepali": ["Madi"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -524,7 +524,7 @@
         "languages": {
             "Hindi": ["Rankhandi", "Sivaya", "Kalron"]
         },
-        "topics": ["phonology", "dialectology"],
+        "topics": ["phonetics/phonology", "dialectology"],
         "url": "https://www.jstor.org/stable/410824"
     },
     {
@@ -594,7 +594,7 @@
         "languages": {
             "Luwati": ["Muscat"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -609,7 +609,7 @@
         "languages": {
             "Bhadarwahi": ["Bhaderwah"]
         },
-        "topics": ["phonology", "syntax"]
+        "topics": ["phonetics/phonology", "syntax"]
     },
     {
         "type": "book",
@@ -1050,7 +1050,7 @@
         "languages": {
             "Sinhala": ["Western Province"]
          },
-        "topics": ["phonology", "historical"]
+        "topics": ["phonetics/phonology", "historical"]
     },
     {
         "type": "article",
@@ -1060,7 +1060,7 @@
         "languages": {
             "Sinhala": ["Western Province"]
          },
-        "topics": ["phonology", "historical"]
+        "topics": ["phonetics/phonology", "historical"]
     },
     {
         "type": "article",
@@ -1125,7 +1125,7 @@
         "languages": {
             "Badaga": ["The Nilgiris District"]
         },
-        "topics": ["phonology"],
+        "topics": ["phonetics/phonology"],
         "url": "https://www.jstor.org/stable/409407"
     },
     {
@@ -1288,7 +1288,7 @@
         "languages": {
             "Telugu": ["Kudagama", "Kaluwewa"]
         },
-        "topics": ["phonology"],
+        "topics": ["phonetics/phonology"],
         "url": "https://www.jstor.org/stable/30029427"
     },
     {
@@ -1397,7 +1397,7 @@
         "languages": {
             "Dhivehi": ["Malé City"]
          },
-        "topics": ["phonology", "phonetics"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -1409,7 +1409,7 @@
         "languages": {
             "Dhivehi": ["Malé City"]
          },
-        "topics": ["phonology", "phonetics"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "thesis",
@@ -2240,7 +2240,7 @@
         "languages": {
             "Shina": ["Gilgit"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -2277,7 +2277,7 @@
         "languages": {
             "Shina": ["Gurez Valley"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -2351,7 +2351,7 @@
         "languages": {
             "Dogri": ["Jammu"]
         },
-        "topics": ["phonology", "overview"]
+        "topics": ["phonetics/phonology", "overview"]
     },
     {
         "type": "article",
@@ -2397,7 +2397,7 @@
         "languages": {
             "Khetrani": []
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -2756,7 +2756,7 @@
         "languages": {
             "Kannauji": ["Kanpur"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -2767,7 +2767,7 @@
         "languages": {
             "Bagheli": []
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -2897,7 +2897,7 @@
         "languages": {
             "Pahari Kinnauri": ["Kinnaur District"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -2910,7 +2910,7 @@
         "languages": {
             "Bhadarwahi": ["Bhaderwah"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "book",
@@ -3403,7 +3403,7 @@
         "languages": {
             "Bakhtiari": ["Masjed Solaymān"]
         },
-        "topics": ["overview", "phonology", "corpora", "lexicography"]
+        "topics": ["overview", "phonetics/phonology", "corpora", "lexicography"]
     },
     {
         "type": "thesis",
@@ -3489,7 +3489,7 @@
         "languages": {
             "Sindhi": []
         },
-        "topics": ["phonology", "computational"]
+        "topics": ["phonetics/phonology", "computational"]
     },
     {
         "type": "inbook",
@@ -3567,7 +3567,7 @@
         "languages": {
             "Chakma": ["Chittagong Hill Tracts"]
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "article",
@@ -3688,7 +3688,7 @@
         "languages": {
             "Muduga": []
         },
-        "topics": ["phonology"]
+        "topics": ["phonetics/phonology"]
     },
     {
         "type": "thesis",
@@ -3792,5 +3792,106 @@
             "Kondekor Gadaba": ["Srikakulam District"]
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Grammatical Sketch and Texts of the Speech Variety of Sangameshwar",
+        "author": ["Salwa Kazi"],
+        "year": 2019,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Malvani": ["Sangameshwar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Bilingualism and Syntactic Change in Konkani",
+        "author": ["Mangesh V. Nadkarni"],
+        "journal": "Language",
+        "year": 1975,
+        "volume": 51,
+        "number": 3,
+        "pages": "672--683",
+        "languages": {
+            "Konkani": ["Uttara Kannada District", "Dakshina Kannada District"]
+        },
+        "topics": ["language shift", "syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Linguistic Profile of Konkani",
+        "author": ["Niranjan Vikas Tambe"],
+        "year": 2019,
+        "publisher": "University of Mumbai",
+        "url": "https://www.academia.edu/41052914/Linguistic_Profile_of_Konkani_%E0%A4%95%E0%A5%8B%E0%A4%82%E0%A4%95%E0%A4%A3%E0%A5%80%E0%A4%9A%E0%A5%87_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%A4_%E0%A4%B0",
+        "languages": {
+            "Konkani": ["Colem", "Molem", "Shigao"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Phonological and Morphological Patterns in Antruzi, Bardesi, and Saxtti Konkani: A Comparative Study",
+        "author": ["Manasi Nadkarni"],
+        "year": 2014,
+        "publisher": "University of Mumbai",
+        "url": "https://www.academia.edu/44738808/PHONOLOGICAL_AND_MORPHOLOGICAL_PATTERNS_IN_ANTRUZI_BARDESI_AND_SAXTTI_KONKANI_A_COMPARATIVE_STUDY_MANASI_NADKARNI_UNDER_THE_GUIDANCE_OF",
+        "languages": {
+            "Konkani": ["Bardez", "Salcete", "Ponda"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Gujarati Reference Grammar",
+        "author": ["George Cardona"],
+        "publisher": "University of Pennsylvania",
+        "year": 1965,
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Concordant Adverbs and Postpositions in Gujarati",
+        "author": ["Peter E. Hook", "Dayashankar M. Joshi"],
+        "year": 1991,
+        "journal": "Indian Linguistics",
+        "volume": 52,
+        "number": 1,
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["syntax", "morphology"],
+        "url": "https://www.academia.edu/6795462/Concordant_Adverbs_and_Postpositions_in_Gujarati"
+    },
+    {
+        "type": "article",
+        "title": "The phonetics of contrastive phonation in Gujarati",
+        "author": ["Sameer ud Dowla Khan"],
+        "journal": "Journal of Phonetics",
+        "volume": 40,
+        "number": 6,
+        "year": 2012,
+        "pages": "780--795",
+        "url": "https://doi.org/10.1016/j.wocn.2012.07.001",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "thesis",
+        "author": ["Babu Sathar"],
+        "title": "Agreement in Gujarati",
+        "publisher": "University of Pennsylvania",
+        "url": "https://repository.upenn.edu/dissertations/AAI3182587/",
+        "year": 2005,
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["morphology", "syntax"]
     }
 ]

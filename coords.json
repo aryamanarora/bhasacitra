@@ -457,7 +457,11 @@
         "Jainoor": [19.3727938, 78.8967704],
         "Kinwat": [19.6214138, 78.1908989],
         "Mul": [20.0650009, 79.668753],
-        "Pottangi": [18.56818, 82.9645508]
+        "Pottangi": [18.56818, 82.9645508],
+        "Colem": [15.3406226, 74.2033601],
+        "Molem": [15.3893442, 74.2027324],
+        "Shigao": [15.3324884, 74.1886244],
+        "Ponda": [15.40, 74.02]
     },
     "family": {
         "Eastern Suketi": ["Indo-Aryan", "Pahari", "Western Pahari"],
@@ -545,6 +549,7 @@
         "Katkari": ["Indo-Aryan", "Southwestern", "Marathic"],
         "Khandeshi": ["Indo-Aryan", "Western", "Khandeshi"],
         "Konkani": ["Indo-Aryan", "Southwestern", "Konkanic"],
+        "Malvani": ["Indo-Aryan", "Southwestern", "Konkanic"],
         "Bhadarwahi": ["Indo-Aryan", "Pahari", "Western Pahari"],
         "Barari": ["Indo-Aryan", "Pahari", "Western Pahari"],
         "Bishshau": ["Indo-Aryan", "Pahari", "Western Pahari"],
