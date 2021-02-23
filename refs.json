@@ -3893,5 +3893,261 @@
             "Gujarati": []
         },
         "topics": ["morphology", "syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Vowel Systems of Five Iranian Balochi Dialects",
+        "author": ["Farideh Okati"],
+        "publisher": "Uppsala University",
+        "year": 2012,
+        "languages": {
+            "Balochi": ["North Sistan", "Khash", "Saravan", "Iranshahr", "Chabahar"]
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.diva-portal.org/smash/get/diva2:564554/FULLTEXT02"
+    },
+    {
+        "type": "article",
+        "title": "The study of phonemes in Brahui dialect of Rudbar-e Jonub",
+        "author": ["Fatemeh Sheybanifard", "Zohreh Zarshenas", "Mohammad Motallebi"],
+        "url": "https://zaban.guilan.ac.ir/article_3550_en.html",
+        "journal": "Persian Language and Iranian Dialects",
+        "volume": 4,
+        "number": 1,
+        "year": 2019,
+        "pages": "129--152",
+        "languages": {
+            "Brahui": ["Rudbar-e Jonub"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The verb structure in Brahui language of Ruedbar-Jonub",
+        "author": ["Fatemeh Sheybanifard", "Zohreh Zarshenas"],
+        "url": "https://jlr.alzahra.ac.ir/article_4016.html",
+        "journal": "Faṣlnāmah-ʼi ʻilmī-pizhūhishī-i zabānʹpizhūhī-i Dānishgāh-i al-Zahrā",
+        "year": 2020,
+        "volume": 12,
+        "number": 35,
+        "languages": {
+            "Brahui": ["Rudbar-e Jonub"]
+        },
+        "topics": ["morphology", "syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "A linguistic study of Saurashtri language",
+        "author": ["K. S. Ramasubramanian"],
+        "year": 1968,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Saurashtra": ["Madurai"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/151972"
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Nimadi",
+        "author": ["Kanhaiyalal Lekhwani"],
+        "year": 1979,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145363",
+        "languages": {
+            "Nimadi": ["Khargone District", "Khandwa District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Kosti",
+        "author": ["Aparna Jha"],
+        "year": 1972,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/153792",
+        "languages": {
+            "Koshti": ["Nagpur District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Gawdi",
+        "author": ["P. P. Karapurkar"],
+        "year": 1968,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/154337",
+        "languages": {
+            "Konkani": ["Fatorda"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Kadar",
+        "author": ["R. Indira"],
+        "year": 1976,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/154343",
+        "languages": {
+            "Kadar": ["Kollengode"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Ṭhākarī dialect",
+        "author": ["Nanda Deshpande"],
+        "year": 1976,
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/154397",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Thakari": ["Waghachi Wadi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Kachi (Kacchi)",
+        "author": ["S. R. Rohra"],
+        "year": "n.d.",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/152783",
+        "languages": {
+            "Kutchi": ["Mandvi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Oriya used in Puri",
+        "author": ["Debiprasad Pany"],
+        "year": 2014,
+        "publisher": "Sambalpur University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/276711",
+        "languages": {
+            "Odia": ["Puri"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of standard colloquial Oriya of the Puri District of Orissa",
+        "author": ["Upendra Prasad Dalai"],
+        "year": 1978,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/160311",
+        "languages": {
+            "Odia": ["Puri"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of Nefamese",
+        "author": ["Nupur Bhuyan"],
+        "year": 2013,
+        "publisher": "Assam University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/94064",
+        "languages": {
+            "Nefamese": ["Itanagar", "Doimukh", "Balijan", "East Siang District", "West Siang District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Rabha language: a descriptive analysis",
+        "author": ["Jaba Thakuria"],
+        "year": 2004,
+        "publisher": "Gauhati University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67606",
+        "languages": {
+            "Rabha": ["Goalpara District", "Kamrup District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive study of Chitpavni: a dialect of Marathi",
+        "author": ["Vasudha Bhide"],
+        "year": "n.d.",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/173381",
+        "languages": {
+            "Marathi": ["Ratnagiri District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The descriptive analysis of Māṅgī Marāṭhī in Malva, M.P.",
+        "author": ["Shankar Govind Valimbe"],
+        "year": "1964",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/155761",
+        "languages": {
+            "Marathi": ["Mhowgaon"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive analysis of Khwunomia dialect",
+        "author": ["Nichumeno Chase"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/149199",
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "year": 1992,
+        "languages": {
+            "Angami": ["Khonoma"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The structure of the Marathi verb phrase: A sychronic descriptive analysis",
+        "author": ["K. Sonar"],
+        "year": 1982,
+        "publisher": "Savitribai Phule Pune University",
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mānak Hindī aur Khajuhī (Doābī) Bolī kā vyatirekī adʰyayan",
+        "author": ["Rajnarayan Awasthi"],
+        "year": 2001,
+        "publisher": "Panjab University",
+        "languages": {
+            "Hindi": ["Khajuha"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/112038"
+    },
+    {
+        "type": "thesis",
+        "title": "Bagʰāṭī Bolī kā bʰāṣā-vaijñānik adʰyayan",
+        "author": ["Ishwari Dutt"],
+        "year": 1978,
+        "publisher": "Panjab University",
+        "languages": {
+            "Baghati": ["Solan"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/111863"
+    },
+    {
+        "type": "thesis",
+        "title": "Kyontʰalī Bolī kā bʰāṣā-vaijñānik adʰyayan",
+        "author": ["Utham Chand"],
+        "year": 2000,
+        "publisher": "Himachal Pradesh University",
+        "languages": {
+            "Kiunthali": []
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/123100"
     }
 ]
