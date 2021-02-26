@@ -3028,7 +3028,7 @@
             "Burushaski": ["Murtazabad", "Hunza Valley", "Yasin Valley"],
             "Wakhi": ["Passu", "Shimshal", "Darkot", "Immit"],
             "Domaaki": ["Nomal Valley"],
-            "Shina": []
+            "Shina": ["Gupis Valley", "Hunza Valley", "Nagar Valley", "Gilgit", "Chalt", "Haramosh-Kutwal Valley", "Dras", "Bagrot Valley"]
         },
         "publisher": "SIL International",
         "topics": ["sociolinguistics"]
@@ -4149,5 +4149,476 @@
         },
         "topics": ["overview"],
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/123100"
+    },
+    {
+        "type": "thesis",
+        "title": "Kʰaṛībolī kā vyākaraṇik viśleṣaṇ",
+        "author": ["Tejpalsingh Chowdhary"],
+        "year": 1979,
+        "publisher": "Savitribai Phule Pune University",
+        "languages": {
+            "Hindi": ["Meerut", "Ambala District", "Saharanpur", "Muzzafarnagar", "Bijnor", "Muradabad"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/152641"
+    },
+    {
+        "type": "thesis",
+        "title": "Uḍkī Bolī dā vigiānik adʰiain",
+        "author": ["Sharanjeet Kaur"],
+        "year": 2015,
+        "publisher": "Punjabi University",
+        "languages": {
+            "Udki": ["Fatehgarh Sahib"]
+        },
+        "topics": ["overview"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/227086"
+    },
+    {
+        "type": "thesis",
+        "title": "Mālvaī Upbʰāśā dī vāk baṇtar dā varṇanātmik adʰiain [Descriptive Study of the Sentence Structure of Malwai Dialect]",
+        "author": ["Sandeep Singh"],
+        "year": 2017,
+        "publisher": "Punjabi University",
+        "languages": {
+            "Punjabi": ["Sri Muktsar Sahib District", "Faridkot District", "Fazilka District", "Firozpur District", "Bathinda District", "Ludhiana District"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/238811",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mājʰī Upbʰāśā dā viākaranak adʰiain [Grammatical Study of Majhi Dialect]",
+        "author": ["Kuldeep Kaur"],
+        "year": 2016,
+        "publisher": "Punjabi University",
+        "languages": {
+            "Punjabi": ["Firozpur District", "Amritsar", "Gurdaspur District"]
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/238811",
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A comparative synchronic study of four Malvi dialects",
+        "author": ["Shefali Bhattacharya"],
+        "year": 1975,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Malvi": ["Mandsaur District", "Ujjain District", "Ratlam District", "Rajgarh District", "Indore District", "Shajapur District"]
+        },
+        "topics": ["overview", "dialectology"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/172469"
+    },
+    {
+        "type": "thesis",
+        "title": "Gender in Konkani substantives: South Kanara dialect",
+        "author": ["L. S. Katre"],
+        "year": 1971,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "languages": {
+            "Konkani": ["Dakshina Kannada District"]
+        },
+        "topics": ["morphology"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/145344"
+    },
+    {
+        "type": "thesis",
+        "title": "The Urdu dialect of the Pathans of Kaimganj (U.P.): A Linguistic Analysis of its Characteristics—Lexical Items and Idioms",
+        "author": ["Shahida Masood"],
+        "year": 1986,
+        "publisher": "Aligarh Muslim University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/110700",
+        "languages": {
+            "Urdu": ["Kaimganj"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study on the Mech dialect of north Bengal",
+        "author": ["Muchahary Rujab"],
+        "year": 2017,
+        "publisher": "Gauhati University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/220487",
+        "languages": {
+            "Bodo": ["Alipurduar District", "Cooch Behar District", "Darjeeling District", "Jalpaiguri District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Descriptive Grammar of Nagercoil Christian Tamil: Volume I",
+        "author": ["Karunakaradhas Sankeethamony"],
+        "year": 1974,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/176476",
+        "languages": {
+            "Tamil": ["Nagercoil"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Lamani: Phonology, Grammar, and Lexicon",
+        "author": ["Ronald L. Trail"],
+        "year": 1968,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/175018",
+        "languages": {
+            "Lambadi": ["Gulbarga"]
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "thesis",
+        "title": "Reference and Coreference in Kashmiri: A Syntactic-Semantic Study",
+        "author": ["Syed M. Inayatullah Andrabi"],
+        "year": 1983,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/173413",
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["syntax", "semantics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Linguistic analysis of Koli: A Dialect of Marathi",
+        "author": ["Suhasini S. Laddu"],
+        "year": 1981,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/173354",
+        "languages": {
+            "Marathi": ["Kharapati"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Contemporary standard Sindhi: A transformational generative sketch",
+        "author": ["Sundri T. Tolani"],
+        "year": 1973,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/172384",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["overview", "syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "A sociolinguistic study of Kamraz dialect of Kashmiri language spoken in Baramulla district",
+        "author": ["Nazir Ahmad Dhar"],
+        "year": 1983,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/160387",
+        "languages": {
+            "Kashmiri": ["Baramulla District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study of the Telugu dialect of Cuddapah area",
+        "author": ["D. Raghurama Raju"],
+        "year": 1979,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/160279",
+        "languages": {
+            "Telugu": ["Kadapa"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Pronominal usage and appellatives in Bangla",
+        "author": ["Begum Jahan Ara"],
+        "year": 1982,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/160940",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["semantics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study of the variations between colloquial speech and written language in Tamil",
+        "author": ["K. Ranganayaki"],
+        "year": 1962,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/161267",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A reference grammar of Eastern Burushaski",
+        "author": ["Noboru Yoshioka"],
+        "year": 2012,
+        "publisher": "Tokyo University of Foreign Studies",
+        "url": "http://repository.tufs.ac.jp/handle/10108/72148",
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "website",
+        "title": "Burushaski Language Documentation Project",
+        "url": "http://burushaskilanguage.com/",
+        "author": ["Sadaf Munshi", "Piar Karim"],
+        "year": 2015,
+        "publisher": "University of North Texas",
+        "languages": {
+            "Burushaski": ["Hunza Valley", "Yasin Valley", "Nagar Valley"]
+        },
+        "topics": ["overview", "corpora", "lexicography", "dialectology"]
+    },
+    {
+        "type": "article",
+        "title": "Dialect differences and social stratification in a North Indian Village",
+        "author": ["John J. Gumperz"],
+        "year": 1958,
+        "journal": "American Anthropologist",
+        "volume": 60,
+        "number": 4,
+        "pages": "668--682",
+        "languages": {
+            "Hindi": ["Khalapur"]
+        },
+        "topics": ["dialectology", "sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "A Brief Hindi Reference Grammar",
+        "author": ["John J. Gumperz", "Vidya Niwas Misra"],
+        "year": 1963,
+        "publisher": "University of California, Berkeley",
+        "url": "https://files.eric.ed.gov/fulltext/ED015469.pdf",
+        "languages": {
+            "Hindi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Phonological Rules in Literary and Colloquial Kannada",
+        "author": ["William Bright"],
+        "year": 1970,
+        "journal": "Journal of the American Oriental Society",
+        "volume": 90,
+        "number": 1,
+        "pages": "140--144",
+        "url": "https://www.jstor.org/stable/598435",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "website",
+        "title": "Documentation and Description of Nihali, a critically endangered language isolate of India",
+        "author": ["Shailendra Mohan"],
+        "year": "2012--2014",
+        "publisher": "Endangered Language Documentation Programme",
+        "url": "https://www.elararchive.org/uncategorized/SO_df45c9e9-b0b8-4734-a3a7-fa829cbed518/",
+        "languages": {
+            "Nihali": ["Nihali villages"]
+        },
+        "topics": ["overview", "corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Noun Morphology in Nihali and Korku: A Comparative Account",
+        "author": ["Shailendra Mohan"],
+        "journal": "Bulletin of the Deccan College Research Institute",
+        "volume": 75,
+        "year": 2014,
+        "pages": "185--194",
+        "url": "https://www.researchgate.net/publication/301820866_NOUN_MORPHOLOGY_IN_NIHALI_AND_KORKU_A_COMPARATIVE_ACCOUNT",
+        "languages": {
+            "Nihali": ["Jalgaon Jamod"],
+            "Korku": ["Jalgaon Jamod"]
+        },
+        "topics": ["comparative", "morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Nihali Expressives: An Isolate in Its Regional Context",
+        "author": ["Shailendra Mohan"],
+        "booktitle": "Expressives in the South Asian Linguistic Area",
+        "publisher": "Brill",
+        "year": 2020,
+        "url": "https://brill.com/view/book/9789004439153/BP000018.xml",
+        "editor": ["Nathan Badenoch", "Nishaant Choksi"],
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["semantics"]
+    },
+    {
+        "type": "article",
+        "title": "Revisiting Khalapur: Language Variation and Social Stratification 50 Years Later",
+        "author": ["S. Imtiaz Hasnain", "Shailendra Mohan"],
+        "year": 2013,
+        "journal": "Indian Linguistics",
+        "volume": 74,
+        "number": "3--4",
+        "url": "https://www.researchgate.net/publication/301820786_REVISITING_KHALAPUR_i_LANGUAGE_VARIATION_AND_SOCIAL_STRATIFICATION_50_YEARS_LATER_ii",
+        "languages": {
+            "Hindi": ["Khalapur"]
+        },
+        "topics": ["sociolinguistics", "historical", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "The Nihali Language (Grammar, Texts, and Vocabulary)",
+        "author": ["K. S. Nagaraja"],
+        "year": 2014,
+        "publisher": "Central Institute of Indian Languages",
+        "url": "https://english.bharatavani.in/book/the-nihali-language/",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Mundari Grammar",
+        "author": ["N. K. Sinha"],
+        "year": 1975,
+        "publisher": "Central Institute of Indian Languages",
+        "url": "https://english.bharatavani.in/book/mundari-grammar/",
+        "languages": {
+            "Mundari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Mundari: The myth of a language without word classes",
+        "author": ["Nicholas Evans", "Toshiki Osada"],
+        "year": 2005,
+        "journal": "Linguistic Typology",
+        "volume": 9,
+        "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/54663/2/01_Evans_Mundari%3A_The_myth_of_a_2005.pdf",
+        "languages": {
+            "Mundari": ["Ranchi"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Marathi Dialect of Tamil Nadu puppet artists",
+        "author": ["T. Parasuraman"],
+        "year": 1986,
+        "publisher": "Deccan College Post Graduate and Research Institute Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/148985",
+        "languages": {
+            "Marathi": ["Kadachanendhal"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Stratification of /r/ pronunciation in Sindhi, spoken in Sindh, Pakistan",
+        "author": ["M. Qasim Bughio"],
+        "year": 2009,
+        "journal": "International Research Journal of Arts & Humanities",
+        "volume": 37,
+        "url": "https://sujo-old.usindh.edu.pk/index.php/IRJAH/article/download/1046/977",
+        "languages": {
+            "Sindhi": ["Old Hala", "Hyderabad, Pakistan"]
+        },
+        "topics": ["phonetics/phonology", "sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Jammu and Kashmir Burushaski: Language, Language Contact, and Change",
+        "author": ["Sadaf Munshi"],
+        "year": 2006,
+        "publisher": "The University of Texas at Austin",
+        "url": "https://repositories.lib.utexas.edu/bitstream/handle/2152/2777/munshis96677.pdf",
+        "languages": {
+            "Burushaski": ["Srinagar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Ergative Case in Burushaski: A Dependent Case Analysis",
+        "author": ["Mark C. Baker"],
+        "url": "https://pdfs.semanticscholar.org/7df8/14309f2ecb3d707a8d6ef19054da598ddb70.pdf",
+        "booktitle": "The Oxford Handbook of Ergativity",
+        "year": 2017,
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Burushaski case marking, agreement, and implications: An analysis of the Hunza dialect",
+        "author": ["Alexander Smith"],
+        "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.961.8781&rep=rep1&type=pdf",
+        "year": 2012,
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "The Decay and Reconstruction of Nominal Classes in Srinagar Burushaski",
+        "author": ["Noboru Yoshioka"],
+        "journal": "Bulletin of the National Museum of Ethnology",
+        "volume": 44,
+        "number": 2,
+        "pages": "239--254",
+        "languages": {
+            "Burushaski": ["Srinagar"]
+        },
+        "topics": ["morphology"],
+        "url": "https://minpaku.repo.nii.ac.jp/?action=repository_action_common_download&item_id=8353&item_no=1&attribute_id=22&file_no=1"
+    },
+    {
+        "type": "thesis",
+        "title": "A Sociolinguistic Study of Burushaski Speakers of Kashmir Valley",
+        "author": ["Sabba Mushtaq"],
+        "url": "https://core.ac.uk/download/pdf/159343967.pdf",
+        "publisher": "University of Kashmir",
+        "year": 2012,
+        "languages": {
+            "Burushaski": ["Srinagar"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study on Kamrupi, a dialect of Assamese",
+        "author": ["Upendra Nath Goswami"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/67922",
+        "publisher": "Gauhati University",
+        "year": 1958,
+        "languages": {
+            "Kamrupi": ["Kamrup District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Havyaka Dialect of North Kanara",
+        "author": ["K. G. Shastri"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/94263",
+        "publisher": "Karnatak University",
+        "year": 1965,
+        "languages": {
+            "Kannada": ["Kumta", "Honnavar", "Sirsi", "Siddapur", "Yellapur"]
+        },
+        "topics": ["overview"]
     }
 ]
