@@ -1,15 +1,75 @@
 {
     "descriptions": {
-        "family": "In what genetic groupings is the language generally put in?"
+        "aspiration": "Are there aspirated consonants?",
+        "breathy": "Are there breathy-voiced consonants?",
+        "retroflexion": "Are there retroflex consonants?",
+        "retroflex fricatives": "Are /ʂ/ and/or /ʈ͡ʂ/ (and aspirated variants etc.) present?",
+        "retroflex nasal": "Is phonemic /ɳ/ present?",
+        "nasalisation": "Are there nasal vowels?",
+        "front rounded": "Are there front-rounded vowels?",
+        "tone": "Is there phonemic (contrastive) tone?"
     },
     "data": {
-        "Hindi": [
-            {
-                "locations": ["Delhi", "Lucknow", "Varanasi"],
-                "sources": ["Ohala 2009"],
-                "phonemes": ["p pʰ b bʱ t̪ t̪ʰ d̪ d̪ʱ ʈ ʈʰ ɖ ɖʱ k kʰ g gʱ t͡ʃ t͡ʃʰ d͡ʒ d͡ʒʱ m n (ŋ) ɾ ɽ ɽʱ f s z ʃ ɦ ʋ j l i ɪ e ɛ æ ə ɑ u ʊ o ɔ"],
-                "nasalisation": ["ĩ ɪ̃ ẽ ɛ̃ ə̃ ũ ʊ̃ õ ɔ̃"]
+        "Hindi": {
+            "Delhi": {
+                "aspiration": ["yes", "Ohala (2009)"],
+                "breathy": ["yes", "Ohala (2009)"],
+                "retroflexion": ["yes", "Ohala (2009)"],
+                "retroflex fricatives": ["no", "Ohala (2009)"],
+                "retroflex nasal": ["no", "Ohala (2009)"],
+                "nasalisation": ["yes", "Ohala (2009)"],
+                "front rounded": ["no", "Ohala (2009)"],
+                "tone": ["no", "Ohala (2009)"]
+            },
+            "Rankhandi": {
+                "tone": ["yes", "Gumperz (1958)"]
+            },
+            "Sivaya": {
+                "tone": ["no", "Gumperz (1958)"]
+            },
+            "default": "Delhi"
+        },
+        "Bundeli": {
+            "all": {
+                "aspiration": ["yes", "Boehm (2015)"],
+                "breathy": ["yes", "Boehm (2015)"],
+                "retroflexion": ["yes", "Boehm (2015)"],
+                "nasalisation": ["yes", "Boehm (2015)"],
+                "front rounded": ["no", "Boehm (2015)"],
+                "tone": ["no", "Boehm (2015)"]
+            },
+            "default": "all"
+        },
+        "Kannauji": {
+            "Kanpur": {
+                "aspiration": ["yes", "Dwivedi and Kar (2018)"],
+                "breathy": ["yes", "Dwivedi and Kar (2018)"],
+                "retroflexion": ["yes", "Dwivedi and Kar (2018)"],
+                "nasalisation": ["yes", "Dwivedi and Kar (2018)"],
+                "front rounded": ["no", "Dwivedi and Kar (2018)"],
+                "tone": ["no", "Dwivedi and Kar (2018)"]
             }
-        ]
+        },
+        "Marathi": {
+            "Pune": {
+                "aspiration": ["yes"],
+                "breathy": ["yes"]
+            },
+            "default": "Pune"
+        },
+        "Bengali": {
+            "Kolkata": {
+                "aspiration": ["yes"],
+                "breathy": ["yes"]
+            },
+            "default": "Kolkata"
+        },
+        "Punjabi": {
+            "Lahore": {
+                "aspiration": ["yes"],
+                "breathy": ["no"]
+            },
+            "default": "Lahore"
+        }
     }
 }

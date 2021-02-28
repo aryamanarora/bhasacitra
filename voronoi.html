@@ -227,9 +227,13 @@
                                     if (coord.family[lang].length == 3) new_colour = '#' + averageRGB(stringToColour(coord.family[lang][2]), new_colour, 1, 3)
                                 }
                                 else {
-                                    if (lang in data[text].data) {
-                                        if (city in data[text].data[lang]) new_colour = stringToColour(data[text].data[lang][city])
-                                        else if ("default" in data[text].data[lang]) new_colour = stringToColour(data[text].data[lang].default)
+                                    if (lang in data.data) {
+                                        var city2 = city
+                                        if (!(city in data.data[lang])) city2 = data.data[lang].default
+                                        if (city2 in data.data[lang]) {
+                                            if (!(text in data.data[lang][city2])) city2 = data.data[lang].default
+                                            if (text in data.data[lang][city2]) new_colour = stringToColour(data.data[lang][city2][text][0])
+                                        }
                                     }
                                 }
                                 if (count == 0) {
@@ -249,7 +253,7 @@
                         })
             }
 
-            for (key in data) {
+            for (key in data.descriptions) {
                 var l = d3.select("#facets")
                     .append("li")
                     .attr("class", "list-group-item")
@@ -260,7 +264,7 @@
                     .text(key)
                 l.append("div")
                     .append("small")
-                    .text(data[key].description)
+                    .text(data.descriptions[key])
                 l.append("a")
                     .attr("href", "#")
                     .attr("id", "facet-" + key.replace(" ", "_"))

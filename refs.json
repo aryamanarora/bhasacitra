@@ -787,7 +787,7 @@
     },
     {
         "type": "article",
-        "title": "Dialects of Kannada in the Mysore Area",
+        "title": "Dialects of Kannada in the Mysore District",
         "author": ["D. N. Shankara Bhat"],
         "year": "1967--1968",
         "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
@@ -1235,7 +1235,7 @@
     {
         "type": "article",
         "title": "Synchronic Variation and Diachronic Change in Dialects of Marathi",
-        "author": ["Sonal Kulkarni-Joshi", "Manasi Kelkar"],
+        "author": ["Sonal Kulkarni-Joshi", "Manasi Jayant Kelkar"],
         "year": 2018,
         "url": "https://sdml.ac.in/pdfs/synchronic-variation-and-diachronic-change-marathi.pdf",
         "languages": {
@@ -3425,7 +3425,7 @@
         "publisher": "Gujarat University",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/49002",
         "languages": {
-            "Bhili": ["Dungarpur", "Sukhsar"]
+            "Bhili": ["Dungarpur District", "Sukhsar"]
         },
         "topics": ["overview", "dialectology"]
     },
@@ -4441,7 +4441,7 @@
         "pages": "185--194",
         "url": "https://www.researchgate.net/publication/301820866_NOUN_MORPHOLOGY_IN_NIHALI_AND_KORKU_A_COMPARATIVE_ACCOUNT",
         "languages": {
-            "Nihali": ["Jalgaon Jamod"],
+            "Nihali": ["Nihali villages"],
             "Korku": ["Jalgaon Jamod"]
         },
         "topics": ["comparative", "morphology"]
@@ -4620,5 +4620,187 @@
             "Kannada": ["Kumta", "Honnavar", "Sirsi", "Siddapur", "Yellapur"]
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Revisiting Kupwad: The Ergative Construction in Marathi--Dravidian Convergence",
+        "author": ["Sonal Kulkarni-Joshi"],
+        "url": "https://www.jstor.org/stable/42931457",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": "66/67",
+        "year": "2006--2007",
+        "pages": "323--333",
+        "languages": {
+            "Marathi": ["Kupwad"],
+            "Kannada": ["Kupwad"]
+        },
+        "topics": ["language shift", "language contact", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Nahali and Korku: A Comparative Note",
+        "author": ["K. S. Nagaraja"],
+        "url": "https://www.jstor.org/stable/42931456",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": "66/67",
+        "year": "2006--2007",
+        "pages": "315--322",
+        "languages": {
+            "Nihali": ["Nihali villages"],
+            "Korku": ["Jalgaon Jamod"]
+        },
+        "topics": ["language shift", "language contact", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Phonological Processes in Thanjavur Marathi",
+        "author": ["Manasai Jayant Kelkar"],
+        "url": "https://www.jstor.org/stable/26914999",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 78,
+        "year": 2018,
+        "pages": "141--152",
+        "languages": {
+            "Marathi": ["Thanjavur"]
+        },
+        "topics": ["phonetics/phonology", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "A Comparison Between Grierson's Description of Sangameshwari and Current Speech Variety of Sangameshwar",
+        "author": ["Salwa Kazi"],
+        "url": "https://www.jstor.org/stable/26915001",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 78,
+        "year": 2018,
+        "pages": "163--170",
+        "languages": {
+            "Malvani": ["Sangameshwar"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Negation in Nihali",
+        "author": ["Shailendra Mohan"],
+        "url": "https://www.jstor.org/stable/26609171",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 77,
+        "year": 2017,
+        "pages": "161--170",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Verbal categories in Marathi (with side glances at Hindi, Kannada, and Tamil): a typological approach",
+        "author": ["Sonal Kulkarni-Joshi"],
+        "url": "https://www.jstor.org/stable/26609172",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 77,
+        "year": 2017,
+        "pages": "171--190",
+        "languages": {
+            "Marathi": ["Pune"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Relativization strategies in Nihali",
+        "author": ["Shailendra Mohan"],
+        "url": "https://www.jstor.org/stable/26264769",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 76,
+        "year": 2016,
+        "pages": "75--82",
+        "languages": {
+            "Nihali": ["Nihali villages"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Language contact and language change: a study of case marking in Nagpuri Marathi",
+        "author": ["Rahul Mhaiskar"],
+        "url": "https://www.jstor.org/stable/26264770",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 76,
+        "year": 2016,
+        "pages": "83--92",
+        "languages": {
+            "Marathi": ["Nagpur District"]
+        },
+        "topics": ["syntax", "language contact"]
+    },
+    {
+        "type": "article",
+        "title": "Revisiting Korlai: a case of language contact",
+        "author": ["Ruta Paradkar", "Amanda de Athayde"],
+        "url": "https://www.jstor.org/stable/26264737",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 75,
+        "year": 2015,
+        "pages": "203--214",
+        "languages": {
+            "Korlai Portuguese Creole": ["Korlai"]
+        },
+        "topics": ["overview", "sociolinguistics", "language contact"]
+    },
+    {
+        "type": "article",
+        "title": "Padye as a contact variety of Marathi and Konkani",
+        "author": ["Ruta Paradkar"],
+        "url": "https://www.jstor.org/stable/26264701",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 74,
+        "year": 2014,
+        "pages": "227--236",
+        "languages": {
+            "Padye": ["Keri", "Rivona"]
+        },
+        "topics": ["overview", "language contact"]
+    },
+    {
+        "type": "article",
+        "title": "Negation in Nagpuri Marathi",
+        "author": ["Rahul Mhaiskar"],
+        "url": "https://www.jstor.org/stable/43610714",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": "72/73",
+        "year": "2012--2013",
+        "pages": "375--382",
+        "languages": {
+            "Marathi": ["Nagpur District"]
+        },
+        "topics": ["syntax", "language contact"]
+    },
+    {
+        "type": "article",
+        "title": "Aspirated Stops in Kolami",
+        "author": ["Rahul Mhaiskar"],
+        "url": "https://www.jstor.org/stable/43610714",
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": "72/73",
+        "year": "2012--2013",
+        "pages": "383--391",
+        "languages": {
+            "Kolami": ["Yavatmal"]
+        },
+        "topics": ["syntax", "language contact"]
+    },
+    {
+        "type": "thesis",
+        "title": "Dialect Continuum in the Bhil Tribal Belt: Grammatical Aspects",
+        "author": ["Maxwell P. Phillips"],
+        "year": 2012,
+        "publisher": "SOAS",
+        "languages": {
+            "Wagri": ["Banswara District", "Dungarpur District"],
+            "Dehwali": ["Narmada District"]
+        },
+        "topics": ["overview", "dialectology", "syntax"]
     }
 ]
