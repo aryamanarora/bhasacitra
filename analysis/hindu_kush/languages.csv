@@ -1,0 +1,60 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Location,Elicitation,Consultant
+ask,Ashkun,ashu1242,Ashuruveri,ask,Eurasia,35.03056,70.50105,Indo-European,Nuristani,"Titin, Nurgram, Nuristan, Afghanistan","Kabul, Apr 2017",WS
+bft,Balti,balt1258,Balti,bft,Eurasia,35.23616,76.18363,Sino-Tibetan,,"Khaplu, Ghanche, Baltistan, Gilgit-Baltistan, Pakistan","Islamabad, Aug 2016",HS
+btv,Bateri,bate1261,Bateri,btv,Eurasia,34.95820,72.92674,Indo-European,Indo-Aryan,"Palas, Lower Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",MB
+bkk,Brokskat,brok1247,Brokskat,bkk,Eurasia,34.63458,76.43277,Indo-European,Indo-Aryan,"Batalik, Kargil, Ladakh, Jammu & Kashmir, India","Kargil, May 2018","TL, DA"
+bsk_h,Burushaski Hunza,hunz1248,Hunza,bsk,Eurasia,36.31293,74.59822,Burushaski,,"Hunza, Gilgit, Gilgit-Baltistan, Pakistan","Gilgit, Aug 2016",SK
+bsk_n,Burushaski Nagar,naga1398,Nagar,bsk,Eurasia,36.23990,74.36720,Burushaski,,"Nagar, Gilgit, Gilgit-Baltistan, Pakistan","Gilgit, Aug 2016",SD
+dml,Dameli,dame1241,Dameli,dml,Eurasia,35.37663,71.68785,Indo-European,Indo-Aryan,"Damel, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",HM
+prs_d,Darwazi,darw1234,Darwazi,prs,Eurasia,38.33353,70.68450,Indo-European,Iranian,"Darwaz, Badakhshan, Afghanistan","Faizabad, Apr 2017","ML, DR"
+gwt_a,Gawarbati (Afgh),gawa1247,Gawar-Bati,gwt,Eurasia,35.22136,71.52251,Indo-European,Indo-Aryan,"Naray, Kunar, Afghanistan","Kabul, Apr 2017",AG
+gwt_p,Gawarbati (Pak),gawa1247,Gawar-Bati,gwt,Eurasia,35.31012,71.54742,Indo-European,Indo-Aryan,"Arandu, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",AS
+gwc,Gawri,kala1374,Kalam (Pakistan),gwc,Eurasia,35.48367,72.59606,Indo-European,Indo-Aryan,"Kalam, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",MZ
+gju_a,Gojri (Afgh),west2375,Western Gujari,gju,Eurasia,35.14361,71.47042,Indo-European,Indo-Aryan,"Naray, Kunar, Afghanistan","Kabul, Apr 2017",AQ
+gju_p,Gojri (Pak),east2311,Eastern Gujari,gju,Eurasia,34.73142,73.99123,Indo-European,Indo-Aryan,"Dawanan, Neelum, Azad Jammu & Kashmir, Pakistan","Islamabad, Aug 2016",RN
+hno,Hindko,nort2662,Northern Hindko,hno,Eurasia,34.23857,73.19852,Indo-European,Indo-Aryan,"Mansehra, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016","RH, MN"
+mvy,Indus Kohistani,indu1242,Indus,mvy,Eurasia,35.29917,73.18961,Indo-European,Indo-Aryan,"Seo, Dassu, Upper Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",HU
+isk,Ishkashimi,ishk1244,Nuclear Ishkashimi,isk,Eurasia,36.73882,71.55875,Indo-European,Iranian,"Ishkashim, Badakhshan, Afghanistan","Faizabad, Apr 2017","SO, MA"
+kls,Kalasha,nort2663,Northern Kalasha,kls,Eurasia,35.70835,71.70143,Indo-European,Indo-Aryan,"Bumburet, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016",LR
+xka,Kalkoti,kalk1245,Kalkoti,xka,Eurasia,35.40617,72.17480,Indo-European,Indo-Aryan,"Kalkot, Sheringal, Upper Dir, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",JK
+xvi,Kamviri,nucl1277,Kamdeshi,xvi,Eurasia,35.40986,71.33679,Indo-European,Nuristani,"Kamdesh, Nuristan, Afghanistan","Kabul, Apr 2017",AB
+kas_i,Kashmiri (Ind),stan1304,Standard Kashmiri,kas,Eurasia,33.96100,74.87453,Indo-European,Indo-Aryan,"Srinagar, Kashmir, Jammu & Kashmir, India ","Srinagar, Apr/May 2018","AN, HK, ND, BL"
+kas_p,Kashmiri (Pak),kash1277,Kashmiri,kas,Eurasia,34.79469,74.17695,Indo-European,Indo-Aryan,"Sharda, Neelum, Azad Jammu & Kashmir, Pakistan","Islamabad, Oct 2015",KR
+bsh_e,Kati (Eastern),east2308,Eastern Kativiri,bsh,Eurasia,35.64028,71.33226,Indo-European,Nuristani,"Bargi Matal, Nuristan, Afghanistan","Kabul, Apr 2017",ZA
+bsh_w,Kati (Western),west2372,Western Kativiri,bsh,Eurasia,35.22691,70.34477,Indo-European,Nuristani,"Du Ab, Nuristan, Afghanistan","Kabul, Apr 2017",AU
+khw,Khowar,nort2664,North Khowar,khw,Eurasia,36.27825,72.51906,Indo-European,Indo-Aryan,"Mastuj, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",AA
+plk,Kohistani Shina,pala1333,Palasi,plk,Eurasia,35.05837,73.18946,Indo-European,Indo-Aryan,"Palas, Lower Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016",RK
+shd,Kundal Shahi,kund1257,Kundal Shahi,shd,Eurasia,34.55627,73.82363,Indo-European,Indo-Aryan,"Kundal Shahi, Athmuqam, Neelum, Azad Jammu & Kashmir, Pakistan","Islamabad, Aug 2016",GQ
+kir,Kyrgyz,kirg1245,Kirghiz,kir,Eurasia,36.89837,73.97764,Turkic,,"Pamirkalan, Wakhan, Badakhshan, Afghanistan","Faizabad, Apr 2017","YB, AL, AW"
+lbj,Ladakhi,lada1244,Leh Ladakhi,lbj,Eurasia,34.12240,77.25266,Sino-Tibetan,,"Leh, Ladakh, Jammu & Kashmir, India","Srinagar, Apr/May 2018",IS
+mnj,Munji,nort2649,Northern Munji,mnj,Eurasia,35.96907,70.90873,Indo-European,Iranian,"Sharan, Kuran wa Munjan, Badakhshan, Afghanistan","Faizabad, Apr 2017","AJ, AR, DM"
+phr,Pothwari ,poth1238,Pothwari,phr,Eurasia,33.57315,73.06263,Indo-European,Indo-Aryan,"Rawalpindi, Punjab, Pakistan","Islamabad, Aug 2016",UA
+phl,Palula,ashr1238,Ashreti,phl,Eurasia,35.43939,71.73994,Indo-European,Indo-Aryan,"Ashret, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",NH
+prc,Parachi,ghuj1238,Ghujulan,prc,Eurasia,35.09915,69.64719,Indo-European,Iranian,"Ghochulan, Nijrab, Kapisa, Afghanistan","Kabul, Apr 2017",SH
+psh_ai,Pashai Alasai,alas1253,Alasai,psh,Eurasia,34.94752,69.75581,Indo-European,Indo-Aryan,"Alasai, Kapisa, Afghanistan","Kabul, Apr 2017",KD
+psi_ar,Pashai Alingar,alin1238,Alingar,psi,Eurasia,34.86533,70.41725,Indo-European,Indo-Aryan,"Alingar, Laghman, Afghanistan","Kabul, Apr 2017",HA
+glh_ag,Pashai Alishang,naji1238,Najil,glh,Eurasia,34.92865,70.08457,Indo-European,Indo-Aryan,"Alishang, Laghman, Afghanistan","Kabul, Apr 2017",SF
+psi_am,Pashai Amla,darr1238,Darrai Nur,psi,Eurasia,34.67743,70.57805,Indo-European,Indo-Aryan,"Amla, Darra-e-Nur, Nangarhar, Afghanistan","Kabul, Apr 2017",NG
+aee_at,Pashai Aret,aret1240,Aret,aee,Eurasia,34.74631,70.72301,Indo-European,Indo-Aryan,"Aret, Nurgal, Kunar, Afghanistan","Kabul, Apr 2017",HH
+aee_ch,Pashai Chalas,chal1263,Chalas,aee,Eurasia,34.75934,70.86116,Indo-European,Indo-Aryan,"Chalas, Tsaoki, Kunar, Afghanistan","Kabul, Apr 2017",ED
+aee_kg,Pashai Korangal,kura1247,Kurangal,aee,Eurasia,34.90063,70.92458,Indo-European,Indo-Aryan,"Korangal, Mano Gai, Kunar, Afghanistan","Kabul, Apr 2017",AM
+glh_sn,Pashai Sanjan,sanj1275,Sanjan,glh,Eurasia,35.13991,69.36181,Indo-European,Indo-Aryan,"Sanjan, Hesa Awal Kohistan, Kapisa, Afghanistan","Kabul, Apr 2017",GS
+aee_sh,Pashai Shemal,kand1293,Kandak,aee,Eurasia,34.75934,70.56220,Indo-European,Indo-Aryan,"Shemal, Darra-e-Nur, Nangarhar, Afghanistan","Kabul, Apr 2017",AD
+pbu_a,Pashto (Afgh),nort2647,Northwestern Pakhto,pbu,Eurasia,34.83931,69.64719,Indo-European,Iranian,"Tagab, Kapisa, Afghanistan","Kabul, Apr 2017",KO
+pbu_i,Pashto (Ind),yusu1238,Yusufzai,pbu,Eurasia,34.26852,74.83829,Indo-European,Iranian,"Ganderbal, Kashmir, Jammu & Kashmir, India","Srinagar, Apr/May 2018",NK
+pbu_p,Pashto (Pak),yusu1238,Yusufzai,pbu,Eurasia,34.33962,72.78178,Indo-European,Iranian,"Ghazi, Haripur, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016",KK
+prn,Prasun,lowe1390,Lower Prasun,prn,Eurasia,35.33045,70.90193,Indo-European,Nuristani,"Pashki, Parun, Nuristan, Afghanistan","Kabul, Apr 2017",SM
+prx,Purik,puri1258,Purik-Sham-Nubra,prx,Eurasia,34.33588,76.01150,Sino-Tibetan,,"Kargil, Ladakh, Jammu & Kashmir, India","Srinagar, Apr/May 2018","MM, MH"
+sgh_r,Roshani,rosh1238,Roshani-Khufi,sgh,Eurasia,37.89160,71.42285,Indo-European,Iranian,"Roshan, Shughnan, Badakhshan, Afghanistan","Faizabad, Apr 2017","ZB, SN"
+sgy,Sanglechi,sang1344,Sanglechi,sgy,Eurasia,36.29833,71.20996,Indo-European,Iranian,"Sanglech, Zebak, Badakhshan, Afghanistan","Faizabad, Apr 2017","KM, GM"
+sdg,Sawi,savi1242,Savi,sdg,Eurasia,35.17324,71.45683,Indo-European,Indo-Aryan,"Sau, Naray, Kunar, Afghanistan","Kabul, Apr 2017",FR
+scl_p,Shina Gilgit,gilg1242,Gilgiti,scl,Eurasia,35.92140,74.30831,Indo-European,Indo-Aryan,"Gilgit, Gilgit-Baltistan, Pakistan","Islamabad, Oct 2015/Gilgit, Aug 2016","HB, SL"
+scl_i,Shina Gurez,gure1252,Gurezi,scl,Eurasia,34.63830,74.77488,Indo-European,Indo-Aryan,"Gurez, Bandipora, Kashmir, Jammu & Kashmir, India","Srinagar, Apr/May 2018","SA, SS"
+sgh_a,Shughni,nucl1239,Nuclear Shughni,sgh,Eurasia,37.44340,71.44097,Indo-European,Iranian,"Shughnan, Badakhshan, Afghanistan","Faizabad, Apr 2017","LL, SB"
+trw,Torwali,bahr1242,Bahrain,trw,Eurasia,35.20655,72.55077,Indo-European,Indo-Aryan,"Bahrain, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",UD
+ush,Ushojo,usho1238,Ushojo,ush,Eurasia,35.12879,72.60512,Indo-European,Indo-Aryan,"Chail, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",AH
+uzs,Uzbek,sout2699,Southern Uzbek,uzs,Eurasia,37.07386,70.38780,Turkic,,"Argo, Badakhshan, Afghanistan","Faizabad, Apr 2017","KB, WD"
+wbk,Waigali,chim1297,Chima-Nishey,wbk,Eurasia,35.13620,70.96082,Indo-European,Nuristani,"Muldesh, Waigal, Nuristan, Afghanistan","Kabul, Apr 2017",SR
+wbl_a,Wakhi (Afgh),cent1975,Central Wakhi,wbl,Eurasia,36.98526,72.59606,Indo-European,Iranian,"Abgach, Wakhan, Badakhshan, Afghanistan","Faizabad, Apr 2017","KH, FQ"
+wbl_p,Wakhi (Pak),goja1238,Gojal,wbl,Eurasia,36.83676,74.48950,Indo-European,Iranian,"Gojal, Hunza, Gilgit, Gilgit-Baltistan, Pakistan","Gilgit, Aug 2016","AK, SU"
+ydg,Yidgha,yidg1240,Yidgha,ydg,Eurasia,35.98740,71.51571,Indo-European,Iranian,"Garam Chashma, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",SZ

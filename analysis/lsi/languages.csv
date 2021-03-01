@@ -1,0 +1,241 @@
+description,family_pk,id,iso_code,jsondata,latitude,longitude,macroarea,markup_description,name,pk,representation,vol
+,6,lsi92Indo-Aryan-Ahirwati,wtm,{},28.198402,76.616168,Eurasia,,Ahirwati,199,144,1
+,,lsi21Tai-Kadai-Ahom,aho,{},27.28,88.46,Eurasia,,Ahom,62,72,1
+,7,lsi33Tibeto-Burman-Aimol,aim,{},24.6437,94.3556,Eurasia,,Aimol,226,144,1
+,6,lsi94Indo-Aryan-Ajiri of Hazara,gju,{},34.3768,73.1461,Eurasia,,Ajiri Of Hazara,107,216,1
+,7,lsi33Tibeto-Burman-Anam,anm,{},24.66,93.98,Eurasia,,Anam,205,72,1
+,7,lsi32Tibeto-Burman-Ao Naga,njo,{},26.3241,94.3824,Eurasia,,Ao Naga,180,72,1
+,7,lsi33Tibeto-Burman-Asho Chin,csh,{},21.39,93.51,Eurasia,,Asho Chin,227,72,1
+,6,lsi51Indo-Aryan-Assamese,asm,{},26.14,91.77,Eurasia,,Assamese,203,144,1
+,7,lsi31Tibeto-Burman-Athpariya,aph,{},26.8794,87.3296,Eurasia,,Athpariya,188,72,1
+,6,lsi61Indo-Aryan-Awadhi,awa,{},27.5907,82.4663,Eurasia,,Awadhi,201,72,1
+,6,lsi94Indo-Aryan-Badhani,gbm,{},30.125563,78.654476,Eurasia,,Badhani,12,288,1
+,6,lsi92Indo-Aryan-Bagri,bgq,{},28.36,71.27,Eurasia,,Bagri,223,72,1
+,7,lsi31Tibeto-Burman-Bahing,bhj,{},27.3323,86.3949,Eurasia,,Bahing,48,72,1
+,7,lsi31Tibeto-Burman-Balti,bft,{},34.4491,77.2859,Eurasia,,Balti,6,72,1
+,6,lsi93Indo-Aryan-Bauria,bge,{},25.3,75.87,Eurasia,,Bauria,235,72,1
+,7,lsi33Tibeto-Burman-Bawm,bgr,{},22.6138,92.6247,Eurasia,,Bawm,186,72,1
+,6,lsi51Indo-Aryan-Bengali,ben,{},24.0,90.0,Eurasia,,Bengali,152,216,1
+,6,lsi94Indo-Aryan-Bhadrawahi,bhd,{},32.980974,75.710122,Eurasia,,Bhadrawahi,164,144,1
+,6,lsi94Indo-Aryan-Bhagati,bfz,{},30.905,77.097,Eurasia,,Bhagati,194,432,1
+,6,lsi91Indo-Aryan-Bhattiyali,bht,{},32.4,76.03,Eurasia,,Bhattiyali,11,72,1
+,6,lsi93Indo-Aryan-Bhilali,bhi,{},22.58,74.59,Eurasia,,Bhilali,124,72,1
+,6,lsi93Indo-Aryan-Bhili-Mahi Kantha,bhb,{},23.83,73.0,Eurasia,,Bhili-Mahi Kantha,37,144,1
+,6,lsi52Indo-Aryan-Bhojpuri-Shahabad,bho,{},25.389056,84.349854,Eurasia,,Bhojpuri-Shahabad,131,144,1
+,7,lsi32Tibeto-Burman-Boro-Cooch Behar,brx,{},26.329833,89.44809,Eurasia,,Boro-Cooch Behar,39,216,1
+,8,lsi41Dravidian-Brahui,brh,{},28.53,64.3,Eurasia,,Brahui,202,72,1
+,6,lsi91Indo-Aryan-Braj Bhasha,bra,{},26.4758,78.0813,Eurasia,,Braj Bhasha,206,72,1
+,7,lsi31Tibeto-Burman-Bunan,bfu,{},32.5,77.0,Eurasia,,Bunan,181,72,1
+,6,lsi91Indo-Aryan-Bundeli,bns,{},24.8982,78.9542,Eurasia,,Bundeli,237,72,1
+,3,lsi82Language isolate-Burushaski,bsk,{},36.22,74.82,,,Burushaski,139,72,1
+,7,lsi31Tibeto-Burman-Byangsi,bee,{},29.92,80.6365,Eurasia,,Byangsi,135,72,1
+,7,lsi31Tibeto-Burman-Chamba Lahuli,lae,{},32.548331,76.131685,Eurasia,,Chamba Lahuli,80,144,1
+,6,lsi94Indo-Aryan-Chambeali,cdh,{},32.548331,76.131685,Eurasia,,Chambeali,83,72,1
+,6,lsi92Indo-Aryan-Charotari,guj,{},22.554029,72.948936,Eurasia,,Charotari,125,288,1
+,7,lsi31Tibeto-Burman-Chaudangsi,cdn,{},30.0,80.25,Eurasia,,Chaudangsi,147,72,1
+,6,lsi61Indo-Aryan-Chhatisgarhi,hne,{},20.3601,82.0483,Eurasia,,Chhatisgarhi,191,72,1
+,6,lsi81Indo-Aryan-Chibali,phr,{},32.232396,73.022671,Eurasia,,Chibali,127,144,1
+,7,lsi31Tibeto-Burman-Chintang,ctn,{},26.961,87.1899,Eurasia,,Chintang,114,72,1
+,7,lsi33Tibeto-Burman-Chiru,cdf,{},25.4643,94.4072,Eurasia,,Chiru,129,72,1
+,6,lsi71Indo-Aryan-Chitpavani,gom,{},17.557101,73.502338,Eurasia,,Chitpavani,63,288,1
+,7,lsi32Tibeto-Burman-Chote,brx,{},26.73,89.33,Eurasia,,Chote,38,216,1
+,6,lsi94Indo-Aryan-Churahi,cdj,{},32.9,76.11,Eurasia,,Churahi,142,72,1
+,7,lsi31Tibeto-Burman-Darma,rgk,{},29.977466,80.310956,Eurasia,,Darma,109,144,1
+,6,lsi93Indo-Aryan-Dehvali,vas,{},19.6895076,73.1497121,Eurasia,,Dehvali,128,72,1
+,6,lsi94Indo-Aryan-Dharti,srx,{},31.1,77.17,Eurasia,,Dharti,49,144,1
+,7,lsi31Tibeto-Burman-Dhimal,dhi,{},26.68,88.22,Eurasia,,Dhimal,214,72,1
+,6,lsi93Indo-Aryan-Dhodia-Kukna,dho,{},21.07,73.27,Eurasia,,Dhodia-Kukna,224,72,1
+,6,lsi92Indo-Aryan-Dhundari,dhd,{},26.28,76.19,Eurasia,,Dhundari,154,72,1
+,7,lsi31Tibeto-Burman-Digaru-Mishmi02,mhu,{},26.159134,91.901348,Eurasia,,Digaru-Mishmi02,106,72,1
+,7,lsi32Tibeto-Burman-Dimasa,dis,{},25.4198,93.1806,Eurasia,,Dimasa,148,72,1
+,6,lsi91Indo-Aryan-Dogri,dgo,{},32.5534,75.7111,Eurasia,,Dogri,76,72,1
+,6,lsi82Indo-Aryan-Dras,scl,{},34.430057,75.744461,Eurasia,,Dras,31,288,1
+,7,lsi32Tibeto-Burman-Dzuna,njm,{},25.592041,94.109732,Eurasia,,Dzuna,172,72,1
+,6,lsi94Indo-Aryan-Eastern Gujuri,gju,{},35.238203,72.498662,Eurasia,,Eastern Gujuri,167,216,1
+,6,lsi52Indo-Aryan-Eastern Magahi,mag,{},23.33421,86.360499,Eurasia,,Eastern Magahi,30,144,1
+,6,lsi52Indo-Aryan-Eastern Maithili,mai,{},26.3817,86.2211,Eurasia,,Eastern Maithili,122,216,1
+,6,lsi51Indo-Aryan-Eastern Malda,ben,{},25.077801,87.898448,Eurasia,,Eastern Malda,234,216,1
+,7,lsi31Tibeto-Burman-Eastern Tamang -Murmi,taj,{},27.3239,87.0832,Eurasia,,Eastern Tamang -Murmi,13,72,1
+,7,lsi31Tibeto-Burman-Eastern Tamang-Magari,mgp,{},27.4135,87.0617,Eurasia,,Eastern Tamang-Magari,102,72,1
+,7,lsi33Tibeto-Burman-Fallam Chin,cfm,{},23.7893,92.3255,Eurasia,,Fallam Chin,72,72,1
+,6,lsi94Indo-Aryan-Gaddi,gbk,{},32.36,76.57,Eurasia,,Gaddi,36,72,1
+,6,lsi94Indo-Aryan-Garhwali,gbm,{},30.5061,78.7201,Eurasia,,Garhwali,64,288,1
+,7,lsi32Tibeto-Burman-Garo,grt,{},26.7255,89.3332,Eurasia,,Garo,178,72,1
+,6,lsi82Indo-Aryan-Gawar-Bati,gwt,{},35.1982,71.5428,Eurasia,,Gawar-Bati,42,72,1
+,6,lsi82Indo-Aryan-Gilgiti,scl,{},34.65,75.29,Eurasia,,Gilgiti,193,288,1
+,6,lsi94Indo-Aryan-Giripari,srx,{},30.56029,77.29426,Eurasia,,Giripari,25,144,1
+,6,lsi71Indo-Aryan-Goan Konkani,gom,{},19.2414,73.9166,Eurasia,,Goan Konkani,4,288,1
+,6,lsi92Indo-Aryan-Gujarati,guj,{},22.69,71.1,Eurasia,,Gujarati,51,288,1
+,6,lsi82Indo-Aryan-Gurezi,scl,{},34.65584,74.774573,Eurasia,,Gurezi,77,288,1
+,7,lsi31Tibeto-Burman-Gurung,gvr,{},27.3,88.16,Eurasia,,Gurung,87,72,1
+,5,lsi41Munda-Gutob,pcj,{},19.1213,84.19,Eurasia,,Gutob,189,72,1
+,7,lsi31Tibeto-Burman-Ha (Bhutan),dzo,{},27.41,89.58,Eurasia,,Ha (Bhutan),9,72,1
+,6,lsi51Indo-Aryan-Hajong,haj,{},25.51,89.86,Eurasia,,Hajong,43,72,1
+,7,lsi33Tibeto-Burman-Haka Chin,cnh,{},22.8735,92.8208,Eurasia,,Haka Chin,116,72,1
+,6,lsi71Indo-Aryan-Halbi,hlb,{},21.0,81.0,Eurasia,,Halbi,185,72,1
+,6,lsi91Indo-Aryan-Hindi,hin,{},25.0,77.0,Eurasia,,Hindi,149,72,1
+,7,lsi33Tibeto-Burman-Hmar,hmr,{},24.75,93.55,Eurasia,,Hmar,70,72,1
+,5,lsi41Munda-Ho,hoc,{},23.96,87.12,Eurasia,,Ho,207,72,1
+,7,lsi33Tibeto-Burman-Hrangkhol,hra,{},24.46,93.35,Eurasia,,Hrangkhol,118,72,1
+,,lsi31Tibeto-Burman-Hruso,hru,{},27.27,92.63,Eurasia,,Hruso,19,72,1
+,6,lsi82Indo-Aryan-Indus Kohistani,mvy,{},35.3539615,72.6851504,Eurasia,,Indus Kohistani,57,72,1
+,6,lsi94Indo-Aryan-Inner Siraji,kfx,{},31.58,77.06,Eurasia,,Inner Siraji,75,288,1
+,6,lsi94Indo-Aryan-Jaunsari,jns,{},30.5587,77.9084,Eurasia,,Jaunsari,160,72,1
+,5,lsi41Munda-Juang,jun,{},22.3571,84.3922,Eurasia,,Juang,233,72,1
+,6,lsi81Indo-Aryan-Kacchi,kfr,{},25.0115052,66.7844969,Eurasia,,Kacchi,239,72,1
+,7,lsi32Tibeto-Burman-Kachari,xac,{},26.69,92.32,Eurasia,,Kachari,220,144,1
+,7,lsi31Tibeto-Burman-Kagate,syw,{},27.3,88.16,Eurasia,,Kagate,133,72,1
+,8,lsi41Dravidian-Kaikadi,kep,{},18.39,76.0,Eurasia,,Kaikadi,29,72,1
+,6,lsi82Indo-Aryan-Kalami,gwc,{},35.53,72.57,Eurasia,,Kalami,50,72,1
+,6,lsi82Indo-Aryan-Kalasha,kls,{},35.6415,71.6657,Eurasia,,Kalasha,137,72,1
+,6,lsi71Indo-Aryan-Kamar,keq,{},21.230305,81.649287,Eurasia,,Kamar,170,72,1
+,7,lsi31Tibeto-Burman-Kanashi,xns,{},32.0626008,77.2603548,Eurasia,,Kanashi,174,72,1
+,6,lsi91Indo-Aryan-Kanauji,bjj,{},27.1074,79.2883,Eurasia,,Kanauji,40,72,1
+,6,lsi91Indo-Aryan-Kangri,xnr,{},32.083983,76.19207,Eurasia,,Kangri,34,72,1
+,8,lsi41Dravidian-Kannada,kan,{},13.59,76.12,Eurasia,,Kannada,156,72,1
+,7,lsi32Tibeto-Burman-Karbi,mjw,{},26.3333333333,93.5,Eurasia,,Karbi,65,72,1
+,6,lsi82Indo-Aryan-Kashmiri,kas,{},34.1668,74.3305,Eurasia,,Kashmiri,21,360,1
+,6,lsi92Indo-Aryan-Kathiyawadi,guj,{},21.8,70.75,Eurasia,,Kathiyawadi,229,288,1
+,1,lsi82Nuristani-Kati,bsh,{},35.25,70.59,,,Kati,215,72,1
+,7,lsi31Tibeto-Burman-Khambu (Kulung),kle,{},27.1606,87.5717,Eurasia,,Khambu (Kulung),81,144,1
+,,lsi21Tai-Kadai-Khamti,kht,{},27.67,97.04,Eurasia,,Khamti,46,72,1
+,6,lsi93Indo-Aryan-Khandesi,khn,{},21.19,74.09,Eurasia,,Khandesi,213,144,1
+,5,lsi41Munda-Kharia,khr,{},22.5,84.3333333333,Eurasia,,Kharia,91,72,1
+,6,lsi51Indo-Aryan-Kharia Thar,ksy,{},21.9675,86.0803,Eurasia,,Kharia Thar,184,72,1
+,5,lsi21Khasian-Khasi,kha,{},24.98,92.0,Eurasia,,Khasi,166,72,1
+,6,lsi94Indo-Aryan-Khaspariya,kfy,{},27.52,83.33,Eurasia,,Khaspariya,179,144,1
+,8,lsi41Dravidian-Khondi,kxu,{},24.8124,87.6432,Eurasia,,Khondi,93,72,1
+,6,lsi82Indo-Aryan-Khowar,khw,{},36.0,72.0,Eurasia,,Khowar,162,72,1
+,7,lsi33Tibeto-Burman-Khumi Chin,cnk,{},22.87,92.99,Eurasia,,Khumi Chin,86,72,1
+,7,lsi31Tibeto-Burman-Kinnauri,kfk,{},31.37,78.31,Eurasia,,Kinnauri,173,72,1
+,6,lsi82Indo-Aryan-Kishtawari,kas,{},33.3191469,71.2844821,Eurasia,,Kishtawari,143,360,1
+,6,lsi94Indo-Aryan-Kiunthali,bfz,{},31.095709,77.177388,Eurasia,,Kiunthali,209,432,1
+,7,lsi32Tibeto-Burman-Koch,kdq,{},26.159591,90.624541,Eurasia,,Koch,236,72,1
+,7,lsi33Tibeto-Burman-Koireng01,nkd,{},25.117882,94.08378,Eurasia,,Koireng01,94,72,1
+,7,lsi33Tibeto-Burman-Kom,kmm,{},24.8688,94.534,Eurasia,,Kom,78,72,1
+,6,lsi71Indo-Aryan-Konkani-Thana,knn,{},19.215663,72.990128,Eurasia,,Konkani-Thana,47,72,1
+,5,lsi41Munda-Korku,kfq,{},21.84,77.55,Eurasia,,Korku,176,72,1
+,6,lsi71Indo-Aryan-Kudali,gom,{},15.995608,73.68176,Eurasia,,Kudali,169,288,1
+,6,lsi94Indo-Aryan-Kullu Pahari,kfx,{},31.76954,77.303979,Eurasia,,Kullu Pahari,113,288,1
+,6,lsi94Indo-Aryan-Kului,kfx,{},31.58,77.06,Eurasia,,Kului,190,288,1
+,7,lsi31Tibeto-Burman-Kulung,kle,{},27.1606,87.5717,Eurasia,,Kulung,216,144,1
+,6,lsi94Indo-Aryan-Kumaoni,kfy,{},29.6,79.7,Eurasia,,Kumaoni,240,144,1
+,8,lsi41Dravidian-Kurux,kru,{},23.36,85.33,Eurasia,,Kurux,232,72,1
+,4,lsi31Language isolate-Kusunda,kgg,{},28.0,84.6666666667,,,Kusunda,97,72,1
+,7,lsi31Tibeto-Burman-Ladakhi,lbj,{},34.0843,77.3403,Eurasia,,Ladakhi,17,72,1
+,7,lsi33Tibeto-Burman-Lamgang,lmk,{},24.0506,94.2806,Eurasia,,Lamgang,155,72,1
+,7,lsi33Tibeto-Burman-Langrong,aim,{},24.8998373,91.826884,Eurasia,,Langrong,218,144,1
+,6,lsi81Indo-Aryan-Lari,snd,{},26.0992,98.5481,Eurasia,,Lari,112,216,1
+,6,lsi81Indo-Aryan-Lasi,snd,{},25.3755567,68.290068,Eurasia,,Lasi,20,216,1
+,7,lsi31Tibeto-Burman-Lepcha,lep,{},27.0869,88.5726,Eurasia,,Lepcha,104,72,1
+,7,lsi31Tibeto-Burman-Limbu,lif,{},27.2703,87.8859,Eurasia,,Limbu,100,72,1
+,7,lsi31Tibeto-Burman-Lohorung,lbr,{},27.5102,87.2157,Eurasia,,Lohorung,119,72,1
+,7,lsi32Tibeto-Burman-Lotha Naga,njh,{},26.3241,94.3824,Eurasia,,Lotha Naga,134,72,1
+,6,lsi52Indo-Aryan-Magahi-Gaya,mag,{},24.795,84.999,Eurasia,,Magahi-Gaya,35,144,1
+,8,lsi41Dravidian-Malayalam,mal,{},9.59208,76.7651,Eurasia,,Malayalam,132,72,1
+,6,lsi92Indo-Aryan-Malvi,mup,{},23.488,75.562,Eurasia,,Malvi,88,72,1
+,6,lsi94Indo-Aryan-Mandeali,mjl,{},31.5425,76.55,Eurasia,,Mandeali,159,72,1
+,7,lsi32Tibeto-Burman-Mao Naga,nbi,{},25.3836,94.0035,Eurasia,,Mao Naga,14,72,1
+,6,lsi71Indo-Aryan-Marathi,mar,{},17.93,76.67,Eurasia,,Marathi,3,72,1
+,6,lsi71Indo-Aryan-Marathi-Pune,dcc,{},18.517647,73.856546,Eurasia,,Marathi-Pune,101,72,1
+,7,lsi32Tibeto-Burman-Maring Naga,nng,{},24.17,94.04,Eurasia,,Maring Naga,165,72,1
+,6,lsi92Indo-Aryan-Marwari-02 (India),rwr,{},27.0,75.07,Eurasia,,Marwari-02 (India),22,72,1
+,6,lsi93Indo-Aryan-Mawchi,mke,{},22.18,73.12,Eurasia,,Mawchi,52,72,1
+,6,lsi51Indo-Aryan-Mayang,asm,{},26.2589,92.0408,Eurasia,,Mayang,238,144,1
+,7,lsi32Tibeto-Burman-Mech,brx,{},26.112994,90.575206,Eurasia,,Mech,230,216,1
+,7,lsi33Tibeto-Burman-Meitei,mni,{},24.8074,93.9384,Eurasia,,Meitei,163,72,1
+,6,lsi92Indo-Aryan-Mewati,wtm,{},27.74,76.95,Eurasia,,Mewati,7,144,1
+,7,lsi31Tibeto-Burman-Miyu-Mishmi,mxj,{},27.92,96.17,Eurasia,,Miyu-Mishmi,58,72,1
+,7,lsi33Tibeto-Burman-Mizo,lus,{},22.6138,92.6247,Eurasia,,Mizo,141,216,1
+,7,lsi33Tibeto-Burman-Mru,mro,{},24.154,90.6317,Eurasia,,Mru,146,72,1
+,5,lsi41Munda-Mundari,unr,{},23.21,85.2,Eurasia,,Mundari,56,72,1
+,7,lsi31Tibeto-Burman-Newar,new,{},27.2614,84.9577,Eurasia,,Newar,66,72,1
+,7,lsi33Tibeto-Burman-Ngente,lus,{},22.6138,92.6247,Eurasia,,Ngente,151,216,1
+,2,lsi41Language isolate-Nihali,nll,{},19.75,77.8333333333,,,Nihali,27,72,1
+,6,lsi92Indo-Aryan-Nimadi,noe,{},22.13,76.13,Eurasia,,Nimadi,73,72,1
+,7,lsi32Tibeto-Burman-Nocte Naga01,njb,{},20.5324,97.4411,Eurasia,,Nocte Naga01,92,72,1
+,8,lsi41Dravidian-Northern Gondi,gno,{},18.16,81.38,Eurasia,,Northern Gondi,8,72,1
+,6,lsi81Indo-Aryan-Northern Hindko-Awankari,hno,{},33.570946,71.432764,Eurasia,,Northern Hindko-Awankari,182,360,1
+,6,lsi81Indo-Aryan-Northern Hindko-Dera Ghazi Khan,hno,{},34.32,73.38,Eurasia,,Northern Hindko-Dera Ghazi Khan,157,360,1
+,6,lsi81Indo-Aryan-Northern Hindko-Dhanni,hno,{},32.831149,74.281585,Eurasia,,Northern Hindko-Dhanni,98,360,1
+,6,lsi81Indo-Aryan-Northern Hindko-Kohat,hno,{},33.570946,71.432764,Eurasia,,Northern Hindko-Kohat,85,360,1
+,7,lsi31Tibeto-Burman-Nyishi,njz,{},26.83,93.33,Eurasia,,Nyishi,55,72,1
+,6,lsi52Indo-Aryan-Odia-Cuttack,ory,{},20.485358,85.88571,Eurasia,,Odia-Cuttack,130,72,1
+,6,lsi94Indo-Aryan-Outer Siraji,kfx,{},31.58,77.06,Eurasia,,Outer Siraji,26,288,1
+,6,lsi94Indo-Aryan-Padari,bhd,{},32.98,75.72,Eurasia,,Padari,32,144,1
+,7,lsi33Tibeto-Burman-Paite Chin,pck,{},24.0,93.1666666667,Eurasia,,Paite Chin,84,72,1
+,6,lsi94Indo-Aryan-Palpa,plp,{},27.87,83.39,Eurasia,,Palpa,171,72,1
+,6,lsi52Indo-Aryan-Panchpargania,tdb,{},23.356777,85.322401,Eurasia,,Panchpargania,153,72,1
+,7,lsi33Tibeto-Burman-Pangkhua,pkh,{},22.5298,93.29,Eurasia,,Pangkhua,82,72,1
+,6,lsi94Indo-Aryan-Pangwali,pgg,{},32.33,76.07,Eurasia,,Pangwali,192,72,1
+,6,lsi92Indo-Aryan-Patani Gujarati,guj,{},23.51,72.07,Eurasia,,Patani Gujarati,90,288,1
+,7,lsi31Tibeto-Burman-Pattani,lae,{},32.6862,76.5965,Eurasia,,Pattani,222,144,1
+,6,lsi81Indo-Aryan-Peshawar Hindko,hnd,{},34.000163,71.509836,Eurasia,,Peshawar Hindko,219,72,1
+,7,lsi32Tibeto-Burman-Plains Kachari,xac,{},26.7255,89.3332,Eurasia,,Plains Kachari,210,144,1
+,6,lsi82Indo-Aryan-Poguli,kas,{},33.3150296,74.1385444,Eurasia,,Poguli,16,360,1
+,6,lsi81Indo-Aryan-Porthwari,phr,{},33.64,73.81,Eurasia,,Porthwari,145,144,1
+,1,lsi82Nuristani-Prasuni,prn,{},35.1731,70.8004,,,Prasuni,117,72,1
+,6,lsi91Indo-Aryan-Punjabi,pan,{},30.0368,75.6702,Eurasia,,Punjabi,79,72,1
+,7,lsi31Tibeto-Burman-Purik,prx,{},34.428,75.751,Eurasia,,Purik,115,72,1
+,7,lsi33Tibeto-Burman-Purum,pub,{},25.3887,95.0935,Eurasia,,Purum,217,72,1
+,7,lsi32Tibeto-Burman-Rabha,rah,{},25.82,91.17,Eurasia,,Rabha,111,72,1
+,6,lsi51Indo-Aryan-Rajbangsi,rjs,{},26.52,88.04,Eurasia,,Rajbangsi,99,72,1
+,7,lsi33Tibeto-Burman-Ralte,ral,{},23.8192,93.6884,Eurasia,,Ralte,212,72,1
+,6,lsi82Indo-Aryan-Rambani,kas,{},33.2408967,75.2313264,Eurasia,,Rambani,18,360,1
+,6,lsi94Indo-Aryan-Rampuri,bfz,{},28.783565,79.019351,Eurasia,,Rampuri,200,432,1
+,6,lsi93Indo-Aryan-Rangari,khn,{},21.32,74.14,Eurasia,,Rangari,144,144,1
+,7,lsi31Tibeto-Burman-Rangkas,rgk,{},29.2278,80.0845,Eurasia,,Rangkas,187,144,1
+,6,lsi94Indo-Aryan-Rathi,gbm,{},30.15,78.78,Eurasia,,Rathi,108,288,1
+,6,lsi93Indo-Aryan-Rathwi Bareli01,bgd,{},22.03,74.9,Eurasia,,Rathwi Bareli01,204,72,1
+,7,lsi32Tibeto-Burman-Rongmei Naga,nbu,{},25.3499,93.6463,Eurasia,,Rongmei Naga,2,72,1
+,7,lsi31Tibeto-Burman-Rungchenbung,bap,{},27.1215,87.0474,Eurasia,,Rungchenbung,61,72,1
+,6,lsi52Indo-Aryan-Sadri-02,sck,{},23.6585,84.8114,Eurasia,,Sadri-02,208,72,1
+,7,lsi31Tibeto-Burman-Sangpang,rav,{},27.2999,87.0019,Eurasia,,Sangpang,1,72,1
+,5,lsi41Munda-Santali,sat,{},25.03,87.82,Eurasia,,Santali,67,72,1
+,6,lsi81Indo-Aryan-Saraiki-Multan,skr,{},30.19901,71.483105,Eurasia,,Saraiki-Multan,23,144,1
+,6,lsi71Indo-Aryan-Sarasvat Brahmin,gom,{},14.822959,74.141793,Eurasia,,Sarasvat Brahmin,121,288,1
+,8,lsi41Dravidian-Sauria Paharia,mjt,{},25.0,87.3333333333,Eurasia,,Sauria Paharia,177,72,1
+,7,lsi31Tibeto-Burman-Sherpa,xsr,{},27.67,87.0,Eurasia,,Sherpa,140,72,1
+,6,lsi94Indo-Aryan-Shimla Siraji,bfz,{},31.0088,77.5317,Eurasia,,Shimla Siraji,123,432,1
+,6,lsi82Indo-Aryan-Shina-Dras,scl,{},34.602922,76.510141,Eurasia,,Shina-Dras,138,288,1
+,7,lsi31Tibeto-Burman-Sikkimese,sip,{},27.410786,89.581604,Eurasia,,Sikkimese,54,72,1
+,6,lsi81Indo-Aryan-Sindhi,snd,{},31.341797,71.696999,Eurasia,,Sindhi,120,216,1
+,7,lsi32Tibeto-Burman-Singhpho,sgp,{},25.4634,97.3278,Eurasia,,Singhpho,24,72,1
+,6,lsi82Indo-Aryan-Siraji of Doda,kas,{},32.0988901,74.8769975,Eurasia,,Siraji Of Doda,105,360,1
+,6,lsi93Indo-Aryan-Siyalgir,bhb,{},22.424,87.319,Eurasia,,Siyalgir,231,144,1
+,7,lsi33Tibeto-Burman-Siyin Chin,csy,{},23.8192,93.6884,Eurasia,,Siyin Chin,126,72,1
+,6,lsi94Indo-Aryan-Sodochi,bfz,{},31.0088,77.5317,Eurasia,,Sodochi,197,432,1
+,5,lsi41Munda-Sora,srb,{},21.2606,85.5845,Eurasia,,Sora,221,72,1
+,6,lsi94Indo-Aryan-Soracholi,bfz,{},30.815517,78.205923,Eurasia,,Soracholi,136,432,1
+,6,lsi51Indo-Aryan-South-Western Bengali,ben,{},22.424,87.319,Eurasia,,South-Western Bengali,69,216,1
+,6,lsi82Indo-Aryan-Southeast Pashai,psi,{},34.43,70.3,Eurasia,,Southeast Pashai,183,72,1
+,7,lsi32Tibeto-Burman-Southern Rengma Naga,nsm,{},26.0,94.42,Eurasia,,Southern Rengma Naga,95,144,1
+,6,lsi52Indo-Aryan-Southern Standard Maithili,mai,{},25.527358,86.573402,Eurasia,,Southern Standard Maithili,15,216,1
+,6,lsi52Indo-Aryan-Standard Maithili,mai,{},26.065731,86.149641,Eurasia,,Standard Maithili,33,216,1
+,7,lsi32Tibeto-Burman-Sumi Naga,nsm,{},25.6841,93.8668,Eurasia,,Sumi Naga,168,144,1
+,7,lsi31Tibeto-Burman-Sunwar,suz,{},27.5201,86.2476,Eurasia,,Sunwar,59,72,1
+,6,lsi51Indo-Aryan-Sylheti,syl,{},24.3,91.4,Eurasia,,Sylheti,198,72,1
+,8,lsi41Dravidian-Tamil,tam,{},10.52,78.83,Eurasia,,Tamil,195,72,1
+,7,lsi32Tibeto-Burman-Tangkhul Naga02,nmf,{},25.0950796,94.3455217,Eurasia,,Tangkhul Naga02,53,72,1
+,6,lsi94Indo-Aryan-Tehri,gbm,{},30.38,78.48,Eurasia,,Tehri,71,288,1
+,8,lsi41Dravidian-Telugu,tel,{},16.45,78.7,Eurasia,,Telugu,150,72,1
+,7,lsi33Tibeto-Burman-Thado Chin,tcz,{},24.096,93.722,Eurasia,,Thado Chin,45,72,1
+,6,lsi81Indo-Aryan-Thali-Derawal,skr,{},35.53,72.57,Eurasia,,Thali-Derawal,10,144,1
+,7,lsi32Tibeto-Burman-Thangal Naga-01,nki,{},25.098,93.7869,Eurasia,,Thangal Naga-01,158,72,1
+,7,lsi31Tibeto-Burman-Thangmi,thf,{},27.3,88.16,Eurasia,,Thangmi,110,72,1
+,6,lsi81Indo-Aryan-Tinoli Hindko,hno,{},32.795543,74.284292,Eurasia,,Tinoli Hindko,161,360,1
+,7,lsi32Tibeto-Burman-Tippera,tpe,{},23.59,92.07,Eurasia,,Tippera,74,72,1
+,7,lsi32Tibeto-Burman-Tiwa (India),lax,{},26.07,92.26,Eurasia,,Tiwa (India),96,72,1
+,6,lsi82Indo-Aryan-Torwali,trw,{},35.31,72.53,Eurasia,,Torwali,5,72,1
+,6,lsi71Indo-Aryan-Varhadi-Nagpuri-01,vah,{},20.71,79.75,Eurasia,,Varhadi-Nagpuri-01,28,72,1
+,1,lsi82Nuristani-Waigali,wbk,{},35.04,70.98,,,Waigali,225,72,1
+,7,lsi31Tibeto-Burman-Wambule,wme,{},27.1606,87.5717,Eurasia,,Wambule,89,72,1
+,7,lsi31Tibeto-Burman-Wayu,vay,{},27.3047,86.1227,Eurasia,,Wayu,41,72,1
+,6,lsi94Indo-Aryan-Western Gujuri,gju,{},34.45146,76.174783,Eurasia,,Western Gujuri,60,216,1
+,6,lsi81Indo-Aryan-Western Punjabi-01,pnb,{},30.0948,75.3474,Eurasia,,Western Punjabi-01,196,144,1
+,6,lsi81Indo-Aryan-Western Punjabi-Salt Range,pnb,{},30.0368,75.6702,Eurasia,,Western Punjabi-Salt Range,44,144,1
+,6,lsi52Indo-Aryan-Western Standard Bhojpuri-Purbi,bho,{},26.778382,83.070878,Eurasia,,Western Standard Bhojpuri-Purbi,211,144,1
+,7,lsi31Tibeto-Burman-Yakha,ybh,{},27.3,87.32,Eurasia,,Yakha,68,72,1
+,8,lsi41Dravidian-Yerukula,yeu,{},17.37,81.97,Eurasia,,Yerukula,175,72,1
+,7,lsi33Tibeto-Burman-Zahao,lus,{},22.497953,93.494982,Eurasia,,Zahao,228,216,1
+,7,lsi32Tibeto-Burman-Zeme Naga,nzm,{},25.7317,93.0462,Eurasia,,Zeme Naga,103,72,1

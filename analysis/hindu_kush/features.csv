@@ -1,0 +1,2027 @@
+ID,Name,Description,Category
+GC01a,Grammatical Gender,"Agreement is taken as the defining characteristic of grammatical gender.
+This is exemplified in ‎(1); the verb in Sawi takes a masculine
+agreement suffix *-**u*** with the masculine noun ‘rain’ as a subject
+and a feminine agreement suffix *-**i*** with the feminine noun ‘sun’.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Sawi
+\[sdg\] (Indo-Aryan)
+
+| a.  | **baʂ**                                               | uʈiʈ-**u**                                                 |
+|-----|-------------------------------------------------------|------------------------------------------------------------|
+|     | rain(<span style=""font-variant:small-caps;"">m</span>) | fall.<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | ‘It rained.’ (SDG-Val-FR:069)                         |
+
+| b.  | **suri**                                             | ukeːt-**i**                                                  |
+|-----|------------------------------------------------------|--------------------------------------------------------------|
+|     | sun(<span style=""font-variant:small-caps;"">f</span>) | get.up.<span style=""font-variant:small-caps;"">pfv-fsg</span> |
+|     | ‘The sun rose.’ (SDG-NW-FR:004a)                     |
+
+A majority of our sample languages display evidence of two or more
+genders lexically associated with nouns. Approximately a fifth of the
+sample varieties lacks this property altogether, among them the Turkic
+and Sino-Tibetan varieties.",Grammatical categories
+GC01b,Sex-based Gender,"Differentiation in languages with gender categories (see Grammatical
+Gender) may be based on or linked to a biological differentiation
+between male and female referents, as in Ushojo ‎(1). In languages with
+a masculine-feminine differentiation, nouns denoting inanimates or
+non-humans can be assigned masculine or feminine gender too.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Ushojo
+\[ush\] (Indo-Aryan)
+
+| a.  | ek                                                              | **pʰoː**                                             | asil-**u**,                                              | se                                                    | seːkel-aː                                                 | jaː   | aːl-**u**                                                  |
+|-----|-----------------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|-------|------------------------------------------------------------|
+|     | one                                                             | boy(<span style=""font-variant:small-caps;"">m</span>) | be.<span style=""font-variant:small-caps;"">pst-msg</span> | <span style=""font-variant:small-caps;"">3sg.nom</span> | bicycle-<span style=""font-variant:small-caps;"">loc</span> | going | come.<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | ‘There was a boy, he came riding on a bicycle.’ (USH-PS-AH:001) |
+
+| b.  | ek                                                                    | **pʰui**                                              | ... | seːkal-aː                                                 | jaː   | muɕiːn  | tarapaja     | aːl-**i**                                                  |
+|-----|-----------------------------------------------------------------------|-------------------------------------------------------|-----|-----------------------------------------------------------|-------|---------|--------------|------------------------------------------------------------|
+|     | one                                                                   | girl(<span style=""font-variant:small-caps;"">f</span>) |     | bicycle-<span style=""font-variant:small-caps;"">loc</span> | going | to.near | in.direction | come.<span style=""font-variant:small-caps;"">pfv-fsg</span> |
+|     | ‘A girl… came in his direction, riding on a bicycle.’ (USH-PS-AH:012) |
+
+| c.  | axeːr                                       | **oːɕ**                                               | ɕoku  | bil-**i**                                                    |
+|-----|---------------------------------------------|-------------------------------------------------------|-------|--------------------------------------------------------------|
+|     | finally                                     | wind(<span style=""font-variant:small-caps;"">f</span>) | quiet | become.<span style=""font-variant:small-caps;"">pfv-fsg</span> |
+|     | ‘Finally the wind gave up.’ (USH-NW-AH:007) |
+
+A large majority of our sample languages display evidence of sex-based
+noun classification. Only a fourth of the languages lack this property.",Grammatical categories
+GC01c,Animacy-based Gender,"Differentiation in languages with gender categories (see Grammatical
+Gender) may be based on animacy differentiation. Often nouns denoting
+animates are distinguished from those denoting inanimates in such
+systems. This property can be (but is not always) combined with
+sex-based gender. In Pashai Chalas ‎(1), the target is a copula verb
+with distinct forms for inanimate and animate agreement.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Pashai Chalas
+\[aee(ch)\] (Indo-Aryan)
+
+| a.  | **soːŋ **                               | suːsiːk | **ɕu**                                                      |
+|-----|-----------------------------------------|---------|-------------------------------------------------------------|
+|     | ground                                  | dry     | be.<span style=""font-variant:small-caps;"">3.inan.prs</span> |
+|     | ‘The ground is dry.’ (AEEch-Val-ED:068) |
+
+| b.  | mono                                     | **saːwoːm ** | lam   | **aːs**                                                       |
+|-----|------------------------------------------|--------------|-------|---------------------------------------------------------------|
+|     | my                                       | sister       | small | be.<span style=""font-variant:small-caps;"">3.an.fsg.prs</span> |
+|     | ‘My sister is small.’ (AEEch-Gen-ED:002) |
+
+Animacy-based differentiation of nouns is present in a smaller number of
+the sample languages.",Grammatical categories
+GC02a,Unique A Case,"Morphological case on nouns often expresses the syntactic and semantic
+relationships between clausal constituents. In this study, we
+investigated to what extent a unique case marker was used in the past
+(or perfective) for the subject argument of a transitive clause (A),
+vis-à-vis the subject of an intransitive clause (S), the direct object
+of a transitive clause (P), and a recipient (R). This is the case in
+Purik, as seen in ‎(1), in which the ergative case suffix ‑s is used
+with the subject of transitive clauses, whereas the subject of an
+intransitive clause is zero marked and the direct object is either zero
+marked or takes a dative case marker.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Purik
+\[prx\] (Sino-Tibetan)
+
+| a.  | bomo-**s**                                             | ŋi                                                    | pʰila | mindoq | kʰur-e                                                   | soŋ                                                  |
+|-----|--------------------------------------------------------|-------------------------------------------------------|-------|--------|----------------------------------------------------------|------------------------------------------------------|
+|     | girl-<span style=""font-variant:small-caps;"">erg</span> | <span style=""font-variant:small-caps;"">1sg.gen</span> | sake  | flower | carry-<span style=""font-variant:small-caps;"">conj</span> | go.<span style=""font-variant:small-caps;"">pst</span> |
+|     | ‘The girl brought flowers to me.’ (PRX-Val-MM:075)     |
+
+| b.  | bomo                                | tɕoŋs |     |     |
+|-----|-------------------------------------|-------|-----|-----|
+|     | girl                                | jump  |     |     |
+|     | ‘The girl jumped.’ (PRX-Val-MM:052) |
+
+| c.  | butsʰa-**s**                                               | bomo | tɕʰu-juŋ   | pʰul-e                                                  | taŋ-s                                                  |
+|-----|------------------------------------------------------------|------|------------|---------------------------------------------------------|--------------------------------------------------------|
+|     | boy-<span style=""font-variant:small-caps;"">erg</span>      | girl | water-into | push-<span style=""font-variant:small-caps;"">conj</span> | give-<span style=""font-variant:small-caps;"">pst</span> |
+|     | ‘The boy pushed the girl into the water.’ (PRX-Val-MM:074) |
+
+| d.  | butsʰa-**s**                                          | bomo-la                                                | ɬta-s                                                  |     |
+|-----|-------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-----|
+|     | boy-<span style=""font-variant:small-caps;"">erg</span> | girl-<span style=""font-variant:small-caps;"">dat</span> | look-<span style=""font-variant:small-caps;"">pst</span> |     |
+|     | ‘The boy looked at the girl.’ (PRX-Val-MM:003)        |
+
+Unique case-marking of the A argument is present in a majority of the
+sample languages. The languages lacking this property are primarily
+found in the region’s northwest.",Grammatical categories
+GC02b,Unique S Case,"Morphological case on nouns often expresses the syntactic and semantic
+relationships between clausal constituents. In this study, we
+investigated to what extent a unique case marker was used in the past
+(or perfective) for the subject argument of an intransitive clause (S),
+vis-à-vis the subject of a transitive clause (A), the direct object of a
+transitive clause (P), and a recipient (R). This is the case in Hindko,
+as seen in ‎(1), in which the subject of an intransitive clause is zero
+marked, whereas the subject of a transitive subject is marked with an
+ergative case clitic *=suɳ* and the (definite) object is marked with a
+dative case clitic *=koː*.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Hindko
+\[hno\] (Indo-Aryan)
+
+| a.  | sap                                | mər                                                   | ɡijaː                                                    |
+|-----|------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+|     | snake                              | die.<span style=""font-variant:small-caps;"">cvb</span> | go.<span style=""font-variant:small-caps;"">pfv.msg</span> |
+|     | ‘The snake died.’ (HNO-Val-RH:061) |
+
+| b.  | dʑandak                                           | ɖuːɡiː=bətɕ                                             | saːməɳĩː  | aː-jaː                                                     |
+|-----|---------------------------------------------------|---------------------------------------------------------|-----------|------------------------------------------------------------|
+|     | boy                                               | field=<span style=""font-variant:small-caps;"">loc</span> | appearing | come.<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | ‘The boy appeared on the field.’ (HNO-Val-RH:081) |
+
+| c.  | dʑandk-aː=suɳ                                                                                           | suːʈiː=naːl                                             | sap=koː                                                 | ʈoː-jaː                                                    |     |
+|-----|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|-----|
+|     | boy-<span style=""font-variant:small-caps;"">obl</span>=<span style=""font-variant:small-caps;"">erg</span> | stick=<span style=""font-variant:small-caps;"">ins</span> | snake=<span style=""font-variant:small-caps;"">dat</span> | beat.<span style=""font-variant:small-caps;"">pfv-msg</span> |     |
+|     | ‘The boy beat the snake with a stick.’ (HNO-Val-RH:027)                                                 |
+
+Unique case-marking of the S argument is present in less than a quarter
+of the sample languages. In the other languages its case marking is the
+same as that for one or more of the other arguments, A, P or R.",Grammatical categories
+GC02c,Unique P Case,"Morphological case on nouns often expresses the syntactic and semantic
+relationships between clausal constituents. In this study, we
+investigated to what extent a unique case marker was used in the past
+(or perfective) for the object argument of a transitive clause (P),
+vis-à-vis the subject of an intransitive clause (S), the subject of a
+transitive clause (A), and a recipient (R). This is the case in Khowar,
+as seen in (1), in which the oblique case suffix *-o* is used with the
+(specific) object of transitive clauses, or the plural equivalent *-an*,
+whereas the subject is zero marked, whether it occurs in a transitive or
+an intransitive clause.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Khowar
+\[khw\] (Indo-Aryan)
+
+| a.  | ɖaq                                                    | aji-**o**                                               | ban-en                                                   | pr-aj                                                     |     |     |
+|-----|--------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|-----|-----|
+|     | boy                                                    | snake-<span style=""font-variant:small-caps;"">obl</span> | stick-<span style=""font-variant:small-caps;"">inst</span> | hit.<span style=""font-variant:small-caps;"">pst-3sg</span> |     |     |
+|     | ‘The boy hit the snake with a stick.’ (KHW-Val-AA:028) |
+
+| b.  | aji                                | obrit-aj                                                  |     |     |
+|-----|------------------------------------|-----------------------------------------------------------|-----|-----|
+|     | snake                              | die.<span style=""font-variant:small-caps;"">pst-3sg</span> |     |     |
+|     | ‘The snake died.’ (KHW-Val-AA:061) |
+
+| c.  | kumoːru                                                      | tan                                                | waw-o=te                                                         | gamburi-**an**                                              | anzeːt-aj                                                  |
+|-----|--------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                         | <span style=""font-variant:small-caps;"">refl</span> | grandmother-<span style=""font-variant:small-caps;"">obl</span>=to | flower-<span style=""font-variant:small-caps;"">obl.pl</span> | give.<span style=""font-variant:small-caps;"">pst-3sg</span> |
+|     | ‘The girl sent flowers to her grandmother.’ (KHW-Val-AA:037) |
+
+Unique case-marking of the P argument is present in approximately a
+third of the sample. The languages displaying this property are
+primarily found in the region’s northwest.",Grammatical categories
+GC02d,Unique R Case,"Morphological case on nouns often expresses the syntactic and semantic
+relationships between clausal constituents. In this study, we
+investigated to what extent a unique case marker was used for the
+recipient (R) of a ditransitive clause, vis-à-vis the subject of an
+intransitive clause (S), the subject of a transitive clause (A), and the
+direct object of a transitive clause (P). This is the case in Amla
+Pashai , as seen in ‎(1), in which the cliticized case marker (or
+postposition) *=ntiː* (or *=aːntiː*) ‘to’ is the unique marker of a
+recipient noun phrase, whereas the subject of a transitive clause
+receive an oblique case suffix (in the past/perfective), and the subject
+of an intransitive clause as well as the object of a transitive clause
+are zero marked.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Amla Pashai
+\[psi(am)\] (Indo-Aryan)
+
+| a.  | kiʈaːlik-iː                                                    | baː-staː**=ntiː**                                                     | gul    | gəɽ-eː-tɕ-in                                                 |
+|-----|----------------------------------------------------------------|-----------------------------------------------------------------------|--------|--------------------------------------------------------------|
+|     | girl-<span style=""font-variant:small-caps;"">obl</span>         | grandmother<span style=""font-variant:small-caps;"">-3sg.poss=</span>to | flower | send-<span style=""font-variant:small-caps;"">pst-f-3pl</span> |
+|     | ‘The girl sent flowers to her grandmother.’ (PSIam-Val-NG:037) |
+
+| b.  | kilaː-j                                                      | kiʈaːlik | warg-iː=kuːtɕa                                               | ʈeːla   | k-i-tɕ-aːn                                                                                                |
+|-----|--------------------------------------------------------------|----------|--------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|     | boy-<span style=""font-variant:small-caps;"">obl</span>        | girl     | water-<span style=""font-variant:small-caps;"">obl</span>=into | pushing | do-<span style=""font-variant:small-caps;"">pst</span>-<span style=""font-variant:small-caps;"">f-3fsg</span> |
+|     | ‘The boy pushed the girl into the water.’ (PSIam-Val-NG:074) |
+
+Unique case-marking of the R argument is present in the large majority
+of the sample languages. The few languages lacking this property are
+primarily found in the region’s south.",Grammatical categories
+GC03,Multi-Value Distance Contrasts,"Distance contrasts expressed in adnominal demonstratives were
+investigated. A three-way contrast in relation to the deictic centre was
+regarded as the minimum for being classified as a multi-value distance
+contrast, thus given a positive value, while a two-term system, like the
+one reflected by English ‘this’ vs ‘that’ was given a negative value.
+Pronominal demonstratives and referents out-of-sight were disregarded.
+Shughni, as seen in (1), displays (at least) a three-way contrast: one
+term (or set) is used with a referent proximal to the speaker (1a), a
+second for a medial referent (1b), and a third for a distal one (1c).
+All of these referents are visible to the speaker (and the addressee).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Shughni
+\[sgh(a)\] (Iranian)
+
+| a.  | **jam**                                                                                           | aŋgixt | daːrð | kix-t                                                    |     |     |
+|-----|---------------------------------------------------------------------------------------------------|--------|-------|----------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">prox.nom</span>                                            | finger | pain  | do.<span style=""font-variant:small-caps;"">prs-3sg</span> |     |     |
+|     | ‘This finger hurts.’ \[Uttered as the speaker is pointing at her own finger.\] (SHGa-Dem-LL:001a) |
+
+| b.  | tʃis                                                                                                                                          | **dam**                                                 | tʃaŋgin | tuː                                               | ðus=te  | tsa                                               |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------|---------------------------------------------------|---------|---------------------------------------------------|
+|     | look.<span style=""font-variant:small-caps;"">imp.sg</span>                                                                                     | <span style=""font-variant:small-caps;"">med.obl.f</span> | bug     | <span style=""font-variant:small-caps;"">2sg</span> | hand=on | <span style=""font-variant:small-caps;"">rel</span> |
+|     | ‘Look at that bug on your arm.’ \[Uttered as the speaker is pointing at the addressee’s arm, who is sitting next to her.\] (SHGa-Dem-LL:003a) |
+
+| c.  | ʒiːwdʒ-um                                                                                                                                                                     | **wam**                                                  | tuːp | amiːnat | zeː-m                                                     |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------|---------|-----------------------------------------------------------|
+|     | desire.<span style=""font-variant:small-caps;"">prs</span>-<span style=""font-variant:small-caps;"">1sg</span>                                                                    | <span style=""font-variant:small-caps;"">dist.obl.f</span> | ball | gift    | get.<span style=""font-variant:small-caps;"">prs-1sg</span> |
+|     | ‘I would like to have that ball.’ \[Uttered as the speaker is pointing at a ball on the ground a few steps away from both the speaker and the addressee.\] (SHGa-Dem-LL:005b) |
+
+Only a little less than half of the sample display multi-value distance
+contrasts. There are no obvious geographical correlations.
+
+This feature deserves a more thorough investigation, as there are in
+many of the sample languages additional deictic parameters involved
+(such as emphasis, elevation and other geomorphic properties), as well
+as non-deictic distinctions expressed (such as case, number and gender)
+that make the analysis of the limited material extremely challenging.
+The present study should therefore be treated as preliminary in this
+respect.",Grammatical categories
+GC04a,Prepositional Coding of Source,"<span id=""_Hlk51063511"" class=""anchor""></span>The strategy for marking a
+noun phrase as a source or an origin was investigated. <span
+id=""_Hlk51060338"" class=""anchor""></span>The positive value of this
+feature reflects the presence of a marker preceding the noun phrase,
+whether clitical or adpositional. In Sanglechi this semantic role is
+coded by a preposition, as shown in (1).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Sanglechi
+\[sgy\] (Iranian)
+
+| a.  | xətsaːk                                                | wok | safad | **tsə ** | kitaːv | bidʒaːʁast                                             |
+|-----|--------------------------------------------------------|-----|-------|----------|--------|--------------------------------------------------------|
+|     | girl                                                   | a   | page  | \[from   | book\] | tear.<span style=""font-variant:small-caps;"">pst</span> |
+|     | ‘The girl tore a page from the book.’ (SGY-Val-GM:032) |
+
+| b.  | meːɽ                                             | **tsə ** | dəraχt | wat                                                    |     |     |
+|-----|--------------------------------------------------|----------|--------|--------------------------------------------------------|-----|-----|
+|     | apple                                            | \[from   | tree\] | fall.<span style=""font-variant:small-caps;"">pst</span> |     |     |
+|     | ‘The apple fell from the tree.’ (SGY-Val-GM:084) |
+
+This is a feature is a minority feature and limited to the Iranian
+languages of the sample (primarily in the north of the region). It is
+present (sometimes in addition to other coding, such as suffixing or a
+postposition) in approximately a fifth of the languages.",Grammatical categories
+GC04b,Postpositional Coding of Source,"The strategy for marking a noun phrase as a source or an origin was
+investigated. The positive value of this feature reflects the presence
+of a marker following the noun phrase, whether clitical or adpositional.
+In Torwali, this semantic role is coded by a postposition, as shown in
+(1).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Torwali
+\[trw\] (Indo-Aryan)
+
+| a.  | seːrɛːn-eː                                               | kitaːb | **maː ** | paːʂ                                                  | pʰaːl-uː                                               |     |
+|-----|----------------------------------------------------------|--------|----------|-------------------------------------------------------|--------------------------------------------------------|-----|
+|     | girl-<span style=""font-variant:small-caps;"">erg</span>   | \[book | from\]   | leaf(<span style=""font-variant:small-caps;"">m</span>) | tear-<span style=""font-variant:small-caps;"">msg</span> |     |
+|     | ‘The girl tore the page from the book.’ (TRW-Val-UD:032) |
+
+| b.  | tʰaːm                                            | **maː ** | bʰawaj                                                 | laːr | gɛː                                                      |     |
+|-----|--------------------------------------------------|----------|--------------------------------------------------------|------|----------------------------------------------------------|-----|
+|     | \[tree                                           | from\]   | apple(<span style=""font-variant:small-caps;"">f</span>) | down | go.<span style=""font-variant:small-caps;"">pst.fsg</span> |     |
+|     | ‘The apple fell from the tree.’ (TRW-Val-UD:084) |
+
+This is a feature of nearly all the sample languages, either as the only
+explicit marking or in addition to other coding, such as prepositions or
+suffixes.",Grammatical categories
+GC05a,Prepositional Coding of Goal,"The strategy for marking a noun phrase as a goal was investigated. <span
+id=""_Hlk51060338"" class=""anchor""></span>The positive value of this
+feature reflects the presence of a marker preceding the noun phrase,
+whether clitical or adpositional. In Wakhi of Pakistan, this semantic
+role is coded by a preposition, as shown in (1).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Wakhi, Pakistan
+\[wbl(p)\] (Iranian)
+
+| a.  | ja                                                           | ðaj-e                                                 | sinduq-ve                                                | **tra ** | bozor    | jut                                                    |
+|-----|--------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|----------|----------|--------------------------------------------------------|
+|     | that                                                         | man-<span style=""font-variant:small-caps;"">obl</span> | box-<span style=""font-variant:small-caps;"">obl.pl</span> | \[to     | market\] | take.<span style=""font-variant:small-caps;"">pst</span> |
+|     | ‘The man carried the boxes to the market.’ (WBLp-Val-AK:038) |
+
+| b.  | ʂiliɖʐin                                          | **tra ** | bozor    | reɣd-e                                                   |     |     |
+|-----|---------------------------------------------------|----------|----------|----------------------------------------------------------|-----|-----|
+|     | woman                                             | \[to     | market\] | go.<span style=""font-variant:small-caps;"">pst-3sg</span> |     |     |
+|     | ‘The woman went to the market.’ (WBLp-Val-AK:054) |
+
+This is minority feature and limited to a few of the Iranian languages
+in the north. In those languages it is sometimes occurring in addition
+to other coding, such as suffixing or a postposition.",Grammatical categories
+GC05b,Postpositional Coding of Goal,"The strategy for marking a noun phrase as a goal was investigated. The
+positive value of this feature reflects the presence of a marker
+following the noun phrase, whether clitical or adpositional. In Kalkoti,
+this semantic role is coded by a postposition, as shown in (1).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Kalkoti
+\[xka\] (Indo-Aryan)
+
+| a.  | meːɕaːl-um                                                  | sunuːq | baːzaːr  | **par ** | giː                                                   | geː                                                      |
+|-----|-------------------------------------------------------------|--------|----------|----------|-------------------------------------------------------|----------------------------------------------------------|
+|     | man.<span style=""font-variant:small-caps;"">pl-obl.pl</span> | box    | \[market | to\]     | take.<span style=""font-variant:small-caps;"">cv</span> | go.<span style=""font-variant:small-caps;"">pst.mpl</span> |
+|     | ‘The men carried the boxes to the market.’ (XKA-Val-JK:038) |
+
+| b.  | treːr                                            | baːzaːr  | **par ** | gi                                                       |     |     |
+|-----|--------------------------------------------------|----------|----------|----------------------------------------------------------|-----|-----|
+|     | woman                                            | \[market | to\]     | go.<span style=""font-variant:small-caps;"">pst.fsg</span> |     |     |
+|     | ‘The woman went to the market.’ (XKA-Val-JK:054) |
+
+This is a feature of a majority of the sample languages, either as the
+only explicit marking or in addition to other coding, such as
+prepositions or suffixes.",Grammatical categories
+GC06a,Prepositional Coding of Location,"The strategy for marking a noun phrase as a location was investigated.
+<span id=""_Hlk51060338"" class=""anchor""></span>The positive value of this
+feature reflects the presence of a marker preceding the noun phrase,
+whether clitical or adpositional. In Pashto of Pakistan, this semantic
+role is coded by a preposition, as shown in (1). For a location at, or
+near, a surface, as in (1a), the preposition *pə* is sufficient, while
+for the location inside something, as in (1b), a combination of the
+preposition *pə* and a postposition *kiː* is used.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Pashto, Pakistan
+\[pbu(p)\] (Iranian)
+
+| a.  | maːʃuːm-aːn                                            | **pə ** | beːntʃ  | naːst  | diː                                                      |     |
+|-----|--------------------------------------------------------|---------|---------|--------|----------------------------------------------------------|-----|
+|     | child-<span style=""font-variant:small-caps;"">pl</span> | \[at    | bench\] | seated | be.<span style=""font-variant:small-caps;"">prs.3pl</span> |     |
+|     | ‘The children sit on the bench.’ (PBUp-Val-KK:051)     |
+
+| b.  | buːɖaː-gaːn                                                 | **pə ** | kəliː   | kiː  | uːs-iː                                                   |     |
+|-----|-------------------------------------------------------------|---------|---------|------|----------------------------------------------------------|-----|
+|     | old.person-<span style=""font-variant:small-caps;"">pl</span> | \[at    | village | in\] | live.<span style=""font-variant:small-caps;"">prs-3</span> |     |
+|     | ‘The old people live in town.’ (PBUp-Val-KK:056)            |
+
+This is a minority feature and, in this data sample, limited to Iranian
+languages (primarily in the north). In those languages it is sometimes
+present in addition to other coding, such as suffixing or a
+postposition.",Grammatical categories
+GC06b,Postpositional Coding of Location,"The strategy for marking a noun phrase as a location was investigated.
+The positive value of this feature reflects the presence of a marker
+following the noun phrase, whether clitical or adpositional. In Alishang
+Pashai, this semantic role is coded by postpositions, as shown in (1).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Alishang Pashai
+\[glh(ag)\] (Indo-Aryan)
+
+| a.  | baːlkulan                                                | tɕoːkiː | **ɕəraː ** | niːgiːz                                                        |     |     |
+|-----|----------------------------------------------------------|---------|------------|----------------------------------------------------------------|-----|-----|
+|     | boy.<span style=""font-variant:small-caps;"">pl</span>     | \[bench | on\]       | sit.down.<span style=""font-variant:small-caps;"">pst.3pl</span> |     |     |
+|     | ‘The children sat down on the bench.’ (GLHag-Val-SF:051) |
+
+| b.  | kuːnuː                                            | adam-aːn                                             | χaːr   | **kutɕaː ** | ʑun  | kət-un                                                   |
+|-----|---------------------------------------------------|------------------------------------------------------|--------|-------------|------|----------------------------------------------------------|
+|     | old                                               | man-<span style=""font-variant:small-caps;"">pl</span> | \[city | in\]        | life | do.<span style=""font-variant:small-caps;"">prs-3pl</span> |
+|     | ‘The old people live in town.’ (GLHag-Val-SF:056) |
+
+This is a feature of a majority of the sample languages, either as the
+only explicit marking or in addition to other coding, such as
+prepositions or suffixes. Languages that lack this feature are found in
+the region’s northwest.",Grammatical categories
+GC07a,Possessive Prefixes,"The presence of prefixes indexing the inalienable possessor of a
+possessee was investigated. This is a feature of Hunza Burushaski, as
+shown in (1). These are used with a restricted class of possessee nouns
+such as kinship terms and body parts, and are not equal to independent
+possessive pronouns, the latter which can be used in possessive
+constructions with virtually any noun as a possessee. Some of these
+nouns would not normally occur as a bare stem, i.e. without a possessive
+prefix attached to them (indexing for person, animacy and number).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Hunza Burushaski
+\[bsk(h)\] (isolate)
+
+| a.  | a-mupuʂ                                                     |     |     |
+|-----|-------------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">1sg.poss</span>-nose |     |     |
+|     | ‘my nose’ (BSKh-40list-SK:025)                              |
+
+| b.  | a-pi                                                               |     |     |
+|-----|--------------------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">1sg.poss</span>-grandmother |     |     |
+|     | ‘my grandmother’ (BSKh-Kin-SK:014)                                 |
+
+| c.  | mo-pi-mu-r                                                                                                                 |     |     |
+|-----|----------------------------------------------------------------------------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">3hfsg.poss</span>-grandmother-<span style=""font-variant:small-caps;"">obl-dat</span> |     |     |
+|     | ‘to her grandmother’ (BSKh-Val-SK:037)                                                                                     |
+
+| d.  | gu-ɕaːk-aʈ-e                                                                                                |     |     |
+|-----|-------------------------------------------------------------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">2sg</span>-arm-<span style=""font-variant:small-caps;"">ins-ess</span> |     |     |
+|     | ‘on your arm’ (BSKh-Dem-SK:003a)                                                                            |
+
+This is a feature found only in the two Burushaski varieties in this
+sample. However, see the feature Possessive Suffixes for similar
+functions expressed with suffixes instead of prefixes.",Grammatical categories
+GC07b,Possessive Suffixes,"The presence of suffixes indexing the inalienable possessor of a
+possessee was investigated. This is a feature of Alasai Pashai, as shown
+in (1). These are mainly used with a restricted class of possessee nouns
+such as kinship terms and body parts, and can be used instead of or in
+addition to independent possessive pronouns. Some of these nouns
+wouldn’t normally occur as a bare stem, i.e. without a possessive suffix
+attached to them (indexing for person, and possibly number). The exact
+distribution and inventory of such suffixes is still to be fully
+investigated.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Alasai Pashai \[psh
+(ai)\] (Indo-Aryan)
+
+| a.  | hast-**eːm**                                                  | Cf. | haːst |
+|-----|---------------------------------------------------------------|-----|-------|
+|     | hand-<span style=""font-variant:small-caps;"">1sg.poss</span>   |     | hand  |
+|     | ‘my hand’ (PSHai-Val-KD:059) ‘(a) hand’ (PSHai-40list-KD:013) |
+
+| b.  | aːst-əs-**əj**                                                  | ɕira |     |
+|-----|-----------------------------------------------------------------|------|-----|
+|     | hand-<span style=""font-variant:small-caps;"">obl-2sg.poss</span> | on   |     |
+|     | ‘on your arm’ (PSHai-Dem-KD:003a)                               |
+
+| c.  | aːj-s-**aː**                                                      | Cf. | aːjə   |
+|-----|-------------------------------------------------------------------|-----|--------|
+|     | mother-<span style=""font-variant:small-caps;"">obl-3sg.poss</span> |     | mother |
+|     | ‘her mother’ (PSHai-Val-KD:013) ‘(a) mother’ (PSHai-Kin-KD:002)   |
+
+This is a feature found to a varying extent in approximately a third of
+the sample, primarily in the western part of the region. See the feature
+Possessive Prefixes for similar functions expressed with prefixes
+instead of suffixes.",Grammatical categories
+PH01a,Retroflexion,"The use of retroflex sounds to obtain (minimal) contrasts in the lexicon
+was investigated. Although a distinct retroflex place of articulation
+was detected in most cases, it was indeed the contrast between
+alveolar-dental sounds and retroflex (or retracted) sounds with the same
+manner of articulation that was taken as diagnostic rather than the
+presence of a very specific tongue shape. For some of the languages, and
+for some of the subsets, the contrast is probably better described as
+apical (or subapical) vs laminal pronunciation.
+
+The inventory of Khowar has eight retroflex (or apical post-alveolar)
+consonants (plosive, affricate and fricative), contrasting on the one
+had with dental/alveolar and on the other with laminal post-alveolar
+consonants. Some examples of words in Khowar containing retroflex sounds
+are displayed in ‎(1).
+
+| **Khowar \[khw\]** | **Dental/alveolar** | **Retroflex (apical)** | **Post-alveolar (laminal)** |
+|--------------------|---------------------|------------------------|-----------------------------|
+| Plosive            | t d                 | ʈ ɖ                    |                             |
+|                    | tʰ                  | ʈʰ                     |                             |
+| Affricate          | ts dz               | ʈʂ ɖʐ                  | tɕ dʑ                       |
+|                    | tsʰ                 | ʈʂʰ                    | tɕʰ                         |
+| Fricative          |                     | ʂ ʐ                    | ɕ ʑ                         |
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Khowar
+\[khw\] (Indo-Aryan)
+
+| a.  | /ʈip/   | ‘full’ (KHW-40list-AA:012) |
+|-----|---------|----------------------------|
+| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40list-AA:018) |
+| c.  | /uʂak/  | ‘cold’ (KHW-Val-AA:060)    |
+
+Retroflexion is a strongly areal feature, present in nearly all of the
+sample languages. Turkic is the only phylogenetic grouping in which this
+feature is entirely absent.",Phonology
+PH01b,Retroflex Plosives,"The use of retroflex (or apical post-alveolar) plosive consonants
+contrasting with dental/alveolar plosives was investigated. In Ashkun, a
+dental voiceless plosive (1a) contrasts with a retroflex voiceless
+plosive (1b), and a dental voiced plosive (1c) contrasts with a
+retroflex voiced plosive (1d).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Ashkun
+\[ask\] (Nuristani)
+
+| a.  | /zat /   | ‘night’ (ASK-40list-WS:024)    |
+|-----|----------|--------------------------------|
+| b.  | /vaːʈ /  | ‘stone’ (ASK-40list-WS:032)    |
+| c.  | /awndej/ | ‘grandfather’ (ASK-Kin-WS:013) |
+| d.  | /muɖuk / | ‘frog’ (ASK-Val-WS:034)        |
+
+The presence of retroflex plosives is a strongly areal feature, absent
+only in the inventories of the Turkic languages, some of the Iranian
+languages and possibly in one of the Sino-Tibetan languages.",Phonology
+PH01c,Retroflex Fricatives,"The use of retroflex (or apical post-alveolar) fricative consonants
+contrasting with dental/alveolar fricatives, on the one hand, and with
+laminal post-alveolar/palatal fricatives, on the other, was
+investigated. In many of the languages that have retroflex fricatives,
+they tend to form a subset together with retroflex affricates with whom
+they often stand in an allophonic relationship. In Bateri, dental
+fricatives contrast with retroflex fricatives and with laminal
+post-alveolar fricatives, as shown in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Bateri
+\[btv\] (Indo-Aryan)
+
+| a.  | /syr/  | ‘sun’ (BTV-40list-MB:033)        |
+|-----|--------|----------------------------------|
+| b.  | /ɕoːr/ | ‘father-in-law’ (BTV-Kin-MB:050) |
+| c.  | /ʂu/   | ‘six’ (BTV-Num-MB:006)           |
+
+The presence of retroflex fricatives is a majority feature in the area,
+found in a little over half of the sample languages. The presence of
+this feature is particularly prominent at the geographical core of the
+Hindu Kush, shared by Indo-Aryan, Nuristani, Iranian and Burushaski
+alike.",Phonology
+PH02a,Dental Affricates,"The use of dental affricates contrasting with affricates with other
+places of articulation as well as with other dental sounds was
+investigated. The inventory of Wakhi of Pakistan contains a voiced
+dental affricate, as well as a palatal (or alveolo-palatal) affricate, a
+voiced dental fricative and a voiced interdental fricative, as shown in
+(1).
+
+\(1) Wakhi, Pakistan \[wbl(p)\] (Iranian)
+
+| a.  | /dzaq/   | ‘small’ (WBLp-Kin-AK:010)     |
+|-----|----------|-------------------------------|
+| b.  | /dɕɨmat/ | ‘wife’ (WBLp-Kin-SU:038)      |
+| c.  | /zik/    | ‘tongue’ (WBLp-40list-AK:034) |
+| d.  | /ðas/    | ‘ten’ (WBLp-Num-AK:010)       |
+
+The presence of dental affricates is a strongly areal features, absent
+only in about a fifth of the sample languages. The feature is present in
+languages across five of the phylogenetic groupings, while absent in
+both of the Turkic sample languages.",Phonology
+PH02b,Retroflex Affricates,"The use of retroflex affricates contrasting with affricates with other
+places of articulation as well as with other retroflex sounds was
+investigated. All of the sample languages that have retroflex affricates
+in their inventory also have dental affricates, while the reverse does
+not hold true. The inventory of Hunza Burushaski contains voiceless
+retroflex affricates, voiceless retroflex fricatives, voiceless dental
+affricates, as well as voiceless palatal (or alveolo-palatal)
+affricates, as shown in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Hunza Burushaski
+\[bsk(h)\] (isolate)
+
+| a.  | /ʈʂop/   | ‘jumping’ (BSKh-Val-SK:052) |
+|-----|----------|-----------------------------|
+| b.  | /ʂimi/   | ‘ate’ (BSKh-Val-SK:001)     |
+| c.  | /tsaːp/  | ‘touch’ (BSKh-Val-SK:029)   |
+| d.  | /huntɕo/ | ‘nine’ (BSKh-Num-SK:009)    |
+
+While the presence of retroflex affricates is not a majority feature in
+the region in general, it is a strongly subareal feature. All of the
+languages spoken at the geographical core of the Hindu Kush have
+retroflex affricates, whether Indo-Aryan, Iranian, Nuristani or
+Burushaski.",Phonology
+PH03a,(C)VC Syllable Structure,"The occurrence of a single consonant in the position after a vowel was
+investigated. This can, but does not have to, co-occur with the presence
+of a single onset consonant. Thus, both VC and CVC structures are
+examples of the presence of this feature. In Torwali, these structures
+occur, as displayed in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Torwali
+\[trw\] (Indo-Aryan)
+
+| a.  | /aːʈ/      | ‘eight’ (TRW-Num-UD:008)      |
+|-----|------------|-------------------------------|
+| b.  | /paːʂ/     | ‘leaf’ (TRW-40list-UD:018)    |
+| c.  | /dʑa.maːʂ/ | ‘son-in-law’ (TRW-Kin-UD:045) |
+
+In the region, (C)VC Syllable Structure is found in all of the sample
+languages.",Phonology
+PH03b,CCV Syllable Structure,"The occurrence of two consonants before a vowel was investigated. This
+can, but does not have to, co-occur with the presence of one or more
+coda consonants. Such sequences of two consonants are exemplified with
+words from Sanglechi in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Sanglechi
+\[sgy\] (Iranian)
+
+| a.  | /fsɛːk/  | ‘nose’ (SGY-40list-GM:025) |
+|-----|----------|----------------------------|
+| b.  | /krɑːst/ | ‘skin’ (SGY-40list-GM:030) |
+| c.  | /vruːd/  | ‘brother’ (SGY-Kin-GM:007) |
+
+In the region, CCV Syllable Structures are found in approximately two
+thirds of the sample languages.",Phonology
+PH03c,CCCV Syllable Structure,"The occurrence of three consonants before a vowel was investigated. This
+can, but does not have to, co-occur with the presence of one or more
+coda consonants. Such sequences of three consonants are exemplified with
+words from Balti in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Balti
+\[bft\] (Sino-Tibetan)
+
+| a.  | /strĩːmoː/ | ‘sister’ (BFT-Kin-HS:008)   |
+|-----|------------|-----------------------------|
+| b.  | /rdwaː/    | ‘stone’ (BFT-40list-HS:032) |
+
+In the region, CCCV Syllable Structures are with relative certainty
+found in only a handful of the sample languages, among them the
+Sino-Tibetan.",Phonology
+PH03d,(C)VCC Syllable Structure,"The occurrence of two consonants in the position after a vowel was
+investigated. This can, but does not have to, co-occur with the presence
+of one or more onset consonants. The presence of this feature is
+exemplified by the words from Ishkashimi displayed in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Ishkashimi
+\[isk\] (Iranian)
+
+| a.  | /ovd/   | ‘seven’ (ISK-Num-MA:007)    |
+|-----|---------|-----------------------------|
+| b.  | /uduχt/ | ‘daughter’ (ISK-Kin-MA:005) |
+| c.  | /krust/ | ‘skin’ (ISK-40list-SO:030)  |
+
+In the region, (C)VCC Syllable Structure is found in more than two
+thirds of the sample languages.",Phonology
+PH04,Lateral Fricatives,"The occurrence of voiceless lateral fricatives was investigated. In
+languages where it occurs, it appears to contrast phonologically with
+voiceless lateral approxmants. Gawarbati of Pakistan is one of those
+languages. See examples in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Gawarbati, Pakistan
+\[gwt(p)\] (Indo-Aryan)
+
+| a.  | /ɬe/  | ‘three’ (GWTp-Num-AS:003)   |
+|-----|-------|-----------------------------|
+| b.  | /puɬ/ | ‘son’ (GWTp-Kin-AS:004)     |
+| c.  | /ɡaɬ/ | ‘skin’ (GWTp-40list-AS:030) |
+
+The presence of lateral fricatives is a minority feature in the area,
+but its presence is still considerably higher than its corresponding
+global frequency. It is found in Sino-Tibetan as well as among the
+region’s Iranian and Indo-Aryan languages.",Phonology
+PH05a,Voiceless Aspiration,"The use of aspiration to contrast voiceless sounds was investigated. In
+languages that display this feature there is a subset of aspirated
+sounds that contrasts at several places of articulation with the
+corresponding unaspirated sounds. The inventory (see table below) of
+Shina of Gilgit exemplifies such a system in which voiceless plosives
+and affricates display aspiration contrasts. Some examples of aspirated
+plosives and affricates are given in (1).
+
+| **Gilgiti Shina \[scl(p)\]**     | **Bilabial** | **Dental** | **Retroflex** | **Post-alveolar** | **Velar** |
+|----------------------------------|--------------|------------|---------------|-------------------|-----------|
+| Unaspirated voiceless plosives   | p            | t          | ʈ             |                   | k         |
+| Aspirated voiceless plosives     | pʰ           | tʰ         | ʈʰ            |                   | kʰ        |
+| Voiced plosives                  | b            | d          | ɖ             |                   | ɡ         |
+| Unaspirated voiceless affricates |              | ts         | ʈʂ            | tɕ                |           |
+| Aspirated voiceless affricates   |              | tsʰ        | ʈʂʰ           | tɕʰ               |           |
+| Voiced affricates                |              |            |               | dʑ                |           |
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Gilgiti Shina
+\[scl(p)\] (Indo-Aryan)
+
+| a.  | /pʰiːpi / | ‘paternal aunt’ (SCLp-Kin-SL:024)  |
+|-----|-----------|------------------------------------|
+| b.  | /tɕʰumu/  | ‘fish’ (SCLp-40list-SL:011)        |
+| c.  | /aʈʂʰiː/  | ‘eye’ (SCLp-40list-SL:009)         |
+| d.  | /dʑaʈʰoː/ | ‘brother-in-law’ (SCLp-Kin-SL:054) |
+
+Voiceless aspiration contrast is present in approximately half of the
+regional sample. It is a partly sub-areal feature, primarily associated
+with the Eastern part of the region; partly a phylogenetic feature,
+present primarily (but not uniformly so) in Indo-Aryan, Sino-Tibetan and
+Burushaski, largely absent in Iranian, and completely absent in
+Nuristani and Turkic.",Phonology
+PH05b,Voiced Aspiration,"The use of aspiration to contrast voiced sounds was investigated. In
+languages that display this feature there is a subset of aspirated
+sounds that contrasts at several places of articulation with the
+corresponding unaspirated sounds. Indus Kohistani exemplifies such a
+system in which several voiced consonants display aspiration contrasts.
+Some examples of aspirated voiced consonants and corresponding
+unaspirated voiced consonants are given in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Indus Kohistani
+\[mvy\] (Indo-Aryan)
+
+| a.  | /bʰiːjũː/ | ‘sister’ (MVY-Kin-HU:008)     |
+|-----|-----------|-------------------------------|
+|     | /biː/     | ‘seed’ (MVY-Val-HU:071)       |
+| b.  | /ɡʰaĩː/   | ‘big (f)’ (MVY-Kin-HU:025)    |
+|     | /ɡiːl/    | ‘song’ (MVY-Val-HU:053)       |
+| c.  | /nʰaːlũː/ | ‘to see’ (MVY-40list-HU:029)  |
+|     | /naũ/     | ‘nine’ (MVY-Num-HU:009)       |
+| d.  | /ʐʰaː/    | ‘brother’ (MVY-Kin-HU:007)    |
+|     | /ʐamʈʂuː/ | ‘son-in-law’ (MVY-Kin-HU:045) |
+
+It should be pointed out that the treatment of aspirated series is an
+issue which is far from straightforward. In some cases, the distribution
+and manifestation of aspiration co-occurring with voicing has led
+linguists analyzing individual languages (including Indus Kohistani) to
+apply a suprasegmental or a cluster analysis rather than positing an
+entire subset of aspirated voiced units.
+
+Voiced aspiration contrast is a minority feature in the region, possibly
+present in only a few of the varieties. All of those, except Iranian
+Parachi, are Indo-Aryan languages spoken in the southern and central
+parts of the region.",Phonology
+PH06,Uvulars,"The presence of consonants with a uvular place of articulation was
+investigated. The uvulars that are found in the sample are almost
+without exception either plosives or fricatives. Only uvular consonants
+that are used in basic vocabulary have been taken into account, thus
+excluding such sounds occurring in vocabulary that can be considered
+relatively recent loans. In some cases, it has been difficult to
+determine with certainty whether the pronunciation is uvular rather than
+velar. A generous interpretation has been applied. A language that has a
+uvular voiceless plosive /q/ as well as a voiced /ʁ/ and a voiceless
+fricative /χ/ is Darwazi, as exemplified in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Darwazi
+\[prs(d)\] (Iranian)
+
+| a.  | /astaʁu/ | ‘bone’ (PRSd-40list-ML:002) |
+|-----|----------|-----------------------------|
+| b.  | /ʃoːχ/   | ‘horn’ (PRSd-40list-ML:015) |
+| c.  | /ləq/    | ‘full’ (PRSd-40list-ML:012) |
+
+Uvular consonants are present in a little more than half of the sample
+languages. All six phylogenetic groups are represented. A slight
+north/south divide can be traced, with what seems like a preference for
+uvulars in the north as compared to the south.",Phonology
+PH07,Nasalized Vowels,"The presence of contrastive vowel nasalization was investigated,
+exemplified by words with oral vs nasalized vowels in Gojri of Pakistan,
+as seen in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Gojri, Pakistan
+\[gju(p)\] (Indo-Aryan)
+
+| a.  | /noː/   | ‘nine’ (GJUp-Num-RN:009)            |
+|-----|---------|-------------------------------------|
+|     | /nũː/   | ‘daughter-in-law’ (GJUp-Kin-RN:044) |
+| b.  | /naː/   | ‘to, for’ (GJUp-Val-RN:035)         |
+|     | /nãː/   | ‘name’ (GJUp-40list-RN:022)         |
+| c.  | /tijiː/ | ‘daughter’ (GJUp-Kin-RN:005)        |
+|     | /dĩː/   | ‘sun’ (GJUp-40list-RN:033)          |
+
+Constrastive vowel nasalization occurs in at least a third of the sample
+languages, but its occurrence is both geographically and
+phylogenetically restricted. It is typical of Indo-Aryan languages in
+the south and east. In our sample, it is not evidenced in Turkic,
+Iranian or Sino-Tibetan.",Phonology
+PH08a,Small Consonant Inventory,"The size of the consonant inventory of each language was investigated.
+The categories labelled “small” (6-14 consonants) and “moderately small”
+(15-18 consonants) in WALS, were collapsed and any inventory size
+comprising 18 or less consonants were considered small. <span
+id=""_Hlk50484060"" class=""anchor""></span>In order to operationalize the
+analysis, only the 40-item list was used as a basis. The resulting value
+for an individual language should therefore be regarded as relative in
+relation to the sample in general (see Large Consonant Inventory), and
+not as an absolute statement about inventory size. Taking more lexical
+data into account may very well render a different result. An inventory,
+using the above-mentioned method, representative of the value small is
+that of Kyrgyz, as displayed in the table, with its 17 consonants.
+
+| **Kyrgyz \[kir\] (Turkic)** | **Labial** | **Dental/alveolar** | **Post-alveolar** | **Velar/uvular** |
+|-----------------------------|------------|---------------------|-------------------|------------------|
+| Plosive                     | p, b       | t, d                |                   | k, ɡ, q          |
+| Affricate                   |            |                     | tɕ, dʑ            |                  |
+| Fricative                   |            | s, z                | ɕ                 |                  |
+| Nasal                       | m          | n                   |                   |                  |
+| Lateral/flap                |            | l, r                |                   |                  |
+| Approximant                 |            |                     | j                 |                  |
+
+<span id=""_Hlk50485920"" class=""anchor""></span>Only two of the sample
+languages were recorded as using 18 or less consonants in the 40-item
+list, Turkic Kyrgyz and Nuristani Eastern Kati.",Phonology
+PH08b,Large Consonant Inventory,"The size of the consonant inventory of each language was investigated.
+The categories labelled “moderately large” (26-33) and “large” (34 or
+more) in WALS, were collapsed and any inventory size comprising 26 or
+more consonants were considered large. In order to operationalize the
+analysis, only the 40-item list was used as a basis. The resulting value
+for an individual language should therefore be regarded as relative in
+relation to the sample in general (see Small Consonant Inventory), and
+not as an absolute statement about inventory size. Cross-checking the
+results with earlier phonological analyses, suggests that many of the
+inventories coming out with a negative value, in fact would be
+classified as large if taking more lexical data into account. An
+inventory, using the above-mentioned method, representative of the value
+large is that of Pakistani Wakhi, as displayed in the table, with its 31
+consonants. (The apparent gaps, e.g. missing voiceless counterparts of
+voiced consonants, suggest that a few additional consonants occur in the
+language, as also confirmed in earlier analysis, in which as many as
+35-36 consonant phonemes have been posited.)
+
+| **Wakhi, Pakistan \[wbl(p)\] (Iranian)** | **Labial** | **Dental** | **Retroflex** | **Palatal** | **Velar** | **Post-velar** |
+|------------------------------------------|------------|------------|---------------|-------------|-----------|----------------|
+| Plosive                                  | p, b       | t, d       | ɖ             |             | k, ɡ      | q              |
+| Affricate                                |            |            | ʈʂ            | tɕ, dʑ      |           |                |
+| Fricative                                | f          | s, z, ð    | ʂ, ʐ          | ɕ           | x, ɣ      | χ, ʁ, h        |
+| Nasal                                    | m          | n          |               |             | ŋ         |                |
+| Lateral/flap                             |            | l, r       |               |             |           |                |
+| Approximant                              | w          | ɬ          |               | j           |           |                |
+
+Approximately a third of the sample languages were recorded as using 26
+or more consonants in the 40-item list. There is a tendency for those
+languages to be spoken in the eastern half of the region.",Phonology
+WO01a,Verb Object Word Order,"For this feature, systematic occurrences of a verb preceding a lexical
+(non-pronominal) object in a transitive clause were noted. In the
+sample, Kashmiri of India is such a language (although clauses with OV
+order occur too), as shown in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kashmiri, India
+\[kas(i)\] (Indo-Aryan)
+
+| ləɖk-an                                                        | moːr                                                   | loːri                                                   | sɨːtʲ | sɔrupʰ |
+|----------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|-------|--------|
+| boy-<span style=""font-variant:small-caps;"">erg</span>          | kill.<span style=""font-variant:small-caps;"">msg</span> | stick.<span style=""font-variant:small-caps;"">abl</span> | with  | snake  |
+|                                                                | VERB                                                   |                                                         |       | OBJECT |
+| ‘The boy killed the snake with a stick.’ (KASi-Val-HK:026/028) |
+
+In the region, VO Word Order is a feature only occurring in the two
+varieties of Kashmiri included in the sample.",Word order
+WO01b,Object Verb Word Order,"For this feature systematic occurrences of a verb following a lexical
+(nonpronominal) object in a transitive clause were noted. The Kalkoti
+sentence in (1) illustrates this word order.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kalkoti
+\[xka\] (Indo-Aryan)
+
+| triaːl-um                                               | maːs   | patɕʰ-aːl                                              |     |     |
+|---------------------------------------------------------|--------|--------------------------------------------------------|-----|-----|
+| women-<span style=""font-variant:small-caps;"">obl</span> | meat   | cook-<span style=""font-variant:small-caps;"">pfv</span> |     |     |
+|                                                         | OBJECT | VERB                                                   |     |     |
+| ‘The women cooked the meat.’ (XKA-Val-JK:079)           |
+
+In the region, OV Word Order is found in all of the sample languages
+(although it is not the dominant one in the two varieties of Kashmiri).",Word order
+WO02a,Adpositions,"This feature is defined as the occurrence of a distinct category of
+syntactic (vis-à-vis morphological) elements that combine with nouns or
+pronouns to express spatial or temporal relations. Admittedly, the
+distinction between such a category and that of morphological case
+marking is not altogether straightforward. In some of the region’s
+languages, the adposition determines the grammatical case of its
+(nominal or pronominal) complement, as in Pashto of Pakistan. The use of
+the postposition *ta* ‘to’ requires the preceding complement to be coded
+in the oblique case, as shown in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Pashto, Pakistan
+\[pbu(p)\] (Iranian)
+
+| muŋ                                                    | maːʃuːm-aːn-oː                                             | **ta ** | kitaːb-uːna                                           | wərkɽ-əl                                                                                                 |
+|--------------------------------------------------------|------------------------------------------------------------|---------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| <span style=""font-variant:small-caps;"">1pl</span>      | child-<span style=""font-variant:small-caps;"">pl-obl</span> | to      | book-<span style=""font-variant:small-caps;"">pl</span> | give.<span style=""font-variant:small-caps;"">pfv</span>-<span style=""font-variant:small-caps;"">pst</span> |
+| ‘We gave the books to the children.’ (PBUp-Val-KK:036) |
+
+In the region, there are no languages that clearly lack this property.",Word order
+WO02b,Postpositions,"Postpositions are adpositions that follow the noun phrase they occur
+with. In Kyrgyz, see ‎(1), the postposition (alternatively case suffix)
+*ga* encodes a goal relation.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kyrgyz
+\[kir\] (Turkic)
+
+| min                                                   | dʑinin | miz   | **=ga ** | qoj-du-m                                                  |
+|-------------------------------------------------------|--------|-------|----------|-----------------------------------------------------------|
+| <span style=""font-variant:small-caps;"">1sg.nom</span> | cup    | table | =(on).to | put-<span style=""font-variant:small-caps;"">pst-1sg</span> |
+| ‘I put the cup onto the table.’ (KIR-Val-YB:041)      |
+
+In some of the languages, postpositions co-occur with prepositions to
+express certain spatial or temporal relations. This is the case in
+Pashto of Afghanistan, as can be seen in ‎(2).
+
+(1) <span id=""_Ref12434196"" class=""anchor""></span>Pashto, Afghanistan
+\[pbu(a)\] (Iranian)
+
+| məɳa                                              | **la ** | wəniː                                                  | **tsaχa ** | wu-lw-eːdəl-a                                                                                                 |
+|---------------------------------------------------|---------|--------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------|
+| apple                                             | of      | tree.<span style=""font-variant:small-caps;"">obl</span> | from       | <span style=""font-variant:small-caps;"">pfv</span>-fall-<span style=""font-variant:small-caps;"">pst-3fsg</span> |
+| ‘The apple fell from the tree.’ (PBUa-Val-KO:084) |
+
+The presence of postpositions is a majority feature in the region. Only
+a handful of the sample languages (all Iranian) do not show any evidence
+of having postpositions.",Word order
+WO02c,Prepositions,"Prepositions are adpositions that precede the noun phrase they occur
+with. In Yidgha, see ‎(1), the preposition *ne* encodes a goal relation.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Yidgha
+\[ydg\] (Iranian)
+
+| ʑiŋgo                                            | **ne ** | bazaːr | ʂu-wi                                                    |     |
+|--------------------------------------------------|---------|--------|----------------------------------------------------------|-----|
+| woman                                            | to      | bazaar | go.<span style=""font-variant:small-caps;"">pst-3sg</span> |     |
+| ‘The woman went to the market.’ (YDG-Val-SZ:054) |
+
+In some of the languages, prepositions co-occur with postpositions to
+express certain spatial or temporal relations. This is the case in
+Parachi, as can be seen in ‎(2).
+
+(1) <span id=""_Ref12434196"" class=""anchor""></span>Parachi
+\[prc\] (Iranian)
+
+| bɑːl-ɑːn                                               | **suːr **   | farʃ  | **tar ** | naʃtan   |
+|--------------------------------------------------------|-------------|-------|----------|----------|
+| child-<span style=""font-variant:small-caps;"">pl</span> | on.(top.of) | floor | in       | sit.down |
+| ‘The children sat on the floor.’ (PRC-Val-SH:050)      |
+
+The presence of prepositions found in our sample is limited to the
+Iranian languages of the region and are found primarily in the
+northwest.",Word order
+WO03,Initial Interrogative in Content Question,"Cross-linguistically, interrogative phrases occur either obligatorily at
+the beginning of the sentence (as it does in English), or in other
+positions, such as in the position in which the corresponding
+non-interrogative phrase occurs. The adjectival interrogative in the
+Alingar Pashai content question in (1) occurs immediately before its
+noun phrase head, just like corresponding non-interrogative adjectival
+modifiers do.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Alingar Pashai
+\[psi(ar)\] (Indo-Aryan)
+
+| alə                                             | **kutar ** | mətɕ | aːs                                                           |     |
+|-------------------------------------------------|------------|------|---------------------------------------------------------------|-----|
+| this                                            | what.kind  | fly  | be.<span style=""font-variant:small-caps;"">3.an.msg.prs</span> |     |
+| ‘What kind of bug is this?’ (PSIar-Dem-HA:003b) |
+
+In the sample, none of the languages display an obligatory
+sentence-initial occurrence. Instead, interrogative phrases occur in the
+same position as in non-interrogative sentences.",Word order
+WO04a,Initial Polar Question Particle,"Questions that elicit a response equivalent to ‘yes’ or ‘no’ are formed
+with an utterance-initial question particle in some languages. In Gojri
+as spoken in Afghanistan this is an option, as seen in (1),while similar
+polar questions in Gojri as spoken in Pakistan, as in (2), use
+intonation to differentiate them from corresponding statements. The
+initial polar question particle in Gojri of Afghanistan is mostly likely
+a loan from Iranian Dari that has been incorporated relatively recently
+into the language.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Gojri, Afghanistan
+\[gju(a)\] (Indo-Aryan)
+
+| **aːjaː **                                      | jeː  | tiːr-iː                                                   | kitaːb                                                | heː                                                      |
+|-------------------------------------------------|------|-----------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+| <span style=""font-variant:small-caps;"">q</span> | this | <span style=""font-variant:small-caps;"">2sg.gen-fsg</span> | book(<span style=""font-variant:small-caps;"">f</span>) | be.<span style=""font-variant:small-caps;"">prs.3sg</span> |
+| ‘Is this your book?’ (GJUa-Dem-AQ:004a)         |
+
+(1) <span id=""_Ref50635735"" class=""anchor""></span>Gojri, Pakistan
+\[gju(p)\] (Indo-Aryan)
+
+| ju                                      | te:r-u                                                    | ba:l                                                  | he                                                       |     |
+|-----------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|-----|
+| that                                    | <span style=""font-variant:small-caps;"">2sg.gen-msg</span> | ball(<span style=""font-variant:small-caps;"">m</span>) | be.<span style=""font-variant:small-caps;"">prs.3sg</span> |     |
+| ‘Is that your ball?’ (GJUp-Dem-RN:005a) |
+
+Approximately a third of the languages in the sample use initial polar
+question markers. These represent Indo-Aryan, Nuristani, Iranian, and
+Turkic. All of those are languages spoken in Afghanistan.",Word order
+WO04b,Final Polar Question Particle,"Questions that elicit a response equivalent to ‘yes’ or ‘no’ are formed
+with an utterance-final question particle in some languages. Ladakhi is
+one of those languages. An example is given in (1). The question
+particle *a* is cliticized to the preceding equative copula.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Ladakhi
+\[lbj\] (Sino-Tibetan)
+
+| ote                                    | polo | kʰuri                                                 | in=**a**                                           |     |
+|----------------------------------------|------|-------------------------------------------------------|----------------------------------------------------|-----|
+| that                                   | ball | <span style=""font-variant:small-caps;"">2sg.gen</span> | <span style=""font-variant:small-caps;"">eq=q</span> |     |
+| ‘Is this your ball?’ (LBJ-Dem-IS:005a) |
+
+Nearly half of the languages in the sample use final polar question
+markers. These represent all six phylogenetic groupings included in the
+sample.",Word order
+WO05a,Adjective Noun Word Order,"The relative order of a noun and an adjective modifying it was
+investigated. The order AdjN, i.e. the adjective preceding the noun, is
+exemplified by Gawarbati of Afghanistan in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Gawarbati,
+Afghanistan \[gwt(a)\] (Indo-Aryan)
+
+| poːl-iː                                                                           | ʈeːkuriː |     |     |     |
+|-----------------------------------------------------------------------------------|----------|-----|-----|-----|
+| small-<span style=""font-variant:small-caps;"">fsg</span>                           | girl     |     |     |     |
+| ADJ                                                                               | NOUN     |     |     |     |
+| <span id=""_Hlk50649735"" class=""anchor""></span>‘the little girl’ (GWTa-Val-AG:057) |
+
+Nearly all of the sample languages apply an adjective—noun word order
+(either as the only option, or in addition to the reverse order). It is
+only entirely absent in a few of the languages.",Word order
+WO05b,Noun Adjective Word Order,"The relative order of a noun and an adjective modifying it was
+investigated. The order NAdj, i.e. the adjective following the noun, is
+exemplified by Ladakhi in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Ladakhi
+\[lbj\] (Sino-Tibetan)
+
+| pomo                               | tɕun                                              |     |     |
+|------------------------------------|---------------------------------------------------|-----|-----|
+| girl                               | small                                             |     |     |
+| NOUN                               | <span style=""font-variant:small-caps;"">ADJ</span> |     |     |
+| ‘the little girl’ (LBJ-Val-IS:057) |
+
+This is a minority feature. Only a few sample languages apply a
+noun—adjective word order (either as the only option, or in addition to
+the reverse order).",Word order
+WO06,Demonstrative Noun Word Order,"The relative order of a noun and a demonstrative accompanying it was
+investigated. The order DemN, i.e. the demonstrative preceding the noun,
+is exemplified by Eastern Kati in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Eastern Kati
+\[bsh(e)\] (Nuristani)
+
+| iki                            | tuːb                                               |     |     |
+|--------------------------------|----------------------------------------------------|-----|-----|
+| that                           | ball                                               |     |     |
+| DEM                            | <span style=""font-variant:small-caps;"">NOUN</span> |     |     |
+| ‘that ball’ (BSHe-Dem-ZA:005a) |
+
+This order is present in all the languages of the sample.",Word order
+WO07a,Object Oblique Word Order,"The order in a clause between a lexical object and an oblique phrase was
+investigated. The latter is a noun phrase or an adverbial phrase that
+functions as an adverbial modifier of the verb. The order object
+followed by an oblique phrase is attested for Uzbek, as seen in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Uzbek
+\[uzs\] (Turkic)
+
+| χɑːtin                                                       | uːʁul-niː                                             | bir                                               | kampal  | minan | jɑːp-tiː                                                    |
+|--------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|---------|-------|-------------------------------------------------------------|
+| woman                                                        | boy-<span style=""font-variant:small-caps;"">acc</span> | one                                               | blanket | with  | cover-<span style=""font-variant:small-caps;"">pst.3sg</span> |
+|                                                              | <span style=""font-variant:small-caps;"">OBJ</span>     | <span style=""font-variant:small-caps;"">OBL</span> |         |       |                                                             |
+| ‘The woman covered the boy with a blanket.’ (UZS-Val-KB:043) |
+
+This order is present in a little more than half of the sample, either
+as the only option or as an alternative to the reverse order. This
+feature is primarily present in the west and the north.",Word order
+WO07b,Oblique Object Word Order,"The order in a clause between a lexical object and an oblique phrase was
+investigated. The latter is a noun phrase or an adverbial phrase that
+functions as an adverbial modifier of the verb. The order object
+preceded by an oblique phrase is attested for Gawri, as seen in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Gawri
+\[gwc\] (Indo-Aryan)
+
+| po-wa                                                     | baʈ                                               | da                                                | dareːʈ | pʰoʈeːg                                                   |     |
+|-----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|--------|-----------------------------------------------------------|-----|
+| boy-<span style=""font-variant:small-caps;"">erg</span>     | stone                                             | <span style=""font-variant:small-caps;"">ins</span> | window | break.<span style=""font-variant:small-caps;"">pst.f</span> |     |
+|                                                           | <span style=""font-variant:small-caps;"">OBL</span> |                                                   | OBJ    |                                                           |     |
+| ‘The boy broke the window with a stone.’ (GWC-Val-MZ:025) |
+
+This order is present in a majority of the sample, either as the only
+option or as an alternative to the reverse order. It is mainly absent in
+the northwestern part of the region.",Word order
+WO08,Subject Verb Word Order,"The order of lexical/pronominal subject and verb was investigated. The
+order subject followed by verb is exemplified by Kamviri, as illustrated
+in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kamviri
+\[xvi\] (Nuristani)
+
+| babiːstə                           | maɻ-iː                                                     |     |     |     |     |
+|------------------------------------|------------------------------------------------------------|-----|-----|-----|-----|
+| snake                              | die.<span style=""font-variant:small-caps;"">pst-3fsg</span> |     |     |     |     |
+| SBJ                                | <span style=""font-variant:small-caps;"">VERB</span>         |     |     |     |     |
+| ‘The snake died.’ (XVI-Val-AB:061) |
+
+This order is present in all of the languages of the sample.",Word order
+WO09,Genitive Noun Word Order,"The order of a genitive noun phrase with respect to the head noun was
+investigated. The order GenN, i.e. the genitive noun phrase preceding
+the noun, is exemplified by Gawarbati of Pakistan in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Gawarbati, Pakistan
+\[gwt(p)\] (Indo-Aryan)
+
+| a.  | mumaː-na                                                              | puɬ   |     |     |
+|-----|-----------------------------------------------------------------------|-------|-----|-----|
+|     | mothers.brother-<span style=""font-variant:small-caps;"">gen.msg</span> | son   |     |     |
+|     | GEN                                                                   | NOUN  |     |     |
+|     | ‘uncle’s son’ (GWTp-Kin-AS:083)                                       |
+| b.  | kitaːb-aːna                                                           | faʈaː |     |     |
+|     | book-<span style=""font-variant:small-caps;"">gen.msg</span>            | leaf  |     |     |
+|     | GEN                                                                   | NOUN  |     |     |
+|     | ‘the page of a book’ (GWTp-Val-AS:032)                                |
+
+Nearly all of the sample languages apply a genitive—noun word order. It
+is only entirely absent in a couple of the languages, and indeterminate
+for another few.",Word order
+WO10,Possessive Noun Word Order,"The order of an independent possessive pronoun with respect to the head
+noun was investigated. The order PossN, i.e. the possessive pronoun
+preceding the noun, is exemplified by Khowar in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Khowar
+\[khw\] (Indo-Aryan)
+
+| haja                                                                                 | ta       | kitaːb=aː                                            |     |     |
+|--------------------------------------------------------------------------------------|----------|------------------------------------------------------|-----|-----|
+| that                                                                                 | 2sg.poss | book<span style=""font-variant:small-caps;"">=q</span> |     |     |
+|                                                                                      | POSS     | <span style=""font-variant:small-caps;"">NOUN</span>   |     |     |
+| <span id=""_Hlk50649735"" class=""anchor""></span>‘Is that your book?’ (KHW-Dem-AA:004a) |
+
+Nearly all of the sample languages apply a possessive—noun word order
+(some of them in addition to the use of a possessive affix). It is
+entirely absent only in one of the languages, namely Iranian Darwazi.",Word order
+CS01a,Ergative Alignment (Nouns),"In an ergative system of case marking, A, the more agent-like NP
+argument of a two-place transitive predicate, is encoded differently
+from S, the core argument of a one-place intransitive predicate. Any
+occurrence (whether consistently or in a sub-domain of a language) of
+such (A≠S contrastive) marking of full noun phrases has been taken as
+positive evidence of this feature. In Western Kati, the A argument
+carries an oblique case suffix *–a* in the past tense, while the S
+argument remains zero marked for case.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Western Kati
+\[bsh(w)\] (Nuristani)
+
+| a.  | dʑuk                                | ʑen-e                                                      |
+|-----|-------------------------------------|------------------------------------------------------------|
+|     | girl                                | cry.<span style=""font-variant:small-caps;"">pst-3fsg</span> |
+|     | **S**                               |                                                            |
+|     | ‘The girl cried.’ (BSHw-Val-AU:083) |
+
+| b.  | dʑuk-**a**                                                    | wa-is                                                              | kə  | gul     | sami-ə                                                     |
+|-----|---------------------------------------------------------------|--------------------------------------------------------------------|-----|---------|------------------------------------------------------------|
+|     | girl-<span style=""font-variant:small-caps;"">obl</span>        | grandmother-<span style=""font-variant:small-caps;"">3sg.poss</span> | for | flowers | send.<span style=""font-variant:small-caps;"">pst-3pl</span> |
+|     | **A**                                                         |                                                                    |     | P       |                                                            |
+|     | ‘The girl sent flowers to her grandmother.’ (BSHw-Val-AU:037) |
+
+A majority of our sample languages display evidence of ergative
+alignment for nouns. The distribution is clearly subareal, with ergative
+alignment in the south and in the central parts of the Hindu Kush
+region, and the lack thereof primarily in the north.",Clause structure
+CS01b,Accusative Alignment (Nouns),"In an accusative system of case marking, P, the more patient-like NP
+argument of a two-place transitive predicate, is encoded differently
+from S, the core argument of a one-place intransitive predicate. Any
+occurrence (whether consistently or in a sub-domain of a language) of
+such (P≠S contrastive) marking of full noun phrases has been taken as
+positive evidence of this feature. In Uzbek (see ‎(1)), the P argument
+carries a case suffix *–deː*, while the S argument remains zero marked
+for case. (The case marking *‑de* in addition encodes various locative
+relations. A direct object with definite reference may also occur with a
+suffix *–niː*.)
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Uzbek
+\[uzs\] (Turkic)
+
+| a.  | iːlɑːn                             | wiːl-deː                                              |
+|-----|------------------------------------|-------------------------------------------------------|
+|     | snake                              | die-<span style=""font-variant:small-caps;"">pst</span> |
+|     | **S**                              |                                                       |
+|     | ‘The snake died.’ (UZS-Val-KB:061) |
+
+| b.  | uːʁul                                                  | iːlɑːn=deː                                              | jaʁɑːtɕ | minan | uːr-deː                                               |
+|-----|--------------------------------------------------------|---------------------------------------------------------|---------|-------|-------------------------------------------------------|
+|     | boy                                                    | snake=<span style=""font-variant:small-caps;"">loc</span> | stick   | with  | hit-<span style=""font-variant:small-caps;"">pst</span> |
+|     | A                                                      | **P**                                                   |         |       |                                                       |
+|     | ‘The boy hit the snake with a stick.’ (UZS-Val-KB:028) |
+
+Accusative alignment is clearly subareal in its distribution. While it
+is not a feature associated with the geographical core of the Hindu
+Kush, it is strongly represented in the northwestern sub-region (in
+Indo-Aryan, Nuristani, Iranian and Turkic), and then again in the
+southeastern sub-region (Indo-Aryan and Tibeto-Burman).",Clause structure
+CS02a,A Agreement (Past),"This feature is defined as the presence in the past tenses of verbal
+agreement with the more agent-like NP argument of a two-place transitive
+predicate. It may or may not co-occur with agreement with the more
+patient-like argument. In Gurezi Shina, the verb agrees with the A
+argument in person, gender and number, as seen in ‎(1). Note, that while
+Gurezi Shina displays ergative-absolutive alignment in case marking,
+verbal agreement is nominative-accusative.<span id=""_Hlk51161991""
+class=""anchor""></span>
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Gurezi Shina
+\[scl(i)\] (Indo-Aryan)
+
+| a.  | beːs                                                   | tɕuːɳoː-ɽ                                                  | kitaːb-eː                                             | di-**eːs**                                                  |
+|-----|--------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
+|     | <span style=""font-variant:small-caps;"">1mpl.erg</span> | child-<span style=""font-variant:small-caps;"">pl.dat</span> | book-<span style=""font-variant:small-caps;"">pl</span> | give<span style=""font-variant:small-caps;"">-pfv.1mpl</span> |
+|     | **A**                                                  |                                                            | P                                                     |                                                             |
+|     | ‘We gave the books to the children.’ (SCLi-Val-SA:036) |
+
+| b.  | miː                                                       | baːl-õw                                                  | madid | tʰ-**aːs**                                                |     |
+|-----|-----------------------------------------------------------|----------------------------------------------------------|-------|-----------------------------------------------------------|-----|
+|     | <span style=""font-variant:small-caps;"">1sg.erg.pfv</span> | boy-<span style=""font-variant:small-caps;"">pl.gen</span> | help  | do-<span style=""font-variant:small-caps;"">pfv.1msg</span> |     |
+|     | **A**                                                     |                                                          | P     |                                                           |     |
+|     | ‘I helped the boys.’ (SCLi-Val-SA:015)                    |
+
+| c.  | muːlaj-õw                                                  | tɕuːɳ-oːɽ                                                  | roːp     | tʰ-**iː**                                                 |     |
+|-----|------------------------------------------------------------|------------------------------------------------------------|----------|-----------------------------------------------------------|-----|
+|     | woman-<span style=""font-variant:small-caps;"">pl.erg</span> | child-<span style=""font-variant:small-caps;"">pl.dat</span> | shouting | do-<span style=""font-variant:small-caps;"">pfv.3fsg</span> |     |
+|     | **A**                                                      |                                                            | P        |                                                           |     |
+|     | ‘The woman shouted at the children.’ (SCLi-Val-SA:020)     |
+
+This feature, evidenced in nearly half of the sample, is particularly
+well-represented in the northern half of the region.",Clause structure
+CS02b,P Agreement (Past),"This feature is defined as the presence in the past tenses of verbal
+agreement with the more patient-like NP argument of a two-place
+transitive predicate. It may or may not co-occur with agreement with the
+more agent-like argument. In Palula, the verb agrees with the P argument
+in gender and number, as seen in ‎(1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Palula
+\[phl\] (Indo-Aryan)
+
+| a.  | pʰoː-a                                                                      | lhaleːmi                                               | paɳareː-l-**i**                                                                                          |     |
+|-----|-----------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----|
+|     | boy-<span style=""font-variant:small-caps;"">obl</span>                       | stick(<span style=""font-variant:small-caps;"">f</span>) | peel-<span style=""font-variant:small-caps;"">pfv</span>-<span style=""font-variant:small-caps;"">fsg</span> |     |
+|     | A                                                                           | **P**                                                  |                                                                                                          |     |
+|     | ‘The boy peeled the bark \[lit. whitened\] off the stick.’ (PHL-Val-NH:033) |
+
+| b.  | pʰaj                                                             | oːstoːz-a                                                 | tʰe | naqɕeː                                                                                                    | paɕawoː-l-**a**                                            |
+|-----|------------------------------------------------------------------|-----------------------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                             | teacher-<span style=""font-variant:small-caps;"">obl</span> | to  | picture(<span style=""font-variant:small-caps;"">m</span>).<span style=""font-variant:small-caps;"">pl</span> | show-<span style=""font-variant:small-caps;"">pfv-mpl</span> |
+|     | A                                                                |                                                           |     | **P**                                                                                                     |                                                            |
+|     | ‘The girls showed the pictures to the teacher.’ (PHL-Val-NH:035) |
+
+| c.  | pʰaj                                                     | gileːsi                                                 | weː  | wiː                                                    | puːr-il-**o**                                              |
+|-----|----------------------------------------------------------|---------------------------------------------------------|------|--------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                     | glass-<span style=""font-variant:small-caps;"">obl</span> | into | water(<span style=""font-variant:small-caps;"">m</span>) | fill-<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | A                                                        |                                                         |      | **P**                                                  |                                                            |
+|     | ‘The girl filled the glass with water.’ (PHL-Val-NH:044) |
+
+This feature, evidenced in nearly half of the sample, is particularly
+well-represented in the southern half of the region.",Clause structure
+CS03a,Zero Copula for Predicate Nominals,"Clauses with nonverbal predicates may or may not have a copula, i.e. an
+element explicitly linking a copula subject with a copula complement.
+For complements encoding identity, some of the sample languages do not
+need an overt copula, as shown for Kalasha in ‎(1) and Roshani in ‎(2).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kalasha
+\[kls\] (Indo-Aryan)
+
+| ɕ-iːa                                                          | motɕ | iɕkaːri |     |     |
+|----------------------------------------------------------------|------|---------|-----|-----|
+| <span style=""font-variant:small-caps;"">emph-prox.nom.sg</span> | man  | hunter  |     |     |
+| ‘This man is a hunter.’ (KLS-Val-LR:070)                       |
+
+(1) <span id=""_Ref12434196"" class=""anchor""></span>Roshani
+\[sgh(r)\] (Iranian)
+
+| jim                                                    | tʃuruk | ɣiːwgar |     |     |
+|--------------------------------------------------------|--------|---------|-----|-----|
+| <span style=""font-variant:small-caps;"">def.prox</span> | man    | hunter  |     |     |
+| ‘This man is a hunter.’ (SGHr-Val-ZB:070)              |
+
+Although not a majority feature in the region in its entirety, this is a
+strongly sub-areal feature, occurring in Iranian, Indo-Aryan and Turkic
+in a contiguous area in the region’s northwest.",Clause structure
+CS03b,Zero Copula for Predicate Adjectives,"Clauses with nonverbal predicates may or may not have a copula, i.e. an
+element explicitly linking a copula subject with a copula complement.
+For complements encoding properties, some of the sample languages do not
+need an overt copula, as shown for Ishkashimi in ‎(1) and Uzbek in ‎(2).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Ishkashimi
+\[isk\] (Iranian)
+
+| aw                                                | χɑːn  | faj  | friː |     |
+|---------------------------------------------------|-------|------|------|-----|
+| that                                              | house | very | good |     |
+| ‘That house is very beautiful.’ (ISK-Dem-SO:006a) |
+
+(1) <span id=""_Ref12434196"" class=""anchor""></span>Uzbek \[uzs\] (Turkic)
+
+| uː                                                | uːj   | koːp | jaχsiː |     |
+|---------------------------------------------------|-------|------|--------|-----|
+| that                                              | house | very | good   |     |
+| ‘That house is very beautiful.’ (UZS-Dem-WD:006a) |
+
+Although not a majority feature in the region in its entirety, this is
+possibly a significant sub-areal feature, occurring mainly in the
+northern parts of the region, evidently in Iranian, Indo-Aryan and
+Turkic.",Clause structure
+CS03c,Shared Encoding of Nominal and Adjectival Predicates,"It was investigated whether the same copula could be applied equally to
+nominal and adjectival predicates. Ashkun, as in (1), is an example of a
+language in which nominal and adjectival predicates normally are encoded
+in the same way, i.e. with an inflected copula verb.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Ashkun
+\[ask\] (Nuristani)
+
+| a.  | aːjaː                                           | jak  | kitaːb | tuwə                                                  | **səj**                                                  |
+|-----|-------------------------------------------------|------|--------|-------------------------------------------------------|----------------------------------------------------------|
+|     | <span style=""font-variant:small-caps;"">q</span> | this | book   | <span style=""font-variant:small-caps;"">2sg.gen</span> | be.<span style=""font-variant:small-caps;"">prs.3sg</span> |
+|     | ‘Is this book yours?’ (ASK-Dem-WS:004a)         |
+
+| b.  | paːj                                              | amə   | mələ | məjstaːk | **səj**                                                  |
+|-----|---------------------------------------------------|-------|------|----------|----------------------------------------------------------|
+|     | that                                              | house | very | good     | be.<span style=""font-variant:small-caps;"">prs.3sg</span> |
+|     | ‘That house is very beautiful.’ (ASK-Dem-WS:006a) |
+
+Purik, on the other hand, is an example of the negative value of this
+feature. As can be seen in (2), two different copulas are used. For the
+nominal predication, an equative copula *in* is used, whereas for the
+adjectival predication an existential copula *duk* is used.
+
+(1) <span id=""_Ref51160116"" class=""anchor""></span>Purik
+\[prx\] (Sino-Tibetan)
+
+| a.  | di                                       | mju | ɬiŋspa | **in**                                           |
+|-----|------------------------------------------|-----|--------|--------------------------------------------------|
+|     | this                                     | man | hunter | <span style=""font-variant:small-caps;"">eq</span> |
+|     | ‘This man is a hunter.’ (PRX-Val-MM:070) |
+
+| b.  | a                                                 | naŋ-po                                                  | rdemwik   | **duk**                                          |
+|-----|---------------------------------------------------|---------------------------------------------------------|-----------|--------------------------------------------------|
+|     | that                                              | house-<span style=""font-variant:small-caps;"">def</span> | beautiful | <span style=""font-variant:small-caps;"">ex</span> |
+|     | ‘That house is very beautiful.’ (PRX-Dem-MH:006a) |
+
+This feature is present in the majority of the sample. It is absent in
+the sample’s Sino-Tibetan languages.",Clause structure
+CS04a,Ergative Alignment of Verbal Marking,"In an ergative system of verb agreement, features of the more
+patient-like NP argument of a two-place transitive predicate and
+features of the core NP argument of a one-place intransitive predicate,
+are reflected in the same way in verb morphology. A positive value is
+given if this is the case in any tense-aspect category of the language
+system. An example is Pashto of Pakistan, in its past tense categories,
+as seen in (1). In (1a), the verb shows agreement in masculine singular
+with the core NP of the intransitive clause. In (1b), the verb shows
+agreement in feminine singular with the core NP of the intransitive
+clause. In (1c), the verb shows agreement in masculine singular with the
+direct object NP of the transitive clause. In (1d), the verb shows
+agreement in feminine singular with the direct object NP of the
+transitive clause.<span id=""_Hlk51167693"" class=""anchor""></span>
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Pashto, Pakistan
+\[pbu(p)\] (Iranian)
+
+| a.  | **alək **                                            | pə  | pəʈiː | kiː | χkaːra  | ʃ-**oː**                                                         |
+|-----|------------------------------------------------------|-----|-------|-----|---------|------------------------------------------------------------------|
+|     | boy(<span style=""font-variant:small-caps;"">m</span>) | at  | field | in  | visible | become.<span style=""font-variant:small-caps;"">pst.pfv-msg</span> |
+|     | **S**                                                |     |       |     |         |                                                                  |
+|     | ‘The boy appeared on the field.’ (PBUp-Val-KK:081)   |
+
+| b.  | **χaza**                                               | baːzaːr | ta  | laːɽ-**a**                                                   |     |
+|-----|--------------------------------------------------------|---------|-----|--------------------------------------------------------------|-----|
+|     | woman(<span style=""font-variant:small-caps;"">f</span>) | market  | to  | go.<span style=""font-variant:small-caps;"">pst.pfv-fsg</span> |     |
+|     | **S**                                                  |         |     |                                                              |     |
+|     | ‘The woman went to the market.’ (PBUp-Val-KK:054)      |
+
+| c.  | dʒineː                                                                                                  | χpəleː                                             | nijaː       | ta  | **gul**                                                 | wərkɽ-**oː**                                                   |
+|-----|---------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----|---------------------------------------------------------|----------------------------------------------------------------|
+|     | girl(<span style=""font-variant:small-caps;"">f</span>)<span style=""font-variant:small-caps;"">.obl</span> | <span style=""font-variant:small-caps;"">refl</span> | grandmother | to  | flower(<span style=""font-variant:small-caps;"">m</span>) | give.<span style=""font-variant:small-caps;"">pst.pfv-msg</span> |
+|     | A                                                                                                       |                                                    |             |     | **P**                                                   |                                                                |
+|     | ‘The girl sent flowers to her grandmother.’ (PBUp-Val-KK:037)                                           |
+
+| d.  | saɽiː                                                    | **tʃəʁa **                                              | kɽ-**a**                                                     |     |     |
+|-----|----------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-----|-----|
+|     | man(<span style=""font-variant:small-caps;"">m).obl</span> | scream(<span style=""font-variant:small-caps;"">f</span>) | do.<span style=""font-variant:small-caps;"">pst.pfv-fsg</span> |     |     |
+|     | A                                                        | **P**                                                   |                                                              |     |     |
+|     | ‘The man screamed.’ (PBUp-Val-KK:058)                    |
+
+This feature, evidenced in nearly half of the sample, is particularly
+well-represented in the southern half of the region.",Clause structure
+CS04b,Accusative Alignment of Verbal Marking,"In an accusative system of verb agreement, features of the more
+agent-line NP argument of a two-place transitive predicate and features
+of the core NP argument of a one-place intransitive predicate are
+reflected in the same way in verbal morphology. A positive value is
+given if this is the case in any tense-aspect category of the language
+system. An example is Khowar, as seen in (1). In (1a), the verb shows
+agreement in third person singular with the core NP of the intransitive
+clause. In (1b), the verb shows agreement in third person plural with
+the core NP of the intransitive clause. In (1c), the verb shows
+agreement in third person singular with the subject NP of the transitive
+clause. In (1d), the verb shows agreement in third person plural with
+the subject NP of the transitive clause.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Khowar <span
+id=""_Ref51167911"" class=""anchor""></span>\[khw\] (Indo-Aryan)
+
+| a.  | **pʰuk**                                    | **kumoːru ** | oːs-it-**aj**                                               |     |     |     |
+|-----|---------------------------------------------|--------------|-------------------------------------------------------------|-----|-----|-----|
+|     | small                                       | girl         | laugh-<span style=""font-variant:small-caps;"">pst-3sg</span> |     |     |     |
+|     | **S**                                       |              |                                                             |     |     |     |
+|     | ‘The little girl laughed.’ (KHW-Val-AA:057) |
+
+| b.  | **moːɕ**(-an)                                          | kan-tu                                                 | us-it-**aːni**                                              |     |     |
+|-----|--------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|-----|-----|
+|     | man-(<span style=""font-variant:small-caps;"">pl</span>) | tree-<span style=""font-variant:small-caps;"">loc</span> | climb-<span style=""font-variant:small-caps;"">pst-3pl</span> |     |     |
+|     | **S**                                                  |                                                        |                                                             |     |     |
+|     | ‘The men climbed up the tree.’ (KHW-Val-AA:048)        |
+
+| c.  | **kumoːru**                                                  | tan                                                | waw-o                                                         | te  | gamburij-an                                                 | anzeː-t-**aj**                                             |
+|-----|--------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------|-----|-------------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                         | <span style=""font-variant:small-caps;"">refl</span> | grandmother-<span style=""font-variant:small-caps;"">obl</span> | to  | flower-<span style=""font-variant:small-caps;"">obl.pl</span> | send-<span style=""font-variant:small-caps;"">pst-3sg</span> |
+|     | **A**                                                        |                                                    |                                                               |     | P                                                           |                                                            |
+|     | ‘The girl sent flowers to her grandmother.’ (KHW-Val-AA:037) |
+
+| d.  | **moːɕ-an**                                           | dar-aːr                                                | duːr  | sawzeː-t-**ani**                                           |     |
+|-----|-------------------------------------------------------|--------------------------------------------------------|-------|------------------------------------------------------------|-----|
+|     | man-<span style=""font-variant:small-caps;"">pl</span>  | wood-<span style=""font-variant:small-caps;"">abl</span> | house | make-<span style=""font-variant:small-caps;"">pst-3pl</span> |     |
+|     | **A**                                                 |                                                        | P     |                                                            |     |
+|     | ‘The men built a house out of wood.’ (KHW-Val-AA:024) |
+
+This feature is a majority feature, evidenced in the entire region
+(whether as the only alignment pattern, or in addition to an ergative
+alignment pattern) except for the far east, where the Sino-Tibetan
+sample languages lack agreement marking on verbs altogether.",Clause structure
+CS05,Non-Nominative Experiencer,"The use of a case form or construction other than the basic/direct or
+nominative as a subject to encode a noun phrase as an experiencer was
+investigated. In Kashmiri of India, as seen in (1), the experiencer of
+the sensation of coldness is expressed as a recipient, with the first
+person pronoun form used for dative and ergative alike.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kashmiri, India <span
+id=""_Ref51167911"" class=""anchor""></span>\[kas(i)\] (Indo-Aryan)
+
+| **me**                                                | lədʑ                                                         | tɨːr       |     |     |     |
+|-------------------------------------------------------|--------------------------------------------------------------|------------|-----|-----|-----|
+| <span style=""font-variant:small-caps;"">1sg.dat</span> | strike.<span style=""font-variant:small-caps;"">pst.fsg</span> | cold(ness) |     |     |     |
+| ‘I feel cold.’ (KASi-Val-AN:060)                      |
+
+In Aret Pashai, as in (2), the experiencer is expressed as the possessor
+of the stimulus, i.e. the ‘cold’ or the ‘coldness’, the NP itself
+appearing as the object of the transitive verb ‘to do’, the latter
+lacking an explicit subject.
+
+(1) <span id=""_Ref51229717"" class=""anchor""></span>Aret Pashai
+\[aee(at)\] (Indo-Aryan)
+
+| eːɕ-**əm**                                                        | kər-iː                                                   |     |     |     |     |
+|-------------------------------------------------------------------|----------------------------------------------------------|-----|-----|-----|-----|
+| cold(ness)-<span style=""font-variant:small-caps;"">1sg.poss</span> | do.<span style=""font-variant:small-caps;"">prs-3sg</span> |     |     |     |     |
+| ‘I feel cold.’ (AEEat-Val-HH:060)                                 |
+
+This feature was evidenced in approximately half of the sample. However,
+this is not to say that it could not be expressed non-nominatively in
+the languages given a negative value.",Clause structure
+CS06a,Occurrence of Theme=Patient (Indirect Object Construction),"The occurrence of an indirect object construction was investigated, that
+is: whether the theme of a ditransitive verb is treated like the patient
+of a mono-transitive verb, whereas the recipient is given a different
+treatment. In Darwazi, as seen in (1), the patient in the
+mono-transitive clause (1a) is coded with the postpositional direct
+object clitic *=ra*, which is the same coding as the theme in the
+ditransitive clause (1b) receives, whereas the recipient is coded with
+the preposition *baj* ‘to’.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Darwazi
+\[prs(d)\] (Iranian)
+
+| a.  | batʃa                                      | miːwa=**ra**                                                    | bəχəwr                                                |     |
+|-----|--------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|-----|
+|     | \[boy\]                                    | \[fruit=<span style=""font-variant:small-caps;"">obj**\]**</span> | eat.<span style=""font-variant:small-caps;"">pst</span> |     |
+|     | A                                          | P                                                               |                                                       |     |
+|     | ‘The boy ate the fruit.’ (PRSd-Val-ML:001) |
+
+| b.  | dəχtar-ɑː                                                      | aks-ɑː=**ra**                                                    | **baj ** | maːlim-a                                                   | nəʃuː | dɑː-n                                                      |
+|-----|----------------------------------------------------------------|------------------------------------------------------------------|----------|------------------------------------------------------------|-------|------------------------------------------------------------|
+|     | \[girl-<span style=""font-variant:small-caps;"">pl\]</span>      | \[picture-<span style=""font-variant:small-caps;"">pl=obj\]</span> | \[to     | teacher-<span style=""font-variant:small-caps;"">pl\]</span> | sign  | give.<span style=""font-variant:small-caps;"">pst-3pl</span> |
+|     | A                                                              | T                                                                | R        |                                                            |       |                                                            |
+|     | ‘The girls showed pictures to the teachers.’ (PRSd-Val-ML:035) |
+
+This feature was evidenced (as the only possible construction or as a
+construction in addition to other constructions) in almost all the
+languages in the sample. For the remaining languages, it was not
+possible to determine whether the construction is possible based on the
+present data set.",Clause structure
+CS06b,Occurrence of Recipient=Patient (Secondary Object Construction),"The occurrence of a secondary object construction was investigated, that
+is: whether the recipient of a ditransitive verb is treated like the
+patient of a mono-transitive verb, whereas the theme is given a
+different treatment. In Gojri of Pakistan, as seen in (1), the patient
+in the mono-transitive clause (1a) is coded with the postpositional
+dative clitic *=naː*, which is the same coding as the recipient in the
+ditransitive clause (1b) receives, whereas the theme occurs without any
+explicit case marking.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Gojri, Pakistan
+\[gju(p)\] (Indo-Aryan)
+
+| a.  | dʑəɳaː=neː                                                                                                  | duɕməɳ=naː                                                  | ɖənɖaː | naːl | maːr-ij-uː                                                 |
+|-----|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------|------|------------------------------------------------------------|
+|     | \[man.<span style=""font-variant:small-caps;"">obl</span>=<span style=""font-variant:small-caps;"">erg\]</span> | \[enemy=<span style=""font-variant:small-caps;"">dat\]</span> | club   | with | kill-<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | A                                                                                                           | P                                                           |        |      |                                                            |
+|     | ‘The man killed his enemy with a club.’ (GJUp-Val-RN:026)                                                   |
+
+| b.  | gədri-jãː=neː                                                                                                   | apɳ-aː                                                       | ustaːd=naː                                                  | fuːʈuː      | das-ij-aː                                                  |     |
+|-----|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------|-------------|------------------------------------------------------------|-----|
+|     | \[girl.<span style=""font-variant:small-caps;"">obl.pl</span>=<span style=""font-variant:small-caps;"">erg\]</span> | <span style=""font-variant:small-caps;"">\[refl-obl.msg</span> | teacher=<span style=""font-variant:small-caps;"">dat\]</span> | \[picture\] | show-<span style=""font-variant:small-caps;"">pfv-mpl</span> |     |
+|     | A                                                                                                               | R                                                            |                                                             | T           |                                                            |     |
+|     | ‘The girls showed pictures to the teacher.’ (GJUp-Val-RN:035)                                                   |
+
+This feature was evidenced in a minority of the languages in the sample,
+although for a fair number of the languages the evidence was
+non-conclusive as far as the present data set is concerned.",Clause structure
+CS06c,Occurrence of Theme=Recipient (Double Object Construction),"The occurrence of a double object construction was investigated, that
+is: whether both the recipient and the theme of a ditransitive verb are
+treated like the patient of a mono-transitive verb. Although it cannot
+be entirely excluded, there is no clear example in the present data set
+of that construction type, if both NP marking and verbal agreement are
+taken into account. See Occurrence of Recipient=Patient and Occurrence
+of Theme=Patient for construction types observed in ditransitive
+clauses. This feature would deserve a more thorough investigation.",Clause structure
+CS07,P-A Agreement Order,"The occurrence of verb agreement reflecting the order P (the more
+patient-like argument) followed by A (the more agent-like argument) was
+investigated. The presence of this features presupposes simultaneous
+agreement with the A argument and the P argument in at least one
+tense-aspect category. Hunza Burushaski is an example of this agreement
+pattern, as seen in (1). The verb agrees in person, number and gender,
+with the P argument by means of a prefix, and with the A argument by
+means of a suffix. Burushaski has a four-gender system, in which the
+genders traditionally are labelled as HF (human female), HM (human
+male), X (a non-human gender), and Y (another non-human gender).
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Hunza Burushaski
+\[bsk(h)\] (isolate)
+
+| a.  | hileːs-eːj                                            | dasin | tʰan | **muː**-ti-m-**i**                                                                                               |
+|-----|-------------------------------------------------------|-------|------|------------------------------------------------------------------------------------------------------------------|
+|     | boy-<span style=""font-variant:small-caps;"">erg</span> | girl  | tip  | <span style=""font-variant:small-caps;"">3sg.hf</span>-do-<span style=""font-variant:small-caps;"">pst-3sg.hm</span> |
+|     | A                                                     | P     |      | p-V-a                                                                                                            |
+|     | ‘The boy pushed the girl.’ (BSKh-Val-SK:074)          |
+
+| b.  | dasiːn-eːj                                                | kitaːb-eː                                              | tap                                                   | ʈʂaʈ | **eː**-tu-m-**u**                                                                                               |     |
+|-----|-----------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------------|-----|
+|     | girl-<span style=""font-variant:small-caps;"">erg</span>    | book-<span style=""font-variant:small-caps;"">gen</span> | leaf(<span style=""font-variant:small-caps;"">y</span>) | rip  | <span style=""font-variant:small-caps;"">3sg.y</span>-do-<span style=""font-variant:small-caps;"">pst-3sg.hf</span> |     |
+|     | A                                                         |                                                        | P                                                     |      | p-V-a                                                                                                           |     |
+|     | ‘The girl tore the page from the book.’ (BSKh-Val-SK:032) |
+
+| c.  | guɕ-inants-eːj                                             | ʈeːbəl                                                 | saːf  | **eː**-tu-m-**an**                                                                                             |
+|-----|------------------------------------------------------------|--------------------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------|
+|     | woman-<span style=""font-variant:small-caps;"">pl-erg</span> | table(<span style=""font-variant:small-caps;"">x</span>) | clean | <span style=""font-variant:small-caps;"">3sg.x</span>-do-<span style=""font-variant:small-caps;"">pst-3pl.h</span> |
+|     | A                                                          | P                                                      |       | p-V-a                                                                                                          |
+|     | ‘The women wiped the table.’ (BSKh-Val-SK:072)             |
+
+| d.  | gus-eːj                                                 | ʁunoː                                                  | zan   | **oː**-tu-m-**u**                                                                                               |     |     |
+|-----|---------------------------------------------------------|--------------------------------------------------------|-------|-----------------------------------------------------------------------------------------------------------------|-----|-----|
+|     | woman-<span style=""font-variant:small-caps;"">erg</span> | seeds(<span style=""font-variant:small-caps;"">x</span>) | grind | <span style=""font-variant:small-caps;"">3pl.x</span>-do-<span style=""font-variant:small-caps;"">pst-3sg.hf</span> |     |     |
+|     | A                                                       | P                                                      |       | p-V-a                                                                                                           |     |     |
+|     | ‘The woman ground the seeds.’ (BSKh-Val-SK:071)         |
+
+This feature was evidenced in only a small minority of the languages,
+curiously spread out geographically. Apart from the isolate Burushaski,
+in the northwest, this is also a feature of some of the Indo-Aryan
+Pashai varieties in the southwest as well as in Indo-Aryan Kashmiri in
+the southeast.",Clause structure
+CS08,Verbal Person Agreement,"Verbal person marking on the inflected verb was investigated. The
+presence of this feature is exemplified by Prasun in (1). The verb is
+marked for person (and number) in agreement with the subject, in
+intransitive and transitive clauses alike. The examples show different
+marking for first person singular, first person plural, third person
+singular, and third person plural.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Prasun
+\[prn\] (Nuristani)
+
+| a.  | anzuː                                                 | kijur-an                                                   | aːtɕaːwo-**ma**                                            |     |
+|-----|-------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----|
+|     | <span style=""font-variant:small-caps;"">1sg.nom</span> | child-<span style=""font-variant:small-caps;"">obl.pl</span> | help.<span style=""font-variant:small-caps;"">pst-1sg</span> |     |
+|     | ‘I helped the boys.’ (PRN-Val-SM:015)                 |
+
+| b.  | asə                                                   | kijur-luw-an                                                  | ʑitɕi | aːblijo-**mtɕa**                                           |     |     |
+|-----|-------------------------------------------------------|---------------------------------------------------------------|-------|------------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">1pl.nom</span> | child-<span style=""font-variant:small-caps;"">pl-obl.pl</span> | book  | give.<span style=""font-variant:small-caps;"">pst-1pl</span> |     |     |
+|     | ‘We gave the books to the children.’ (PRN-Val-SM:036) |
+
+| c.  | iːʑeːŋ                             | amoːk-**sa**                                              |     |     |
+|-----|------------------------------------|-----------------------------------------------------------|-----|-----|
+|     | snake                              | die.<span style=""font-variant:small-caps;"">pst-3sg</span> |     |     |
+|     | ‘The snake died.’ (PRN-Val-SM:061) |
+
+| d.  | wədʑmiː-luːg                                                | baks-luw-an                                                 | mɑːrkiʈ | pan | pəmɕowo-**sta**                                             |     |
+|-----|-------------------------------------------------------------|-------------------------------------------------------------|---------|-----|-------------------------------------------------------------|-----|
+|     | man-<span style=""font-variant:small-caps;"">pl</span>        | box-<span style=""font-variant:small-caps;"">pl-obl.pl</span> | market  | to  | carry.<span style=""font-variant:small-caps;"">pst-3pl</span> |     |
+|     | ‘The men carried the boxes to the market.’ (PRN-Val-SM:038) |
+
+Verbal person agreement (in at least one tense-aspect category) is
+present in most of the sample languages, as far as was possible to
+determine.",Clause structure
+CS09,Verbal Gender Agreement,"Verbal gender marking on the inflected verb was investigated. The
+presence of this feature is exemplified by Sawi, in (1). The verb in
+Sawi is marked for gender (and number) in agreement with the
+intransitive subject or the transitive direct object. In (1a), the verb
+agrees with the direct object ‘stick’ in feminine singular, in (1b) with
+the direct object ‘women’ in feminine plural, in (1c) with the direct
+object ‘(male) child’ in masculine singular, and in (1d) with the direct
+object ‘books’ in masculine plural.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Sawi
+\[sdg\] (Indo-Aryan)
+
+| a.  | mɑːnuʂ-eː                                             | ɖunɖik                                                 | ʑup-ɑːl-**i**                                              |     |
+|-----|-------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------|-----|
+|     | man<span style=""font-variant:small-caps;"">-obl</span> | stick(<span style=""font-variant:small-caps;"">f</span>) | make-<span style=""font-variant:small-caps;"">pfv-fsg</span> |     |
+|     | ‘The man made a stick.’ (SDG-Val-FR:085)              |
+
+| b.  | mɑːnuʂ-u                                                 | ɬiɽɛ                                                   | loːʈ-ɑːl-**ɛ**                                                                                                 |     |     |     |
+|-----|----------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----|-----|-----|
+|     | man<span style=""font-variant:small-caps;"">-obl.pl</span> | woman.<span style=""font-variant:small-caps;"">pl</span> | search.for-<span style=""font-variant:small-caps;"">pfv</span>-<span style=""font-variant:small-caps;"">fpl</span> |     |     |     |
+|     | ‘The men searched for the women.’ (SDG-Val-FR:011)       |
+
+| c.  | mɑːli                                          | tɑːnu                                              | mɑːɕum-eː                                                                                                | duw-ɑːl-**oː**                                             |
+|-----|------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|     | mother                                         | <span style=""font-variant:small-caps;"">refl</span> | child(<span style=""font-variant:small-caps;"">m</span>)-<span style=""font-variant:small-caps;"">obl</span> | wash-<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | ‘The mother washed the baby.’ (SDG-Val-FR:012) |
+
+| d.  | asi                                                   | laːw-u-ʈeː                                                     | kitaːb-a                                                                                               | dit-**eː**                                                 |     |     |
+|-----|-------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----|-----|
+|     | <span style=""font-variant:small-caps;"">1pl.erg</span> | child-<span style=""font-variant:small-caps;"">obl.pl-dat</span> | book(<span style=""font-variant:small-caps;"">m</span>)-<span style=""font-variant:small-caps;"">pl</span> | give.<span style=""font-variant:small-caps;"">pfv-mpl</span> |     |     |
+|     | ‘We gave the books to the children.’ (SDG-Val-FR:036) |
+
+Verbal person agreement (in at least one tense-aspect category) is
+present in a majority of the sample languages, including Burushaski and
+most of the Indo-Aryan and Nuristani languages, while entirely excluding
+Sino-Tibetan and Turkic. Geographically most of the languages displaying
+this feature are found in the southern half of the region.",Clause structure
+LX01a,Kinship: F=FB,"Some languages display a certain kind of polysemy pattern in which the
+kinship term used for referring to an anchor’s father (F) is also used
+for referring to a father’s brother (FB). Usually, that is done by
+adding a modifying ‘big’ for a paternal uncle that is older than the
+anchor’s father, and ‘little’ for a paternal uncle that is younger. This
+pattern occurs in Balti, as can be seen in ‎(1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Balti
+\[bft\] (Sino-Tibetan)
+
+| a.  | ata           | ‘father’ (BFT-Kin-HS:001)                                           |
+|-----|---------------|---------------------------------------------------------------------|
+| b.  | ata tɕʰoʁo    | ‘father’s older brother’ \[lit. big father\] (BFT- Kin-HS:022)      |
+| c.  | ata tsʰuntseː | ‘father’s younger brother’ \[lit. little father\] (BFT- Kin-HS:023) |
+
+The feature occurs in approximately a third of the sample, essentially
+in a central belt stretching through the geographical core of the region
+from west to east. This polysemy is sometimes in addition to a general
+term for a paternal uncle, lexically distinct from the term for
+‘father’.",Lexicon
+LX01b,Kinship: FB=MB,"In some languages the same kinship term is used for referring to an
+anchor’s father’s brother (FB) as the one used for referring to the
+mother’s brother (MB). This pattern occurs in Munji, as can be seen in
+‎(1). This term is also lexically distinct from the term for ‘father’.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Munji
+\[mnj\] (Iranian)
+
+| a.  | tɑːt | ‘father’ (MNJ-Kin-DM:001)            |
+|-----|------|--------------------------------------|
+| b.  | bɑːj | ‘father’s brother’ (MNJ- Kin-DM:021) |
+| c.  | bɑːj | ‘mother’s brother’ (MNJ- Kin-DM:027) |
+
+The feature is a minority pattern in the region, but it occurs in a few
+geographically clustered languages in the central part of the Hindu
+Kush. The languages in question are not all closely related to one
+another.",Lexicon
+LX01c,Kinship: M=MZ,"Some languages display a certain kind of polysemy pattern in which the
+kinship term used for referring to an anchor’s mother (M) is also used
+for referring to a mother’s sister (MZ). Usually, that is done by adding
+a modifying ‘big’ for a maternal aunt that is older than the anchor’s
+mother, and ‘little’ for a maternal aunt that is younger. This pattern
+occurs in Waigali, as can be seen in ‎(1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Waigali
+\[wbk\] (Nuristani)
+
+| a.  | jej         | ‘mother’ (WBK-Kin-SR:002)                                         |
+|-----|-------------|-------------------------------------------------------------------|
+| b.  | dyʂʈøː jej  | ‘mother’s older sister’ \[lit. big mother\] (WBK-Kin-SR:031)      |
+| c.  | kønɕtøː jej | ‘mother’s younger sister’ \[lit. little mother\] (WBK-Kin-SR:032) |
+
+The feature occurs in a minority of the sample languages but it has a
+distinctly subareal distribution. It occurs, on the one hand in Eastern
+Nuristan, and on the other, in Eastern Karakorum. This polysemy is in
+some of those languages in addition to a general term for a maternal
+aunt, lexically distinct from the term for ‘mother’. In other cases, the
+polysemy also extends to the anchor’s father’s sister.",Lexicon
+LX01d,Kinship: MZ=FZ,"In some languages, the same kinship term is used for referring to an
+anchor’s mother’s sister (MZ) as for referring to father’s sister (FZ).
+This pattern occurs in Alasai Pashai, as can be seen in ‎(1). This term
+is lexically distinct from the term for ‘mother’.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Alasai Pashai
+\[psh(ai)\] (Indo-Aryan)
+
+| a.  | aːjə    | ‘mother’ (PSHai-Kin-KD:002)          |
+|-----|---------|--------------------------------------|
+| b.  | maːmbiː | ‘mother’s sister’ (PSHai-Kin-KD:030) |
+| c.  | maːmbiː | ‘father’s sister’ (PSHai-Kin-KD:024) |
+
+This pattern also exists in Korangali Pashai. Here, however, the
+polysemy includes the anchor’s mother, maternal aunts, and paternal
+aunts, alike, as can be seen in ‎(2).
+
+(1) <span id=""_Ref12531505"" class=""anchor""></span>Korangali Pashai
+\[aee(kg)\] (Indo-Aryan)
+
+| a.  | aːj         | ‘mother’ (AEEkg-Kin-AM:002)                                         |
+|-----|-------------|---------------------------------------------------------------------|
+| b.  | kaniɕti aːj | ‘father’s sister’ \[lit. little mother\] (AEEkg-Kin-AM:024)         |
+| c.  | aːj         | ‘mother’s sister’ \[lit. mother\] (AEEkg-Kin-AM:030)                |
+| d.  | kaniɕti aːj | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-Kin-AM:032) |
+| e.  | ɖəɕti aːj   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-Kin-AM:031)      |
+
+The feature occurs in approximately a fourth of the sample. It has a
+distinctly subareal distribution, occurring in a geographical belt
+stretching from the region’s southwestern corner to the region’s
+northeastern corner.",Lexicon
+LX01e,Kinship: MB=FZ,"In some languages the same kinship term is used for referring to an
+anchor’s mother’s brother (MB) as the one used for referring to the
+father’s sister (FZ), i.e. both parents’ different-sex siblings. This
+pattern occurs in Nagar Burushaski, as can be seen in ‎(1). This term is
+lexically distinct from the terms for the anchor’s parents and for their
+same-sex siblings.
+
+(1) <span id=""_Ref12531505"" class=""anchor""></span>Nagar Burushaski
+\[bsk(n)\] (isolate)
+
+| a.  | nana      | ‘mother’s brother’ (BSKn-Kin-SD:027)                                |
+|-----|-----------|---------------------------------------------------------------------|
+| b.  | nana      | ‘father’s sister’ (BSKn-Kin-SD:024)                                 |
+| c.  | aɰa       | ‘father’ \[lit. little mother\] (BSKn-Kin-SD:001)                   |
+| d.  | ujum aɰa  | ‘father’s older brother’ \[lit. big father\] (BSKn-Kin-SD:022)      |
+| e.  | dʑuʈ aɰa  | ‘father’s younger brother’ \[lit. little father\] (BSKn-Kin-SD:023) |
+| f.  | mama      | ‘mother’ \[lit. big mother\] (BSKn-Kin-SD:002)                      |
+| g.  | ujum mama | ‘mother’s older sister’ \[lit. big mother\] (BSKn-Kin-SD:031)       |
+| h.  | dʑuʈ mama | ‘mother’s younger sister’ \[lit. little mother\] (BSKn-Kin-SD:032)  |
+
+In the Hindu Kush sample, it is a feature exclusive of the two
+Burushaski varieties.",Lexicon
+LX02a,Decimal Numeral Base,"One aspect of numeral expressions is the multiplicational base that is
+used. Some languages use a decimal numeral base: the general structure
+of numerals in those languages is *m10+n* (the actual order of elements
+being disregarded; however, see Numeral Composition 10+n and Numeral
+Composition 20+n, for a discussion on sequencing), meaning that some
+lower numeral *m* is a multiplier of 10 (or an element that is derived
+from it) added to it by some other lower numeral *n* as a typical way of
+forming numerals above ten. When categorizing a language as using a
+decimal base, the overall structure of forming numbers up to 99 has been
+taken as diagnostic. The existence of a lexeme ‘20’ without any obvious
+derivational relationship to any other numeral or numeral base has not
+been regarded as counterevidence as long as ‘20’ is not routinely used
+as a recurring element for forming numbers beyond the interval 20-29
+(see Vigesimal Numeral Base). Sanjan Pashai, as displayed in ‎(1), is an
+example of a language using a decimal base. However, the numerals ‘40’,
+‘50’, etc., are obvious Persian loan forms, setting the language off
+from some of its closest relatives that apply a vigesimal system.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Sanjan Pashai
+\[glh(sn)\] (Indo-Aryan)
+
+| ‘6’  | ʂɛ         | lower numeral n=6     | ‘46’  | tɕele ʂɛ     | 4x(10)+6               |
+|------|------------|-----------------------|-------|--------------|------------------------|
+| ‘10’ | *dɑː*      | decimal base 10       | ‘50’  | *pendʑɑː*    | 5x(10)                 |
+| ‘16’ | *ʂuj*      | n+(10)                | ‘60’  | *ɕæːst*      | 6x(10)                 |
+| ‘20’ | *wəst*     | non-derived lexeme 20 | ‘70’  | *haːftɑːd*   | 7x(10)                 |
+| ‘26’ | *wəstə ʂɛ* | 20+6                  | ‘80’  | *haːɕtɑːd*   | 8x(10)                 |
+| ‘30’ | *triju*    | 3x(10)                | ‘90’  | *nawad*      | 9x(10)                 |
+| ‘36’ | *triju ʂɛ* | 3x(10)+6              | ‘100’ | *sad*        | non-derived lexeme 100 |
+| ‘40’ | *tɕel*     | 4x(10)                | ‘110’ | *iː sadu dɛ* | 1x100+10               |
+
+A decimal base is present in approximately a third of the sample,
+essentially in its peripheral western and southern parts.",Lexicon
+LX02b,Vigesimal Numeral Base,"One aspect of numeral expressions is the multiplicational base that is
+used. Some languages use a vigesimal numeral base: the general structure
+of numerals in those languages is *m20+n* (the actual order of elements
+being disregarded; however, see Numeral Composition 10+n and Numeral
+Composition 20+n, for a discussion on sequencing), meaning that some
+lower numeral *m* is a multiplier of 20 (or an element that is derived
+from it) added to it by some other numeral *n* (in the range 1-19) as a
+typical way of forming numerals above twenty. When categorizing a
+language as using a vigesimal base, the overall structure of forming
+numbers up to 99 has been taken as diagnostic. ‘20’ is thus routinely
+used as a recurring element for forming numbers beyond the interval 1-19
+(see Decimal Numeral Base). No attempt has been made to distinguish pure
+vigesimal from hybrid vigesimal-decimal along the lines of WALS, as
+there is in most cases no such clear-cut treatment between numbers below
+100 and above 100. Shemal Pashai, as displayed in ‎(1), is an example of
+a language using a vigesimal base.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Shemal Pashai
+\[aee(sh)\] (Indo-Aryan)
+
+| ‘6’  | tɕʰə         | numeral n=6       | ‘46’  | dijɑ̃ːbi tɕʰə       | 2x(10)+6  |
+|------|--------------|-------------------|-------|--------------------|-----------|
+| ‘10’ | *daːj*       | numeral n=10      | ‘50’  | *dijɑ̃ːbi daːj*     | 2x(20)+10 |
+| ‘16’ | *səɽ*        | numeral n=16      | ‘60’  | *ɬejɑ̃ː*            | 3x(20)    |
+| ‘20’ | *wiːst*      | vigesimal base 20 | ‘70’  | *ɬejɑ̃ːbi daːj*     | 3x(20)+10 |
+| ‘26’ | *wistə tɕəː* | 20+6              | ‘80’  | *t͡soːrijɑ̃ː*        | 4x(20)    |
+| ‘30’ | *wistə daːj* | 20+10             | ‘90’  | *t͡soːrijɑ̃ːbi daːj* | 4x(20)+10 |
+| ‘36’ | *wistə səɽ*  | 20+16             | ‘100’ | *paːnjɑ̃ː*          | 5x(20)    |
+| ‘40’ | *dijɑ̃ː*      | 2x(20)            | ‘110’ | *paːnjɑ̃ːbi daːj*   | 5x(20)+10 |
+
+A vigesimal base is present in approximately two thirds of the sample,
+essentially constituting the overall dominant system in its central
+parts.",Lexicon
+LX03a,Numeral Composition 10+n,"One aspect of numeral expressions is the sequential order of elements in
+complex cardinal numerals, i.e. numerals that combine one or more
+multiplicational bases with a single lower numeral to express numbers
+above 10. Due to differential behaviour, the composition of the numerals
+11-19 were treated as a feature separate from the composition of the
+numerals 21-29. The present feature deals with the composition of the
+former series (see Numeral Composition 20+n for the latter). This aspect
+is not to be confused with the use of decimal versus vigesimal bases
+(see Decimal Numeral Base; Vigesimal Numeral Base). The positive value
+is defined as following the order 10+n, and the negative as following
+the reverse order, n+10, alternatively applying an altogether different
+organizing principle. 10 is here not to be regarded as necessarily
+homophonous or even synchronically fully recognizable from the
+expression of the numeral ‘10’. Instead, the formula stands for an
+underlying syntactic or morphological structure in which the form of the
+corresponding lower numeral *n*, and its relative sequential order as
+preposed or postposed in the complex expression, has been taken as
+diagnostic. Wakhi of Afghanistan exemplifies the order 10+n in the
+formation of the numerals 11-19, as can be seen in ‎(1), displaying all
+the numerals 1-20.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Wakhi, Afghanistan
+\[wbl(a)\] (Iranian)
+
+| ‘1’  | iːu       |     | ‘11’ | ðas jiːu      | 10+1 |
+|------|-----------|-----|------|---------------|------|
+| ‘2’  | *buːj*    |     | ‘12’ | *ðas buːj*    | 10+2 |
+| ‘3’  | *təruːj*  |     | ‘13’ | *ðas truːj*   | 10+3 |
+| ‘4’  | *tsəbɨːr* |     | ‘14’ | *ðas tsəbɨːr* | 10+4 |
+| ‘5’  | *paːnts*  |     | ‘15’ | *ðas paːnts*  | 10+5 |
+| ‘6’  | *ɕaːd*    |     | ‘16’ | *ðas ɕaːd*    | 10+6 |
+| ‘7’  | *ɨːb*     |     | ‘17’ | *ðas ɨːb*     | 10+7 |
+| ‘8’  | *aːt*     |     | ‘18’ | *ðas aːt*     | 10+8 |
+| ‘9’  | *naːu*    |     | ‘19’ | *ðas naːu*    | 10+9 |
+| ‘10’ | *ðaːs*    |     | ‘20’ | *biːst*       |      |
+
+The numeral composition order 10+n is present in a minority of the
+sample, in approximately a fourth of the languages, and primarily in the
+north, encompassing all Sino-Tibetan, Turkic and Burushaski varieties,
+but only a few of the Indo-Aryan and Iranian languages.",Lexicon
+LX03b,Numeral Composition 20+n,"One aspect of numeral expressions is the sequential order of elements in
+complex cardinal numerals, i.e. numerals that combine one or more
+multiplicational bases with a lower numeral to express numbers above 10.
+Due to differential behaviour, the composition of the numerals 11-19
+were treated as a feature separate from the composition of the numerals
+21-29. The present feature deals with the composition of the latter
+series (see Numeral Composition 10+n for the former). This aspect is not
+to be confused with the use of decimal versus vigesimal bases (see
+Decimal Numeral Base; Vigesimal Numeral Base). The positive value is
+defined as following the order 20+n, and the negative as following the
+reverse order, n+20, alternatively applying an altogether different
+organizing principle. 20 is here not to be regarded as necessarily
+homophonous or even synchronically fully recognizable from the
+expression of the numeral ‘20’. Instead, the formula stands for an
+underlying syntactic or morphological structure in which the form of the
+corresponding lower numeral *n*, and its relative sequential order as
+preposed or postposed in the complex expression, has been taken as
+diagnostic. Shughni exemplifies the order 20+n in the formation of the
+numerals 21-29, as can be seen in ‎(1), displaying the numerals 1-30. As
+can be seen, the numerals 11-19 follow the same order, which however is
+not necessarily the case in all of the sample languages with a 20+n
+order.
+
+(1) <span id=""_Ref55292607"" class=""anchor""></span>Shughni
+\[sgh(a)\] (Iranian)
+
+| ‘1’  | jiːw      |     | ‘11’ | jiðiːsat jiːw      | 1x10+1 | ‘21’ | ðəðiːsat jiːw      | 2x10+1 |
+|------|-----------|-----|------|--------------------|--------|------|--------------------|--------|
+| ‘2’  | *ðəjyːn*  |     | ‘12’ | *jiðiːsat ðəjyːn*  | 1x10+2 | ‘22’ | *ðəðiːsat ðəjyːn*  | 2x10+2 |
+| ‘3’  | *haraːj*  |     | ‘13’ | *jiðiːsat haraːj*  | 1x10+3 | ‘23’ | *ðəðiːsat haraːj*  | 2x10+3 |
+| ‘4’  | *tsavoːr* |     | ‘14’ | *jiðiːsat tsavoːr* | 1x10+4 | ‘24’ | *ðəðiːsat tsavoːr* | 2x10+4 |
+| ‘5’  | *piːnts*  |     | ‘15’ | *jiðiːsat piːnts*  | 1x10+5 | ‘25’ | *ðəðiːsat piːnts*  | 2x10+5 |
+| ‘6’  | *χoːɣ*    |     | ‘16’ | *jiðiːsat χoːɣ*    | 1x10+6 | ‘26’ | *ðəðiːsat χoːɣ*    | 2x10+6 |
+| ‘7’  | *wuːvd*   |     | ‘17’ | *jiðiːsat wuːvd*   | 1x10+7 | ‘27’ | *ðəðiːsat wuːvd*   | 2x10+7 |
+| ‘8’  | *waxt*    |     | ‘18’ | *jiðiːsat waxt*    | 1x10+8 | ‘28’ | *ðəðiːsat waxt*    | 2x10+8 |
+| ‘9’  | *noːw*    |     | ‘19’ | *jiðiːsat noːw*    | 1x10+9 | ‘29’ | *ðəðiːsat noːw*    | 2x10+9 |
+| ‘10’ | *ðiːs*    |     | ‘20’ | *ðəðiːs*           | 2x10   | ‘30’ | *harajðiːs*        | 3x10   |
+
+The numeral composition order 20+n is present in the majority of the
+sample. The languages applying the reverse order are exclusively found
+in the southern half of the region, most of which are Indo-Aryan.",Lexicon
+LX04a,Kinship: Parent Compound,"Terms referring to one’s parents were investigated. In some languages,
+this is expressed though a compound involving the lexemes ‘mother’ and
+‘father’, either instead of or in addition to a distinct ‘parent(s)’
+lexeme. The relative order of those elements is described by another
+feature (Kinship: M-F Compound). Kundal Shahi uses this type of
+compound, as can be seen in ‎(1). Typically the two roots are
+juxtaposed, as in Kundal Shahi, but explicitly conjoining elements
+occur, too.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Kundal Shahi
+\[shd\] (Indo-Aryan)
+
+| a.  | meːl maːl | ‘parents’ (SHD-Kin-GQ:003) |
+|-----|-----------|----------------------------|
+| b.  | meːl      | ‘mother’ (SHD- Kin-GQ:002) |
+| c.  | maːl      | ‘father’ (SHD- Kin-GQ:001) |
+
+The feature is a majority pattern in the region, occurring across the
+region, in languages of all phylogenetic groups.",Lexicon
+LX04b,Kinship: M-F Compound,"Terms referring to one’s parents were investigated. In some languages,
+this is expressed through a compound involving the lexemes ‘mother’ and
+‘father’ (see Kinship: Parent Compound). These compounds are
+sequentially structured, either as ‘mother’ followed by ‘father’ (the
+positive value here) or as ‘father’ followed by ‘mother’ (the negative
+value). Aret Pashai is an example of the former, as can be seen in ‎(1),
+and Prasun is an example of the latter, as can be seen in (2).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Aret Pashai
+\[aee(at)\] (Indo-Aryan)
+
+| a.  | oj bəw | ‘parents’ (AEEat-Kin-HH:003) |
+|-----|--------|------------------------------|
+| b.  | oj     | ‘mother’ (AEEat-Kin-HH:002)  |
+| c.  | bəw    | ‘father’ (AEEat-Kin-HH:001)  |
+
+(1) <span id=""_Ref50555867"" class=""anchor""></span>Prasun
+\[prn\] (Nuristani)
+
+| a.  | jeːnan | ‘parents’ (PRN-Kin-SM:003) |
+|-----|--------|----------------------------|
+| b.  | nan    | ‘mother’ (PRN-Kin-SM:002)  |
+| c.  | jej    | ‘father’ (PRN-Kin-SM:001)  |
+
+The feature value M+F is a majority pattern in the region. However,
+while the M+F pattern is restricted to the three Indo-Iranian phyla, the
+F+M pattern occurs in languages belonging to all six phylogenetic
+groupings. There is a clearly geographical distribution, with the M+F
+pattern in the south and west, and the F+M pattern in the north and
+east.",Lexicon
+LX05,Kinship: Grandparents by Parent’s Sex,"In the region, there are two types of grandparent terms: a) those that
+make a two-way differentiation based on the sex of the referent, and b)
+those that make a four-way differentiation based on the sex of the
+referent as well as the sex of the anchor’s parent. The latter is the
+positive value of this feature. Such four-way differentiation is
+exemplified by Pothwari in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Pothwari
+\[phr\] (Indo-Aryan)
+
+| a.  | daːda | ‘father’s father’ (PHR-Kin-UA:013) |
+|-----|-------|------------------------------------|
+| b.  | daːdi | ‘father’s mother’ (PHR-Kin-UA:014) |
+| c.  | naːna | ‘mother’s father’ (PHR-Kin-UA:015) |
+| d.  | naːni | ‘mother’s mother’ (PHR-Kin-UA:016) |
+
+A language making a two-way differentiation (i.e. showing a negative
+value for this feature) is e.g. Kohistani Shina, as shown in (2).
+
+(1) <span id=""_Ref50555867"" class=""anchor""></span>Kohistani Shina
+\[plk\] (Indo-Aryan)
+
+| a.  | daːdu | ‘father’s father, mother’s father’ (PLK-Kin-RK:013, 015) |
+|-----|-------|----------------------------------------------------------|
+| b.  | dadi  | ‘father’s mother, mother’s mother’ (PLK-Kin-RK:014, 016) |
+
+Differentiating grandparents by one’s parent’s sex is a minority pattern
+and is only found in a few of the Indo-Aryan languages spoken in the
+south.",Lexicon
+LX06a,Kinship: Grandchildren by Sex,"Terms referring to one’s grandchildren were investigated. One of the
+relevant features is that grandchildren are distinguished according to
+their biological sex, i.e. differentiating terms corresponding to
+‘grandson’ and ‘granddaughter’, respectively, are used. That is the case
+in Brokskat, as can be seen in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Brokskat
+\[bkk\] (Indo-Aryan)
+
+| a.  | poːʈo | ‘grandson’ (BKK-Kin-TL:017, 019)      |
+|-----|-------|---------------------------------------|
+| b.  | pøːʈi | ‘granddaughter’ (BKK-Kin-TL:018, 020) |
+
+The absence of this value is exemplified by Wakhi of Pakistan, as shown
+in (2). A single term for ‘grandchild’ is used, regardless of sex.
+
+(1) <span id=""_Ref50555867"" class=""anchor""></span>Wakhi, Pakistan
+\[wbl(p)\] (Iranian)
+
+| nəpɨs | ‘grandchild’ (WBLp-Kin-AK:017-020) |
+|-------|------------------------------------|
+
+Differentiation by the grandchild’s sex is a majority feature. It is
+absent only in a few of the sample languages.",Lexicon
+LX06b,Kinship: Grandchildren by Children’s Sex,"Terms referring to one’s grandchildren were investigated. One of the
+relevant features is that grandchildren are distinguished according to
+the anchor’s children’s biological sex. This is usually realized as a
+four-way differentiation of grandchildren, distinguishing lexically
+between a ‘son’s son’, a ‘son’s daughter’, a ‘daughter’s son’ as well as
+a ‘daughter’s daughter’. That is the case in Kashmiri of Pakistan, as
+shown in (1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Kashmiri, Pakistan
+\[kas(p)\] (Indo-Aryan)
+
+| a.  | poːtor  | ‘son’s son’ (KASp-Kin-KR:017)           |
+|-----|---------|-----------------------------------------|
+| b.  | poːtɨr  | ‘son’s daughter’ (KASp-Kin-KR:018)      |
+| c.  | djuːtor | ‘daughter’s son’ (KASp-Kin-KR:019)      |
+| d.  | djuːtɨr | ‘daughter’s daughter’ (KASp-Kin-KR:020) |
+
+Differentiating grandchildren by one’s children’s sex is a minority
+pattern, but it is found in various parts of the region and in several
+of the phyla represented in the sample.",Lexicon
+LX07,Colexification: Hide=Steal,"A polysemy pattern shared by a number of languages in the sample is a
+verb that corresponds to the semantic notion of ‘hiding’ as well as that
+of ‘stealing’. This is the case with Pashto of India, as seen in ‎(1).
+It should be noted that this verbal meaning in Pashto is jointly
+expressed with a light verb ‘to do, make’ and an adjectival element
+‘hidden’.
+
+(1) <span id=""_Ref12281344"" class=""anchor""></span>Pashto, India
+\[pbu(i)\] (Iranian)
+
+| a.  | alək                                                         | χpəl-e                                                     | moːr                                                     | na   | tsindzaχa                                              | **paʈ-a **                                                   | **kɽ-a**                                                     |
+|-----|--------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|------|--------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+|     | boy                                                          | <span style=""font-variant:small-caps;"">refl-fsg.obl</span> | mother                                                   | from | frog(<span style=""font-variant:small-caps;"">f</span>)  | hidden-<span style=""font-variant:small-caps;"">fsg.nom</span> | do.<span style=""font-variant:small-caps;"">pfv.pst-fsg</span> |
+|     | ‘The boy hid the frog from his mother.’ (PBUi-Val-NK:034)    |
+| b.  | ʁal                                                          | buɖaj                                                      | χəz-e                                                    | na   | peːse                                                  | **pəʈ-e **                                                   | **kɽ-eː**                                                    |
+|     | thief                                                        | old.<span style=""font-variant:small-caps;"">f</span>        | woman- <span style=""font-variant:small-caps;"">obl</span> | from | money.<span style=""font-variant:small-caps;"">pl</span> | hidden-<span style=""font-variant:small-caps;"">fpl.nom</span> | do.<span style=""font-variant:small-caps;"">pfv.pst-fpl</span> |
+|     | ‘The thief stole money from the old lady.’ (PBUi-Val-NK:076) |
+
+This colexification pattern is present in about a third of the sample
+languages, of which all are either Indo-Aryan or Iranian, and spoken in
+the southern and central parts of the region.",Lexicon
+LX08,Colexification: Woman=Wife,"A polysemy pattern shared by a number of languages in the sample is a
+noun that corresponds to the semantic notion of ‘woman’ as well as that
+of ‘wife’. This is the case in Ashkun, as seen in ‎(1); in Dameli, as
+seen in (2), although there is an additional term exclusively used for
+‘wife’; as well as in Pashto (Pakistan), as in (3).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Ashkun
+\[ask\] (Nuristani)
+
+| a.  | strimili | ‘woman’ (ASK-Val-WS:054) |
+|-----|----------|--------------------------|
+| b.  | strimili | ‘wife’ (ASK-Kin-WS:038)  |
+
+(1) <span id=""_Ref50625793"" class=""anchor""></span>Dameli
+\[dml\] (Indo-Aryan)
+
+| a.  | ʑaːmi         | ‘woman’ (DML-Val-HM:054) |
+|-----|---------------|--------------------------|
+| b.  | ʑaːmi, iɕtriː | ‘wife’ (DML-Kin-HM:038)  |
+
+(1) <span id=""_Ref50627217"" class=""anchor""></span>Pashto, Pakistan
+\[pbu(p)\] (Iranian)
+
+| a.  | χəza | ‘woman’ (PBUp-Val-KK:054) |
+|-----|------|---------------------------|
+| b.  | χəza | ‘wife’ (PBUp-Kin-KK:038)  |
+
+This colexification pattern is present in at least a third of the sample
+languages, of which almost all are Indo-Iranian, and spoken in the
+southern parts of the region.",Lexicon
