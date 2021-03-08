@@ -777,7 +777,7 @@
     {
         "type": "book",
         "title": "Kannada-English Etymological Dictionary",
-        "author": ["N. Ucida", "BB. Rajapurohit"],
+        "author": ["Norihiko Učida", "BB. Rajapurohit"],
         "year": 2013,
         "publisher": "Tokyo Institute of Foreign Studies",
         "languages": {
@@ -1468,7 +1468,7 @@
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/155435",
         "languages": {
             "Chakma": ["Rangamati", "Kolkata"],
-            "Bengali": ["Rangamati"]
+            "Chittagonian": ["Rangamati"]
         },
         "topics": ["overview"]
     },
@@ -1656,7 +1656,7 @@
         "publisher": "Routledge",
         "pages": "386--428",
         "languages": {
-            "Bengali": []
+            "Bengali": ["Kolkata"]
         },
         "topics": ["overview"]
     },
@@ -3846,7 +3846,7 @@
         "type": "book",
         "title": "A Gujarati Reference Grammar",
         "author": ["George Cardona"],
-        "publisher": "University of Pennsylvania",
+        "publisher": "University of Pennsylvania Press",
         "year": 1965,
         "languages": {
             "Gujarati": []
@@ -4802,5 +4802,430 @@
             "Dehwali": ["Narmada District"]
         },
         "topics": ["overview", "dialectology", "syntax"]
+    },
+    {
+        "type": "website",
+        "title": "Nuristân: Hidden Land of the Hindu Kush",
+        "author": ["Richard F. Strand"],
+        "year": "1997--2020",
+        "languages": {
+            "Ashkun": ["Wama"],
+            "Kamviri": [],
+            "Kalasha-ala": ["Kantiva Valley"],
+            "Prasun": ["Parun Valley"],
+            "Southeastern Pashayi": ["Khas Kunar District"]
+        },
+        "url": "http://nuristan.info/index.html",
+        "topics": ["overview", "lexicography", "corpora", "comparative", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "A micro-typological study of Pashai varieties in Afghanistan",
+        "author": ["Vanessa Quasnik"],
+        "year": 2019,
+        "url": "https://www.diva-portal.org/smash/get/diva2:1354514/FULLTEXT01.pdf",
+        "languages": {
+            "Northwestern Pashayi": ["Sanjan", "Alishang"],
+            "Northeastern Pashayi": ["Shemal", "Aret", "Chalas", "Korangal"],
+            "Southwestern Pashayi": ["Alasai"],
+            "Southeastern Pashayi": ["Alingar", "Amla"]
+        },
+        "topics": ["overview", "comparative"]
+    },
+    {
+        "type": "thesis",
+        "title": "Phonetics and Phonology of Awankari (Lahndi)",
+        "year": 1942,
+        "author": ["Hardev Bahri"],
+        "publisher": "University of Panjab",
+        "languages": {
+            "Hindko": ["Awankari"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar and Dictionary of Western Punjabi, as spoken in the Shahpur District",
+        "author": ["J. Wilson"],
+        "year": 1898,
+        "url": "https://archive.org/details/WesternPunjabiShahpurDistrict",
+        "publisher": "Punjab Government Press",
+        "languages": {
+            "Punjabi": ["Shahpur"]
+        },
+        "topics": ["overview", "lexicography", "corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Endangered Language: A Case Study of Sansiboli",
+        "author": ["Lakhan Gusain"],
+        "year": 2002,
+        "journal": "Language in India",
+        "volume": 2,
+        "number": 9,
+        "languages": {
+            "Sansi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Ādʰunik Rājastʰānī kā saⁿracanātmak vyākaraṇ",
+        "author": ["Kali Charan Bahl"],
+        "year": 1964,
+        "url": "https://archive.org/details/in.ernet.dli.2015.551104",
+        "languages": {
+            "Marwari": ["Jodhpur District", "Bikaner District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Structural Grammar Of Modern Rajasthani",
+        "author": ["Kali Charan Bahl"],
+        "year": 1980,
+        "url": "https://archive.org/details/in.ernet.dli.2015.403653",
+        "languages": {
+            "Marwari": ["Jodhpur District", "Bikaner District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Saṅkṣipt Rājastʰānī vyākaraṇ",
+        "author": ["Narottamdas Swami"],
+        "year": 1960,
+        "url": "https://archive.org/details/in.ernet.dli.2015.309691",
+        "languages": {
+            "Marwari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Eastern Hindi Compared with the Other Gaudian Languages",
+        "author": ["August Friedrich Rudolf Hoernle"],
+        "publisher": "Trübner & Co.",
+        "year": 1880,
+        "url": "https://archive.org/details/agrammareastern00hoergoog",
+        "languages": {
+            "Bhojpuri": ["Varanasi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Variations in Bhojpuri: A Sociolinguistic Study",
+        "booktitle": "Linguistic Ecology of Bihar",
+        "author": ["Tariq Khan", "Manish Kumar Singh"],
+        "year": 2019,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477825",
+        "languages": {
+            "Bhojpuri": ["Varanasi", "Azamgarh", "Mirzapur", "Buxar", "Arrah"]
+        },
+        "topics": ["sociolinguistics", "dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Linguistic Study of English Loanwords in Sylheti Spoken in Karimganj District",
+        "author": ["Md. Isthaque Ahmed"],
+        "year": 2016,
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/293379",
+        "languages": {
+            "Sylheti": ["Karimganj District"]
+        },
+        "topics": ["overview", "language contact"]
+    },
+    {
+        "type": "thesis",
+        "title": "Linguistic study of Bengal--Orissa border dialect of Sonakonia",
+        "author": ["Kokanad Chattopadhyay"],
+        "year": "n.d.",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/159754",
+        "publisher": "University of Calcutta",
+        "languages": {
+            "Bengali": ["Sonakania"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Folk life and culture of Rangpur based on the local dialect of Bengali",
+        "author": ["Kali Prasad Biswas"],
+        "year": "n.d.",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/159709",
+        "publisher": "University of Calcutta",
+        "languages": {
+            "Kamtapuri": ["Rangpur"]
+        },
+        "topics": ["overview", "ethnography"]
+    },
+    {
+        "type": "article",
+        "title": "The position of the Bihārī dialects in Indo-Aryan",
+        "author": ["Robert J. Jeffers"],
+        "year": 1976,
+        "journal": "Indo-Iranian Journal",
+        "volume": 18,
+        "number": "3/4",
+        "pages": "215--225",
+        "url": " https://www.jstor.org/stable/24652488",
+        "languages": {
+            "Magahi": [],
+            "Maithili": [],
+            "Bhojpuri": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Grammar of Bangla",
+        "author": ["Anne Boyle David", "Thomas J. Conners", "Dustin A. Chacón"],
+        "year": 2015,
+        "publisher": "De Gruyter Mouton",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Bengali",
+        "author": ["Hanne-Ruth Thompson"],
+        "publisher": "John Benjamins",
+        "year": 2013,
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Bengali: A Comprehensive Grammar",
+        "author": ["Hanne-Ruth Thompson"],
+        "publisher": "Routledge",
+        "year": 2010,
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Der Bengali-Dialekt von Chittagong",
+        "author": ["Norihiko Učida"],
+        "year": 1970,
+        "publisher": "Otto Harrassowitz",
+        "languages": {
+            "Chittagonian": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Santali",
+        "author": ["Arun Ghosh"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Santali": ["Midnapore", "Balasore", "Birbhum District", "Mayurbhanj District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Mundari",
+        "author": ["Toshiki Osada"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Mundari": ["Barinijkel"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Keraʔ Mundari",
+        "author": ["Masato Kobayashi", "Ganesh Murmu"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Keraʔ Mundari": ["Ranchi"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Ho and other Kherwarian languages",
+        "author": ["Gregory D. S. Anderson", "Toshiki Osada", "K. David Harrison"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Ho": ["East Singhbhum District", "Mayurbhanj District", "Kendujhar District"],
+            "Bhumij": ["Mayurbhanj District"],
+            "Korwa": [],
+            "Asuri": [],
+            "Birhor": [],
+            "Turi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Expressives in Birhor",
+        "author": ["Bikram Jora"],
+        "year": 2020,
+        "booktitle": "Expressives in the South Asian Linguistic Area",
+        "publisher": "Brill",
+        "languages": {
+            "Birhor": ["Ladhup"]
+        },
+        "topics": ["morphology"],
+        "url": "https://brill.com/view/book/9789004439153/BP000016.xml"
+    },
+    {
+        "type": "article",
+        "title": "Father Ponette's Field Note on Turi with a Comparative Vocabulary",
+        "author": ["Toshiki Osada"],
+        "year": 1991,
+        "journal": "Journal of Asian and African Studies",
+        "volume": 42,
+        "url": "http://repository.tufs.ac.jp/bitstream/10108/21782/1/jaas042012.pdf",
+        "languages": {
+            "Turi": ["Raigarh District"]
+        },
+        "topics": ["lexicography", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Field notes on Birhor",
+        "author": ["Toshiki Osada"],
+        "year": 1993,
+        "journal": "A computer-assisted study of South-Asian languages",
+        "languages": {
+            "Birhor": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on the Proto-Kherwarian Vowel System",
+        "author": ["Toshiki Osada"],
+        "year": 1996,
+        "journal": "Indo-Iranian Journal",
+        "volume": 39,
+        "number": 3,
+        "url": "https://www.jstor.org/stable/24662145",
+        "languages": {
+            "Santali": ["East Singhbhum District"],
+            "Mundari": [],
+            "Ho": [],
+            "Korwa": [],
+            "Birhor": [],
+            "Turi": []
+        },
+        "topics": ["historical", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Introduction to the templatic verb morphology of Birhor (Birhoɽ), a Kherwarian Munda language",
+        "author": ["Gregory D. S. Anderson", "Bikram Jora"],
+        "year": 2021,
+        "journal": "Language and Linguistics",
+        "volume": 22,
+        "number": 1,
+        "url": "https://www.jbe-platform.com/content/journals/10.1075/lali.00076.and",
+        "languages": {
+            "Birhor": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Korku",
+        "author": ["Norman H. Zide"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Korku": ["Hoshangabad District", "Betul District", "Khandwa District", "Amravati District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Sora",
+        "author": ["Gregory D. S. Anderson", "K. David Harrison"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Sora": ["Ganjam District", "Gajapati District", "Rayagada District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Gorum",
+        "author": ["Gregory D. S. Anderson", "Felix Rau"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Gorum": ["Koraput District", "Visakhapatnam District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Kharia",
+        "author": ["John Peterson"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"]
+    },
+    {
+        "type": "inbook",
+        "title": "Juang",
+        "author": ["Manideepa Patnaik"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"]
+    },
+    {
+        "type": "inbook",
+        "title": "Remo (Bonda)",
+        "author": ["Gregory D. S. Anderson", "K. David Harrison"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"]
+    },
+    {
+        "type": "inbook",
+        "title": "Gutob",
+        "author": ["Arlo Griffiths"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"]
+    },
+    {
+        "type": "inbook",
+        "title": "Gtaʔ",
+        "author": ["Gregory D. S. Anderson"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"]
+    },
+    {
+        "type": "inbook",
+        "title": "On Nihali",
+        "author": ["Norman H. Zide"],
+        "booktitle": "The Munda Languages",
+        "year": 2008,
+        "editor": ["Gregory D. S. Anderson"]
     }
 ]
