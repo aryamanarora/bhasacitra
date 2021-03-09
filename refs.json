@@ -5548,5 +5548,253 @@
             "Mankiyali": ["Danna"]
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Prasun Verbal System and its Terminology",
+        "author": ["Almuth Degener"],
+        "journal": "Historische Sprachforschung",
+        "volume": 129,
+        "pages": "184--195",
+        "year": 2016,
+        "url": "https://www.jstor.org/stable/44113349",
+        "languages": {
+            "Prasun": []
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "book",
+        "title": "Materialen zur Prasun-Sprache des Afghanischen Hindukusch",
+        "author": ["Georg Buddruss", "Almuth Degener"],
+        "year": "2015, 2017",
+        "publisher": "Harvard University",
+        "location": "Cambridge, MA and London",
+        "languages": {
+            "Prasun": []
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Two plant-based numeral classifiers in Nuristani languages: GRAIN and BRANCH",
+        "author": ["Irén Hegedűs"],
+        "year": 2020,
+        "languages": {
+            "Kalasha-ala": [],
+            "Prasun": [],
+            "Katavari": [],
+            "Ashkun": [],
+            "Kamviri": []
+        },
+        "url": "https://www.researchgate.net/publication/346339003_Two_plant-based_numeral_classifiers_in_Nuristani_languages_GRAIN_and_BRANCH",
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Nominal Echo Formations in Kati: In the Context of Languages of Northern Pakistan",
+        "author": ["Noboru Yoshioka"],
+        "journal": "Bulletin of the National Museum of Ethnology",
+        "volume": 45,
+        "number": 3,
+        "pages": "429--440",
+        "year": 2021,
+        "url": "https://minpaku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=8582&item_no=1&page_id=13&block_id=21",
+        "languages": {
+            "Katavari": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Iranian Elements in Khowar",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Bulletin of the School of Oriental Studies, University of London",
+        "year": 1936,
+        "volume": 8,
+        "number": "2/3",
+        "pages": "657--671",
+        "url": " https://www.jstor.org/stable/608074",
+        "languages": {
+            "Khowar": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "Acoustics of Kalasha laterals",
+        "author": ["Alexei Kochetov", "Jan Heegård Petersen", "Paul Arsenault"],
+        "journal": "Journal of the Acoustical Society of America",
+        "volume": 147,
+        "url": "https://asa.scitation.org/doi/full/10.1121/10.0001013",
+        "year": 2020,
+        "languages": {
+            "Kalasha-mon": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Geomorphic coding in Palula and Kalasha",
+        "author": ["Jan Heegård", "Henrik Liljegren"],
+        "journal": "Acta Linguistica Hafniensia",
+        "volume": 50,
+        "number": 2,
+        "pages": "129--160",
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/03740463.2018.1432210",
+        "year": 2018,
+        "languages": {
+            "Palula": [],
+            "Kalasha-mon": []
+        },
+        "topics": ["semantics"]
+    },
+    {
+        "type": "article",
+        "title": "Local case semantics in Kalasha",
+        "author": ["Jan Heegård"],
+        "journal": "Journal of South Asian Languages and Linguistics",
+        "volume": 1,
+        "number": 2,
+        "pages": "187--215",
+        "year": 2014,
+        "publisher": "De Gruyter Mouton",
+        "languages": {
+            "Kalasha-mon": []
+        },
+        "topics": ["case and adpositions"]
+    },
+    {
+        "type": "inbook",
+        "title": "Emerging epistemic marking in Indo-Aryan Palula",
+        "author": ["Henrik Liljegren"],
+        "booktitle": "Evidentiality, egophoricity, and engagement",
+        "year": 2020,
+        "editor": ["Henrik Bergqvist", "Seppo Kittilä"],
+        "publisher": "Language Science Press",
+        "location": "Berlin",
+        "languages": {
+            "Palula": []
+        },
+        "url": "https://www.diva-portal.org/smash/get/diva2:1467648/FULLTEXT01.pdf",
+        "topics": ["pragmatics", "semantics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Discourse Markers in Dardic Languages: Palula ba and ta in a comparative perspective",
+        "author": ["Erik Svärd"],
+        "url": "https://www.diva-portal.org/smash/get/diva2:730715/fulltext01.pdf",
+        "year": 2014,
+        "publisher": "Stockholm Universty",
+        "languages": {
+            "Palula": [],
+            "Dameli": [],
+            "Kalasha-mon": [],
+            "Kalam Kohistani": [],
+            "Ushojo": [],
+            "Kohistani Shina": [],
+            "Shina": ["Gilgit", "Hunza Valley", "Astore Valley", "Satpara", "Chilas"],
+            "Bateri": [],
+            "Gowro": [],
+            "Southwestern Pashayi": []
+        },
+        "topics": ["discourse", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Tonal proliferation in the Hindu Kush: Evidence from Indo-Aryan Palula and Kalkoti",
+        "author": ["Henrik Liljegren"],
+        "url": "https://www.academia.edu/3849341/Tonogenes_i_Hindukushbergen_Bel%C3%A4gg_fr%C3%A5n_indoariska_palula_och_kalkoti_Tonal_proliferation_in_the_Hindu_Kush_Evidence_from_Indo_Aryan_Palula_and_Kalkoti_",
+        "year": 2012,
+        "languages": {
+            "Palula": [],
+            "Kalkoti": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The Role of Pronominal Suffixes in Punjabi",
+        "author": ["Miriam Butt"],
+        "year": 2007,
+        "languages": {
+            "Punjabi": ["Lahore"]
+        },
+        "topics": ["morphology"],
+        "url": "https://ling.sprachwiss.uni-konstanz.de/pages/home/butt/main/papers/final-punjabi.pdf"
+    },
+    {
+        "type": "thesis",
+        "title": "A Micro-Typological Study of Shina: A Hindu Kush Language Cluster",
+        "author": ["Nina Knobloch"],
+        "year": 2019,
+        "url": "https://www.diva-portal.org/smash/get/diva2:1326364/FULLTEXT01.pdf",
+        "publisher": "Stockholm Universty",
+        "languages": {
+            "Shina": ["Gilgit", "Gurez Valley"],
+            "Brokskat": [],
+            "Kohistani Shina": [],
+            "Ushojo": [],
+            "Kundal Shahi": [],
+            "Kalkoti": [],
+            "Sauji": [],
+            "Palula": []
+        },
+        "topics": ["comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Retroflex Harmony in Kalasha: Agreement or Spreading?",
+        "author": ["Paul Arsenault", "Alexei Kochetov"],
+        "year": 2011,
+        "journal": "Proceedings of the thirty-ninth annual meeting of the North East Linguistic Society",
+        "volume": 1,
+        "url": "https://www.researchgate.net/publication/228738562_Retroflex_Harmony_in_Kalasha_Agreement_or_Spreading",
+        "pages": "55--66",
+        "languages": {
+            "Kalasha-mon": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Innovations in the Negative Conjugation of the Brahui Verb System",
+        "author": ["Elena Bashir"],
+        "journal": "Journal of South Asian Linguistics",
+        "volume": 3,
+        "number": 1,
+        "year": 2010,
+        "languages": {
+            "Brahui": ["Kalat"]
+        },
+        "topics": ["syntax"],
+        "url": "https://ojs.ub.uni-konstanz.de/jsal/index.php/jsal/article/view/21"
+    },
+    {
+        "type": "thesis",
+        "title": "Topics in the Grammar of Marwari",
+        "author": ["David Magier"],
+        "year": 1983,
+        "publisher": "University of California, Berkeley",
+        "url": "https://escholarship.org/content/qt91q8z6pt/qt91q8z6pt.pdf",
+        "languages": {
+            "Marwari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Reduplication in Dhundhari and Adi",
+        "author": ["Sonam Meena"],
+        "journal": "Language in India",
+        "volume": 19,
+        "number": 10,
+        "year": 2019,
+        "url": "http://www.languageinindia.com/oct2019/sonamreduplicationdhundhariandadi1.pdf",
+        "languages": {
+            "Dhundari": [],
+            "Adi": ["East Siang District"]
+        },
+        "topics": ["morphology"]
     }
 ]

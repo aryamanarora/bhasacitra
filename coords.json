@@ -572,9 +572,14 @@
         "Lamptaput": [18.8624901, 82.8673302],
         "Rolpa District": [28.366667, 82.55],
         "Tanahun District": [27.916667, 84.25],
-        "Danna": [34.478399, 72.953394]
+        "Danna": [34.478399, 72.953394],
+        "Astore Valley": [35.038972, 75.11025],
+        "Satpara": [35.229521, 75.630398],
+        "Chilas": [35.4160115, 74.0554493],
+        "Kalat": [29.0523, 66.5879]
     },
     "family": {
+        "Adi": ["Sino-Tibetan", "Tani", "Adi"],
         "Ashkun": ["Nuristani", "Southern", "Ashkun"],
         "Kalasha-ala": ["Nuristani", "Southern", "Waigali"],
         "Prasun": ["Nuristani", "Northern", "Prasun"],
