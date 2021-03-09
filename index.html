@@ -244,6 +244,7 @@
 
             var stored_coords = {}
             for (lang in langs) {
+                refs[lang].sort((a, b) => (a.year < b.year) ? 1 : ((b.year < a.year) ? -1 : 0))
                 var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
                 stored_coords[lang] = loc
                 stored_coords[lang][0] += Math.random() * 2 - 1

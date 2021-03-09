@@ -4579,6 +4579,7 @@
         "volume": 44,
         "number": 2,
         "pages": "239--254",
+        "year": 2019,
         "languages": {
             "Burushaski": ["Srinagar"]
         },
@@ -5186,7 +5187,11 @@
         "author": ["John Peterson"],
         "booktitle": "The Munda Languages",
         "year": 2008,
-        "editor": ["Gregory D. S. Anderson"]
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Kharia": ["Simdega District", "Gumla District", "Surguja District", "Raigarh District", "Sundargarh District"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "inbook",
@@ -5194,7 +5199,11 @@
         "author": ["Manideepa Patnaik"],
         "booktitle": "The Munda Languages",
         "year": 2008,
-        "editor": ["Gregory D. S. Anderson"]
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Juang": ["Kendujhar District", "Angul District", "Dhenkanal District"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "inbook",
@@ -5202,7 +5211,11 @@
         "author": ["Gregory D. S. Anderson", "K. David Harrison"],
         "booktitle": "The Munda Languages",
         "year": 2008,
-        "editor": ["Gregory D. S. Anderson"]
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Bonda": ["Malkangiri District"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "inbook",
@@ -5210,7 +5223,11 @@
         "author": ["Arlo Griffiths"],
         "booktitle": "The Munda Languages",
         "year": 2008,
-        "editor": ["Gregory D. S. Anderson"]
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Gutob": ["Lamptaput"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "inbook",
@@ -5218,7 +5235,11 @@
         "author": ["Gregory D. S. Anderson"],
         "booktitle": "The Munda Languages",
         "year": 2008,
-        "editor": ["Gregory D. S. Anderson"]
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Gtaʔ": ["Malkangiri District", "Koraput District"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "inbook",
@@ -5226,6 +5247,306 @@
         "author": ["Norman H. Zide"],
         "booktitle": "The Munda Languages",
         "year": 2008,
-        "editor": ["Gregory D. S. Anderson"]
+        "editor": ["Gregory D. S. Anderson"],
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar of Kharia: A South Munda Language",
+        "author": ["John Peterson"],
+        "year": 2011,
+        "publisher": "Brill",
+        "location": "Leiden and Boston",
+        "languages": {
+            "Kharia": ["Simdega District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Kharia: A transparent language",
+        "author": ["Sterre Leufkens"],
+        "journal": "Linguistics in Amsterdam",
+        "year": 2011,
+        "volume": 4,
+        "number": 2,
+        "pages": "75--95",
+        "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1030.727&rep=rep1&type=pdf",
+        "languages": {
+            "Kharia": []
+        },
+        "topics": ["semantics", "syntax", "morphology"]
+    },
+    {
+        "type": "book",
+        "title": "A Kharia-English Lexicon",
+        "author": ["John Peterson"],
+        "year": 2009,
+        "publisher": "Himalayan Linguistics",
+        "url": "https://escholarship.org/content/qt4566c4bw/qt4566c4bw.pdf",
+        "languages": {
+            "Kharia": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Dictionary of the Kharia language",
+        "author": ["H. Floor", "V. Gheysens", "G. Druart"],
+        "url": "http://nlirepository.nvli.in/handle/123456789/21513",
+        "publisher": "Messrs Begg, Dunlop & Co, Ltd",
+        "year": 1934,
+        "location": "Calcutta",
+        "languages": {
+            "Kharia": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Numerical Expressions in Kharia, Korku, and Sora: A Comparative Account",
+        "author": ["Shailendra Mohan"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "year": "2012--2013",
+        "volume": "72/73",
+        "pages": "367--374",
+        "languages": {
+            "Kharia": [],
+            "Korku": [],
+            "Sora": []
+        },
+        "topics": ["comparative", "syntax"],
+        "url": "https://www.jstor.org/stable/43610713"
+    },
+    {
+        "type": "book",
+        "title": "Dhundhari",
+        "author": ["Lakhan Gusain"],
+        "publisher": "Lincom",
+        "location": "Muenchen",
+        "year": 2015,
+        "languages": {
+            "Dhundari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Marwari",
+        "author": ["Lakhan Gusain"],
+        "publisher": "Lincom",
+        "location": "Muenchen",
+        "year": 2004,
+        "languages": {
+            "Marwari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Mewati",
+        "author": ["Lakhan Gusain"],
+        "publisher": "Lincom",
+        "location": "Muenchen",
+        "year": 2003,
+        "languages": {
+            "Mewati": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Mewari",
+        "author": ["Lakhan Gusain"],
+        "publisher": "Lincom",
+        "location": "Muenchen",
+        "year": 2013,
+        "languages": {
+            "Mewari": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Shekhawati",
+        "author": ["Lakhan Gusain"],
+        "publisher": "Lincom",
+        "location": "Muenchen",
+        "year": 2001,
+        "languages": {
+            "Shekhawati": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Bagri",
+        "author": ["Lakhan Gusain"],
+        "publisher": "Lincom",
+        "location": "Muenchen",
+        "year": 2000,
+        "languages": {
+            "Bagri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Notes on Kusunda Grammar: A language isolate of Nepal",
+        "author": ["David E. Watters"],
+        "year": 2005,
+        "url": "https://escholarship.org/content/qt83v8d1wv/qt83v8d1wv.pdf",
+        "publisher": "Himalayan Linguistics",
+        "languages": {
+            "Kusunda": ["Tanahun District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "New Materials on the Kusunda Language",
+        "journal": "Fourth Harvard Round Table on the Ethnogenesis of South and Central Asia",
+        "year": 2002,
+        "url": "https://nepalresearch.org/publications/kusunda_materials.pdf",
+        "author": ["B. K. Rana"],
+        "languages": {
+            "Kusunda": ["Rolpa District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Kusunda: An Indo-Pacific language in Nepal",
+        "author": ["Paul Whitehouse", "Timothy Usher", "Merritt Ruhlen", "William S.-Y. Wang"],
+        "journal": "PNAS",
+        "volume": 101,
+        "number": 15,
+        "year": 2004,
+        "url": "https://www.pnas.org/content/pnas/101/15/5692.full.pdf",
+        "languages": {
+            "Kusunda": []
+        },
+        "topics": ["comparative"]
+    },
+    {
+        "type": "article",
+        "title": "The tonal system of Pahari",
+        "author": ["Abdul Qadir Khan"],
+        "journal": "Acta Linguistica Academica",
+        "volume": 64,
+        "year": 2017,
+        "pages": "313--324",
+        "url": "https://www.jstor.org/stable/pdf/26453121.pdf",
+        "languages": {
+            "Pahari-Pothwari": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The Nature of Ergative Case Marking in Pahari",
+        "author": ["Shahida Khalique", "Qudsia Ishaq", "Nadeem Haider Bukhari"],
+        "journal": "Kashmir Journal of Language Research",
+        "year": 2013,
+        "pages": "15--23",
+        "languages": {
+            "Pahari-Pothwari": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Light Verbs in Gojri",
+        "author": ["Nadeem Haider Bukhari"],
+        "journal": "Language in India",
+        "volume": 9,
+        "year": 2009,
+        "url": "http://www.languageinindia.com/aug2009/nadeemlightverbs2.pdf",
+        "languages": {
+            "Gojri": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Stress and tone in Indo-Aryan languages",
+        "author": ["Rajdip Kaur Dhillon"],
+        "publisher": "Yale University",
+        "year": 2010,
+        "url": "https://search.proquest.com/docview/704400585",
+        "languages": {
+            "Punjabi": [],
+            "Gojri": [],
+            "Dogri": [],
+            "Kangri": [],
+            "Kalam Kohistani": [],
+            "Shina": [],
+            "Palula": [],
+            "Indus Kohistani": [],
+            "Saraiki": [],
+            "Hindko": [],
+            "Dameli": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The Argument Structure of Siraiki Causatives",
+        "author": ["John J. Lowe", "Ali H. Birahimani"],
+        "journal": "Proceedings of the LFG’19 Conference",
+        "year": 2019,
+        "pages": "191--211",
+        "url": "http://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2019/abstr-lowe-birahimani.shtml",
+        "languages": {
+            "Saraiki": ["Multan"]
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Causative alternations in Siraiki",
+        "author": ["John J. Lowe", "Ali H. Birahimani"],
+        "journal": "Transactions of the Philological Society",
+        "year": 2019,
+        "volume": 117,
+        "number": 2,
+        "pages": "266--293",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-968X.12158",
+        "languages": {
+            "Saraiki": ["Multan"]
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Ergativity in Kundal Shahi, Kashmiri, and Hindko",
+        "author": ["Khawaja A. Rehman"],
+        "journal": "Himalayan Languages and Linguistics",
+        "year": 2011,
+        "pages": "219--233",
+        "url": "https://www.semanticscholar.org/paper/Ergativity-In-Kundal-Shahi%2C-Kashmiri-And-Hindko-Rehman/680fba67af479f83408cb5865e2a49e07a26f590",
+        "languages": {
+            "Kundal Shahi": [],
+            "Kashmiri": [],
+            "Hindko": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "A First Look at Mankiyali Language: An Endangered Language",
+        "author": ["Uzma Anjum", "Khawaja A. Rehman"],
+        "journal": "Journal of Asian Civilizations",
+        "year": 2015,
+        "volume": 38,
+        "number": 1,
+        "url": "https://search.proquest.com/docview/1816873650/fulltextPDF/FF0BC1058B9470CPQ/1",
+        "languages": {
+            "Mankiyali": ["Danna"]
+        },
+        "topics": ["overview"]
     }
 ]
