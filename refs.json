@@ -5796,5 +5796,17 @@
             "Adi": ["East Siang District"]
         },
         "topics": ["morphology"]
+    },
+    {
+        "type": "thesis",
+        "title": "A phonological description of Wadiyari, a language spoken in Pakistan",
+        "author": ["Saeed Zubari"],
+        "publisher": "Payap University",
+        "year": 2016,
+        "languages": {
+            "Wadiyari": ["Mirpur Khas"]
+        },
+        "topics": ["phonetics/phonology", "lexicography"],
+        "url": "https://ialtrust.com/resources/A-Phonological-Description-of-Wadiyari.pdf"
     }
 ]

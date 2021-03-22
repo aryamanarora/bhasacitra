@@ -1,5 +1,6 @@
 {
     "cities": {
+        "Mirpur Khas": [25.5065, 69.0136],
         "Abbottabad": [34.1688, 73.2215],
         "Barkhan": [29.8985756, 69.5213761],
         "Dera Ghazi Khan": [30.0442699, 70.6164787],
@@ -812,6 +813,7 @@
         "Kolami": ["Dravidian", "Central", "Kolami"],
         "Naiki": ["Dravidian", "Central", "Kolami"],
         "Kondekor Gadaba": ["Dravidian", "Central", "Parji–Gadaba"],
-        "Angami": ["Sino-Tibetan", "Kuki-Chin–Naga", "Angami–Pochuri"]
+        "Angami": ["Sino-Tibetan", "Kuki-Chin–Naga", "Angami–Pochuri"],
+        "Wadiyari": ["Indo-Aryan", "Northwestern", "Sindhic"]
     }
 }
