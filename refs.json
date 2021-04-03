@@ -5796,5 +5796,676 @@
             "Adi": ["East Siang District"]
         },
         "topics": ["morphology"]
-    }
+    },
+    {
+        "type": "article",
+        "title": "Auxiliaries in spoken Sinhala.",
+        "author": ["M. Hilpert"],
+        "journal": "Functions of Language",
+        "volume": 13,
+        "number": 2,
+        "year": 2010,
+        "url": "http://members.unine.ch/martin.hilpert/FLAS.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["morphology", "syntax"]
+ },
+
+{
+        "type": "inbook",
+        "title": "The existential sentences in Sinhala.",
+        "author": ["T. Jayawardana"],
+        "year": 2008,
+        "booktitle": "Dakkhina: Papers on Buddhist thought, linguistics and Sri Lankan culture. A felicitation volume presented to James Wells Gair on his 80th birthday",
+        "editor": ["R.M.W. Rajapaksha", "K.Kulasekara", "J. Paolillo", "T.R.G. Dela Bandara"],
+        "publisher": "Colombo, Sri Lanka: Godage International Publishers (Pvt) Ltd.",
+        "pages": "105--114",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "book",
+        "title": "Govi basa.",
+        "author": ["S. Kahandhagamage"],
+        "year": 2011,
+        "publisher": "Nugegoda: Sarasavi",
+        "url": "https://books.google.lk/books/about/Govi_basa.html?id=SlJYQwAACAAJ&redir_esc=y",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["dialectology", "sociolinguistics"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Contrastive study of Tamil and Sinhala modal auxiliaries.",
+        "author": ["R. Kalainathan"],
+        "year": 2008,
+        "booktitle": "Dakkhina: Papers on Buddhist thought, linguistics and Sri Lankan culture. A felicitation volume presented to James Wells Gair on his 80th birthday",
+        "editor": ["R.M.W. Rajapaksha", "K.Kulasekara", "J. Paolillo", "T.R.G. Dela Bandara"],
+        "publisher": "Colombo, Sri Lanka: Godage International Publishers (Pvt) Ltd.",
+        "pages": "87--104",
+        "languages": {
+            "Sinhala": [],
+            "Tamil": []
+        },
+        "topics": ["morphology", "syntax"]
+ },
+
+{
+        "type": "article",
+        "title": "Issues in Sinhala syntax: word processing and word order.",
+        "author": ["A. B. P. Kanduboda"],
+        "journal": "The Sri Lanka Journal of the Humanities",
+        "volume": 37,
+        "number": 1,
+        "year": 2011,
+        "url": "http://dlib.pdn.ac.lk/bitstream/123456789/2985/1/A.B.%20Prabath%20Kanduboda%20Vol.%20XXXVII%202011%20No.%201%20%26%202.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "article",
+        "title": " On the usage of Sinhalese differential object marker/wa/vs. object marker/ta",
+        "author": ["A. Kanduboda", "B. Prabath"],
+        "journal": "Theory and Practice in Language Studies",
+        "volume": 3,
+        "number": 7,
+        "year": 2013,
+        "url": "http://www.academypublication.com/issues/past/tpls/vol03/07/01.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Mental domains and cataphora: The case of Sinhala demonstrative expressions.",
+        "author": ["M. Kano"],
+        "year": 1996,
+        "booktitle": "Gengo tankyuu no ryouiki",
+        "publisher": "Tokyo: Daigaku Shorin.",
+        "pages": "127--138",
+        "languages": {
+            "Sinhala": [],
+            "Tamil": []
+        },
+        "topics": ["pragmatics"]
+ },
+
+{
+        "type": "article",
+        "title": "On the usage of the medial demonstrative O-series in Colloquial Sinhala.",
+        "author": ["M. Kano"],
+        "journal": "Bulletin of Language Science and Humanities",
+        "volume": 14,
+        "year": 2000,
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["pragmatics"]
+ },
+
+{
+        "type": "book",
+        "title": "The syntax of focus and wh-questions in Sinhala.",
+        "author": ["S. M. Kariyakarawana"],
+        "year": 1998,
+        "publisher": "Colombo: Karunaratne & Sons Ltd.",
+        "url": "http://books.google.com/books?id=eYZ1AAAAIAAJ&source=gbs_book_other_versions",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "book",
+        "title": "An Introduction to Spoken Sinhala.",
+        "author": ["W. S. Karunatillake"],
+        "year": 2004,
+        "publisher": "Colombo: Gunasena",
+        "url": "http://www.amazon.com/Introduction-Spoken-Sinhala-W-Karunatillake/dp/9552104572",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["overview"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Retroflexion in Sinhala - A historical statement.",
+        "author": ["W. S. Karunatillake"],
+        "year": 2008,
+        "booktitle": "Dakkhina: Papers on Buddhist thought, linguistics and Sri Lankan culture. A felicitation volume presented to James Wells Gair on his 80th birthday",
+        "editor": ["R.M.W. Rajapaksha", "K.Kulasekara", "J. Paolillo", "T.R.G. Dela Bandara"],
+        "publisher": "Colombo, Sri Lanka: Godage International Publishers (Pvt) Ltd.",
+        "pages": "287--300",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["phonetics/phonology", "historical"]
+ },
+
+{
+        "type": "article",
+        "title": "Pronouns of address in Tamil and Sinhalese: A sociolinguistics study.",
+        "author": ["W. S. Karunatillake", "S. Suseendirarajah"],
+        "journal": "International Journal of Dravidian Linguistics",
+        "volume": 4,
+        "number": 1,
+        "year": 1975,
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics"]
+ },
+
+{
+        "type": "article",
+        "title": "In-situ and movement in Sinhala questions.",
+        "author": ["H. Kishimoto"],
+        "journal": "Natural Language and Linguistic Theory",
+        "volume": 23,
+        "number": 1,
+        "year": 2005,
+        "url": "http://www.jstor.org/stable/4048016",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "article",
+        "title": "Sinhala focus concord constructions from a discourse-syntactic perspective.",
+        "author": ["H. Kishimoto"],
+        "journal": "Glossa: a journal of general linguistics",
+        "volume": 3,
+        "number": 1,
+        "year": 2018,
+        "url": "https://www.glossa-journal.org/articles/10.5334/gjgl.260/",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax", "pragmatics"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Wh- phenomenon in Sinhala.",
+        "author": ["C. Maliyagoda"],
+        "year": 2010,
+        "booktitle": "Annual Review of South Asian Languages and Linguistics 2010",
+        "editor": ["R. Singh"],
+        "publisher": "Berlin/New York: De Gruyter Mouton.",
+        "pages": "49--74",
+        "url": "https://books.google.lk/books?hl=en&lr=&id=Ii3AYgYRncoC&oi=fnd&pg=PA49&dq=sinhala+pro-drop&ots=rsD_ZjCtrJ&sig=lJAODzuCsV_H81Pz6F3QTOf-EAA&redir_esc=y#v=onepage&q=sinhala%20pro-drop&f=false",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax", "morphology"]
+ },
+
+{
+        "type": "inbook",
+        "title": "The co-development of finiteness and focus in Sinhala.",
+        "author": ["J. C. Paolillo"],
+        "year": 1994,
+        "booktitle": "Perspectives on Grammaticalization",
+        "editor": ["R. Singh"],
+        "publisher": "Amsterdam: John Benjamins",
+        "pages": "151--170",
+        "url": "https://books.google.lk/books/about/Perspectives_on_Grammaticalization.html?id=OUFAAAAAQBAJ&redir_esc=y",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax", "morphology"]
+ },
+
+{
+        "type": "article",
+        "title": "Sinhala diglossia: Discrete or continuous variation?",
+        "author": ["J. C. Paolillo"],
+        "journal": "Language in Society",
+        "volume": 26,
+        "number": 2,
+        "year": 1997,
+        "url": "http://www.jstor.org/pss/4168764",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics", "morphology"]
+ },
+
+{
+        "type": "article",
+        "title": "Formalizing formality: An analysis of register variation in Sinhala.",
+        "author": ["J. C. Paolillo"],
+        "journal": "Journal of Linguistics",
+        "volume": 36,
+        "number": 2,
+        "year": 2000,
+        "url": "http://www.jstor.org/stable/4176592",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics", "morphology"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Sinhala script vector programs and movable type.",
+        "author": ["J. C. Paolillo"],
+        "year": 2008,
+        "booktitle": "Dakkhina: Papers on Buddhist thought, linguistics and Sri Lankan culture. A felicitation volume presented to James Wells Gair on his 80th birthday",
+        "editor": ["R.M.W. Rajapaksha", "K.Kulasekara", "J. Paolillo", "T.R.G. Dela Bandara"],
+        "publisher": "Colombo, Sri Lanka: Godage International Publishers (Pvt) Ltd.",
+        "pages": "163--182",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "article",
+        "title": "High-focus and time-immediate indexicals: A study of Sinhala discourse markers me: ‘this’ and dæn ‘now'.",
+        "author": ["K. Perera", "S. Strauss"],
+        "journal": "Journal of Pragmatics",
+        "volume": 85,
+        "year": 2015,
+        "url": "https://www.researchgate.net/publication/279754846_High-focus_and_time-immediate_indexicals_A_study_of_Sinhala_discourse_markers_me_%27this%27_and_daen_%27now%27",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["pragmatics"]
+ },
+
+{
+        "type": "article",
+        "title": "Gemination and the Sinhala Prenasalized Stop.",
+        "author": ["E. J. Pyatt"],
+        "journal": "Harvard University Working Papers in Linguistics",
+        "volume": 2,
+        "year": 1993,
+        "url": "https://www.researchgate.net/publication/279754846_High-focus_and_time-immediate_indexicals_A_study_of_Sinhala_discourse_markers_me_%27this%27_and_daen_%27now%27",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["pragmatics"]
+ },
+
+{
+        "type": "article",
+        "title": "Sinhala: one language, many dialects.",
+        "author": ["D. C. Ranathunga"],
+        "year": 2011,
+        "url": "http://serendib.btoptions.lk/article.php?issue=21&id=509",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["dialectology"]
+ },
+
+{
+        "type": "book",
+        "title": "A study of Sinhala vocables of Dutch origin: with appendices of Portuguese and Malay/Javanese borrowings.",
+        "author": ["P. B. Sannasgala"],
+        "year": 1976,
+        "publisher": "Colombo: Netherlands-Alumni Association of Sri Lanka",
+        "url": "http://books.google.com/books/about/A_study_of_Sinhala_vocables_of_Dutch_ori.html?id=3MgNAAAAIAAJ",
+        "languages": {
+            "Sinhala": [],
+            "Sri Lanka Malay": []
+        },
+        "topics": ["historical"]
+ },
+
+{
+        "type": "book",
+        "title": "Sinhala-English code-mixing in Sri Lanka: A sociolinguistic study.",
+        "author": ["C. D. Senaratne"],
+        "year": 2009,
+        "publisher": "Utrecht: LOT.",
+        "url": "https://www.lotpublications.nl/Documents/217_fulltext.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Question-particles and relative clauses in the history ofSinhala, with comparison to early and modern Dravidian.",
+        "author": ["B. Slade"],
+        "year": 2013,
+        "booktitle": "Grammatica et verba / Glamour and verve — Studies in South Asian, Historical, and Indo-European Linguistics: A Festschrift in Honor of Professor Hans Henrich Hock on the Occasion of His 75th Birthday",
+        "editor": ["S. F. Chen", "B. Slade"],
+        "publisher": "Ann Arbor: Beech Stave Press.",
+        "pages": "245--268",
+        "url": "https://ling.auf.net/lingbuzz/002199",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Sinhala indefinites with a certain je ne sais quoi.",
+        "author": ["B. Slade"],
+        "year": 2015,
+        "booktitle": "Epistemic Indefintes",
+        "editor": ["L. Alonso-Ovalle", "P. Menéndez-Benito"],
+        "publisher": "Oxford: Oxford University Press.",
+        "pages": "82--99",
+        "url": "https://books.google.lk/books?id=nMQfCAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["pragmatics", "semantics"]
+ },
+
+{
+        "type": "article",
+        "title": "Holistic linguistics: A case from Sinhala.",
+        "author": ["J. Stonham"],
+        "journal": "Cahiers Linguistiques d'Ottawa",
+        "volume": 23,
+        "year": 1995,
+        "url": "http://clo.canadatoyou.com/23/stonham%281995%29CLO23_23-43.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["phonetics/phonology"]
+ },
+
+{
+        "type": "article",
+        "title": "What morphology can tell us about syntax: An integrated approach to Sinhala verb formation.",
+        "author": ["J. Stonham"],
+        "journal": "Language Sciences",
+        "volume": 19,
+        "number": 2,
+        "year": 1997,
+        "url": "http://www.sciencedirect.com/science/article/pii/S0388000196000587",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax", "morphology"]
+ },
+
+{
+        "type": "article",
+        "title": "Subject Distribution in Tamil and Other Languages: selection vs. Case",
+        "author": ["S. Sunderesan", "T. McFadden"],
+        "journal": "Journal of South Asian Linguistics",
+        "volume": 2,
+        "year": 2009,
+        "url": "https://www.academia.edu/2849100/Subject_distribution_and_Finiteness_in_Tamil_and_Other_Languages_selection_vs_Case?email_work_card=minimal-title",
+        "languages": {
+            "Sinhala": [],
+            "Tamil": [],
+            "Malayalam": [],
+        },
+        "topics": ["syntax"]
+ },
+
+{
+        "type": "article",
+        "title": "Effects of word orderalternation on the sentence processing of Sinhalese written and spoken forms.",
+        "author": ["K. Tamaoka", "P. B. A. Kanduboda", "H. Sakai"],
+        "journal": "Open Journal of Modern Linguistics",
+        "volume": 1,
+        "number": 2,
+        "year": 2011,
+        "url": "http://file.scirp.org/Html/9228.html",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Sinhala Grapheme-to-Phoneme Conversion and Rules for Schwa Epenthesis.",
+        "author": ["A. Wasala", "R. Weerasinghe", "K. Gamage"],
+        "year": 2006,
+        "booktitle": "Proceedings of the COLING/ACL 2006 Main Conference Poster Sessions, Association for Computational Linguistics",
+        "pages": "500--507",
+        "url": "http://www.panl10n.net/english/outputs/Working%20Papers/Sri%20Lanka/Microsoft%20Word%20-%205_OK_N_507.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "inbook",
+        "title": "A rule based syllabification algorithm for Sinhala.",
+        "author": ["R. Weerasinghe", "A. Wasala", "K. Gamage"],
+        "year": 2005,
+        "booktitle": "Lecture Notes in Computer Science/ IJCNLP: International Joint Conference on Natural Language Processing 3651",
+        "pages": "485--492",
+        "url": "http://www.panl10n.net/english/outputs/Working%20Papers/Sri%20Lanka/Microsoft%20Word%20-%203_E_N_493.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "article",
+        "title": "The Sinhala collation and its representation in Unicode.",
+        "author": ["A. R. Weerasinghe", "D. L. Herath", "K. N. Gamage"],
+        "journal": "Localisation Focus: The InternationalJournal for Localisation",
+        "volume": 5,
+        "year": 2005,
+        "url": "http://repository.kln.ac.lk/handle/123456789/2882",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Festival-si: A Sinhala Text-to-Speech System.",
+        "author": ["A. R. Weerasinghe", "A. Wasala", "K. Gamage"],
+        "year": 2005,
+        "booktitle": "Lecture Notes in Computer Science/ IJCNLP: International Joint Conference on Natural Language Processing 4629",
+        "pages": "472--479",
+        "url": "http://www.panl10n.net/english/final%20reports/pdf%20files/Sri%20Lanka/SRI04.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Corpus-based Sinhala Lexicon. Proceedings of the 7th Workshop on Asian Language Resources.",
+        "author": ["R. Weerasinghe", "D. Herath", "V. Welgama"],
+        "year": 2009,
+        "booktitle": "Proceedings of the 7th Workshop on Asian Language Resources, ACL-IJCNLP 2009",
+        "pages": "17--23",
+        "url": "https://dl.acm.org/doi/10.5555/1690299.1690302",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational", "corpus"]
+ },
+
+{
+        "type": "article",
+        "title": "Instruction matters to the development of phoneme awareness and its relationship to akshara knowledge and word reading: Evidence from Sinhala.",
+        "author": ["M. A. Wijayathilake", "R. Parrila", "T. Inoue", "S. Nag"],
+        "journal": "Scientific Studies of Reading",
+        "volume": 22,
+        "number": 5,
+        "year": 2018,
+        "url": "https://ora.ox.ac.uk/objects/uuid:261f5636-3cf0-4725-bcb6-dcef8798946d/download_file?file_format=pdf&safe_filename=Wijaythilake_2018_Sinhala%2Binstruction%2Beffects.pdf&type_of_work=Journal+article",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["computational"]
+ },
+
+{
+        "type": "article",
+        "title": "Cognitive predictors of word reading in Sinhala.",
+        "author": ["M. A. D. K. Wijayathilake", "R. Parrila", "T. Inoue", "S. Nag"],
+        "journal": "Scientific Studies of Reading",
+        "volume": 32,
+        "number": 7,
+        "year": 2019,
+        "url": "https://ora.ox.ac.uk/objects/uuid:261f5636-3cf0-4725-bcb6-dcef8798946d/download_file?file_format=pdf&safe_filename=Wijaythilake_2018_Sinhala%2Binstruction%2Beffects.pdf&type_of_work=Journal+article",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["cognitive", "orthography"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Reading and writing Sinhala.",
+        "author": ["M. A. Wijayathilake", "R. Parrila"],
+        "year": 2019,
+        "booktitle": "Handbook of Literacy in Akshara Orthography",
+        "editor": ["R. Malatesha Joshi", "Catherine McBride"],
+        "publisher": "Springer",
+        "pages": "195--216",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-05977-4_11",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["orthography"]
+ },
+
+{
+        "type": "book",
+        "title": "Amawatura: A syntactical study.",
+        "author": ["P. Wijemanne"],
+        "year": 1984,
+        "publisher": "Colombo: Ministry of Higher Education",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["syntax", "historical"]
+ },
+
+{
+        "type": "article",
+        "title": "Phonology of the Sinhalese inscriptions up to the end of the Tenth Century A.D.",
+        "author": ["P. B. F. Wijeratne"],
+        "journal": "Bulletin of the School of Oriental and African Studies",
+        "volume": 11,
+        "year": 1945,
+        "url": "http://journals.cambridge.org/abstract_S0041977X00072293",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["phonetics/phonology", "historical"]
+ },
+
+{
+        "type": "article",
+        "title": "Phonology of the Sinhalese inscriptions up to the end of the tenth Century",
+        "author": ["P. B. F. Wijeratne"],
+        "journal": "Bulletin of the School of Oriental and African Studies",
+        "volume": 19,
+        "year": 1957,
+        "url": "http://journals.cambridge.org/abstract_S0041977X00133592",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["phonetics/phonology", "historical"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Verbal nouns in Spoken Sinhala.",
+        "author": ["W. M. Wijeratne"],
+        "year": 2008,
+        "booktitle": "Dakkhina: Papers on Buddhist thought, linguistics and Sri Lankan culture. A felicitation volume presented to James Wells Gair on his 80th birthday",
+        "editor": ["R.M.W. Rajapaksha", "K.Kulasekara", "J. Paolillo", "T.R.G. Dela Bandara"],
+        "publisher": "Colombo, Sri Lanka: Godage International Publishers (Pvt) Ltd.",
+        "pages": "115--132",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["morphology"]
+ },
+
+{
+        "type": "inbook",
+        "title": "The use of Sinhala pronouns and imperatives: A socio-linguistic study.",
+        "author": ["R. Wijetunge"],
+        "year": 2008,
+        "booktitle": "Dakkhina: Papers on Buddhist thought, linguistics and Sri Lankan culture. A felicitation volume presented to James Wells Gair on his 80th birthday",
+        "editor": ["R.M.W. Rajapaksha", "K.Kulasekara", "J. Paolillo", "T.R.G. Dela Bandara"],
+        "publisher": "Colombo, Sri Lanka: Godage International Publishers (Pvt) Ltd.",
+        "pages": "247--256",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Doxastic modality as a means of stance taking in colloquial Sinhala.",
+        "author": ["C. Zubair"],
+        "year": 2008,
+        "booktitle": "Proceedings of the Sixteenth Annual Symposium about Language and Society April 11-13, 2008, Texas Linguistic Forum",
+        "editor": ["A. Brown", "J. Iorio"],
+        "publisher": "Austin, TX: University of Texas, Austin.",
+        "pages": "174--190",
+        "url": "http://salsa.ling.utexas.edu/proceedings/2008/Zubair_2008.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["pragmatics", "sociolinguistics"]
+ },
+
+{
+        "type": "inbook",
+        "title": "Ideologies of purity and corruption: The local impacts of Sinhalese nationalist discourse.",
+        "author": ["C. Zubair"],
+        "year": 2011,
+        "booktitle": "Proceedings of the Nineteenth Annual Symposium about Language and Society April 15-17, 2011",
+        "editor": ["G. Kirk", "Q. Lopez", "J.R. Sullivant", "M. Wartel"],
+        "publisher": "Austin, TX: University of Texas, Austin.",
+        "pages": "40--49",
+        "url": "https://www.researchgate.net/publication/267834527_Ideologies_of_Purity_and_Corruption_The_Local_Impacts_of_Sinhalese_Nationalist_Discourses",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics"]
+ },
+
+{
+        "type": "article",
+        "title": "Sexual violence and the creation of an empowered female voice.",
+        "author": ["C. A. Zubair"],
+        "journal": "Gender and Language",
+        "volume": 9,
+        "number": 2,
+        "year": 2015,
+        "url": "http://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=17476321&AN=114698836&h=T2kJ5hQXGjrA%2bJwox%2bp4V6nK836u5uBi5ACsQr7bifl5t4DVfmWC9lGBhC%2fdq7TK%2bmgcV73dfsp9Fqx2Qe2hqw%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d17476321%26AN%3d114698836",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["sociolinguistics"]
+ }
+
 ]
