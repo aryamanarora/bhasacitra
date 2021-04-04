@@ -242,7 +242,7 @@
         "type": "book",
         "title": "A grammar of the Shina language of Indus Kohistan",
         "date": 2008,
-        "author": ["Ruth Laila Schmidt", "Razwal Kohistani", "Mohammad M. Zarin"],
+        "author": ["Ruth L. Schmidt", "Razwal Kohistani", "Mohammad M. Zarin"],
         "publisher": "Harrassowitz",
         "languages": {
             "Kohistani Shina": ["Palas Valley"]
@@ -1635,7 +1635,7 @@
     {
         "type": "inbook",
         "title": "Urdu",
-        "author": ["Ruth Laila Schmidt"],
+        "author": ["Ruth L. Schmidt"],
         "year": 2003,
         "booktitle": "The Indo-Aryan languages",
         "editor": ["George Cardona", "Dhanesh Jain"],
@@ -2085,9 +2085,9 @@
         "publisher": "Royal Asiatic Society",
         "location": "London",
         "languages": {
-            "Purgi": ["Kargil"],
+            "Purik": ["Kargil"],
             "Lower Kinnauri": ["Satluj Valley"],
-            "Chitkuli Kinnauri": ["Chitkul", "Rakchham"],
+            "Kinnauri": ["Chitkul", "Rakchham"],
             "Hindko": ["Kaghan Valley"],
             "Punjabi": ["Pir Pinjal Pass"],
             "Kochi": ["Rampur", "Rohru", "Baghi", "Dodra"],
@@ -2100,7 +2100,8 @@
             "Bilaspuri": ["Bilaspur"],
             "Handuri": ["Nalagarh"]
         },
-        "topics": ["overview"]
+        "topics": ["overview"],
+        "url": "https://archive.org/details/languagesnorthe00bailgoog"
     },
     {
         "type": "book",
@@ -2282,7 +2283,7 @@
     {
         "type": "article",
         "title": "A Grammatical Sketch of Guresi Shina",
-        "author": ["Ruth L. Schmidt", "Vijay K. Kaul:"],
+        "author": ["Ruth L. Schmidt", "Vijay K. Kaul"],
         "journal": "Studia Orientalia Electronica",
         "year": 2010,
         "volume": 108,
@@ -3588,6 +3589,7 @@
         "type": "book",
         "title": "A Sociolinguistic Study of Dotyali",
         "author": ["Stephanie R. Eichentopf"],
+        "year": 2014,
         "publisher": "SIL International",
         "url": "https://www.sil.org/system/files/reapdata/11/64/37/116437364756589393671740952808131787382/Dotyali_report.pdf",
         "languages": {
@@ -5808,5 +5810,309 @@
         },
         "topics": ["phonetics/phonology", "lexicography"],
         "url": "https://ialtrust.com/resources/A-Phonological-Description-of-Wadiyari.pdf"
+    },
+    {
+        "type": "article",
+        "title": "A Comparative Analysis of Shina and Kashmiri Vocabularies",
+        "author": ["Ruth L. Schmidt", "Vijay K. Kaul"],
+        "journal": "Acta Orientalia",
+        "year": 2008,
+        "volume": 69,
+        "pages": "231--301",
+        "url": "https://journals.uio.no/actaorientalia/article/view/7372",
+        "topics": ["lexicography", "comparative"],
+        "languages": {
+            "Shina": ["Gilgit", "Astore Valley", "Gurez Valley", "Dras"],
+            "Kohistani Shina": ["Palas Valley"],
+            "Brokskat": ["Garkhon"],
+            "Kashmiri": [],
+            "Kishtwari": [],
+            "Poguli": [],
+            "Sarazi": ["Saraz"]
+        }
+    },
+    {
+        "type": "book",
+        "title": "Synchronic and Diachronic Aspects of Kanashi",
+        "year": 2022,
+        "author": ["Anju Saxena"],
+        "publisher": "De Gruyter Mouton",
+        "url": "https://www.degruyter.com/document/isbn/9783110703245/html",
+        "topics": ["overview", "historical"],
+        "languages": {
+            "Kanashi": ["Malana"],
+            "Kinnauri": []
+        }
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive grammar of Bunan",
+        "author": ["Manuel Widmer"],
+        "publisher": "University of Bern",
+        "year": 2014,
+        "url": "https://www.academia.edu/download/37746573/Dissertation.pdf",
+        "topics": ["overview"],
+        "languages": {
+            "Bunan": ["Gahr Valley"]
+        }
+    },
+    {
+        "type": "misc",
+        "title": "A Preliminary description of the Azamgarhi language",
+        "author": ["Maaz Shaikh"],
+        "url": "https://www.academia.edu/download/65911727/A_Preliminary_Description_of_the_Azamgarhi_language_By_SEL_For_SEL.pdf",
+        "year": 2021,
+        "topics": ["overview"],
+        "languages": {
+            "Azamgarhi": ["Azamgarh"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Language of Saptariya Tharu",
+        "author": ["Mahesh Kumar Chaudhary"],
+        "year": 2013,
+        "journal": "Researcher: A Research Journal of Culture and Society",
+        "volume": 1,
+        "number": 2,
+        "pages": "49--62",
+        "topics": ["overview"],
+        "languages": {
+            "Saptariya Tharu": ["Saptari District"]
+        },
+        "url": "https://www.nepjol.info/index.php/RESEARCHER/article/view/9885"
+    },
+    {
+        "type": "book",
+        "title": "A grammar of Purik Tibetan",
+        "author": ["Marius Zemp"],
+        "year": 2018,
+        "series": "Brill's Tibetan Studies Library",
+        "seriesvolume": 21,
+        "publisher": "Brill",
+        "location": "Leiden and Boston",
+        "languages": {
+            "Purik": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Preliminary Analysis of the Phonological System of the Western Pahāṛī Language of Kvār",
+        "author": ["Thomas Jouanne"],
+        "year": 2014,
+        "publisher": "University of Oslo",
+        "languages": {
+            "Kvari": ["Kvar"]
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.duo.uio.no/bitstream/handle/10852/43094/Masteroppgave-Sr-Adia-studier.pdf?isAllowed=y&sequence=1"
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Great Andamanese Language: An Ethnolinguistic Study",
+        "author": ["Anvita Abbi"],
+        "publisher": "Brill",
+        "series": "Brill's Studies in South and Southwest Asian Languages",
+        "year": 2013,
+        "location": "Leiden and Boston",
+        "languages": {
+            "Aka-Jeru": ["Strait Island"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Bajjika Language and Speech Community",
+        "author": ["Abhishek Kumar Kashyap"],
+        "journal": "International Journal of the Sociology of Language",
+        "volume": 227,
+        "pages": "209--224",
+        "year": 2014,
+        "languages": {
+            "Bajjika": ["Sheohar"]
+        },
+        "topics": ["sociolinguistics"],
+        "url": "https://www.researchgate.net/publication/259569512_The_Bajjika_language_and_speech_community_Abhishek_Kumar_Kashyap"
+    },
+    {
+        "type": "article",
+        "title": "The pragmatic principles of agreement in Bajjika verbs",
+        "author": ["Abhishek Kumar Kashyap"],
+        "journal": "Journal of Pragmatics",
+        "volume": 44,
+        "year": 2012,
+        "pages": "1868--1887",
+        "languages": {
+            "Bajjika": []
+        },
+        "topics": ["morphology", "pragmatics"],
+        "url": "https://www.researchgate.net/publication/257198688_The_pragmatic_principles_of_agreement_in_Bajjika_verbs"
+    },
+    {
+        "type": "article",
+        "title": "Kurmali Kinship Terms and Its Morphology: An Anthropo-linguistic Study",
+        "author": ["Arup Majumdar"],
+        "year": 2018,
+        "journal": "Jadavpur Journal of Languages and Linguistics",
+        "volume": 2,
+        "number": 1,
+        "pages": "38--48",
+        "languages": {
+            "Kurmali": ["Shyampur"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Kurmali Noun Inflection: Aspectual Inquiry into Gender and Number",
+        "author": ["Arup Majumdar"],
+        "year": 2014,
+        "journal": "International Journal of Linguistics and Literature",
+        "volume": 3,
+        "number": 5,
+        "pages": "1--14",
+        "languages": {
+            "Kurmali": ["Mayurbhanj District", "East Singhbhum District"]
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Darai verb agreement",
+        "author": ["Dubi Nanda Dhakal"],
+        "year": 2015,
+        "journal": "Himalayan Linguistics",
+        "volume": 14,
+        "number": 2,
+        "languages": {
+            "Darai": ["Tanahun District", "Chitwan District", "Nawalparasi District"]
+        },
+        "topics": ["morphology", "syntax"],
+        "url": "https://escholarship.org/uc/item/15f8q5p9"
+    },
+    {
+        "type": "thesis",
+        "title": "A Sketch Grammar of Darai",
+        "author": ["Netra Prasad Paudyal"],
+        "year": 2003,
+        "languages": {
+            "Darai": ["Pipaltar", "Bhaktapur", "Sundi"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.academia.edu/799499/A_Grammar_of_Darai_Based_on_Pipalta_r_Dialect_"
+    },
+    {
+        "type": "article",
+        "title": "Verb agreement in Majhi",
+        "author": ["Dubi Nanda Dhakal"],
+        "year": 2013,
+        "journal": "Nepalese Linguistics",
+        "volume": 28,
+        "languages": {
+            "Majhi": ["Ramechhap District"]
+        },
+        "topics": ["syntax", "morphology"],
+        "url": "http://himalaya.socanth.cam.ac.uk/collections/journals/nepling/pdf/Nep_Ling_28.pdf#page=37"
+    },
+    {
+        "type": "misc",
+        "title": "Verb agreement in Darai and Majhi in Areal-typological context",
+        "author": ["Dubi Nanda Dhakal"],
+        "year": 2019,
+        "publisher": "University of Helsinki",
+        "languages": {
+            "Majhi": [],
+            "Darai": []
+        },
+        "topics": ["comparative", "syntax", "morphology"],
+        "url": "https://www2.helsinki.fi/sites/default/files/atoms/files/dhakal.pdf"
+    },
+    {
+        "type": "book",
+        "title": "Darai Texts",
+        "author": ["Dubi Nanda Dhakal"],
+        "year": 2013,
+        "publisher": "Lincom Europa",
+        "location": "Muenchen",
+        "languages": {
+            "Darai": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Case Marking in Darai in a Typological Context",
+        "author": ["Dubi Nanda Dhakal"],
+        "year": 2013,
+        "volume": 2,
+        "journal": "The Journal of University Grants Commission",
+        "number": 1,
+        "url": "https://ugcnepal.edu.np/uploads/publicationsAndReports/8on5hp.pdf#page=182",
+        "topics": ["morphology"],
+        "languages": {
+            "Darai": []
+        }
+    },
+    {
+        "type": "book",
+        "title": "A Linguistic Study of Bundeli: A Dialect of Madhyadēśa",
+        "author": ["Mahesh Prasad Jaiswal"],
+        "year": 1962,
+        "publisher": "Brill",
+        "topics": ["overview"],
+        "languages": {
+            "Bundeli": []
+        }
+    },
+    {
+        "type": "book",
+        "title": "Notes on Rana Tharu grammar",
+        "author": ["Dubi Nanda Dhakal"],
+        "year": 2014,
+        "url": "https://www.academia.edu/43908543/Notes_on_Rana_Tharu_grammar",
+        "topics": ["overview"],
+        "languages": {
+            "Rana Tharu": ["Pipaladi", "Dekhatbhuli"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Zadjali: The Dying Language",
+        "author": ["Said Al Jahdhami"],
+        "journal": "International Journal of Language and Linguistics",
+        "volume": 4,
+        "number": 3,
+        "url": "http://www.ijllnet.com/journals/Vol_4_No_3_September_2017/6.pdf",
+        "topics": ["lexicography", "comparative"],
+        "languages": {
+            "Zadjali": ["Muscat"]
+        }
+    },
+    {
+        "type": "article",
+        "title": "Illustrations of the IPA: Malayalam (Namboodiri Dialect)",
+        "author": ["Savithry Namboodiripad", "Marc Garellek"],
+        "year": 2016,
+        "journal": "Journal of the International Phonetic Association",
+        "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/malayalam-namboodiri-dialect/19CBF6E9E1CE65A84928F7C9C2286A9B",
+        "languages": {
+            "Malayalam": ["Kochi"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Semantic Analysis of the Suffixed Verbs and Postpositions in Expressing Politeness With Special Reference to Eranad Dialect of Malayalam",
+        "author": ["Saidalavi Cheerangote"],
+        "year": 2020,
+        "journal": "Language in India",
+        "volume": 20,
+        "number": 2,
+        "url": "http://www.languageinindia.com/feb2020/drsaidalaviernadmalayalampolitenessfinal.pdf",
+        "languages": {
+            "Malayalam": ["Eranad"]
+        },
+        "topics": ["morphology", "dialectology"]
     }
 ]
