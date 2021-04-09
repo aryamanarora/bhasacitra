@@ -6,6 +6,7 @@ from scipy.cluster.hierarchy import ward, fcluster
 from scipy.spatial.distance import pdist
 from scipy.cluster import hierarchy
 import matplotlib.pyplot as plt
+import numpy as np
 
 data = {}
 
@@ -25,7 +26,7 @@ print(data)
 y = pdist(list(data.values()))
 Z = ward(y)
 
-plt.figure(figsize=(40.0, 20.0))
-dn = hierarchy.dendrogram(Z, labels=list(data.keys()))
-plt.savefig("dendogram.pdf")
+plt.figure(figsize=(15.0, 18.0))
+dn = hierarchy.dendrogram(Z, labels=list(data.keys()), orientation='left')
+plt.savefig("dendogram.pgf")
 # plt.show()
