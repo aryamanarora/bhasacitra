@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+        <!-- JavaScript Bundle with Popper -->
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="https://unpkg.com/d3-geo-voronoi@1.5"></script>
+        <script src="https://unpkg.com/topojson@3"></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52207113-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-52207113-1');
+        </script>
+        <style>
+            html, body {margin: 0; height: 100%; overflow: hidden}
+        </style>
+        <title>Bhāṣācitra</title>
+    </head>
+    <body>
+        <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card bg-dark text-white shadow">
+            <div class="card-body">
+                <h3 class="card-title name">Hover over/click a dot.</h3>
+            </div>
+        </div>
+        <svg id="map"></svg>
+    </body>
+    <script>
+        var stringToColour = function(str) {
+            str += 'jf'
+            var hash = 0
+            for (var i = 0; i < str.length; i++) {
+                hash = str.charCodeAt(i) + ((hash << 5) - hash)
+            }
+            var colour = '#'
+            for (var i = 0; i < 3; i++) {
+                var value = (hash >> (i * 8)) & 0xFF
+                colour += ('00' + value.toString(16)).substr(-2)
+            }
+            return colour
+        }
+        var averageRGB = (function () {
+            // Keep helper stuff in closures
+            var reSegment = /[\da-z]{2}/gi;
+
+            // If speed matters, put these in for loop below
+            function dec2hex(v) {return v.toString(16);}
+            function hex2dec(v) {return parseInt(v,16);}
+
+            return function (c1, c2, v1 = 1, v2 = 1) {
+            var sum = v1 + v2
+            v1 /= sum
+            v2 /= sum
+            // Split into parts
+            var b1 = c1.match(reSegment);
+            var b2 = c2.match(reSegment);
+            var t, c = [];
+
+            // Average each set of hex numbers going via dec
+            // always rounds down
+            for (var i=b1.length; i;) {
+                var a = hex2dec(b1[--i])
+                var b = hex2dec(b2[i])
+                t = dec2hex(Math.round(a * v1 + b * v2));
+                // Add leading zero if only one character
+                c[i] = t.length == 2? '' + t : '0' + t; 
+            }
+            return  c.join('');
+            }
+        }());
+        var width = window.innerWidth, height = window.innerHeight
+
+        var svg = d3.select("#map")
+            .attr("preserveAspectRatio", "xMidYMid")
+            .attr("viewBox", "0 0 " + width + " " + height)
+        var defs = svg.append("defs")
+        var g = svg.append("g")
+
+        var projection = d3.geoEqualEarth()
+            .scale(1000)
+            .center([60, 20])
+            .translate([width / 2, height / 2])
+
+        var path = d3.geoPath()
+            .projection(projection)
+
+        var scale = 1
+        function zoomed(event) {
+            g.attr("transform", event.transform)
+            scale = event.transform.k
+            d3.selectAll("circle")
+                .attr("r", function() {
+                    return d3.select(this).attr("data-r") / event.transform.k
+                })
+                .attr("stroke-width", function() {
+                    return 1 / event.transform.k
+                })
+            d3.selectAll("#land, #voronoi")
+                .attr("stroke-width", function() {
+                    return 0.5 / event.transform.k
+                })
+            d3.selectAll("line")
+                .attr("stroke-width", function() {
+                    return 1 / event.transform.k
+                })
+            d3.selectAll("text")
+                .attr("font-size", 30 / event.transform.k)
+        }
+        function unzoomed() {
+            svg.transition().duration(1000).call(
+                zoom.transform,
+                d3.zoomIdentity,
+                d3.zoomTransform(svg.node()).invert([width / 2, height / 2])
+            )
+        }
+        var zoom = d3.zoom()
+            .extent([[0, 0], [width, height]])
+            .scaleExtent([1, 12])
+            .on("zoom", zoomed)
+        svg.call(zoom)
+
+        Promise.all([
+            d3.json("coords.json"),
+            d3.json("refs.json"), 
+            d3.json("data.json"), 
+            d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json")
+        ]).then(function(files) {
+            load(...files)
+        })
+        
+        function load(coord, ref, data, world) {
+            topo = topojson.feature(world, world.objects.land).features
+            g.append("g")
+                .selectAll("path")
+                .data(topo)
+                .enter()
+                .append("path")
+                    .attr("id", "land")
+                    .attr("d", path)
+                    .attr("fill", "#EEE")
+            // g.selectAll("path")
+            //     .data(topo)
+            //     .enter()
+            //     .append("path")
+            //         .attr("id", "land")
+            //         .attr("d", path)
+            //         .attr("fill", "#EEE")
+            //         .attr("stroke", "black")
+            //         .attr("stroke-width", 0.5)
+            
+            var clicked = null
+            langs = {}
+            refs = {}
+            cities = {}
+            subcities = {}
+            topic_count = {}
+            ref.forEach(d => {
+                for (lang in d.languages) {
+                    if (!(lang in langs)) langs[lang] = []
+                    d.languages[lang].forEach(city => {
+                        if (!(city in cities)) cities[city] = {}
+                        if (!(lang in cities[city])) cities[city][lang] = 0
+                        cities[city][lang]++
+                        // if (!(city in coord.cities)) {
+                        //     console.log("Missing coordinates for " + city)
+                        // }
+                        langs[lang].push(coord.cities[city])
+                    })
+
+                    if (!(lang in refs)) refs[lang] = []
+                    refs[lang].push(d)
+
+                    if (!(lang in subcities)) subcities[lang] = {}
+                    d.languages[lang].forEach(city => {
+                        if (!(city in subcities[lang])) subcities[lang][city] = 0
+                        subcities[lang][city]++
+                    })
+                }
+                d.topics.forEach(topic => {
+                    if (!(topic in topic_count)) topic_count[topic] = 0
+                    topic_count[topic]++
+                })
+            });
+
+            console.log(topic_count)
+
+            console.log(ref.length + " references")
+            console.log(Object.keys(langs).length + " languages/speech varieties")
+            console.log(Object.keys(cities).length + " locations")
+            cts = []
+            // for (key in langs) {
+            //     cts.push(langs[key].length)
+            // }
+            for (key in ref) {
+                cts.push(ref[key].year)
+            }
+            d3.select("html").append("p").text(cts)
+            
+
+            var lines = g.append("g")
+            var subg = g.append("g")
+
+            var cities_voronoi = []
+            for (city in cities) {
+                cities_voronoi.push([coord.cities[city][1], coord.cities[city][0], city])
+                var loc2 = projection([coord.cities[city][1], coord.cities[city][0]])
+                g.append("circle")
+                    .attr("cx", loc2[0])
+                    .attr("cy", loc2[1])
+                    .transition()
+                    .attr("r", 3 / scale)
+                    .attr("data-r", 3)
+                    .attr("fill", "steelblue")
+                    .attr("stroke", "black")
+                    .attr("stroke-width", 1)
+            }
+        }
+    </script>
+</html>
