@@ -171,10 +171,11 @@ function load(coord, ref, data, world) {
     for (lang in langs) {
         function comp(a, b) {
             var x = a.year, y = b.year
-            if (x.length >= 4) x = +x.substr(0, 4)
-            if (y.length >= 4) y = +y.substr(0, 4)
-            console.log(x, y)
-            return (x < y) ? 1 : ((x > y) ? -1 : 0)
+            if (x == "n.d") x = 0
+            if (y == "n.d") y = 0
+            if (x.length >= 4) x = x.substr(0, 4)
+            if (y.length >= 4) y = y.substr(0, 4)
+            return (+x < +y) ? 1 : ((+x > +y) ? -1 : 0)
         }
         refs[lang].sort(comp)
         var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
@@ -184,7 +185,7 @@ function load(coord, ref, data, world) {
         colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 3)
         if (coord.family[lang].length == 3) colour = '#' + averageRGB(stringToColour(coord.family[lang][2]), colour, 1, 3)
         var r = calculateRadius(refs[lang].length)
-        if (!loc[0]) console.log(lang, langs[lang])
+
         var x = g.append("circle")
             .attr("cx", stored_coords[lang][0])
             .attr("cy", stored_coords[lang][1])

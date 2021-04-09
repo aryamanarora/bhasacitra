@@ -263,7 +263,7 @@
         "type": "thesis",
         "title": "Phonology and morphology of Jadeja dialect of Sindhi",
         "author": ["Sibasis Mukherjee"],
-        "year": "n.d",
+        "year": 1992,
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/173289",
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
@@ -3543,7 +3543,7 @@
         "languages": {
             "Domaaki": ["Hunza Valley"]
         },
-        "topics": ["morphology"]
+        "topics": ["morphology", "case and adpositions", "syntax"]
     },
     {
         "type": "article",
@@ -4014,7 +4014,7 @@
         "type": "thesis",
         "title": "Descriptive analysis of Kachi (Kacchi)",
         "author": ["S. R. Rohra"],
-        "year": "n.d",
+        "year": 1966,
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/152783",
         "languages": {
@@ -4561,7 +4561,7 @@
         "languages": {
             "Burushaski": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "thesis",
@@ -4572,7 +4572,7 @@
         "languages": {
             "Burushaski": ["Hunza Valley"]
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "article",
@@ -4737,7 +4737,7 @@
         "languages": {
             "Marathi": ["Nagpur District"]
         },
-        "topics": ["syntax", "language contact"]
+        "topics": ["syntax", "language contact", "case and adpositions"]
     },
     {
         "type": "article",
@@ -5458,7 +5458,7 @@
         "languages": {
             "Pahari-Pothwari": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "article",
@@ -5918,8 +5918,9 @@
         "year": 2013,
         "location": "Leiden and Boston",
         "languages": {
-            "Aka-Jeru": ["Strait Island"]
-        }
+            "Great Andamese Koiné": ["Strait Island"]
+        },
+        "topics": ["overview"]
     },
     {
         "type": "article",
@@ -6200,7 +6201,7 @@
         "journal": "The Journal of University Grants Commission",
         "number": 1,
         "url": "https://ugcnepal.edu.np/uploads/publicationsAndReports/8on5hp.pdf#page=182",
-        "topics": ["morphology"],
+        "topics": ["morphology", "case and adpositions"],
         "languages": {
             "Darai": []
         }
@@ -6277,7 +6278,7 @@
         "languages": {
             "Sinhala": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "article",
@@ -6645,7 +6646,7 @@
         "languages": {
             "Sinhala": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "inbook",
@@ -7292,7 +7293,7 @@
             "Tamil": [],
             "Malayalam": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "article",
@@ -7577,5 +7578,351 @@
             "Outer Siraji": ["Anni"]
         },
         "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Assamese verbs: a study in the structural paradigm",
+        "author": ["Runima Chowdhary"],
+        "year": 1995,
+        "publisher": "Anundoram Barooah Institute of Language Art and Culture",
+        "location": "Guwahati",
+        "languages": {
+            "Assamese": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Non-myopic nasal spreading in Saraiki",
+        "author": ["Nancy C. Kula", "Nasir A. Syed"],
+        "journal": "Radical: A Journal of Phonology",
+        "volume": 1,
+        "year": 2020,
+        "url": "http://repository.essex.ac.uk/29361/1/Kula_Syed_2020.pdf",
+        "languages": {
+            "Saraiki": ["Multan"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Word Stress System of the Saraiki Language",
+        "author": ["Firdos Atta"],
+        "journal": "Acta Linguistica Asiatica",
+        "volume": 11,
+        "number": 1,
+        "year": 2021,
+        "url": "https://revije.ff.uni-lj.si/ala/article/view/9261",
+        "languages": {
+            "Saraiki": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "A unified analysis of two reduplication processes in Saraiki",
+        "author": ["Firdos Atta", "Jeroen van de Weijer"],
+        "journal": "Acta Linguistica Academica",
+        "volume": 67,
+        "number": 3,
+        "pages": "370--382",
+        "year": 2020,
+        "languages": {
+            "Saraiki": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "book",
+        "title": "Grammatical Sketches of Indian Languages with Comparative Vocabulary and Texts: Part I",
+        "author": ["A. Mitra", "R. C. Nigam"],
+        "year": 1961,
+        "series": "Language Monograph",
+        "languages": {
+            "Bengali": [],
+            "Assamese": [],
+            "Hindi": [],
+            "Punjabi": [],
+            "Gujarati": [],
+            "Marathi": []
+        },
+        "topics": ["overview", "lexicography", "comparative"],
+        "url": "http://lsi.gov.in:8081/jspui/bitstream/123456789/365/1/25532_1971_GRA.pdf"
+    },
+    {
+        "type": "inproceedings",
+        "title": "The syntax of Magahi addresse agreement",
+        "author": ["Deepak Alok"],
+        "journal": "Proceedings of FASAL 9",
+        "editor": ["Deepak Alok", "Sreekar Raghotham"],
+        "year": 2021,
+        "url": "https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/article/view/208",
+        "languages": {
+            "Magahi": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Gender, Classifiers, and Diachrony in Khasian",
+        "author": ["Hiram Ring"],
+        "booktitle": "Nominal Classification in Asia: Functional and diachronic perspectives",
+        "year": 2021,
+        "url": "https://www.academia.edu/45436555/Gender_Classifiers_and_Diachrony_in_Khasian",
+        "languages": {
+            "Khasi (Austroasiatic)": []
+        },
+        "topics": ["morphology", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "The Case System of Eastern Indo-Aryan Languages: A Typological Overview",
+        "author": ["Bornini Lahiri"],
+        "publisher": "Routledge",
+        "year": 2021,
+        "languages": {
+            "Angika": [],
+            "Assamese": [],
+            "Bengali": [],
+            "Bhojpuri": [],
+            "Maithili": [],
+            "Magahi": [],
+            "Odia": []
+        },
+        "topics": ["case and adpositions", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Number Marking in English and Thali: A Contrastive Study",
+        "author": ["Zafar Iqbal Bhatti", "Muhammad Asad Habib", "Tamsila Naeem"],
+        "journal": "International Journal of English Linguistics",
+        "volume": 10,
+        "number": 2,
+        "year": 2020,
+        "languages": {
+            "Thali": ["Layyah District"]
+        },
+        "topics": ["morphology"],
+        "url": "http://ccsenet.org/journal/index.php/ijel/article/view/0/42033"
+    },
+    {
+        "type": "article",
+        "title": "An Exploratory Study of Case Features of Thali: An Indigenous Pakistani Language",
+        "author": ["Arshad Ali Khan", "Zafar Iqbal Bhatti", "Tahir Saleem", "Muhammad Faran"],
+        "journal": "Elementary Education Online",
+        "volume": 20,
+        "number": 5,
+        "year": 2021,
+        "languages": {
+            "Thali": ["Layyah District"]
+        },
+        "topics": ["case and adpositions"],
+        "url": "https://www.researchgate.net/publication/350343478_An_Exploratory_Study_of_Case_Features_of_Thali_An_Indigenous_Pakistani_Language_An_Exploratory_Study_of_Case_Features_of_Thali_An_Indigenous_Pakistani_Language"
+    },
+    {
+        "type": "article",
+        "title": "Morphophonemic Variations in the Saraiki Language",
+        "author": ["Firdos Atta", "Sidra Rasheed"],
+        "journal": "International Journal of Linguistics, Literature, and Translation",
+        "volume": 2,
+        "number": 3,
+        "year": 2019,
+        "languages": {
+            "Saraiki": []
+        },
+        "topics": ["morphology", "phonetics/phonology"],
+        "url": "https://al-kindipublisher.com/index.php/ijllt/article/view/1257"
+    },
+    {
+        "type": "article",
+        "title": "The Origin of the Sindhi Language",
+        "author": ["Y. K. Wadhwani"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 40,
+        "year": 1981,
+        "pages": "192--201",
+        "url": "https://www.jstor.org/stable/42931119",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "Grammar of the Sindhi language: compared with the Sanskrit-Prakrit and the cognate Indian vernaculars",
+        "author": ["Ernst Trumpp"],
+        "year": 1872,
+        "publisher": "Trübner & Co",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["overview", "comparative"],
+        "url": "https://archive.org/details/grammarofsindhil00trum"
+    },
+    {
+        "type": "book",
+        "title": "Dogri and its Dialects: A Comparative Study of Kandi and Pahari Dogri",
+        "author": ["Kamaldeep Kaur", "Amitabh Vikram Dwivedi"],
+        "year": 2019,
+        "publisher": "Lincom Europa",
+        "location": "Muenchen",
+        "languages": {
+            "Dogri": []
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Vanishing voices: A typological sketch of Great Andamanese",
+        "author": ["Anvita Abbi"],
+        "booktitle": "Lesser-Known Languages of South Asia: Status and Policies, Case Studies and Applications of Information Technology",
+        "year": 2008,
+        "publisher": "De Gruyter Mouton",
+        "location": "Berlin",
+        "editor": ["Anju Saxena", "Lars Borin"],
+        "languages": {
+            "Great Andamese Koiné": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Is Great Andamanese genealogically and typologically distinct from Onge and Jarawa?",
+        "author": ["Anvita Abbi"],
+        "journal": "Language Sciences",
+        "volume": 31,
+        "number": 6,
+        "pages": "791--812",
+        "year": 2009,
+        "languages": {
+            "Great Andamese Koiné": ["Strait Island"],
+            "Onge": ["Little Andaman Island"],
+            "Jarawa": ["Rutland Island"]
+        },
+        "topics": ["comparative", "historical"],
+        "url": "https://www.researchgate.net/publication/222414027_Is_Great_Andamanese_genealogically_and_typologically_distinct_from_Onge_and_Jarawa"
+    },
+    {
+        "type": "article",
+        "title": "A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands",
+        "author": ["Juliette Blevins"],
+        "journal": "Oceanic Linguistics",
+        "volume": 46,
+        "number": 1,
+        "year": 2007,
+        "languages": {
+            "Onge": [],
+            "Jarawa": []
+        },
+        "topics": ["historical", "comparative"],
+        "url": "https://julietteblevins.ws.gc.cuny.edu/files/2016/10/Blevins2007a-Proto-Ongan.pdf"
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive and Typological Study of Jarawa",
+        "author": ["Pramod Kumar"],
+        "publisher": "Jawaharlal Nehru University",
+        "year": 2012,
+        "languages": {
+            "Jarawa": []
+        },
+        "topics": ["overview"],
+        "url": "https://pure.mpg.de/rest/items/item_1896628/component/file_1896627/content"
+    },
+    {
+        "type": "inbook",
+        "title": "A sixth language family of India: Great Andamanese, its historical status and salient present-day features",
+        "author": ["Anvita Abbi"],
+        "booktitle": "The Dynamics of Language. Plenary and Focus Lectures from the 20th Interanational Congress of Linguists, Cape Town South Africa",
+        "year": 2020,
+        "languages": {
+            "Great Andamese Koiné": []
+        },
+        "topics": ["overview", "historical"],
+        "url": "https://www.researchgate.net/publication/347913959_A_sixth_language_family_of_India_Great_Andamanese_its_historical_status_and_salient_present-day_features"
+    },
+    {
+        "type": "book",
+        "title": "Dictionary of the Great Andamanese Language",
+        "author": ["Anvita Abbi"],
+        "publisher": "Ratna Sagar",
+        "year": 2011,
+        "languages": {
+            "Great Andamese Koiné": []
+        },
+        "topics": ["lexicography"],
+        "url": "http://www.andamanese.net/dictionary.html"
+    },
+    {
+        "type": "article",
+        "title": "Aspects of word formation processes in Luro: The endangered language of the Nicobar Islands",
+        "author": ["Anvita Abbi", "Vysakh R"],
+        "journal": "Asian Languages and Linguistics",
+        "volume": 1,
+        "number": 1,
+        "year": 2020,
+        "url": "https://www.researchgate.net/publication/339857949_Aspects_of_word_formation_processes_in_Luro_The_endangered_language_of_the_Nicobar_Islands",
+        "languages": {
+            "Luro": ["Teressa Island"]
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Body divisions in Great Andamanese: Possessive classification, the semantics of inherency and grammaticalization",
+        "author": ["Anvita Abbi"],
+        "journal": "Studies in Language",
+        "volume": 35,
+        "number": 4,
+        "pages": "739--792",
+        "year": 2011,
+        "languages": {
+            "Great Andamese Koiné": []
+        },
+        "topics": ["semantics"],
+        "url": "https://www.researchgate.net/publication/233603670_Body_divisions_in_Great_Andamanese_Possessive_classification_the_semantics_of_inherency_and_grammaticalization"
+    },
+    {
+        "type": "article",
+        "title": "A Sketch of Byangsi Grammar",
+        "author": ["Suhnu Ram Sharma"],
+        "journal": "Senri Ethnological Reports",
+        "volume": 19,
+        "pages": "271--341",
+        "year": 2001,
+        "url": "https://minpaku.repo.nii.ac.jp/?action=repository_action_common_download&item_id=2157&item_no=1&attribute_id=18&file_no=1",
+        "languages": {
+            "Byangsi": ["Gunji"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Byangsi Grammar and Vocabulary",
+        "author": ["Suhnu Ram Sharma"],
+        "publisher": "Deccan College Postgraduate and Research Institute",
+        "location": "Pune",
+        "year": 2007,
+        "languages": {
+            "Byangsi": []
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "author": ["Kakali Mukherjee"],
+        "title": "Linguistic Survey of Rajasthan (Part I)",
+        "year": 2011,
+        "languages": {
+            "Marwari": ["Jodhpur District"],
+            "Braj": ["Bharatpur District", "Jaipur District"],
+            "Malvi": ["Jhalawar District"],
+            "Mewati": [],
+            "Bundeli": ["Chittorgarh District", "Kota District", "Bundi District"],
+            "Dhundari": ["Jaipur District"],
+            "Wagri": ["Banswara District", "Udaipur District", "Dungarpur District"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.censusindia.gov.in/2011-documents/lsi/ling_rajasthan.html"
     }
 ]
