@@ -53,16 +53,43 @@
                 padding: 0;
                 border-collapse: collapse;
             }
+
+            .container {
+                max-width: 400px;
+                position: absolute;
+                left: 0px;
+                top: 0px;
+                margin-left: 5vw;
+                margin-top: 5vh;
+                margin-bottom: 5vh;
+            }
+
+            .fullcontainer {
+                max-width: none !important;
+                width: 90vw;
+                height: 80vh;
+            }
+
+            .card-body {
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+            }
+
+            ul {
+                flex-shrink: 1;
+            }
         </style>
         <title>Bhāṣācitra</title>
     </head>
     <body>
-        <div style="position: absolute; left: 30px; top: 30px; max-width: 400px;" class="card bg-dark text-white shadow">
+        <div class="card bg-dark text-white shadow container">
             <div class="card-body">
                 <h3 class="card-title name">Hover over/click a dot.</h3>
             </div>
         </div>
         <svg id="map"></svg>
     </body>
+    <script src="helpers.js"></script>
     <script src="main.js"></script>
 </html>

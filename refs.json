@@ -241,7 +241,7 @@
     {
         "type": "book",
         "title": "A grammar of the Shina language of Indus Kohistan",
-        "date": 2008,
+        "year": 2008,
         "author": ["Ruth L. Schmidt", "Razwal Kohistani", "Mohammad M. Zarin"],
         "publisher": "Harrassowitz",
         "languages": {
@@ -2174,7 +2174,8 @@
         "languages": {
             "Poguli": []
         },
-        "topics": ["case and adpositions"]
+        "topics": ["case and adpositions"],
+        "url": "https://www.academia.edu/42785555/Description_of_Postpositions_in_Poguli"
     },
     {
         "type": "article",
@@ -5070,8 +5071,8 @@
         "languages": {
             "Ho": ["East Singhbhum District", "Mayurbhanj District", "Kendujhar District"],
             "Bhumij": ["Mayurbhanj District"],
-            "Korwa": [],
-            "Asuri": [],
+            "Korwa": ["Surguja District"],
+            "Asuri": ["Gumla District"],
             "Birhor": [],
             "Turi": []
         },
@@ -7526,6 +7527,54 @@
         "url": "http://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=17476321&AN=114698836&h=T2kJ5hQXGjrA%2bJwox%2bp4V6nK836u5uBi5ACsQr7bifl5t4DVfmWC9lGBhC%2fdq7TK%2bmgcV73dfsp9Fqx2Qe2hqw%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d17476321%26AN%3d114698836",
         "languages": {
             "Sinhala": []
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Some Phonological Characteristics of Rājasthānī",
+        "author": ["W. S. Allen"],
+        "year": 1957,
+        "journal": "Bulletin of the School of Oriental and African Studies, University of London",
+        "volume": 20,
+        "number": "1/3",
+        "url": "https://www.jstor.org/stable/610359",
+        "languages": {
+            "Hadothi": [],
+            "Mewari": ["Udaipur District"],
+            "Marwari": []
+        },
+        "pages": "5--11",
+        "topics": ["phonetics/phonology", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Phonetic Observations on Gujarati",
+        "author": ["J. R. Firth"],
+        "year": 1957,
+        "journal": "Bulletin of the School of Oriental and African Studies, University of London",
+        "volume": 20,
+        "number": "1/3",
+        "url": "https://www.jstor.org/stable/610359",
+        "languages": {
+            "Hadothi": [],
+            "Mewari": ["Udaipur District"],
+            "Marwari": []
+        },
+        "pages": "231--241",
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Profile of Kullu District, Himachal Pradesh",
+        "author": ["Frank Blair"],
+        "publisher": "SIL International",
+        "year": 2021,
+        "url": "https://www.sil.org/system/files/reapdata/14/15/06/14150660113049588850598637545809389178/JLSR2021_009.pdf",
+        "languages": {
+            "Kullui": ["Lag Valley", "Kulu Valley", "Manali", "Kullu", "Manikaran"],
+            "Inner Siraji": ["Shangarh", "Shalwar", "Raila", "Jibhi", "Bathad"],
+            "Outer Siraji": ["Anni"]
         },
         "topics": ["sociolinguistics"]
     }
