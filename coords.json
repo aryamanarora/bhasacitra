@@ -605,7 +605,17 @@
         "Little Andaman Island": [10.65, 92.49],
         "Rutland Island": [11.42, 92.64],
         "Teressa Island": [8.2420, 93.1278],
-        "Gunji": [30.1804, 80.8565]
+        "Gunji": [30.1804, 80.8565],
+        "Gultari": [34.6642, 75.5404],
+        "Karachi": [24.8607, 67.0011],
+        "Muzaffarpur District": [26.0667, 85.5200],
+        "Vaishali District": [25.6838, 85.3550],
+        "East Champaran District": [26.6098, 84.8568],
+        "Sitamarhi District": [26.5887, 85.5013],
+        "Champi": [22.596777, 86.175588],
+        "Ladhiramsai": [22.801498, 85.565914],
+        "Munduy": [22.108228, 85.663467],
+        "Baigodia": [21.460068, 86.701232]
     },
     "family": {
         "Luro": ["Austroasiatic", "Nicobarese", "Chaura–Teressa"],
@@ -614,6 +624,9 @@
         "Sri Lanka Malay": ["Austronesian", "Malayo-Polynesian", "Malayic"],
         "Thali": ["Indo-Aryan", "Northwestern", "Punjabic"],
         "Great Andamese Koiné": ["Great Andamanese", "Northern"],
+        "Danuwar": ["Indo-Aryan", "Eastern", "Bihari"],
+        "Dewas Rai": ["Indo-Aryan", "Eastern", "Bihari"],
+        "Kochariya": ["Indo-Aryan", "Eastern", "Bihari"],
         "Majhi": ["Indo-Aryan", "Eastern", "Bihari"],
         "Darai": ["Indo-Aryan", "Eastern", "Bihari"],
         "Rana Tharu": ["Indo-Aryan", "Eastern", "Bihari"],

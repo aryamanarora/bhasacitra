@@ -277,6 +277,7 @@ function load(coord, ref, data, world) {
                 refs[l].forEach(x => {
                     var note = `${x.author.join(', ')} (${x.year}). ${x.type == 'article' ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
                     if (x.journal) note += ` In <em>${x.journal}</em>${x.volume ? (' ' + x.volume) : ''}${x.number ? ('(' + x.number + ')') : ''}.`
+                    if (x.booktitle) note += ` In <em>${x.booktitle}</em> ${x.editor ? '(' + x.editor.join(', ') + ')' : ""}.`
                     if (x.url) note += ` <a href="${x.url}">link</a>`
                     x.languages[l].forEach(city => {
                         note += ` <span class="badge bg-secondary">${city}</span>`

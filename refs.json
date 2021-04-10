@@ -219,7 +219,7 @@
         "title": "Descriptive analysis of Thari: A dialect of Sindhi language",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/169640",
         "author": ["Murli D. Bhawnani"],
-        "year": "n.d",
+        "year": 1979,
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
             "Dhatki": ["Chachro", "Chelhar"]
@@ -7924,5 +7924,580 @@
         },
         "topics": ["overview"],
         "url": "https://www.censusindia.gov.in/2011-documents/lsi/ling_rajasthan.html"
+    },
+    {
+        "type": "article",
+        "title": "Contrastive Tone in Kalam Kohistani",
+        "author": ["Joan L. G. Baart"],
+        "journal": "Linguistic Discovery",
+        "volume": 2,
+        "number": 2,
+        "year": 2004,
+        "pages": "1--20",
+        "languages": {
+            "Kalam Kohistani": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Kanyawali. Proben eines Maiyā-Dialektes aus Tangir (Hindukusch)",
+        "author": ["Georg Buddruss"],
+        "year": 1959,
+        "languages": {
+            "Indus Kohistani": []
+        },
+        "topics": ["dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Die Sprache von Woṭapūr und Kaṭārqalā. Linguistische Studien im afghanischen Hindukusch",
+        "author": ["Georg Buddruss"],
+        "year": 1960,
+        "languages": {
+            "Wotapuri-Katarqalai": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Tonal features in languages of northern Pakistan",
+        "author": ["Joan L. G. Baart"],
+        "booktitle": "Pakistani Languages and Society: Problems and Prospects",
+        "editor": ["Joan L. G. Baart", "Ghulam Hyder Sindhi"],
+        "year": 2003,
+        "url": "https://www.academia.edu/1992273/Tonal_features_in_languages_of_northern_Pakistan",
+        "pages": "132--144",
+        "location": "Islamabad",
+        "publisher": "National Institute of Pakistan Studies, Quaid-i-Azam University; Summer Institute of Linguistics",
+        "languages": {
+            "Punjabi": [],
+            "Shina": [],
+            "Kalam Kohistani": []
+        },
+        "topics": ["phonetics/phonology", "comparative"]
+    },
+    {
+        "type": "article",
+        "author": ["Elena Bashir"],
+        "title": "Traces of mirativity in Shina",
+        "journal": "Himalayan Linguistics",
+        "volume": 9,
+        "number": 2,
+        "pages": "1--55",
+        "url": "https://escholarship.org/uc/item/3bk2d2s6",
+        "year": 2010,
+        "languages": {
+            "Shina": []
+        },
+        "topics": ["morphology", "mood"]
+    },
+    {
+        "type": "book",
+        "title": "Beiträge zur Kenntnis der Pašai-Dialekte",
+        "author": ["Georg Buddruss"],
+        "year": 1959,
+        "publisher": "Deutsche Morgenländische Gesellschaft",
+        "languages": {
+            "Northeastern Pashayi": [],
+            "Northwestern Pashayi": [],
+            "Southeastern Pashayi": [],
+            "Southwestern Pashayi": []
+        },
+        "topics": ["overview", "dialectology"],
+        "url": "http://menadoc.bibliothek.uni-halle.de/inhouse/content/titleinfo/4896508"
+    },
+    {
+        "type": "article",
+        "title": "Gṛaṅgali. Ein Nachtrag zum Atlas der Dardsprachen",
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "volume": 38,
+        "pages": "21--39",
+        "author": ["Georg Buddruss"],
+        "year": 1979,
+        "languages": {
+            "Grangali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Notes on the Bas̱ẖgalī (Kāfir) Language",
+        "author": ["John Davidson"],
+        "year": 1902,
+        "publisher": "Asiatic Society",
+        "location": "Calcutta",
+        "languages": {
+            "Katavari": []
+        },
+        "topics": ["overview"],
+        "url": "https://archive.org/details/in.ernet.dli.2015.281815"
+    },
+    {
+        "type": "article",
+        "title": "Retroflex vowels? Phonetics, phonology, and history of unusual sounds in Kalasha and other languages of the Hindu Kush region",
+        "author": ["Pierpaolo Di Carlo"],
+        "year": 2016,
+        "journal": "Archivio per l’Antropologia e la Etnologia",
+        "volume": "CXLVI",
+        "pages": "103--120",
+        "url": "https://www.acsu.buffalo.edu/~pierpaol/Archivio%202016%20Di%20Carlo.pdf",
+        "languages": {
+            "Kalasha-mon": [],
+            "Kamviri": [],
+            "Katavari": []
+        },
+        "topics": ["phonetics/phonology", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "Damelī: Maǧmūʿa-yi Alfāż",
+        "author": ["Forum for Language Initiatives"],
+        "year": 2016,
+        "publisher": "Forum for Language Initiatives",
+        "url": "https://fli-online.org/site/wp-content/uploads/2016/04/DameliWordListFinal13032016.pdf",
+        "languages": {
+            "Dameli": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Damelī: Maǧmūʿa-yi Alfāż",
+        "author": ["Forum for Language Initiatives"],
+        "year": 2016,
+        "publisher": "Forum for Language Initiatives",
+        "url": "https://fli-online.org/site/wp-content/uploads/2016/04/DameliWordListFinal13032016.pdf",
+        "languages": {
+            "Dameli": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Gawar Bātī: Maǧmūʿa-yi Alfāż",
+        "author": ["Forum for Language Initiatives"],
+        "year": 2016,
+        "publisher": "Forum for Language Initiatives",
+        "url": "https://fli-online.org/site/wp-content/uploads/2016/04/Gawar-batiwordlist.pdf",
+        "languages": {
+            "Gawarbati": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Ušojo: Maǧmūʿa-yi Alfāż",
+        "author": ["Forum for Language Initiatives"],
+        "year": 2016,
+        "publisher": "Forum for Language Initiatives",
+        "url": "https://fli-online.org/site/wp-content/uploads/2016/04/UshojoWordListFinal13032016.pdf",
+        "languages": {
+            "Ushojo": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Yidǧā: Maǧmūʿa-yi Alfāż",
+        "author": ["Forum for Language Initiatives"],
+        "year": 2016,
+        "publisher": "Forum for Language Initiatives",
+        "url": "https://fli-online.org/site/wp-content/uploads/2017/03/Yidgha-Wordlist.pdf",
+        "languages": {
+            "Yidgha": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "inbook",
+        "title": "Searching for the Goddess: A study of sensory and other impersonal causative expressions in the Shina of Gilgit",
+        "author": ["Peter E. Hook", "Muhammad Amin Zia"],
+        "booktitle": "Yearbook of South Asian Languages and Linguistics",
+        "year": 2005,
+        "publisher": "De Gruyter Mouton",
+        "location": "Berlin",
+        "pages": "165--188",
+        "url": "https://www.academia.edu/33369634/Searching_for_the_Goddess_A_study_of_sensory_and_other_impersonal_causative_expressions_in_the_Shina_of_Gilgit_1",
+        "languages": {
+            "Shina": ["Gilgit"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Kesar of Layul: A Central Asian Epic in the Shina of Gultari",
+        "author": ["Peter E. Hook"],
+        "booktitle": "Studies in Pakistani Popular Culture",
+        "year": 1996,
+        "editor": ["Willliam Hanaway", "Wilma Heston"],
+        "publisher": "Sang-e-Meel and Lok Virsa",
+        "location": "Lahore",
+        "pages": "121--183",
+        "url": "https://www.academia.edu/33369633/Kesar_of_Layul_A_Central_Asian_Epic_in_the_Shina_of_Gultari",
+        "languages": {
+            "Shina": ["Gultari"]
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Mother tongue or the other tongue? The case of Dhatki-speaking urban youth",
+        "author": ["Muhammad Hassan Abbasi", "Mariam Aftab"],
+        "journal": "Balochistan Journal of Linguistics",
+        "volume": 7,
+        "pages": "81--92",
+        "year": 2020,
+        "url": "https://www.researchgate.net/publication/338986373_Mother_Tongue_or_the_Other_Tongue_The_Case_of_Dhatki-Speaking_Urban_Youth",
+        "languages": {
+            "Dhatki": []
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "A postcolonial sociolinguistics of Punjabi in Pakistan",
+        "author": ["Abbas Zaidi"],
+        "journal": "Journal of Postcolonial Cultures and Societies",
+        "volume": 1,
+        "number": "3&4",
+        "year": 2010,
+        "languages": {
+            "Punjabi": []
+        },
+        "topics": ["sociolinguistics"],
+        "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.499&rep=rep1&type=pdf"
+    },
+    {
+        "type": "inbook",
+        "title": "Non-Dravidian elements and (non)diasystematic change in Malayalam",
+        "author": ["Savithry Namboodiripad"],
+        "booktitle": "Constructions in Contact 2: Language change, multilingual practices, and additional language acquisition",
+        "editor": ["S. Höder", "H. Boas"],
+        "year": 2019,
+        "url": "https://psyarxiv.com/tnp54/",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["language contact"]
+    },
+    {
+        "type": "misc",
+        "title": "Documentation of Malto",
+        "author": ["Chaitra Puttaswamy"],
+        "year": 2005,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0012/",
+        "languages": {
+            "Malto": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Asur recordings",
+        "author": ["Abhishek Bilkan Aind", "et al"],
+        "year": 2020,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0584/",
+        "languages": {
+            "Asuri": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Bajjika: Swadesh List Elicitation Sessions",
+        "author": ["Jay Huwieler"],
+        "year": 2012,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0038/",
+        "languages": {
+            "Bajjika": ["Muzaffarpur District", "Vaishali District", "East Champaran District", "Sitamarhi District"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "misc",
+        "title": "Documentation and Grammar of Gutob (Munda)",
+        "author": ["Judith Voß"],
+        "year": 2018,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0444/",
+        "languages": {
+            "Gutob": []
+        },
+        "topics": ["overview", "corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Documentation of Betta Kurumba",
+        "author": ["Gail Coelho"],
+        "year": 2015,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0002/",
+        "languages": {
+            "Betta Kurumba": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Documentation of the language and biological knowledge of the Solega",
+        "author": ["Aung Si"],
+        "year": 2012,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0150/",
+        "languages": {
+            "Sholaga": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Recordings of Badaga: A Dravidian language of Tamil Nadu",
+        "author": ["Christiane Pilot-Raichoor"],
+        "year": 2020,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0590/",
+        "languages": {
+            "Badaga": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Vanishing Voices of the Great Andamanese",
+        "author": ["Anvita Abbi"],
+        "year": 2006,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0014/",
+        "languages": {
+            "Great Andamese Koiné": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Documentation of the Kundal Shahi Language, Kundal Shahi, Pakistan",
+        "author": ["Khawaja A. Rehman"],
+        "year": 2006,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0294/",
+        "languages": {
+            "Kundal Shahi": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "Documentation of Torwali",
+        "author": ["Inam Ullah"],
+        "year": 2014,
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0077/",
+        "languages": {
+            "Torwali": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "misc",
+        "title": "The Brahui Language of Rudbar-Jonub, Asia, Iran",
+        "author": ["Fatemeh Sheybanifard"],
+        "year": "n.d",
+        "publisher": "Endangered Languages Archive",
+        "url": "https://www.elararchive.org/dk0630/",
+        "languages": {
+            "Brahui": ["Rudbar-e Jonub"]
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Person markers in Gutob",
+        "author": ["Judith Voß"],
+        "year": 2015,
+        "journal": "Journal of South Asian Languages and Linguistics",
+        "volume": 2,
+        "number": 2,
+        "url": "https://www.degruyter.com/document/doi/10.1515/jsall-2015-0011/html",
+        "languages": {
+            "Gutob": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Floating towards focus – differential subject indexing in Gutob",
+        "author": ["Erika Just", "Judith Voß"],
+        "year": 2020,
+        "booktitle": "Vielfaltslinguistik IV: Konferenz zu Typologie und Feldforschung",
+        "url": "http://www.fb10.uni-bremen.de/vielfaltslinguistik/abstracts/Just_Vo%C3%9F.pdf",
+        "languages": {
+            "Gutob": []
+        },
+        "topics": ["syntax", "case and adpositions"]
+    },
+    {
+        "type": "article",
+        "title": "The Brahui Problem Again",
+        "author": ["J. Elfenbein"],
+        "journal": "Indo-Iranian Journal",
+        "volume": 25,
+        "number": 2,
+        "year": 1983,
+        "pages": "103--132",
+        "languages": {
+            "Brahui": ["Kalat"]
+        },
+        "topics": ["overview", "lexicography"],
+        "url": "https://www.jstor.org/stable/24654002"
+    },
+    {
+        "type": "article",
+        "title": "Brahui and the Zagrosian Hypothesis",
+        "author": ["David W. McAlpin"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 135,
+        "number": 3,
+        "year": 2015,
+        "pages": "551--586",
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["historical"],
+        "url": " https://www.jstor.org/stable/10.7817/jameroriesoci.135.3.551"
+    },
+    {
+        "type": "inproceedings",
+        "title": "The Brahui Language: Recovering the Past, Documenting the Present, and Pondering the Future",
+        "author": ["Elena Bashir"],
+        "booktitle": "Proceedings of International Conference on Brahui Language and Culture held in Islamabad on January 17-18, 2015",
+        "year": 2015,
+        "editor": ["Sikander Brohi"],
+        "languages": {
+            "Brahui": ["Kalat"]
+        },
+        "topics": ["research survey"],
+        "url": "https://www.academia.edu/39272162/BRAHUI_LANGUAGE_Past_Present_and_Future"
+    },
+    {
+        "type": "inbook",
+        "title": "Contact-induced Change in Khowar",
+        "author": ["Elena Bashir"],
+        "booktitle": "New Perspectives on Pakistan: Visions for the Future",
+        "editor": ["Saeed Shafqat"],
+        "year": 2007,
+        "publisher": "Oxford University Press",
+        "location": "Karachi",
+        "url": "https://www.researchgate.net/publication/227467003_New_Perspectives_on_Pakistan_Visions_for_the_Future",
+        "pages": "243",
+        "languages": {
+            "Khowar": []
+        },
+        "topics": ["language contact", "historical"]
+    },
+    {
+        "type": "misc",
+        "title": "Munda languages: Corpus of the Koraput Munda languages",
+        "url": "http://mundastudies.info/en/",
+        "author": ["Anastasia S. Krylova", "Evgenia A. Renkovskaya", "Yuri E. Berezkin"],
+        "year": "2016--2021",
+        "languages": {
+            "Sora": ["Gajapati District", "Rayagada District"],
+            "Gutob": ["Koraput District"],
+            "Bonda": ["Koraput District"]
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "thesis",
+        "title": "A grammatical sketch of Juang, a Munda language",
+        "author": ["M. A. Matson"],
+        "year": 1964,
+        "publisher": "University of Wisconsin",
+        "languages": {
+            "Juang": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Sociolinguistic Survey of the Bhumij People of India",
+        "author": ["Troy Bailey", "Loren Maggard"],
+        "publisher": "SIL International",
+        "year": 2015,
+        "url": "https://www.sil.org/system/files/reapdata/15/13/98/151398813344684805518300582432867773551/silesr2015_026.pdf",
+        "languages": {
+            "Bhumij": ["Champi", "Ladhiramsai", "Munduy", "Baigodia", "Mayurbhanj District"],
+            "Mundari": ["Ranchi", "Sundargarh District", "Mayurbhanj District"],
+            "Ho": ["Mayurbhanj District"],
+            "Santali": ["Mayurbhanj District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Scripting the border: script practices and territorial imagination among Santali speakers in eastern India",
+        "author": ["Nishaant Choksi"],
+        "journal": "International Journal of the Sociology of Language",
+        "volume": 227,
+        "year": 2014,
+        "url": "https://www.degruyter.com/document/doi/10.1515/ijsl-2013-0087/html",
+        "languages": {
+            "Santali": []
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Relative Clauses in Santali: A Matching Analysis Approach",
+        "author": ["Mayuri Dilip", "Rajesh Kumar", "Kārumūri V. Subbārāo", "G. Maheshwar Rao", "Martin Everaert"],
+        "booktitle": "Austroasiatic Syntax in Areal and Diachronic Perspective",
+        "pages": "258--283",
+        "year": 2020,
+        "url": "https://brill.com/view/book/edcoll/9789004425606/BP000013.xml",
+        "languages": {
+            "Santali": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Politeness in Santali: Implicit Social Aspects",
+        "author": ["Tanima Bagchi"],
+        "booktitle": "Linguistic Foundations of Identity: Readings in Language, Literature and Contemporary Cultures",
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003106807-15/politeness-santali-implicit-social-aspects-tanima-bagchi",
+        "year": 2020,
+        "languages": {
+            "Santali": []
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Expressives in the Santali Poetry of Sadhu Ramchand Murmu",
+        "author": ["Sarada Prasad Kisku", "Ganesh Murmu", "Nishaant Choksi"],
+        "booktitle": "Expressives in the South Asian Linguistic Area",
+        "url": "https://brill.com/view/book/9789004439153/BP000013.xml",
+        "pages": "223--236",
+        "year": 2020,
+        "languages": {
+            "Santali": []
+        },
+        "topics": ["semantics"]
+    },
+    {
+        "type": "thesis",
+        "title": "A linguistic study of the Santali language",
+        "author": ["Sakuntala Majumdar"],
+        "year": 2007,
+        "publisher": "University of Calcutta",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/162044",
+        "languages": {
+            "Santali": []
+        },
+        "topics": ["overview"]
     }
 ]
