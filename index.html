@@ -1,95 +1,64 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <!-- CSS only -->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-        <!-- JavaScript Bundle with Popper -->
-        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-        <script src="https://d3js.org/d3.v6.min.js"></script>
-        <script src="https://unpkg.com/d3-geo-voronoi@1.5"></script>
-        <script src="https://unpkg.com/topojson@3"></script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52207113-1"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="HandheldFriendly" content="true" />
+<title>Bhāṣācitra</title>
+<script src="https://d3js.org/d3.v5.js"></script>
+<script src="https://unpkg.com/topojson@3"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic,600italic,700italic,200,300,400,600,700,900">
+<!--CSS-->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--JS-->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/versor"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52207113-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-52207113-1');
-        </script>
-        <style>
-            html, body {margin: 0; height: 100%; overflow: hidden}
+gtag('config', 'UA-52207113-1');
+</script>
 
-            .tooltip {
-                position: absolute;
-                padding: 10px;
-                top: -100px;
-                left: -100px;
-                font-size: 0.9em;
-                pointer-events: none;
-                background: #fff;
-                border: 1px solid #ccc;
-                border-radius: 4px;
-
-                -moz-box-shadow:    3px 3px 10px 0px rgba(0, 0, 0, 0.25);
-                -webkit-box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
-                box-shadow:         3px 3px 10px 0px rgba(0, 0, 0, 0.25);
-            }
-
-            .tooltip h5 {
-                margin: 0;
-                padding: 0;
-            }
-
-            .tooltip p {
-                margin: 0;
-                padding: 0;
-            }
-
-            .tooltip table {
-                margin: 0;
-                padding: 0;
-                border-collapse: collapse;
-            }
-
-            .container {
-                max-width: 400px;
-                position: absolute;
-                left: 0px;
-                top: 0px;
-                margin-left: 5vw;
-                margin-top: 5vh;
-                margin-bottom: 5vh;
-            }
-
-            .fullcontainer {
-                max-width: none !important;
-                width: 90vw;
-                height: 80vh;
-            }
-
-            .card-body {
-                display: flex;
-                flex-direction: column;
-                height: 100%;
-            }
-
-            ul {
-                flex-shrink: 1;
-            }
-        </style>
-        <title>Bhāṣācitra</title>
-    </head>
-    <body>
-        <div class="card bg-dark text-white shadow container">
-            <div class="card-body">
-                <h3 class="card-title name">Hover over/click a dot.</h3>
+<!-- CSS -->
+<style>
+</style>
+</head>
+<body>
+    <div class="container mt-5 mb-5 text-center">
+        <h1>Bhāṣācitra</h1>
+        <p class="text-justify lead"><strong>Bhāṣācitra</strong> <span class="text-muted">(lit. "language map" in Sanskrit)</span> is a database of linguistic resources on South Asian languages. Drawing from location data compiled from the sources, we map language distributions across the Subcontinent. It is a new kind of bibliography, meant to centralise and ease access to useful linguistic work on all languages of the region.</p>
+        <p class="text-justify lead">The map currently includes <strong id="refs"></strong> references, covering <strong id="langs"></strong> lects referencing <strong id="places"></strong> locations.</p>
+        
+        <div class="card-deck mb-4">
+            <div class="card btn-light shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title"><a href="./map.html" class="stretched-link"></a>Map</h2>
+                </div>
+            </div>
+            <div class="card btn-light shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title"><a href="./search.html" class="stretched-link"></a>Search</h2>
+                </div>
             </div>
         </div>
-        <svg id="map"></svg>
-    </body>
-    <script src="helpers.js"></script>
-    <script src="main.js"></script>
+
+        <p class="mb-0">Compiled by: <a href="http://aryamanarora.github.io/">Aryaman Arora</a>, Adam Farris, Samopriya Basu, Gopalakrishnan Ramamurthy</p>
+        <p class="text-muted">Thanks to Kaushalya Perera, John Peterson, and Joan L. G. Baart and Esther L. Baart-Bremer for their bibliographies.</p>
+    </div>
+    <script>
+        d3.json("refs.json").then(function(data) {
+            d3.select("#refs").text(data.length)
+            d3.json("coords.json").then(function(more) {
+                d3.select("#langs").text(Object.keys(more.family).length)
+                d3.select("#places").text(Object.keys(more.cities).length)
+            })
+        })
+    </script>
+</body>
 </html>

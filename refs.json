@@ -474,7 +474,7 @@
         "journal": "Journal of the International Phonetic Association",
         "url": "https://doi.org/10.1017/S0025100300004990",
         "languages": {
-            "Hindi": ["Delhi", "Varanasi", "Lucknow"]
+            "Hindi-Urdu": ["Delhi", "Varanasi", "Lucknow"]
         },
         "topics": ["phonetics/phonology"]
     },
@@ -496,6 +496,7 @@
         "author": ["B. R. Saksena"],
         "year": 1971,
         "publisher": "Motilal Banarsidass",
+        "url": "https://archive.org/details/in.gov.ignca.7679",
         "languages": {
             "Awadhi": ["Lakhimpur"]
         },
@@ -522,7 +523,7 @@
         "number": 2,
         "pages": "212--224",
         "languages": {
-            "Hindi": ["Rankhandi", "Sivaya", "Kalron"]
+            "Hindi-Urdu": ["Rankhandi", "Sivaya", "Kalron"]
         },
         "topics": ["phonetics/phonology", "dialectology"],
         "url": "https://www.jstor.org/stable/410824"
@@ -534,7 +535,7 @@
         "year": 2006,
         "publisher": "John Benjamins Publishing Company",
         "languages": {
-            "Hindi": ["Delhi"]
+            "Hindi-Urdu": ["Delhi"]
         },
         "topics": ["overview"]
     },
@@ -545,7 +546,7 @@
         "year": 2008,
         "publisher": "Dunwoody Press",
         "languages": {
-            "Hindi": ["Delhi"]
+            "Hindi-Urdu": ["Delhi"]
         },
         "topics": ["overview"]
     },
@@ -1261,7 +1262,7 @@
         "publisher": "University of Chicago",
         "url": "https://drive.google.com/drive/folders/1UpsvVnSVoikteSsmUgoTTGEXnC-GwWC0",
         "languages": {
-            "Garhwali": ["Pauri"]
+            "Garhwali": ["Pauri Garhwal District"]
         },
         "topics": ["syntax"]
     },
@@ -1628,7 +1629,7 @@
         "publisher": "Routledge",
         "pages": "276--314",
         "languages": {
-            "Hindi": ["Delhi"]
+            "Hindi-Urdu": ["Delhi"]
         },
         "topics": ["overview"]
     },
@@ -1642,7 +1643,7 @@
         "publisher": "Routledge",
         "pages": "315--385",
         "languages": {
-            "Urdu": ["Delhi", "Lucknow"]
+            "Hindi-Urdu": ["Delhi", "Lucknow"]
         },
         "topics": ["overview"]
     },
@@ -1987,6 +1988,18 @@
         },
         "location": "Islamabad",
         "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Sounds and Tones of Kalam Kohistani: with Wordlist and Texts",
+        "year": 1997,
+        "author": ["Joan L. G. Baart"],
+        "publisher": "National Institute of Pakistan Studies and Summer Institute of Linguistics",
+        "location": "Islamabad",
+        "languages": {
+            "Kalam Kohistani": ["Kalam"]
+        },
+        "topics": ["phonetics/phonology", "lexicography", "corpora"]
     },
     {
         "type": "article",
@@ -2349,7 +2362,7 @@
         "title": "Dogri: Phonology and Grammatical Sketch",
         "author": ["Ujjal S. Bahri"],
         "year": 2001,
-        "publisher": "Bahri",
+        "publisher": "Bahri Publications",
         "languages": {
             "Dogri": ["Jammu"]
         },
@@ -3325,7 +3338,7 @@
         "publisher": "Aligarh Muslim University",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/52320",
         "languages": {
-            "Hindi": ["Delhi", "Budaun", "Bulandshahr", "Khurja", "Bareilly", "Dadri"],
+            "Hindi-Urdu": ["Delhi", "Budaun", "Bulandshahr", "Khurja", "Bareilly", "Dadri"],
             "Braj": [],
             "Kannauji": []
         },
@@ -4124,7 +4137,7 @@
         "year": 2001,
         "publisher": "Panjab University",
         "languages": {
-            "Hindi": ["Khajuha"]
+            "Hindi-Urdu": ["Khajuha"]
         },
         "topics": ["overview"],
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/112038"
@@ -4160,7 +4173,7 @@
         "year": 1979,
         "publisher": "Savitribai Phule Pune University",
         "languages": {
-            "Hindi": ["Meerut", "Ambala District", "Saharanpur", "Muzzafarnagar", "Bijnor", "Muradabad"]
+            "Hindi-Urdu": ["Meerut", "Ambala District", "Saharanpur", "Muzzafarnagar", "Bijnor", "Muradabad"]
         },
         "topics": ["overview"],
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/152641"
@@ -4233,7 +4246,7 @@
         "publisher": "Aligarh Muslim University",
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/110700",
         "languages": {
-            "Urdu": ["Kaimganj"]
+            "Hindi-Urdu": ["Kaimganj"]
         },
         "topics": ["overview"]
     },
@@ -4391,7 +4404,7 @@
         "number": 4,
         "pages": "668--682",
         "languages": {
-            "Hindi": ["Khalapur"]
+            "Hindi-Urdu": ["Khalapur"]
         },
         "topics": ["dialectology", "sociolinguistics"]
     },
@@ -4403,7 +4416,7 @@
         "publisher": "University of California, Berkeley",
         "url": "https://files.eric.ed.gov/fulltext/ED015469.pdf",
         "languages": {
-            "Hindi": []
+            "Hindi-Urdu": []
         },
         "topics": ["overview"]
     },
@@ -4473,7 +4486,7 @@
         "number": "3--4",
         "url": "https://www.researchgate.net/publication/301820786_REVISITING_KHALAPUR_i_LANGUAGE_VARIATION_AND_SOCIAL_STRATIFICATION_50_YEARS_LATER_ii",
         "languages": {
-            "Hindi": ["Khalapur"]
+            "Hindi-Urdu": ["Khalapur"]
         },
         "topics": ["sociolinguistics", "historical", "dialectology"]
     },
@@ -4990,6 +5003,7 @@
         "languages": {
             "Bengali": []
         },
+        "url": "https://osf.io/kevwt/",
         "topics": ["overview"]
     },
     {
@@ -7641,7 +7655,7 @@
         "languages": {
             "Bengali": [],
             "Assamese": [],
-            "Hindi": [],
+            "Hindi-Urdu": [],
             "Punjabi": [],
             "Gujarati": [],
             "Marathi": []
@@ -8499,5 +8513,1186 @@
             "Santali": []
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Vocabularies and specimens of some S. E. Dardic dialects",
+        "author": ["Fredrik Barth", "Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 18,
+        "pages": "118--136",
+        "year": 1958,
+        "languages": {
+            "Kalam Kohistani": [],
+            "Torwali": [],
+            "Indus Kohistani": []
+        },
+        "topics": ["lexicography", "corpora"]
+    },
+    {
+        "type": "book",
+        "title": "The Dumaki Language",
+        "author": ["D. L. R. Lorimer"],
+        "year": 1939,
+        "location": "Nijmegen",
+        "publisher": "Dekker and Van de Vegt",
+        "languages": {
+            "Domaaki": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "mastersthesis",
+        "title": "An overview of linguistic structures in Torwali, a language of Pakistan",
+        "author": ["W. A. Lumsford"],
+        "year": 2001,
+        "publisher": "University of Texas at Arlington",
+        "languages": {
+            "Torwali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Torwali",
+        "author": ["Georg Morgenstierne"],
+        "year": 1930,
+        "journal": "Acta Orientalia",
+        "volume": 8,
+        "pages": "294--310",
+        "languages": {
+            "Torwali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Kalasha",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 20,
+        "pages": "183--238",
+        "year": 1965,
+        "languages": {
+            "Kalasha-mon": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Hindko Syllabification and the Sonority Sequencing Principle",
+        "author": ["Muhammad Nawaz", "Ayaz Afsar"],
+        "year": 2015,
+        "journal": "Kashmir Journal of Language Research",
+        "volume": 18,
+        "number": 2,
+        "languages": {
+            "Hindko": ["Mansehra District"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Language Divergence Caused by LoC: A Case Study of District Kupwara (Jammu & Kashmir) and District Neelum (Azad Jammu & Kashmir)",
+        "author": ["Ayesha Sohail", "Khawaja A. Rehman", "Zafeer Hussain Kiani"],
+        "year": 2016,
+        "journal": "Kashmir Journal of Language Research",
+        "volume": 19,
+        "number": 2,
+        "languages": {
+            "Hindko": ["Neelum District", "Kupwara District"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "mastersthesis",
+        "title": "A phonological reconstruction of Proto-Hindko",
+        "author": ["D. L. Marshall"],
+        "year": 2007,
+        "publisher": "University of Michigan",
+        "languages": {
+            "Hindko": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Phonology of the Verbal Phrase in Hindko",
+        "author": ["Elahi Bakhsh Akhtar Awan"],
+        "year": 1974,
+        "publisher": "University of London",
+        "url": "https://eprints.soas.ac.uk/28660/1/10672820.pdf",
+        "languages": {
+            "Hindko": []
+        },
+        "topics": ["phonetics/phonology", "prosody"]
+    },
+    {
+        "type": "article",
+        "title": "Palatalization in Kashmiri: A Dialectological Study",
+        "author": ["Nazir Ahmad Dhar", "Tanveer Ahmad", "Neelofar H. Wani"],
+        "journal": "Interdisciplinary Journal of Linguistics",
+        "volume": 4,
+        "year": 2011,
+        "url": "http://linguistics.uok.edu.in/Files/f6ec3740-422d-4ac1-9f52-ddfe2cffcb28/Journal/335f4e96-0636-4cde-9fdc-e7372f96f30f.pdf",
+        "languages": {
+            "Kashmiri": ["Srinagar", "Baramulla District", "Anantnag", "Pulwama"],
+            "Rambani": []
+        },
+        "topics": ["phonetics/phonology", "dialectology"]
+    },
+    {
+        "type": "article",
+        "title": "Pronominal Variation in the Dialects of Kashmiri",
+        "author": ["Maharaj K. Koul", "Irshad Ahmad Naikoo", "Parvaiz Ahmad Ganai"],
+        "journal": "Interdisciplinary Journal of Linguistics",
+        "volume": 4,
+        "year": 2011,
+        "url": "http://linguistics.uok.edu.in/Files/f6ec3740-422d-4ac1-9f52-ddfe2cffcb28/Journal/66354df6-a947-482e-9a94-6bb93e3ccb73.pdf",
+        "languages": {
+            "Kashmiri": ["Srinagar", "Baramulla District", "Hajin"]
+        },
+        "topics": ["morphology", "dialectology"]
+    },
+    {
+        "type": "article",
+        "title": "A Note on Bangani",
+        "author": ["Claus Peter Zoller"],
+        "journal": "Indian Linguistics",
+        "volume": 54,
+        "number": "1--4",
+        "pages": "112--114",
+        "year": 1993,
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Bericht über grammatische Archaismen im Bangani",
+        "author": ["Claus Peter Zoller"],
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "volume": 50,
+        "pages": "159--218",
+        "year": 1989,
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["historical", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Bericht über besondere Archaismen im Bangani, einer Western-Pahari-Sprache",
+        "author": ["Claus Peter Zoller"],
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "volume": 49,
+        "pages": "173--200",
+        "year": 1988,
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "Some Grammatical Observations on Bangani",
+        "author": ["George van Driem", "Suhnu Ram Sharma"],
+        "journal": "Indogermanische Forschungen",
+        "volume": 102,
+        "pages": "179--198",
+        "year": 1997,
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "In Search of Kentum Indo-Europeans in the Himalayas",
+        "author": ["George van Driem", "Suhnu Ram Sharma"],
+        "journal": "Indogermanische Forschungen",
+        "volume": 101,
+        "pages": "107--146",
+        "year": 1997,
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "A proposito della questione bangani. Alcune riflessioni",
+        "author": ["Moreno Morani"],
+        "journal": "Atti del Sodalizio Glottologico Milanese",
+        "volume": "XXXIX--XL",
+        "year": 2002,
+        "location": "Milano",
+        "pages": "155--171",
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "Redundancies and Restructuring in Bangani Syntax: A Case of Language Contact in Western Himalaya",
+        "author": ["Anvita Abbi"],
+        "journal": "International Journal of Dravidian Linguistics",
+        "volume": 29,
+        "number": 1,
+        "year": 2000,
+        "pages": "47--56",
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["language contact", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Some preliminary observations about Baṅgāṇī pronominal and nominal declension",
+        "author": ["Andrea Drocco"],
+        "journal": "Linguistica e Filologia",
+        "volume": 36,
+        "pages": "69--98",
+        "year": 2016,
+        "languages": {
+            "Bangani": []
+        },
+        "topics": ["morphology"],
+        "url": "https://iris.unive.it/retrieve/handle/10278/3698615/126128/PUBBL_11_a.pdf"
+    },
+    {
+        "type": "thesis",
+        "title": "A Sketch of the Phonology and Grammar of Rājbanshi",
+        "author": ["Christopher P. Wilde"],
+        "publisher": "University of Helsinki",
+        "year": 2008,
+        "url": "https://helda.helsinki.fi/bitstream/handle/10138/19290/asketcho.pdf?sequence=1",
+        "languages": {
+            "Kamtapuri": ["Jhapa"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Grammar of Bangru",
+        "author": ["Jag Deva Singh"],
+        "year": 1970,
+        "publisher": "Kurukshetra University Press",
+        "location": "Kurukshetra",
+        "languages": {
+            "Haryanvi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Bhojpuri Grammar",
+        "author": ["Shaligram Shukla"],
+        "year": 1981,
+        "publisher": "Georgetown University Press",
+        "location": "Washington",
+        "languages": {
+            "Bhojpuri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Grammar of Bhojpuri",
+        "author": ["Gopal Thakur Lohar"],
+        "year": 2020,
+        "publisher": "Tribhuvan University",
+        "location": "Kathmandu",
+        "languages": {
+            "Bhojpuri": ["Parsa District", "Bara District", "Rautahat District"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.academia.edu/45566555/A_GRAMMAR_OF_BHOJPURI_A_Dissertation_Submitted_to_the_Faculty_of_Humanities_and_Social_Sciences_of_Tribhuvan_University_in_Fulfillment_of_the_Requirements_for_the_Degree_of_Doctor_of_Philosophy_in_LINGUISTICS"
+    },
+    {
+        "type": "article",
+        "title": "Notes on Shumashti",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 13,
+        "pages": "240--281",
+        "year": 1945,
+        "languages": {
+            "Shumashti": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Tirahi",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Acta Orientalia",
+        "volume": 7,
+        "pages": "161--189",
+        "year": 1934,
+        "languages": {
+            "Tirahi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "On the Tirahi Language",
+        "author": ["George Grierson"],
+        "journal": "The Journal of the Royal Asiatic Society of Great Britain and Ireland",
+        "number": 3,
+        "pages": "405--416",
+        "year": 1925,
+        "languages": {
+            "Tirahi": []
+        },
+        "topics": ["overview"],
+        "url": " https://www.jstor.org/stable/25220761"
+    },
+    {
+        "type": "book",
+        "title": "Indus Kohistani. A Preliminary Phonological and Morphological Analysis",
+        "author": ["Daniel G. Hallberg", "Calinda E. Hallberg"],
+        "publisher": "National Institute of Pakistan Studies and Summer Institute of Linguistics",
+        "location": "Islamabad",
+        "series": "Studies in Languages of Northern Pakistan",
+        "seriesvolume": 8,
+        "year": 1999,
+        "languages": {
+            "Indus Kohistani": []
+        },
+        "topics": ["phonetics/phonology", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Indus-Kohistan. Entwurf einer historischen Ethnographie",
+        "author": ["Karl Jettmar"],
+        "year": 1983,
+        "journal": "Anthropos",
+        "volume": 78,
+        "pages": "501--519",
+        "languages": {
+            "Indus Kohistani": []
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "article",
+        "title": "The Indo-Aryan Nasals in Gujrati",
+        "author": ["Ralph Lilley Turner"],
+        "journal": "The Journal of the Royal Asiatic Society of Great Britain and Ireland",
+        "year": 1915,
+        "pages": "17--34",
+        "url": "https://www.jstor.org/stable/25189276",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Gujarati Phonology",
+        "author": ["Ralph Lilley Turner"],
+        "journal": "The Journal of the Royal Asiatic Society of Great Britain and Ireland",
+        "year": 1921,
+        "pages": "505--544",
+        "number": 4,
+        "url": "https://www.jstor.org/stable/25209785",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Cerebralization in Sindhi",
+        "author": ["Ralph Lilley Turner"],
+        "journal": "The Journal of the Royal Asiatic Society of Great Britain and Ireland",
+        "year": 1924,
+        "number": 4,
+        "pages": "555--584",
+        "url": "https://www.jstor.org/stable/25220575",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Kuḍāḷī",
+        "series": "A Survey of Marathi Dialects",
+        "seriesvolume": "II",
+        "author": ["A. M. Ghatage"],
+        "year": 1965,
+        "publisher": "The State Board for Literature and Culture",
+        "location": "Bombay",
+        "url": "https://sahitya.marathi.gov.in/scans/Kudali%20(II).pdf",
+        "languages": {
+            "Marathi": ["Kudal"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Koṅkaṇī of South Kanara",
+        "series": "A Survey of Marathi Dialects",
+        "seriesvolume": "I",
+        "author": ["A. M. Ghatage"],
+        "year": 1963,
+        "publisher": "The State Board for Literature and Culture",
+        "location": "Bombay",
+        "url": "https://sahitya.marathi.gov.in/scans/Konkani%20of%20South%20Kanara.pdf",
+        "languages": {
+            "Konkani": ["Dakshina Kannada District"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Gāwḍi of Goa",
+        "series": "A Survey of Marathi Dialects",
+        "seriesvolume": "VIII",
+        "author": ["A. M. Ghatage"],
+        "year": 1972,
+        "publisher": "The State Board for Literature and Culture",
+        "location": "Bombay",
+        "url": "https://sahitya.marathi.gov.in/scans/Gawadi%20Of%20Goa.pdf",
+        "languages": {
+            "Konkani": ["Fatorda"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Koṅkaṇī of Kankoṇ",
+        "series": "A Survey of Marathi Dialects",
+        "seriesvolume": "V",
+        "author": ["A. M. Ghatage"],
+        "year": 1968,
+        "publisher": "The State Board for Literature and Culture",
+        "location": "Bombay",
+        "url": "https://sahitya.marathi.gov.in/scans/Konkani%20of%20konkan.pdf",
+        "languages": {
+            "Konkani": ["Canacona"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Marathi of Kasargod",
+        "series": "A Survey of Marathi Dialects",
+        "seriesvolume": "VI",
+        "author": ["A. M. Ghatage"],
+        "year": 1970,
+        "publisher": "The State Board for Literature and Culture",
+        "location": "Bombay",
+        "url": "https://sahitya.marathi.gov.in/scans/Marathi%20of%20Kasargod.pdf",
+        "languages": {
+            "Marathi": ["Kasaragod"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Kuṇabī of Mahāḍ",
+        "series": "A Survey of Marathi Dialects",
+        "seriesvolume": "III",
+        "author": ["A. M. Ghatage"],
+        "year": 1966,
+        "publisher": "The State Board for Literature and Culture",
+        "location": "Bombay",
+        "url": "https://sahitya.marathi.gov.in/scans/Kunabi%20Of%20Mahad%20(III).pdf",
+        "languages": {
+            "Kunabi": ["Mahad"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Structure of Complex Predicates in Urdu",
+        "author": ["Miriam Butt"],
+        "publisher": "Stanford University",
+        "year": 1993,
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"],
+        "url": "https://ojs.ub.uni-konstanz.de/jsal/dissertations/diss-butt.pdf"
+    },
+    {
+        "type": "inbook",
+        "title": "Sentence Patterns in Halbi",
+        "author": ["Fran Woods"],
+        "booktitle": "Patterns in Clause, Sentence, and Discourse in Selected Languages of India and Nepal: Part I, Sentence and Discourse",
+        "editor": ["Ronald L. Trail"],
+        "year": 1973,
+        "languages": {
+            "Halbi": []
+        },
+        "topics": ["syntax"],
+        "url": "https://files.eric.ed.gov/fulltext/ED087206.pdf#page=44"
+    },
+    {
+        "type": "mastersthesis",
+        "title": "Polarity and Probing: Building Clauses in Gujarati",
+        "author": ["Mansi Pranav Desai"],
+        "year": 2018,
+        "publisher": "University of California, Santa Cruz",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["syntax"],
+        "url": "https://escholarship.org/uc/item/8602r66x"
+    },
+    {
+        "type": "thesis",
+        "title": "A Comparative Study of English and Gujarati Phonological Systems",
+        "author": ["Ketan B. Vyas"],
+        "year": 2010,
+        "publisher": "Saurashtra University",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://core.ac.uk/download/pdf/11821485.pdf"
+    },
+    {
+        "type": "article",
+        "title": "A Primer of the Asur Dukma. A dialect of the Kolarian Language",
+        "author": ["Ferdinand Hahn"],
+        "year": 1901,
+        "journal": "Journal of the Asiatic Society of Bengal",
+        "volume": 69,
+        "number": 1,
+        "pages": "149--172",
+        "languages": {
+            "Asuri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Bhumij Grammar",
+        "author": ["N. Ramaswami"],
+        "year": 1992,
+        "publisher": "Central Institute of Indian Languages",
+        "location": "Mysore",
+        "languages": {
+            "Bhumij": []
+        },
+        "topics": ["overview"],
+        "url": "https://bhumij.bharatavani.in/book/bhumij-grammar/"
+    },
+    {
+        "type": "inproceedings",
+        "title": "On the current status and state of Juray in the Sora-Juray cluster",
+        "author": ["Gregory D. S. Anderson", "Opino Gomango"],
+        "booktitle": "FEL XX",
+        "year": 2016,
+        "pages": 103,
+        "languages": {
+            "Juray": ["Gajapati District"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Notes on Gawar-Bati",
+        "author": ["Georg Morgenstierne"],
+        "year": 1950,
+        "location": "Oslo",
+        "languages": {
+            "Gawarbati": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Domaaki chot ‘Ton’; Mit Beiträgen zur historischen Lautlehre",
+        "author": ["Georg Buddruss"],
+        "year": 1983,
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "location": "München",
+        "volume": 42,
+        "pages": "5--21",
+        "languages": {
+            "Domaaki": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "Domaaki-Nachträge zum Atlas der Dard-Sprachen",
+        "author": ["Georg Buddruss"],
+        "year": 1984,
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "location": "München",
+        "volume": 43,
+        "pages": "9--24",
+        "languages": {
+            "Domaaki": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Hindi phul, Domaaki phule",
+        "author": ["Georg Buddruss"],
+        "year": 1986,
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "location": "München",
+        "volume": 47,
+        "pages": "71--77",
+        "languages": {
+            "Domaaki": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "Gojri Grammar",
+        "author": ["Jagdish Chander Sharma"],
+        "year": 1982,
+        "publisher": "Central Institute of Indian Languages",
+        "location": "Mysore",
+        "series": "Grammar Series",
+        "seriesvolume": 9,
+        "languages": {
+            "Gojri": []
+        },
+        "topics": ["overview"],
+        "url": "https://english.bharatavani.in/book/gojri-grammar/"
+    },
+    {
+        "type": "book",
+        "title": "Gojri Phonetic Reader",
+        "author": ["Jagdish Chander Sharma"],
+        "year": 1983,
+        "publisher": "Central Institute of Indian Languages",
+        "location": "Mysore",
+        "series": "Phonetic Reader Series",
+        "seriesvolume": 19,
+        "languages": {
+            "Gojri": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Rajbanshi Grammar and Interlinearized Text",
+        "author": ["Tikaram Poudel"],
+        "year": 2006,
+        "publisher": "Lincom Europa",
+        "location": "München",
+        "series": "LINCOM Studies in Indo-European Linguistics",
+        "seriesvolume": 34,
+        "languages": {
+            "Kamtapuri": []
+        },
+        "topics": ["overview", "corpora"]
+    },
+    {
+        "type": "book",
+        "title": "A documentation of Rajbanshi language resource",
+        "author": ["Premananda Roy"],
+        "year": 2011,
+        "location": "Siliguri",
+        "publisher": "N.L. Publishers",
+        "languages": {
+            "Kamtapuri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Beyond Split-Ergativity: Subject Marking in Wakhi",
+        "author": ["Elena Bashir"],
+        "booktitle": "Proceedings of the 22nd Regional Meeting (CLS 22)",
+        "publisher": "Chicago Linguistic Society",
+        "location": "Chicago",
+        "year": 1986,
+        "pages": "14--35",
+        "languages": {
+            "Wakhi": []
+        },
+        "topics": ["syntax", "case and adpositions"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "SAY Quotatives in Northwest Indo-Aryan, Burushaski, Wakhi, and Balti",
+        "author": ["Elena Bashir"],
+        "booktitle": "10th Annual South Asian Languages Analysis Roundtable Conference (SALA)",
+        "location": "Seattle",
+        "year": 1988,
+        "languages": {
+            "Wakhi": [],
+            "Balti": [],
+            "Burushaski": []
+        },
+        "topics": ["discourse"]
+    },
+    {
+        "type": "inbook",
+        "title": "Khowar-Wakhi Contact Relationships",
+        "author": ["Elena Bashir"],
+        "booktitle": "Toḥfa-e-Dil : Festschrift Helmut Nespital",
+        "editor": ["Dirk W. Lönne"],
+        "publisher": "Fachpublikationen",
+        "year": 2001,
+        "languages": {
+            "Khowar": [],
+            "Wakhi": []
+        },
+        "topics": ["language contact"]
+    },
+    {
+        "type": "article",
+        "title": "Neuiranische Wortstudien. Zur Wakhi-Sprache in Hunza",
+        "author": ["Georg Buddruss"],
+        "year": 1974,
+        "journal": "Münchener Studien zur Sprachwissenschaft",
+        "location": "München",
+        "volume": 32,
+        "pages": "9--40",
+        "languages": {
+            "Wakhi": ["Hunza Valley"]
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "The Brahui Language",
+        "author": ["Mikail S. Andronov"],
+        "year": 1980,
+        "location": "Moscow",
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Brahui Language in Comparative Treatment",
+        "author": ["Mikail S. Andronov"],
+        "year": 2001,
+        "publisher": "Lincom Europa",
+        "location": "München",
+        "series": "LINCOM Language Research",
+        "seriesvolume": 1,
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["overview", "comparative"]
+    },
+    {
+        "type": "inbook",
+        "title": "A synoptic grammar and vocabulary of the Brahoe language",
+        "author": ["H. W. Belew"],
+        "year": 1874,
+        "booktitle": "From the Indus to the Tigris",
+        "location": "London",
+        "pages": "473--493",
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "A Contrastive Analysis of Brahui and Urdu",
+        "author": ["Elena Bashir"],
+        "year": 1991,
+        "publisher": "Academy for Educational Development",
+        "location": "Washington and Peshawar",
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "An Ethnolinguistic and Genetic Perspective on the Origins of the Dravidian-Speaking Brahui in Pakistan",
+        "author": ["Luca Pagani", "Vincenza Colonna", "Chris Tyler-Smith", "Qasim Ayub"],
+        "journal": "Man in India",
+        "volume": 97,
+        "number": 1,
+        "year": 2017,
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["genetics"],
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378296/"
+    },
+    {
+        "type": "book",
+        "title": "The Brahui Language: Part I (Introduction and Grammar)",
+        "author": ["D. S. Bray"],
+        "publisher": "Brahui Academy",
+        "location": "Quetta",
+        "url": "https://archive.org/details/TheBrahuiLanguagePart1",
+        "year": 1909,
+        "languages": {
+            "Brahui": ["Kalat"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Brahui Language: Part II (The Brahui Problem) and Part III (Etymological Vocabulary)",
+        "author": ["D. S. Bray"],
+        "publisher": "Brahui Academy",
+        "location": "Quetta",
+        "url": "https://archive.org/details/TheBrahuiLanguagePart2",
+        "year": 1934,
+        "languages": {
+            "Brahui": ["Kalat"]
+        },
+        "topics": ["historical", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "A Dictionary, English and Sindhi",
+        "author": ["George Stack"],
+        "year": 1849,
+        "publisher": "American Mission Press",
+        "location": "Bombay",
+        "url": "https://archive.org/details/dli.granth.53401",
+        "languages": {
+            "Sindhi": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Glossary of the Multani language compared with Punjábi and Sindhi",
+        "author": ["Edward O'Brien"],
+        "year": 1881,
+        "publisher": "Punjab Government Civil Secretariat Press",
+        "location": "Lahore",
+        "languages": {
+            "Saraiki": ["Multan"]
+        },
+        "topics": ["lexicography"],
+        "url": "https://archive.org/details/glossarymultani00obrgoog"
+    },
+    {
+        "type": "article",
+        "title": "Lexical Variation between two Saraiki Dialects (Multani and Riasti) in Southern Punjab Pakistan",
+        "author": ["Samina Sarwat", "Muhammad Imran", "Waheed Shahzad", "Numra Qayyum"],
+        "journal": "SYLWAN",
+        "volume": 164,
+        "number": 7,
+        "year": 2020,
+        "languages": {
+            "Saraiki": ["Dera Ghazi Khan", "Rahim Yar Khan District"]
+        },
+        "topics": ["lexicography", "dialectology"],
+        "url": "https://www.academia.edu/44759260/LEXICAL_VARIATION_BETWEEN_TWO_SARAIKI_DIALECTS_MULTANI_AND_RIASTI_IN_SOUTHERN_PUNJAB_PAKISTAN"
+    },
+    {
+        "type": "article",
+        "title": "Animal Commands of Garhwali and their Linguistic Implications",
+        "author": ["Anoop Chandra Chandola"],
+        "journal": "Word",
+        "volume": 19,
+        "number": 2,
+        "doi": " 10.1080/00437956.1963.11659795",
+        "pages": "203--207",
+        "languages": {
+            "Garhwali": []
+        },
+        "topics": ["semantics", "lexicography"],
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/00437956.1963.11659795",
+        "year": 1963
+    },
+    {
+        "type": "misc",
+        "title": "Segmental Sounds of Kumauni and Garhwali: An Analytical Comparison",
+        "author": ["Sweta Sinha", "Radhika Gopalakrishnan Raghavan"],
+        "languages": {
+            "Garhwali": ["Pauri Garhwal District"],
+            "Kumaoni": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.academia.edu/28676903/Segmental_Sounds_of_Kumauni_and_Garhwali_An_Analytical_Comparison",
+        "year": "2020?"
+    },
+    {
+        "type": "book",
+        "title": "Gaṛʰvālī Bolī",
+        "author": ["Govind Cātak"],
+        "year": 1959,
+        "publisher": "Mohinī Prakāśan",
+        "url": "https://archive.org/details/in.ernet.dli.2015.347446/",
+        "languages": {
+            "Garhwali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "On the Origin of the Neo Indo-Aryan Pahāḍī Language of Uttarakhand and Western Nepal Himalaya",
+        "author": ["Maheshwar P. Joshi"],
+        "journal": "Lingua Posnaiensis",
+        "volume": 52,
+        "number": 2,
+        "year": 2010,
+        "url": "https://cyberleninka.org/article/n/1348740/viewer",
+        "publisher": "The Poznań Society for the Advancement of the Arts and Sciences",
+        "languages": {
+            "Kumaoni": [],
+            "Garhwali": [],
+            "Nepali": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "An Outline of Kumauni Grammar",
+        "author": ["Mahadev L. Apte", "Debi Prasanna Pattanayak"],
+        "year": 1967,
+        "publisher": "Duke University",
+        "location": "Durham",
+        "languages": {
+            "Kumaoni": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The formation of Kumauni language",
+        "author": ["D. D. Sharma"],
+        "year": 1985,
+        "publisher": "Bahri Publications",
+        "languages": {
+            "Kumaoni": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Linguistic Geography of Kumaun Himalayas",
+        "author": ["D. D. Sharma"],
+        "year": 1994,
+        "publisher": "Mittal Publications",
+        "languages": {
+            "Kumaoni": []
+        },
+        "url": "https://www.google.com/books/edition/Linguistic_Geography_of_Kumaun_Himalayas/UMcGPHBpOd0C?hl=en&gbpv=0",
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A grammar of the Hindí language: in which are treated the High Hindí, Braj, and the Eastern Hindí of the Rámáyan of Tulsí Dás, also the colloquial dialects of Rájputáná, Kumáon, Avadh, Ríwá, Bhojpúr, Magadha, Maithila, etc.; with copious philological notes",
+        "author": ["S. H. Kellogg"],
+        "location": "London",
+        "publisher": "Kegan Paul, Trench, Trübner, and Co",
+        "year": 1893,
+        "url": "https://archive.org/details/grammarofhindl00kell/",
+        "languages": {
+            "Hindi-Urdu": [],
+            "Braj": [],
+            "Awadhi": [],
+            "Kannauji": [],
+            "Bagheli": [],
+            "Marwari": [],
+            "Kumaoni": [],
+            "Bhojpuri": [],
+            "Magahi": [],
+            "Nepali": [],
+            "Maithili": []
+        },
+        "topics": ["overview", "dialectology", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "The Consonant /s/ in the Jumli Dialect",
+        "author": ["Ram B. Sijapati"],
+        "journal": "Nepalese Linguistics",
+        "volume": 14,
+        "year": 1997,
+        "url": "http://www.digitalhimalaya.com/collections/journals/nepling/nepling_toc.php",
+        "languages": {
+            "Jumli": ["Jumla District"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Grammatical person in the Jumli dialect",
+        "author": ["Ram B. Sijapati"],
+        "journal": "Nepalese Linguistics",
+        "volume": 11,
+        "year": 1994,
+        "url": "http://www.digitalhimalaya.com/collections/journals/nepling/nepling_toc.php",
+        "languages": {
+            "Jumli": ["Jumla District"]
+        },
+        "topics": ["morphology", "syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Prajñā Jumlī-Nepālī Śabdkoś",
+        "author": ["Ram B. Sijapati"],
+        "publisher": "Nepāl Prajñā-Pratiṣṭʰān",
+        "year": 2016,
+        "languages": {
+            "Jumli": ["Jumla District"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Prajñā Jumlī-Nepālī Śabdkoś",
+        "author": ["Ram B. Sijapati"],
+        "publisher": "Nepāl Prajñā-Pratiṣṭʰān",
+        "year": 2016,
+        "languages": {
+            "Jumli": ["Jumla District"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Basic Course in Jumli",
+        "author": ["Chudamani Bandhu"],
+        "year": 1984,
+        "location": "Kathmandu",
+        "languages": {
+            "Jumli": []
+        },
+        "topics": ["overview", "pedagogical"]
+    },
+    {
+        "type": "book",
+        "title": "Nepali Grammar and Vocabulary",
+        "author": ["A. Turnbull"],
+        "year": 1887,
+        "languages": {
+            "Nepali": []
+        },
+        "url": "https://archive.org/details/nepaligrammarvoc0000turn",
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Nepali Language: Its History and Development",
+        "author": ["Dayanand Srivastava"],
+        "publisher": "Calcutta University",
+        "year": 1962,
+        "url": "https://archive.org/details/srivastava-nepali-language-its-history-and-development-1962/",
+        "languages": {
+            "Nepali": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Grammar of Pahari",
+        "author": ["Omkareshwor Shrestha"],
+        "year": 2012,
+        "publisher": "Tribhuvan University",
+        "languages": {
+            "Kodpa": ["Badikhel"]
+        },
+        "url": "https://archive.org/details/AGrammarOfPahariPhDDissertationByOmkareshworShrestha/",
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Korku Phonology",
+        "author": ["K. S. Nagaraja"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "year": 1985,
+        "volume": 44,
+        "pages": "113--119",
+        "url": "https://www.jstor.org/stable/42930121",
+        "languages": {
+            "Korku": ["Salona"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Reduplication in Korku",
+        "author": ["K. S. Nagaraja"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "year": 1990,
+        "volume": 49,
+        "pages": "279--283",
+        "url": "https://www.jstor.org/stable/42930296",
+        "languages": {
+            "Korku": ["Salona"]
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "book",
+        "title": "Bengali Language Handbook",
+        "year": 1966,
+        "author": ["Punya Sloka Ray"],
+        "publisher": "Central for Applied Linguistics",
+        "location": "Washington",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["overview"],
+        "url": "https://files.eric.ed.gov/fulltext/ED012914.pdf"
+    },
+    {
+        "type": "article",
+        "title": "The Phonemes of Bengali",
+        "author": ["Charles A. Ferguson", "Munier Chowdhury"],
+        "journal": "Language",
+        "year": 1960,
+        "volume": 36,
+        "number": 1,
+        "pages": "22--59",
+        "url": "https://www.jstor.org/stable/410622",
+        "languages": {
+            "Bengali": ["Kolkata"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "inbook",
+        "title": "The intonational phonology of Bangladeshi Standard Bengali",
+        "author": ["Sameer ud Dowla Khan"],
+        "doi": "10.1093/acprof:oso/9780199567300.003.0004",
+        "booktitle": "Prosodic Typology II: The Phonology of Intonation and Phrasing",
+        "editor": ["Sun-Ah Jun"],
+        "publisher": "Oxford University Press",
+        "year": 2014,
+        "url": "https://www.reed.edu/linguistics/khan/assets/Khan%202014%20The%20intonational%20phonology%20of%20Bangladeshi%20Standard%20Bengali.pdf",
+        "languages": {
+            "Bengali": ["Dhaka"]
+        },
+        "topics": ["intonation", "prosody"]
+    },
+    {
+        "type": "thesis",
+        "title": "Intonational Phonology and Focus Prosody of Bengali",
+        "author": ["Sameer ud Dowla Khan"],
+        "publisher": "University of California, Los Angeles",
+        "year": 2008,
+        "url": "https://www.reed.edu/linguistics/khan/assets/Khan2008-Dissertation.pdf",
+        "languages": {
+            "Bengali": ["Dhaka"]
+        },
+        "topics": ["intonation", "prosody"]
+    },
+    {
+        "type": "book",
+        "title": "The Origin and Development of the Bengali Language",
+        "author": ["Suniti Kumar Chatterjee"],
+        "year": 1926,
+        "publisher": "Calcutta University",
+        "url": "https://archive.org/details/OriginDevelopmentOfBengali/CHATTERJI_Origin-Development-of-Bengali_Vol-1/",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["historical", "dialectology", "comparative"]
     }
 ]
