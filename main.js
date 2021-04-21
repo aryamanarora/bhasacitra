@@ -168,15 +168,16 @@ function load(coord, ref, data, world) {
             })
 
     var stored_coords = {}
+    function comp(a, b) {
+        var x = a.year, y = b.year
+        if (x == "n.d") x = 0
+        if (y == "n.d") y = 0
+        if (x.length >= 4) x = x.substr(0, 4)
+        if (y.length >= 4) y = y.substr(0, 4)
+        return (+x < +y) ? 1 : ((+x > +y) ? -1 : 0)
+    }
     for (lang in langs) {
-        function comp(a, b) {
-            var x = a.year, y = b.year
-            if (x == "n.d") x = 0
-            if (y == "n.d") y = 0
-            if (x.length >= 4) x = x.substr(0, 4)
-            if (y.length >= 4) y = y.substr(0, 4)
-            return (+x < +y) ? 1 : ((+x > +y) ? -1 : 0)
-        }
+        console.log(lang)
         refs[lang].sort(comp)
         var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
         stored_coords[lang] = loc
