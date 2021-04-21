@@ -77,6 +77,7 @@
             <ul id="board" class="mt-3" style="overflow-y: scroll;"></ul>
         </div>
     </body>
+    <script src="helpers.js"></script>
     <script>
         const options = {
             isCaseSensitive: false,
@@ -118,11 +119,8 @@
                     find = fuse.search(search)
                     count.text(find.length)
                     find.forEach(z => {
-                        x = z.item
-                        var note = `${x.author.join(', ')} (${x.year}). ${(x.type == 'article' || x.type == 'inproceedings') ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
-                        if (x.journal) note += ` In <em>${x.journal}</em>${x.volume ? (' ' + x.volume) : ''}${x.number ? ('(' + x.number + ')') : ''}.`
-                        if (x.booktitle) note += ` In <em>${x.booktitle}</em> ${x.editor ? '(' + x.editor.join(', ') + ')' : ""}.`
-                        if (x.url) note += ` <a href="${x.url}">link</a>`
+                        var x = z.item
+                        var note = make_ref(x)
                         for (language in x.languages) {
                             note += ` <span class="badge bg-secondary">${language}</span>`
                         }

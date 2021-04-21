@@ -946,7 +946,7 @@
         "pages": "113-122",
         "year": 1972,
         "languages": {
-            "Irula": ["The Nilgiris District"]
+            "Irula": []
         },
         "topics": ["overview"]
     },
@@ -2512,6 +2512,21 @@
         "topics": ["overview"]
     },
     {
+        "type": "article",
+        "title": "The Intransitive and Transitive Suffixes of Kui",
+        "author": ["P. S. Subrahmanyam"],
+        "year": 1965,
+        "journal": "Journal of the American Oriental Societ",
+        "volume": 85,
+        "number": 4,
+        "pages": "551-565",
+        "languages": {
+            "Kui": []
+        },
+        "topics": ["morphology"],
+        "url": "https://www.jstor.org/stable/596723"
+    },
+    {
         "type": "book",
         "title": "A Grammar of the Kuvi language",
         "author": ["M. Israel"],
@@ -3810,7 +3825,7 @@
         "year": 1980,
         "publisher": "Deccan College Post Graduate and Research Institute Pune",
         "languages": {
-            "Kondekor Gadaba": ["Srikakulam District"]
+            "Gadaba": ["Srikakulam District"]
         },
         "topics": ["overview"]
     },
@@ -10205,6 +10220,21 @@
         "topics": ["overview"]
     },
     {
+        "type": "article",
+        "title": "The Evolution of the Present Perfect in Pengo",
+        "author": ["S. Steever"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 104,
+        "number": 4,
+        "year": 1984,
+        "pages": "621--648",
+        "url": "https://www.jstor.org/stable/601896",
+        "languages": {
+            "Pengo": []
+        },
+        "topics": ["historical", "morphology"]
+    },
+    {
         "type": "book",
         "title": "Kurukh Folk-lore, in the original",
         "author": ["Ferdinand Hahn"],
@@ -11040,5 +11070,678 @@
             "Ishkashimi": ["Ishkashim", "Bahar Bazar", "Xermani", "Zargaran"]
         },
         "topics": ["overview", "sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Parsi Gujarati: Vanishing dialect - Vanishing culture",
+        "author": ["Bharati Modi"],
+        "year": 2011,
+        "publisher": "Lincom Europa",
+        "location": "München",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["dialectology", "overview", "ethnography"]
+    },
+    {
+        "type": "book",
+        "title": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Karumuri V. Subbarao"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Gujarati": [],
+            "Hindi-Urdu": [],
+            "Telugu": [],
+            "Marathi": [],
+            "Maithili": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "An Etymological Gujarati English Dictionary",
+        "author": ["Malhar Bhikaji Belsare"],
+        "year": 1904,
+        "url": "https://archive.org/details/in.ernet.dli.2015.325084/",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Lexical Anaphors and Pronouns in Selected South Asian Languages: A Principled Typology",
+        "editor": ["Barbara C. Lust", "Kashi Wali", "James W. Gair", "K. V. Subbarao"],
+        "publisher": "De Gruyter Mouton",
+        "year": 2000,
+        "languages": {
+            "Kannada": [],
+            "Malayalam": [],
+            "Tamil": [],
+            "Telugu": [],
+            "Bengali": [],
+            "Gujarati": [],
+            "Hindi-Urdu": [],
+            "Kashmiri": [],
+            "Marathi": [],
+            "Odia": [],
+            "Punjabi": [],
+            "Sinhala": [],
+            "Mizo": [],
+            "Juang": []
+        },
+        "topics": ["syntax", "morphology"],
+        "doi": "10.1515/9783110818888"
+    },
+    {
+        "type": "article",
+        "title": "Historical Phonology of Gujarati Vowels",
+        "author": ["P. B. Pandit"],
+        "journal": "Language",
+        "volume": 37,
+        "number": 1,
+        "year": 1961,
+        "pages": "54--66",
+        "languages": {
+            "Gujarati": []
+        },
+        "url": "https://www.jstor.org/stable/411249",
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Gujrātī Phonology",
+        "author": ["T. N. Dave"],
+        "journal": "Bulletin of the School of Oriental Studies, University of London",
+        "volume": 6,
+        "number": 3,
+        "pages": "673--678",
+        "year": 1931,
+        "languages": {
+            "Gujarati": []
+        },
+        "url": "https://www.jstor.org/stable/607202",
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The Grammar of Simple Clauses in Mizo",
+        "author": ["Lalnunthangi Chhangte"],
+        "journal": "Papers in South-East Asian Linguistics",
+        "volume": 11,
+        "year": 1989,
+        "url": "http://sealang.net/sala/archives/pdf4/chhangte1989grammar.pdf",
+        "languages": {
+            "Mizo": ["Lunglei"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Mizo Syntax",
+        "author": ["Lalnunthangi Chhangte"],
+        "publisher": "University of Oregon",
+        "year": 1993,
+        "languages": {
+            "Mizo": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "mastersthesis",
+        "title": "A preliminary grammar of the Mizo language",
+        "author": ["Lalnunthangi Chhangte"],
+        "publisher": "University of Texas at Arlington",
+        "year": 1986,
+        "languages": {
+            "Mizo": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Dolakha Newar",
+        "author": ["Carol Genetti"],
+        "year": 2009,
+        "publisher": "De Gruyter",
+        "languages": {
+            "Dolakha Newar": ["Dolakha"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Baram",
+        "author": ["Tej R. Kanasakar", "Yogendra P. Yadava", "Krishna Prasad Chalise", "Balaram Prasain", "Dubi Nanda Dhakal", "Krishna Paudel"],
+        "year": 2011,
+        "publisher": "Tribhuvan University",
+        "languages": {
+            "Baram": ["Gorkha District"]
+        },
+        "topics": ["overview"],
+        "url": "https://www.jcu.edu.au/__data/assets/pdf_file/0012/1099587/A_Grammar_of_Baram.pdf"
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Limbu",
+        "author": ["George van Driem"],
+        "year": 1987,
+        "publisher": "De Gruyter Mouton",
+        "location": "New York and Berlin",
+        "languages": {
+            "Limbu": ["Tehrathum District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Dumi",
+        "author": ["George van Driem"],
+        "year": 1993,
+        "publisher": "De Gruyter Mouton",
+        "location": "New York and Berlin",
+        "languages": {
+            "Dumi": ["Sapteshwar", "Sasarka", "Baksila"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Grammaticale verkenning van het Bumthang",
+        "author": ["George van Driem"],
+        "year": 1995,
+        "publisher": "Research School for Asian, African and Amerindian Studies",
+        "location": "Leiden",
+        "languages": {
+            "Bumthang": ["Bumthang District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Aspects of Chintang Syntax",
+        "author": ["Netra P. Paudyal"],
+        "publisher": "University of Zurich",
+        "url": "https://www.zora.uzh.ch/id/eprint/113367/1/Paudyal-PhD-Thesis-Phil.pdf",
+        "year": 2013,
+        "languages": {
+            "Chintang": ["Chintang"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Tense and aspect in Chhulung",
+        "author": ["Man Kumari Limbu"],
+        "year": 2012,
+        "journal": "Nepalese Linguistics",
+        "volume": 27,
+        "pages": "85--88",
+        "languages": {
+            "Chhulung": ["Ankhisalla"]
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "thesis",
+        "title": "Conformity and Self-Expression: A Study of the Lohorung Rai of East Nepal",
+        "author": ["Charlotte Elizabeth Hardman"],
+        "publisher": "University of London",
+        "year": 1990,
+        "location": "London",
+        "url": "https://eprints.soas.ac.uk/28623/1/10672783.pdf",
+        "languages": {
+            "Lohorung": ["Sankhuwasabha District"]
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "misc",
+        "title": "Lohorung Dictionary",
+        "author": ["SIL International"],
+        "publisher": "SIL International",
+        "year": 2017,
+        "url": "https://www.webonary.org/lohorung/?lang=en",
+        "languages": {
+            "Lohorung": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "The Origins of the Past Negative in Konda",
+        "author": ["S. Steever"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 107,
+        "number": 1,
+        "year": 1987,
+        "languages": {
+            "Konda": []
+        },
+        "topics": ["historical", "morphology"],
+        "url": "https://www.jstor.org/stable/602953"
+    },
+    {
+        "type": "book",
+        "title": "Tulu Lexicon",
+        "author": ["K. S. Haridas Bhat", "U. P. Upadhyaya"],
+        "year": "1988--1997",
+        "location": "Udupi",
+        "publisher": "Rashtrakavi Govinda Pai Samshodhan Kendra, MGM College",
+        "url": "https://tuludictionary.in/dictionary/cgi-bin/web/frame.html",
+        "languages": {
+            "Tulu": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Some Origins of Kota -j(-)",
+        "author": ["M. B. Emeneau"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 120,
+        "number": 2,
+        "year": 2000,
+        "pages": "231--233",
+        "languages": {
+            "Kota": ["The Nilgiris District"]
+        },
+        "topics": ["historical", "phonetics/phonology"],
+        "url": "https://www.jstor.org/stable/605026"
+    },
+    {
+        "type": "book",
+        "title": "Kota Texts (Parts One--Four)",
+        "author": ["M. B. Emeneau"],
+        "year": "1944--1946",
+        "publisher": "University of California Press",
+        "location": "Berkeley",
+        "languages": {
+            "Kota": []
+        },
+        "topics": ["corpora"],
+        "url": "https://archive.org/search.php?query=%22kota%20texts%22"
+    },
+    {
+        "type": "book",
+        "title": "Grammar of Kota",
+        "author": ["Govindarajulu Subbiah"],
+        "year": 1985,
+        "location": "Annamalainagar",
+        "publisher": "Annamalai University",
+        "languages": {
+            "Kota": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Reflexes of Proto-Dravidian ẓ in Kaikaːḍi (Kulu)",
+        "author": ["J. Sujatha"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 38,
+        "number": "1/4",
+        "pages": "136--142",
+        "url": "https://www.jstor.org/stable/42931059",
+        "year": "1978--1979",
+        "languages": {
+            "Kaikadi": ["Pune"]
+        },
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": " A semantic study of kinship terms in Kuḷu (Kaikaːḍi)",
+        "author": ["J. Sujatha"],
+        "journal": "Bulletin of the Deccan College Post-Graduate and Research Institute",
+        "volume": 40,
+        "pages": "54--59",
+        "url": "https://www.jstor.org/stable/42931104",
+        "year": 1981,
+        "languages": {
+            "Kaikadi": []
+        },
+        "topics": ["semantics"]
+    },
+    {
+        "type": "article",
+        "title": "Gadba Supplement",
+        "author": ["T. Burrow", "S. Bhattacharya"],
+        "journal": "Indo-Iranian Journal",
+        "volume": 6,
+        "number": 1,
+        "pages": "45--51",
+        "year": 1962,
+        "url": "https://www.jstor.org/stable/24646758",
+        "languages": {
+            "Gadaba": ["Pottangi", "Salur"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Ollari: A Dravidian speech",
+        "author": ["S. Bhattacharya"],
+        "publisher": "Dept. of Anthropology, Govt. of India",
+        "location": "Delhi",
+        "year": 1956,
+        "languages": {
+            "Gadaba": ["Lamtaput"]
+        },
+        "topics": ["overview"],
+        "url": "http://www.tamilvu.org/library/nationalized/scholars/pdf/others/tcl/ollari_1957.pdf"
+    },
+    {
+        "type": "book",
+        "title": "Ollar Gadaba of Koraput",
+        "author": ["K. N. Thusu", "M. Jha"],
+        "publisher": "Anthropological Survey of India",
+        "location": "Calcutta",
+        "languages": {
+            "Gadaba": []
+        },
+        "year": 1969,
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Irula language, a close relative of Tamil",
+        "author": ["Gerard F. Diffloth"],
+        "publisher": "University of California, Los Angeles",
+        "location": "Los Angeles",
+        "year": 1968,
+        "languages": {
+            "Irula": []
+        },
+        "topics": ["overview"],
+        "url": "https://linguistics.ucla.edu/general/dissertations/Diffloth.1968.pdf"
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Analysis of Urali",
+        "author": ["Sam Mohan Lal"],
+        "publisher": "Central Institute of Indian Languages",
+        "location": "Mysore",
+        "year": 1991,
+        "languages": {
+            "Irula": []
+        },
+        "topics": ["overview"],
+        "url": "https://irula.bharatavani.in/book/a-descriptive-analysis-of-urali-speech-of-a-dravidian-hill-tribe/"
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Irula Language",
+        "author": ["R. Perialwar"],
+        "year": 1978,
+        "languages": {
+            "Irula": ["Coonoor"]
+        },
+        "topics": ["overview"],
+        "publisher": "Annamalai University",
+        "location": "Annamalainagar"
+    },
+    {
+        "type": "book",
+        "title": "Texts and Grammar of Malto",
+        "author": ["Masato Kobayashi"],
+        "year": 2012,
+        "publisher": "Kotoba Books",
+        "location": "Vizianagaram",
+        "languages": {
+            "Malto": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Introduction to the Malto Language and the Malto Vocabulary",
+        "author": ["E. Droese"],
+        "year": 1884,
+        "publisher": "Secundra Orphanage Press",
+        "location": "Agra",
+        "languages": {
+            "Malto": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Origin of redundant agreement in Malto -ke converb",
+        "author": ["Masato Kobayashi"],
+        "year": 2015,
+        "booktitle": "V. I. Subramoniam Commemoration Volume, Vol. 1",
+        "publisher": "Dravidian Linguistics Association",
+        "location": "Thiruvananthapuram",
+        "pages": "485--493",
+        "url": "http://gengo.l.u-tokyo.ac.jp/masatok/Malto_converb.pdf",
+        "languages": {
+            "Malto": []
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Structure of Verbs in Malto",
+        "author": ["Chaitra Puttaswamy"],
+        "journal": "Journal of South Asian Linguistics",
+        "volume": 2,
+        "number": 1,
+        "year": 2009,
+        "url": "https://ojs.ub.uni-konstanz.de/jsal/index.php/jsal/article/view/12",
+        "languages": {
+            "Malto": []
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Multi-verb constructions in Malto",
+        "author": ["Chaitra Puttaswamy"],
+        "journal": "Journal of South Asian Languages and Linguistics",
+        "volume": 5,
+        "number": 1,
+        "year": 2018,
+        "doi": "10.1515/jsall-2018-0001",
+        "languages": {
+            "Malto": ["Garsingla"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Descriptive Analysis of Verbs in Malto",
+        "author": ["Chaitra Puttaswamy"],
+        "publisher": "University of London",
+        "year": 2009,
+        "url": "https://eprints.soas.ac.uk/28762/1/10672930.pdf",
+        "languages": {
+            "Malto": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Phonology and Morphology of Gondi (with special reference to the Parsi Gondi of Mandla and the Gondi of Balaghat and Betul)",
+        "author": ["Pandurang Achar"],
+        "publisher": "Pt. Ravishankar Shukla University",
+        "year": 1971,
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/90171",
+        "languages": {
+            "Gondi": ["Mandla", "Balaghat", "Betul"]
+        },
+        "topics": ["overview", "phonetics/phonology", "morphology"]
+    },
+    {
+        "type": "book",
+        "title": "A Descriptive Grammar of Gondi",
+        "author": ["P. S. Subrahmanyam"],
+        "year": 1968,
+        "languages": {
+            "Gondi": ["Adilabad District"],
+            "Koya": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Gondi Grammar and Vocabulary",
+        "author": ["H. D. Williamson"],
+        "year": 1889,
+        "url": "https://archive.org/details/gondigrammarvoca00willrich",
+        "publisher": "Society for Promoting Christian Knowledge",
+        "location": "London",
+        "languages": {
+            "Gondi": ["Mandla"]
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "The development of personal pronouns in modern Gondi",
+        "booktitle": "Studies in the Linguistic Sciences: Papers from the 1986 South Asian Languages Analysis Roundtable",
+        "pages": "35--50",
+        "author": ["U. Rao Garapati"],
+        "year": 1987,
+        "editor": ["H. H. Hock"],
+        "languages": {
+            "Gondi": []
+        },
+        "topics": ["dialectology", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "Koya: An Outline Grammar",
+        "year": 1969,
+        "author": ["Stephen A. Tyler"],
+        "publisher": "University of California Press",
+        "location": "Berkeley",
+        "languages": {
+            "Koya": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Bhadrachellam and Rekapalli Tâluqas: the Koi language",
+        "author": ["J. Cain"],
+        "year": 1881,
+        "publisher": "Indian Antiquary",
+        "languages": {
+            "Koya": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Koya Language Morphology and Patterns of Kinship Behavior",
+        "author": ["Stephen A. Tyler"],
+        "journal": "American Anthropologist",
+        "year": 1965,
+        "volume": 67,
+        "number": 6,
+        "pages": "1428--1440",
+        "url": "https://www.jstor.org/stable/669156",
+        "languages": {
+            "Koya": ["East Godavari District"]
+        },
+        "topics": ["morphology", "semantics"]
+    },
+    {
+        "type": "article",
+        "title": "Elements of Kurux Historical Linguistics",
+        "author": ["Mikail S. Andronov"],
+        "year": 1974,
+        "journal": "Anthropos",
+        "volume": 69,
+        "number": "1/2",
+        "url": "https://www.jstor.org/stable/40458519",
+        "languages": {
+            "Kurux": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "The Stative Passive Construction in Kurux",
+        "author": ["Masato Kobayashi"],
+        "year": 2013,
+        "journal": "Tokyo University Linguistic Papers",
+        "volume": 33,
+        "pages": "119--131",
+        "languages": {
+            "Kurux": [],
+            "Malto": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Kuḍux Indicatives",
+        "author": ["D. N. Shankara Bhat"],
+        "year": "1969--1970",
+        "journal": "Indo-Iranian Journal",
+        "volume": 12,
+        "number": 3,
+        "pages": "216--223",
+        "url": "https://www.jstor.org/stable/24650699",
+        "languages": {
+            "Kurux": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Some Aspects of the Jaffna Tamil Verbal System",
+        "author": ["J. Gair", "S. Suseendirarajah"],
+        "year": 1998,
+        "booktitle": "Sinhala and other South Asian languages",
+        "editor": ["James W. Gair", "Barbara C. Lust"],
+        "publisher": "Oxford University Press",
+        "location": "New York and Oxford",
+        "languages": {
+            "Tamil": ["Jaffna"]
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "book",
+        "title": "The Kollimalai Tamil dialect",
+        "author": ["K. Karunakaran"],
+        "year": 1971,
+        "publisher": "Annamalai University",
+        "location": "Annamalainagar",
+        "languages": {
+            "Tamil": ["Kolli Hills"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Tirunelveli Tamil Dialect",
+        "author": ["A. Kamatchinathan"],
+        "year": 1969,
+        "publisher": "Annamalai University",
+        "location": "Annamalainagar",
+        "languages": {
+            "Tamil": ["Tirunelveli"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Note sur les prédications expérientielles en tamoul classique",
+        "year": 2004,
+        "author": ["Appasamy Murugaiyan"],
+        "journal": "Bulletin de la Société de Linguistique de Paris",
+        "volume": 99,
+        "pages": "363--382",
+        "url": "https://www.academia.edu/15548580/Note_sur_les_pr%C3%A9dications_exp%C3%A9rientielles_en_tamoul_classique",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": []
     }
 ]

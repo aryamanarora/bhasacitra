@@ -45,3 +45,14 @@ var averageRGB = (function () {
 function calculateRadius(number) {
     return Math.min(15, Math.log(1.5 + number) * 5)
 }
+
+function make_ref(x) {
+    var note = ''
+    if (('editor' in x) && !('author' in x)) note += x.editor.join(', ')
+    else note += x.author.join(', ')
+    note += ` (${x.year}). ${(x.type == 'article' || x.type == 'inproceedings') ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
+    if (x.journal) note += ` In <em>${x.journal}</em>${x.volume ? (' ' + x.volume) : ''}${x.number ? ('(' + x.number + ')') : ''}.`
+    if (x.booktitle) note += ` In <em>${x.booktitle}</em> ${x.editor ? '(' + x.editor.join(', ') + ')' : ""}.`
+    if (x.url) note += ` <a href="${x.url}">link</a>`
+    return note
+}
