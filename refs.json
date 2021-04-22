@@ -1147,7 +1147,7 @@
         "year": 1984,
         "publisher": "American Philosophical Society",
         "languages": {
-            "Toda": ["The Nilgiris District"]
+            "Toda": ["Ooty"]
         },
         "topics": ["overview", "corpora"],
         "url": "https://www.google.com/books/edition/Toda_Grammar_and_Texts/-B94uj2p4hQC?hl=en"
@@ -9393,7 +9393,9 @@
         "publisher": "Punjab Government Civil Secretariat Press",
         "location": "Lahore",
         "languages": {
-            "Saraiki": ["Multan"]
+            "Saraiki": ["Multan"],
+            "Punjabi": [],
+            "Sindhi": []
         },
         "topics": ["lexicography"],
         "url": "https://archive.org/details/glossarymultani00obrgoog"
@@ -11491,8 +11493,9 @@
         "publisher": "Kotoba Books",
         "location": "Vizianagaram",
         "languages": {
-            "Malto": []
+            "Malto": ["Littipara", "Ranga", "Amrapara", "Sunderpahari", "Maheshpur, Pakur", "Hiranpur", "Boarijor"]
         },
+        "url": "http://www.gengo.l.u-tokyo.ac.jp/masatok/TGM2017.pdf",
         "topics": ["overview"]
     },
     {
@@ -11743,5 +11746,774 @@
             "Tamil": []
         },
         "topics": []
+    },
+    {
+        "type": "book",
+        "title": "Manda-English Dictionary",
+        "author": ["B. Ramakrishna Reddy"],
+        "year": 2009,
+        "publisher": "Central Institute of Indian Languages",
+        "location": "Mysore",
+        "languages": {
+            "Manda": ["Nabarangpur"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Tiyya Dialect",
+        "author": ["C. J. Roy"],
+        "year": 1969,
+        "publisher": "University of Kerala",
+        "location": "Trivandrum",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/164304",
+        "languages": {
+            "Malayalam": ["Kannur District", "Kozhikode"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Historical Grammar of Early Old Malayalam",
+        "author": ["K. M. Narayana Menon"],
+        "year": 1965,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/149013",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["historical", "overview"]
+    },
+    {
+        "type": "article",
+        "title": "From Proto-Tamil-Malayalam to West Coast Dialects",
+        "author": ["A. Govindankutty"],
+        "year": 1972,
+        "journal": "Indo-Iranian Journal",
+        "volume": 14,
+        "issue": "1/2",
+        "pages": "52--60",
+        "url": "https://www.jstor.org/stable/24651352",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["historical", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Some Observations on Seventeenth Century Malayalam",
+        "author": ["A. Govindankutty"],
+        "year": 1983,
+        "journal": "Indo-Iranian Journal",
+        "volume": 25,
+        "issue": 4,
+        "pages": "241--273",
+        "url": "https://www.jstor.org/stable/24653967",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["historical", "overview"]
+    },
+    {
+        "type": "article",
+        "title": "Personal Pronouns and Pronominal Forms in Malayalam",
+        "author": ["A. Chandrasekhar"],
+        "year": 1970,
+        "journal": "Anthropological Linguistics",
+        "volume": 12,
+        "issue": 7,
+        "pages": "246--255",
+        "url": "https://www.jstor.org/stable/30029258",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "book",
+        "title": "The Evolution of Malayalam Morphology",
+        "author": ["L. V. Ramaswamy Ayyar"],
+        "year": 1936,
+        "url": "https://archive.org/details/TheEvolutionOfMalayalamMorphology",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["morphology", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "Phonology of Toda with Vocabulary",
+        "author": ["S. Sakthivel"],
+        "year": 1976,
+        "publisher": "Annamalai University",
+        "location": "Annamalainagar",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["phonetics/phonology", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Toda songs",
+        "author": ["M. B. Emeneau"],
+        "year": 1971,
+        "publisher": "Clarendon Press",
+        "location": "Oxford",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["corpora"],
+        "url": "https://archive.org/details/todasongs0000emen"
+    },
+    {
+        "type": "article",
+        "title": "Ritual Structure and Language Structure of the Todas",
+        "author": ["M. B. Emeneau"],
+        "journal": "Transactions of the American Philosophical Society",
+        "volume": 64,
+        "number": 4,
+        "year": 1974,
+        "pages": "1--103",
+        "languages": {
+            "Toda": []
+        },
+        "url": "https://www.jstor.org/stable/1006327",
+        "topics": ["ethnography", "overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Toda Reflex of Proto-Dravidian *l and *ḷ",
+        "author": ["P. S. Subrahmanyam"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 97,
+        "number": 2,
+        "year": 1977,
+        "pages": "178--181",
+        "languages": {
+            "Toda": []
+        },
+        "url": "https://www.jstor.org/stable/599006",
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Proto-Dravidian *c-: Toda t-",
+        "author": ["M. B. Emeneau"],
+        "journal": "Bulletin of the School of Oriental and African Studies",
+        "volume": 15,
+        "number": 1,
+        "year": 1953,
+        "pages": "98--112",
+        "languages": {
+            "Toda": []
+        },
+        "url": "https://www.jstor.org/stable/608887",
+        "topics": ["historical", "phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Toda Vowels in Non-Initial Syllables",
+        "author": ["M. B. Emeneau"],
+        "journal": "Bulletin of the School of Oriental and African Studies",
+        "volume": 42,
+        "number": 2,
+        "year": 1979,
+        "pages": "225--234",
+        "languages": {
+            "Toda": []
+        },
+        "url": "https://www.jstor.org/stable/608887",
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The trills of Toda",
+        "author": ["S. Spajić", "Peter Ladefoged", "Peri Bhaskararao"],
+        "journal": "Journal of the International Phonetic Association",
+        "volume": 26,
+        "number": 1,
+        "year": 1996,
+        "pages": "1--21",
+        "languages": {
+            "Toda": []
+        },
+        "url": "https://www.jstor.org/stable/44526193",
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Timing constraints within gestures: A re-examination of Toda sibilants",
+        "author": ["Peri Bhaskararao", "Peter Ladefoged"],
+        "journal": "Indian Linguistics",
+        "volume": 70,
+        "year": 2009,
+        "pages": "73--78",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Toda Verbal Stem Alternants",
+        "author": ["Peri Bhaskararao"],
+        "booktitle": "Research on Minority Languages of South and South-East Asia – Working Papers Vol. 2",
+        "editor": ["Peri Bhaskararao"],
+        "year": 2007,
+        "pages": "119--141",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Toda Verbal Paradigms – Past, Non-past and Negative",
+        "author": ["Peri Bhaskararao"],
+        "booktitle": "Research on Minority Languages of South and South-East Asia",
+        "year": 2006,
+        "pages": "119--141",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Phonetics of Toda",
+        "author": ["Michael Shalev", "Peter Ladefoged", "Peri Bhaskararao"],
+        "journal": "PILC Journal of Dravidic Studies",
+        "volume": 4,
+        "number": 1,
+        "year": 1994,
+        "pages": "19--56",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Songs of the Toda",
+        "author": ["Tsuyoshi Nara", "Peri Bhaskararao"],
+        "location": "Osaka",
+        "year": 2003,
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "book",
+        "title": "Toda Texts",
+        "author": ["Tsuyoshi Nara", "Peri Bhaskararao"],
+        "location": "Osaka",
+        "year": 2002,
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "book",
+        "title": "Toda Vocabulary -- A Preliminary List",
+        "author": ["Tsuyoshi Nara", "Peri Bhaskararao"],
+        "location": "Osaka",
+        "year": 2001,
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Koḍagu Vowels",
+        "author": ["M. B. Emeneau"],
+        "year": 1970,
+        "journal": "Journal of the American Oriental Society",
+        "volume": 19,
+        "number": 1,
+        "pages": "145--158",
+        "url": "https://www.jstor.org/stable/598436",
+        "languages": {
+            "Kodava": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Elementary Grammar of the Coorg Language",
+        "author":  ["R. A. Cole"],
+        "year": 1867,
+        "publisher": "Wesleyan Mission Press",
+        "location": "Bangalore",
+        "url": "https://archive.org/details/CoorgGrammar",
+        "languages": {
+            "Kodava": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Coorg Language",
+        "author":  ["M. A. G. Garman"],
+        "year": 1973,
+        "url": "https://era.ed.ac.uk/handle/1842/28086",
+        "languages": {
+            "Kodava": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Koḍava",
+        "author":  ["Karen Ebert"],
+        "year": 1996,
+        "publisher": "Lincom Europa",
+        "location": "München",
+        "languages": {
+            "Kodava": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Western Romance with the Toda",
+        "author": ["Anthony R. Walker"],
+        "journal": "Sociological Bulletin",
+        "year": 1991,
+        "volume": 40,
+        "number": "1/2",
+        "pages": "21--46",
+        "url": "https://www.jstor.org/stable/23620015",
+        "languages": {
+            "Toda": ["Ooty"]
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "article",
+        "title": "The Kurumbas of the Nilgiris: An Ethnographic Myth?",
+        "author": ["Nurit Bird"],
+        "journal": "Modern Asian Studies",
+        "year": 1987,
+        "volume": 21,
+        "number": 1,
+        "pages": "173--189",
+        "url": "https://www.jstor.org/stable/312686",
+        "languages": {
+            "Jenu Kurumba": ["Wayanad District"]
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "article",
+        "title": "Centralized Vowels in Ālu Kuṟumba",
+        "author": ["Dieter B. Kapp"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 107,
+        "number": 3,
+        "pages": "409--426",
+        "year": 1987,
+        "url": "https://www.jstor.org/stable/603462",
+        "languages": {
+            "Alu Kurumba": ["Manjakambai"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Ālu Kuṟumba Riddles",
+        "author": ["Dieter B. Kapp"],
+        "journal": "Bulletin of the School of Oriental and African Studies",
+        "volume": 47,
+        "number": 2,
+        "pages": "302--323",
+        "year": 1984,
+        "url": "https://www.jstor.org/stable/617431",
+        "languages": {
+            "Alu Kurumba": []
+        },
+        "topics": ["corpora", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Ālu-Kuṟumba-Texte: Band I-III",
+        "author": ["Dieter B. Kapp"],
+        "year": "2006--2015",
+        "location": "Harrassowitz",
+        "publisher": "Wiesbaden",
+        "languages": {
+            "Alu Kurumba": []
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "book",
+        "title": "Die Kultur der Ālu-Kuṟumbas",
+        "author": ["Dieter B. Kapp"],
+        "year": 2017,
+        "location": "Harrassowitz",
+        "publisher": "Wiesbaden",
+        "languages": {
+            "Alu Kurumba": []
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "book",
+        "title": "Pālu-Kuṟumba: Grammatik, Textproben, und Wörterbuch",
+        "author": ["Dieter B. Kapp"],
+        "year": 2019,
+        "location": "Harrassowitz",
+        "publisher": "Wiesbaden",
+        "languages": {
+            "Palu Kurumba": []
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Muḍuga: Grammatik, Textproben und Wörterbuch",
+        "author": ["Dieter B. Kapp"],
+        "year": 2019,
+        "location": "Harrassowitz",
+        "publisher": "Wiesbaden",
+        "languages": {
+            "Muduga": []
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Paṇiya Riddles",
+        "author": ["Dieter B. Kapp"],
+        "journal": "Asian Folklore Studies",
+        "volume": 46,
+        "number": 1,
+        "pages": "87--98",
+        "year": 1987,
+        "url": "https://www.jstor.org/stable/1177886",
+        "languages": {
+            "Paniya": ["Thorapalli"]
+        },
+        "topics": ["corpora", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Paṇiya: Grammatik, Textproben, und Wörterbuch",
+        "author": ["Dieter B. Kapp"],
+        "year": 2020,
+        "location": "Harrassowitz",
+        "publisher": "Wiesbaden",
+        "languages": {
+            "Paniya": []
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "book",
+        "author": ["Govind S. Gai"],
+        "year": 1946,
+        "title": "Historical Grammar of Old Kannada",
+        "location": "Poona",
+        "publisher": "Karnatak Printing Press",
+        "url": "https://archive.org/details/in.ernet.dli.2015.127254",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["historical", "overview"]
+    },
+    {
+        "type": "book",
+        "author": ["A. N. Narasimhia"],
+        "year": 1941,
+        "title": "A Grammar of the Oldest Kanarese Inscriptions",
+        "location": "Mysore",
+        "publisher": "University of Mysore",
+        "url": "https://archive.org/details/grammaroftheolde033443mbp",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["historical", "overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Linguistic analysis of colloquial Kannada in Bidar district",
+        "author": ["A. Murugieppa"],
+        "year": 1978,
+        "publisher": "Karnatak University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/94268",
+        "languages": {
+            "Kannada": ["Bidar District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "mastersthesis",
+        "title": "Descriptive analysis of Dharwar Kannada",
+        "author": ["Asha Umarani"],
+        "year": 1973,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "languages": {
+            "Kannada": ["Dharwad"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Nanjangud Kannada (Vakkaliga Dialect)",
+        "author": ["U. P. Upadhyaya"],
+        "year": 1968,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "languages": {
+            "Kannada": ["Nanjangud"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Gulbarga Kannada (Brahmin Dialect)",
+        "author": ["R. Mahadevan"],
+        "year": 1968,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "languages": {
+            "Kannada": ["Gulbarga"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "mastersthesis",
+        "title": "Descriptive analysis of Ballari Kannada",
+        "author": ["Koppuravuri Chiranjeevi"],
+        "year": 1974,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "languages": {
+            "Kannada": ["Ballari"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Mysore and Dharwar Kannada dialects (A comparative linguistic study)",
+        "author": ["M. R. Ranganatha"],
+        "year": 1963,
+        "publisher": "Karnatak University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/93915",
+        "languages": {
+            "Kannada": ["Mysuru", "Dharwad"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Kannaḍa Nighaṇṭu. Sampuṭa 1-8",
+        "author": ["Kannaḍa Sāhitya Pariṣattu"],
+        "year": "1970--1976",
+        "url": "https://kannadasahithyaparishattu.in/?page_id=35546",
+        "publisher": "Kannaḍa Sāhitya Pariṣattu",
+        "location": "Beṇgaḷūru",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Telugu verbal bases: a comparative and descriptive study",
+        "author": ["Bhadriraju Krishnamurti"],
+        "year": 1972,
+        "location": "Delhi",
+        "publisher": "Motilal Banarsidass",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["morphology", "comparative"]
+    },
+    {
+        "type": "book",
+        "title": "Historical Grammar of Old Telugu",
+        "author": ["Korada M. Sastri"],
+        "year": 1969,
+        "location": "Anantapur",
+        "publisher": "Sri Venkateshwara University",
+        "url": "https://archive.org/details/in.ernet.dli.2015.169957",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["historical", "overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study of the Telugu dialect of Kalingas of Srikakulam and Ganjam districts",
+        "author": ["L. Appa Rao"],
+        "year": 1986,
+        "publisher": "Nagarjuna University",
+        "languages": {
+            "Telugu": ["Srikakulam District", "Ganjam District"]
+        },
+        "topics": ["overview", "dialectology"]
+    },
+    {
+        "type": "book",
+        "title": "Merolu Telugu",
+        "author": ["Dattabhūṣaṇa Polkama"],
+        "year": 1971,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Merolu Telugu",
+        "author": ["Anumarla Gopal"],
+        "year": 1978,
+        "publisher": "Annamalai University",
+        "location": "Annamalainagar",
+        "languages": {
+            "Telugu": ["Guntur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Descriptive Analysis of the Telengi dialect of Bastar",
+        "author": ["R. C. Mehrotra"],
+        "year": 1974,
+        "publisher": "Pt. Ravishankar Shukla University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/50317",
+        "languages": {
+            "Telugu": ["Bastar District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Bijapur Waḍḍa: Dialect [A Synchronic Linguistic Analysis]",
+        "author": ["Paripapa Sarikar"],
+        "year": 1998,
+        "publisher": "Karnatak University",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/96379",
+        "languages": {
+            "Telugu": ["Bijapur District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Comparative Study of Tanjore Marathi (1750-1850 A.D.) and Modern Marathi",
+        "author": ["Usha Ramakrishna Ranade"],
+        "year": 1988,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/151541",
+        "languages": {
+            "Marathi": ["Thanjavur"]
+        },
+        "topics": ["dialectology", "overview"]
+    },
+    {
+        "type": "article",
+        "title": "A Study of Socio-Linguistic Aspects of Kin Behaviour Among the Yerukala Tribe in Rayalaseema Region of Andhra Pradesh",
+        "author": ["K. Viswanadha Reddy"],
+        "journal": "Anthropologist",
+        "volume": 5,
+        "number": 2,
+        "pages": "107--112",
+        "year": 2003,
+        "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.7326&rep=rep1&type=pdf",
+        "languages": {
+            "Yerakula": ["Kurnool District"]
+        },
+        "topics": ["sociolinguistics", "semantics"]
+    },
+    {
+        "type": "book",
+        "title": "Yerakula dialect",
+        "year": 1978,
+        "author": ["Govindaswamy Srinivasa Varma"],
+        "publisher": "Annamalai University",
+        "location": "Annamalainagar",
+        "languages": {
+            "Yerakula": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Koraga Language",
+        "author": ["D. N. Shankara Bhat"],
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "year": 1971,
+        "location": "Pune",
+        "languages": {
+            "Koraga": [],
+            "Bellari": ["Udupi District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Problems of Identification and Classification of Some Nilagiri Tribes: Iŗulas-Ūrāļis, Kāţţu Nāyakas/Jēnu Kuŗumbas, Šōlegas",
+        "author": ["Kamil Zvelebil"],
+        "year": 1981,
+        "journal": "Anthropos",
+        "volume": 76,
+        "number": "3/4",
+        "pages": "465--528",
+        "languages": {
+            "Irula": [],
+            "Jenu Kurumba": [],
+            "Sholaga": []
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "article",
+        "title": "The Body in Nilgiri Tribal Languages: a Contribution to Areal Linguistic Studies",
+        "author": ["Kamil Zvelebil"],
+        "year": 1985,
+        "journal": "Journal of the American Oriental Society",
+        "volume": 105,
+        "number": 4,
+        "pages": "553--574",
+        "languages": {
+            "Toda": [],
+            "Kota": [],
+            "Irula": [],
+            "Alu Kurumba": [],
+            "Palu Kurumba": [],
+            "Jenu Kurumba": [],
+            "Sholaga": [],
+            "Muduga": [],
+            "Badaga": [],
+            "Betta Kurumba": [],
+            "Paniya": []
+        },
+        "topics": ["comparative", "semantics"],
+        "url": "https://www.jstor.org/stable/602726"
+    },
+    {
+        "type": "article",
+        "title": "Toga:ndra Name Ka:ppa:ttaṇõ: May the Gods Protect Us: A Contribution to Nilgiri Religious Infrastructure",
+        "author": ["Kamil V. Zvelebil"],
+        "year": 2000,
+        "journal": "Journal of the American Oriental Society",
+        "volume": 120,
+        "number": 2,
+        "pages": "178--189",
+        "languages": {
+            "Irula": []
+        },
+        "topics": ["ethnography", "religion"],
+        "url": "https://www.jstor.org/stable/605021"
     }
 ]
