@@ -23,7 +23,8 @@
         "languages": {
             "Southeastern Pashayi": ["Dara-i-Nur"]
         },
-        "topics": ["overview"]
+        "topics": ["overview"],
+        "url": "http://lear.unive.it/jspui/handle/11707/6007"
     },
     {
         "type": "book",
@@ -548,7 +549,8 @@
         "languages": {
             "Hindi-Urdu": ["Delhi"]
         },
-        "topics": ["overview"]
+        "topics": ["overview"],
+        "url": "https://www.academia.edu/download/31023221/ModernHindiGrammar.pdf"
     },
     {
         "type": "article",
@@ -6788,7 +6790,7 @@
         "author": ["J. W. Gair", "W. S. Karunatillake"],
         "year": 1999,
         "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
-        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "K.V. Subbarao"],
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
         "location": "Berlin",
         "publisher": "Mouton de Gruyter",
         "pages": "715--776",
@@ -11089,7 +11091,7 @@
         "type": "book",
         "title": "Non-nominative Subjects",
         "volume": 2,
-        "editor": ["Peri Bhaskararao", "Karumuri V. Subbarao"],
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
         "year": 2004,
         "publisher": "John Benjamins",
         "languages": {
@@ -11115,7 +11117,7 @@
     {
         "type": "book",
         "title": "Lexical Anaphors and Pronouns in Selected South Asian Languages: A Principled Typology",
-        "editor": ["Barbara C. Lust", "Kashi Wali", "James W. Gair", "K. V. Subbarao"],
+        "editor": ["Barbara C. Lust", "Kashi Wali", "James W. Gair", "Kārumūri V. Subbārāo"],
         "publisher": "De Gruyter Mouton",
         "year": 2000,
         "languages": {
@@ -11260,6 +11262,18 @@
             "Bumthang": ["Bumthang District"]
         },
         "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Synoptic grammar of the Bumthang language",
+        "author": ["George van Driem", "Dr’âsho Sangye Dorji"],
+        "year": 2015,
+        "journal": "Himalayan Linguistics",
+        "languages": {
+            "Bumthang": ["Bumthang District"]
+        },
+        "topics": ["overview"],
+        "url": "https://escholarship.org/uc/item/6h50n7v5"
     },
     {
         "type": "thesis",
@@ -12515,5 +12529,598 @@
         },
         "topics": ["ethnography", "religion"],
         "url": "https://www.jstor.org/stable/605021"
+    },
+    {
+        "type": "article",
+        "title": "Assimilation as Spreading in Kolami",
+        "author": ["Ke Zou"],
+        "journal": "Mid-America Linguistics Conference",
+        "year": 1990,
+        "url": "https://kuscholarworks.ku.edu/bitstream/handle/1808/22939/MALC_1990_461-475_Zou.pdf?sequence=1",
+        "languages": {
+            "Kolami": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "inbook",
+        "title": "The rise of ergativity in Hindi: Assessing the role of grammaticalization",
+        "author": ["Saartje Verbeke", "Ludovic De Cuypere"],
+        "journal": "Folia Linguistica Historica",
+        "volume": 30,
+        "year": 2009,
+        "pages": "1--24",
+        "url": "https://biblio.ugent.be/publication/742159/file/6821554.pdf",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "book",
+        "title": "A historical grammar of Hindi",
+        "author": ["T. Oberlies"],
+        "year": 2005,
+        "publisher": "Leykam",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["overview", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Some Aspects of the Syntax of Dakkhini",
+        "author": ["Kārumūri V. Subbārāo"],
+        "journal": "Social and Linguistics aspects of the Deccani Language",
+        "year": 2014,
+        "url": "https://www.researchgate.net/publication/262567250_Some_Aspects_of_the_Syntax_of_Dakkhini_1",
+        "languages": {
+            "Dakkhini": ["Hyderabad"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "The Songs of the Todas",
+        "author": ["M. B. Emeneau"],
+        "journal": "Proceedings of the American Philosophical Society",
+        "volume": 77,
+        "pages": "543--560",
+        "year": 1937,
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["ethnography", "corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Personal Names of the Todas",
+        "author": ["M. B. Emeneau"],
+        "journal": "American Anthropologist",
+        "volume": 40,
+        "pages": "205--223",
+        "year": 1938,
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["onomastics", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Echo Words in Todas",
+        "author": ["M. B. Emeneau"],
+        "journal": "New Indian Antiquary",
+        "volume": 1,
+        "pages": "109--117",
+        "year": 1938,
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Language and Social Forms: A Study of Toda Kinship Terms and Dual Descent",
+        "author": ["M. B. Emeneau"],
+        "year": 1941,
+        "booktitle": "Language, Culture, and Personality: Essays in Memory of Edward Sapir",
+        "editor": ["L. Spier", "A. I. Hallowell", "S. S. Newman"],
+        "pages": "158--179",
+        "publisher": "Banta Publishing Company",
+        "location": "Menasha, Wisconsin",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["sociolinguistics", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "The Toda and Sumeria---A Hypothesis Rejected",
+        "author": ["M. B. Emeneau"],
+        "journal": "American Anthropologist",
+        "volume": 55,
+        "year": 1953,
+        "pages": "453--454",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "Toda, a Dravidian Language",
+        "author": ["M. B. Emeneau"],
+        "journal": "Transactions of the Philological Society",
+        "year": 1957,
+        "pages": "15--66",
+        "languages": {
+            "Toda": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Brahui Demonstrative Pronouns",
+        "author": ["M. B. Emeneau"],
+        "journal": "Journal of the Asiatic Society of Bengal",
+        "year": 1961,
+        "volume": 3,
+        "pages": "1--5",
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "North Dravidian Velar Stops",
+        "author": ["M. B. Emeneau"],
+        "booktitle": "Te. Po. Mi. Manivirā Malar (Studies Presented to Professor T. P. Meenakshisundaram)",
+        "year": 1961,
+        "pages": "371--388",
+        "location": "Coimbatore",
+        "languages": {
+            "Brahui": [],
+            "Malto": [],
+            "Kurux": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Velars, Uvulars, and the North Dravidian Hypothesis",
+        "author": ["David W. McAlpin"],
+        "journal": "Journal of the American Oriental Society",
+        "year": 2003,
+        "volume": 123,
+        "number": 3,
+        "pages": "521--546",
+        "url": "https://www.jstor.org/stable/3217749",
+        "languages": {
+            "Brahui": [],
+            "Malto": [],
+            "Kurux": []
+        },
+        "topics": ["phonetics/phonology", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "A Kota vowel shift",
+        "author": ["M. B. Emeneau"],
+        "journal": "Journal of Tamil Studies",
+        "volume": 1,
+        "pages": "21--34",
+        "year": 1969,
+        "languages": {
+            "Kota": []
+        },
+        "topics": ["phonetics/phonology", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Personal names of the Coorgs",
+        "author": ["M. B. Emeneau"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 96,
+        "pages": "7--14",
+        "year": 1976,
+        "languages": {
+            "Kodava": []
+        },
+        "topics": ["onomastics", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Indo-Aryan Origin of Gondi cuḍ(ḍ)- 'Small'",
+        "author": ["M. B. Emeneau"],
+        "journal": "Indological Taurinensia",
+        "volume": 14,
+        "pages": "195--199",
+        "year": "1987--1988",
+        "languages": {
+            "Gondi": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "inbook",
+        "title": "Brahui Personal Pronouns: 1st Singular and Reflexive",
+        "author": ["M. B. Emeneau"],
+        "booktitle": "Studies in Dravidian and General Linguistics: A Festschrift for Bh. Krishnamurti",
+        "editor": ["B. Lakshmi Bai", "B. Ramakrishna Reddy"],
+        "pages": "1--12",
+        "publisher": "Osmania University",
+        "location": "Hyderabad",
+        "year": 1991,
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["morphology", "historical"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of the Braj Bhakha",
+        "author": ["Mīrzā Ḵẖān"],
+        "year": "1676 [1935]",
+        "publisher": "Visva Bharati Book-Shop",
+        "location": "Calcutta",
+        "translator": ["M. Ziauddin"],
+        "url": "https://archive.org/details/dli.ministry.02376/",
+        "languages": {
+            "Braj": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Mānak Hindī aur Hariyāṇvī kā vyatirekī adʰyayan",
+        "author": ["Nareś Miśra"],
+        "year": 2019,
+        "publisher": "Vāṇī Prakāśan",
+        "languages": {
+            "Hindi-Urdu": ["Delhi"],
+            "Haryanvi": [],
+            "Mewati": [],
+            "Ahirwadi": [],
+            "Braj": [],
+            "Bagri": [],
+            "Ambalvi": ["Ambala District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "Ahom and standard Thai: A Descriptive-Comparative Study",
+        "author": ["Rungkarn Duangthip"],
+        "year": 2012,
+        "publisher": "Deccan College Post Graduate and Research Institute",
+        "location": "Pune",
+        "languages": {
+            "Ahom": ["Moranhat"]
+        },
+        "topics": ["overview", "comparative"],
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/8154"
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of the Boro language",
+        "author": ["Pramod Chandra Bhattacharya"],
+        "year": 1964,
+        "publisher": "Gauhati University",
+        "location": "Guwahati",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/66710",
+        "languages": {
+            "Bodo": ["Goalpara District", "Kamrup District"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Language vitality assessment of Deori: An endangered language",
+        "author": ["Prarthana Acharyya", "Shakuntala Mahanta"],
+        "journal": "Language Documentation and Conservation",
+        "volume": 13,
+        "year": 2019,
+        "pages": "514--544",
+        "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/24853",
+        "languages": {
+            "Deori": ["Upper Deuri"]
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "The Language of the Modhupur Mandi (Garo), Volume 1",
+        "author": ["Robbins Burling"],
+        "year": 2003,
+        "url": "https://quod.lib.umich.edu/s/spobooks/bbv9808.0001.001/--language-of-the-modhupur-mandi-garo-volume-1",
+        "publisher": "University of Michigan",
+        "languages": {
+            "Garo": ["Madhupur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "The Language of the Modhupur Mandi (Garo), Volume 2",
+        "author": ["Robbins Burling"],
+        "year": 2003,
+        "url": "https://quod.lib.umich.edu/s/spobooks/bbv9808.0002.001/--language-of-the-modhupur-mandi-garo-volume-2",
+        "publisher": "University of Michigan",
+        "languages": {
+            "Garo": ["Madhupur"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "The Language of the Modhupur Mandi (Garo), Volume 3",
+        "author": ["Robbins Burling"],
+        "year": 2003,
+        "url": "https://quod.lib.umich.edu/s/spobooks/bbv9808.0003.001/--language-of-the-modhupur-mandi-garo-volume-3",
+        "publisher": "University of Michigan",
+        "languages": {
+            "Garo": ["Madhupur"]
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Aspects of Brokpa Grammar",
+        "author": ["Pascal Gerber", "Selin Grollmann", "Damian Funk", "Sara Rüfenacht", "Sereina Waldis", "Corinne Mittaz", "Tshering Leki"],
+        "volume": 19,
+        "number": 1,
+        "year": 2020,
+        "journal": "Himalayan Linguistics",
+        "url": "https://escholarship.org/uc/himalayanlinguistics/19/1",
+        "languages": {
+            "Brokpa": ["Merak", "Sakteng"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Thulung Rai",
+        "author": ["Aimée Lahaussois"],
+        "year": 2004,
+        "journal": "Himalayan Linguistics",
+        "languages": {
+            "Thulung Rai": ["Mukali"]
+        },
+        "topics": ["overview"],
+        "url": "https://escholarship.org/uc/item/6vm893kj"
+    },
+    {
+        "type": "book",
+        "title": "Koyi Rai: An Initial Grammatical Sketch",
+        "author": ["Aimée Lahaussois"],
+        "year": 2009,
+        "journal": "Himalayan Linguistics",
+        "languages": {
+            "Koyi Rai": ["Sungdel"]
+        },
+        "topics": ["overview"],
+        "url": "https://escholarship.org/uc/item/5v01m1v6"
+    },
+    {
+        "type": "book",
+        "title": "The Grammar of Dzongkha",
+        "author": ["George van Driem", "Karma Tshering"],
+        "year": 2019,
+        "journal": "Himalayan Linguistics",
+        "volume": 18,
+        "number": 1,
+        "languages": {
+            "Dzongkha": ["Thimphu", "Punakha"]
+        },
+        "topics": ["overview"],
+        "url": "https://escholarship.org/uc/item/1h4211k0"
+    },
+    {
+        "type": "book",
+        "title": "From Hindi to Urdu",
+        "author": ["Tariq Rahman"],
+        "publisher": "Oxford University Press",
+        "location": "Karachi",
+        "year": 2011,
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["sociolinguistics"]
+    },
+    {
+        "type": "book",
+        "title": "Urdu, an Essential Grammar",
+        "author": ["Ruth L. Schmidt"],
+        "year": 1999,
+        "publisher": "Routledge",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Studies in the semantic structure of Hindi (Vol. I and II)",
+        "author": ["K. C. Bahl"],
+        "publisher": "Motilal Banarsidass and Manohar Publications",
+        "location": "Delhi",
+        "year": "1970, 1974",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["semantics"]
+    },
+    {
+        "type": "book",
+        "title": "Complementation in Hindi syntax",
+        "author": ["Kārumūri V. Subbārāo"],
+        "publisher": "Academic Publications",
+        "location": "Delhi",
+        "year": 1984,
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Argument structure in Hindi",
+        "author": ["Tara Mohanan"],
+        "year": 1994,
+        "publisher": "Cambridge University Press",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax", "semantics"]
+    },
+    {
+        "type": "article",
+        "title": "Focus and negative polarity in Hindi",
+        "author": ["Utpal Lahiri"],
+        "journal": "Natural Language Semantics",
+        "volume": 6,
+        "number": 1,
+        "year": 1998,
+        "pages": "57--123",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["semantics"],
+        "url": "https://www.jstor.org/stable/23748257"
+    },
+    {
+        "type": "book",
+        "title": "A Primer of Modern Standard Hindi",
+        "author": ["Michael C. Shapiro"],
+        "year": 1989,
+        "publisher": "Motilal Banarsidass",
+        "location": "Delhi",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Long Distance Agreement in Hindi-Urdu",
+        "author": ["Rajesh Bhatt"],
+        "journal": "Natural Language & Linguistic Theory",
+        "year": 2005,
+        "volume": 23,
+        "pages": "757--807",
+        "url": "https://www.jstor.org/stable/4048115",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "The traditional ecological knowledge of the Solega: A linguistic perspective",
+        "author": ["Aung Si"],
+        "year": 2015,
+        "publisher": "Springer International Publishing",
+        "languages": {
+            "Sholaga": []
+        },
+        "topics": ["ethnobiology"]
+    },
+    {
+        "type": "article",
+        "title": "Solega Ethno-Ornithology",
+        "author": ["Samira Agnihotri", "Aung Si"],
+        "journal": "Journal of Ethnobiology",
+        "volume": 32,
+        "number": 3,
+        "pages": "185--211",
+        "year": 2012,
+        "languages": {
+            "Sholaga": []
+        },
+        "topics": ["ethnobiology"],
+        "url": "https://www.researchgate.net/publication/276193503_Solega_Ethno-Ornithology"
+    },
+    {
+        "type": "article",
+        "title": "Solega Place Names and Their Ecological Significance",
+        "author": ["Aung Si", "Samira Agnihotri"],
+        "journal": "Anthropological Linguistics",
+        "volume": 56,
+        "number": "3/4",
+        "pages": "389--414",
+        "year": 2014,
+        "languages": {
+            "Sholaga": []
+        },
+        "topics": ["toponymy", "ethnobiology"],
+        "url": "https://www.jstor.org/stable/24582255"
+    },
+    {
+        "type": "book",
+        "title": "A controlled historical reconstruction of Oriya, Assamese, Bengali, and Hindi",
+        "author": ["D. P. Pattanayak"],
+        "year": 1966,
+        "publisher": "De Gruyter Mouton",
+        "languages": {
+            "Hindi-Urdu": [],
+            "Odia": [],
+            "Assamese": [],
+            "Bengali": []
+        },
+        "topics": ["historical", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "British Language Policy in 19th Century India and the Oriya Language Movement",
+        "author": ["Panchanan Mohanty"],
+        "journal": "Language Policy",
+        "volume": 1,
+        "pages": "53--73",
+        "year": 2002,
+        "languages": {
+            "Odia": []
+        },
+        "topics": ["sociolinguistics"],
+        "url": "https://www.academia.edu/download/53170477/a_3A101450082878920170517-3291-pmsrbn.pdf"
+    },
+    {
+        "type": "book",
+        "title": "Oriya Grammar for English Students",
+        "author": ["E. C. B. Hallam"],
+        "publisher": "The Baptist Mission Press",
+        "location": "Calcutta",
+        "year": 1874,
+        "url": "https://archive.org/details/dli.ministry.04924",
+        "languages": {
+            "Odia": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Introductory Grammar of the Oriya Language",
+        "author": ["Amos Sutton"],
+        "publisher": "The Baptist Mission Press",
+        "location": "Calcutta",
+        "year": 1831,
+        "url": "https://archive.org/details/dli.csl.8228",
+        "languages": {
+            "Odia": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Synchronic Grammar of Oriya (Standard spoken and written)",
+        "author": ["Bijay Prasad Mahapatra"],
+        "publisher": "Central Institute of Indian Languages",
+        "location": "Mysore",
+        "year": 2007,
+        "url": "https://archive.org/details/dli.language.2504",
+        "languages": {
+            "Odia": []
+        },
+        "topics": ["overview"]
     }
 ]

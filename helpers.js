@@ -43,7 +43,7 @@ var averageRGB = (function () {
 }());
 
 function calculateRadius(number) {
-    return Math.min(15, Math.log(1.5 + number) * 5)
+    return Math.min(15, Math.log(number + 1.5) * 5)
 }
 
 function make_ref(x) {
