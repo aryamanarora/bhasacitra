@@ -16,17 +16,20 @@ for i in range(1, 73):
     webpage = urllib.request.urlopen(url)
     reader = csv.reader(io.TextIOWrapper(webpage))
     for j, row in enumerate(reader):
+        print(row)
         if j == 0: continue
         lang = ' '.join(row[7].split('-')[1:])
         val = row[4]
         if lang not in data: data[lang] = []
         data[lang].append(val)
 
-print(data)
-y = pdist(list(data.values()))
-Z = ward(y)
 
-plt.figure(figsize=(15.0, 18.0))
-dn = hierarchy.dendrogram(Z, labels=list(data.keys()), orientation='left')
-plt.savefig("dendogram.pgf")
+
+# print(data)
+# y = pdist(list(data.values()))
+# Z = ward(y)
+
+# plt.figure(figsize=(15.0, 18.0))
+# dn = hierarchy.dendrogram(Z, labels=list(data.keys()), orientation='left')
+# plt.savefig("dendogram.pgf")
 # plt.show()

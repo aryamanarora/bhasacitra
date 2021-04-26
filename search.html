@@ -77,7 +77,7 @@
             <ul id="board" class="mt-3" style="overflow-y: scroll;"></ul>
         </div>
     </body>
-    <script src="helpers.js"></script>
+    <script src="scripts/helpers.js"></script>
     <script>
         const options = {
             isCaseSensitive: false,
@@ -107,7 +107,7 @@
         var board = d3.select("#board")
         var count = d3.select("#count")
 
-        d3.json("refs.json").then(refs => {
+        d3.json("data/refs.json").then(refs => {
             for (i in refs) {
                 refs[i].langs = Object.keys(refs[i].languages)
             }

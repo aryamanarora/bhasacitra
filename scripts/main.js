@@ -68,15 +68,14 @@ function closePane() {
 }
 
 Promise.all([
-    d3.json("coords.json"),
-    d3.json("refs.json"), 
-    d3.json("data.json"), 
+    d3.json("../data/coords.json"),
+    d3.json("../data/refs.json"),
     d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json")
 ]).then(function(files) {
     load(...files)
 })
 
-function load(coord, ref, data, world) {
+function load(coord, ref, world) {
     topo = topojson.feature(world, world.objects.land).features
     console.log(world)
     defs.selectAll("path")

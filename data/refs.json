@@ -8100,18 +8100,6 @@
     },
     {
         "type": "book",
-        "title": "Damelī: Maǧmūʿa-yi Alfāż",
-        "author": ["Forum for Language Initiatives"],
-        "year": 2016,
-        "publisher": "Forum for Language Initiatives",
-        "url": "https://fli-online.org/site/wp-content/uploads/2016/04/DameliWordListFinal13032016.pdf",
-        "languages": {
-            "Dameli": []
-        },
-        "topics": ["lexicography"]
-    },
-    {
-        "type": "book",
         "title": "Gawar Bātī: Maǧmūʿa-yi Alfāż",
         "author": ["Forum for Language Initiatives"],
         "year": 2016,
@@ -11033,7 +11021,7 @@
             "Pashto": ["Takht-e-Sulaiman", "Razmak", "Peshawar"],
             "Wanetsi": ["Harnai"],
             "Khetrani": ["Loralai"],
-            "Ormuri": ["Kaniguram"],
+            "Ormuri": [],
             "Shina": [],
             "Torwali": ["Swat Valley"],
             "Tirahi": [],
@@ -13121,6 +13109,79 @@
         "languages": {
             "Odia": []
         },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Indo-Iranian Frontier Languages (Vol. 1)",
+        "author": ["Georg Morgenstierne"],
+        "year": 1929,
+        "url": "https://archive.org/details/in.gov.ignca.14416/",
+        "languages": {
+            "Parachi": ["Shotul District"],
+            "Ormuri": ["Baraki Barak"]
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "Indo-Iranian Frontier Languages (Vol. 2)",
+        "author": ["Georg Morgenstierne"],
+        "year": 1938,
+        "url": "https://archive.org/details/dli.pahar.2693",
+        "languages": {
+            "Yidgha": [],
+            "Munji": [],
+            "Ishkashimi": [],
+            "Sanglechi": [],
+            "Wakhi": []
+        },
+        "topics": ["overview", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "On the place of Parachi and Ormuri among the Iranian languages according to the data of annotated Swadesh lists",
+        "author": ["Artem Trofimov"],
+        "journal": "Journal of Language Relationship",
+        "volume": 16,
+        "number": 4,
+        "year": 2018,
+        "url": "https://www.jolr.ru/files/(253)jlr2018-16-3-4(277-292).pdf",
+        "pages": "277--292",
+        "languages": {
+            "Parachi": [],
+            "Ormuri": []
+        },
+        "topics": ["historical", "lexicostatistics"]
+    },
+    {
+        "type": "article",
+        "title": "On possible Dardic and Burushaski influence on some Northwestern Tibetan dialects",
+        "author": ["Anton I. Kogan"],
+        "journal": "Journal of Language Relationship",
+        "volume": 17,
+        "number": 4,
+        "year": 2019,
+        "pages": "263--284",
+        "languages": {
+            "Balti": [],
+            "Purik": [],
+            "Ladakhi": [],
+            "Burushaski": [],
+            "Brokskat": []
+        },
+        "topics": ["historical", "language contact", "lexicography"]
+    },
+    {
+        "type": "thesis",
+        "title": "Maṇḍiyālī kā Bʰāṣā-śāstriya Adʰyayan",
+        "author": ["Jagath Pal Sharma"],
+        "year": 1979,
+        "publisher": "Himachal Pradesh University",
+        "languages": {
+            "Mandeali": []
+        },
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/122621",
         "topics": ["overview"]
     }
 ]

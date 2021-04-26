@@ -46,15 +46,20 @@ gtag('config', 'UA-52207113-1');
                     <h2 class="card-title"><a href="./search.html" class="stretched-link"></a>Search</h2>
                 </div>
             </div>
+            <div class="card btn-light shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title"><a href="./phonemes.html" class="stretched-link"></a>Phoneme Map</h2>
+                </div>
+            </div>
         </div>
 
         <p class="mb-0">Compiled by: <a href="http://aryamanarora.github.io/">Aryaman Arora</a>, Adam Farris, Sāmapriya Vasu, Gopalakrishnan Ramamurthy</p>
         <p class="text-muted">Thanks to Kaushalya Perera, John Peterson, and Joan L. G. Baart and Esther L. Baart-Bremer for their bibliographies.</p>
     </div>
     <script>
-        d3.json("refs.json").then(function(data) {
+        d3.json("data/refs.json").then(function(data) {
             d3.select("#refs").text(data.length)
-            d3.json("coords.json").then(function(more) {
+            d3.json("data/coords.json").then(function(more) {
                 d3.select("#langs").text(Object.keys(more.family).length)
                 d3.select("#places").text(Object.keys(more.cities).length)
             })

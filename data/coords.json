@@ -731,7 +731,9 @@
         "Mukali": [27.4400, 86.6800],
         "Sungdel": [27.3975, 86.8822],
         "Thimphu": [27.4712, 89.6339],
-        "Punakha": [27.5921, 89.8797]
+        "Punakha": [27.5921, 89.8797],
+        "Shotul District": [35.294, 69.3027],
+        "Baraki Barak": [33.9691, 68.9510]
     },
     "family": {
         "Dzongkha": ["Sino-Tibetan", "Tibeto-Burman", "Bodish"],
@@ -1014,6 +1016,7 @@
         "Pashto": ["Iranian", "Eastern", "Pashto"],
         "Wanetsi": ["Iranian", "Eastern", "Pashto"],
         "Ormuri": ["Iranian", "Eastern", "Ormuri-Parachi"],
+        "Parachi": ["Iranian", "Eastern", "Ormuri-Parachi"],
         "Sanglechi": ["Iranian", "Eastern", "Sanglechi-Ishkashimi"],
         "Ishkashimi": ["Iranian", "Eastern", "Sanglechi-Ishkashimi"],
         "Balochi": ["Iranian", "Western", "Northwestern"],

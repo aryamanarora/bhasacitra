@@ -79,17 +79,23 @@
             ul {
                 flex-shrink: 1;
             }
+
+            #facets {
+                display: flex;
+                flex-wrap: wrap;
+            }
         </style>
         <title>Bhāṣācitra | Map</title>
     </head>
     <body>
         <div class="card bg-dark text-white shadow container">
             <div class="card-body">
-                <h3 class="card-title name">Hover over/click a dot.</h3>
+                <h3 class="card-title name">Phonemes (<span id="phone"></span>)</h3></li>
+                <div class="card-text" id="facets" style="overflow-y: scroll; height: 50vh;"></div>
             </div>
         </div>
         <svg id="map"></svg>
     </body>
     <script src="scripts/helpers.js"></script>
-    <script src="scripts/main.js"></script>
+    <script src="scripts/phonology.js"></script>
 </html>
