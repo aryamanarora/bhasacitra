@@ -45,7 +45,7 @@ function unzoomed() {
 }
 var zoom = d3.zoom()
     .extent([[0, 0], [width, height]])
-    .scaleExtent([1, 12])
+    .scaleExtent([1, 30])
     .on("zoom", zoomed)
 svg.call(zoom)
     

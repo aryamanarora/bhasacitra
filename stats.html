@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="HandheldFriendly" content="true" />
+<title>Bhāṣācitra</title>
+<script src="https://d3js.org/d3.v5.js"></script>
+<script src="https://unpkg.com/topojson@3"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic,600italic,700italic,200,300,400,600,700,900">
+<!--CSS-->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--JS-->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/versor"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52207113-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-52207113-1');
+</script>
+
+<!-- CSS -->
+<style>
+    tbody {
+        display: block;
+        height: 250px;
+        overflow: auto;
+    }
+    thead, tbody tr {
+        display: table;
+        width: 100%;
+        table-layout: fixed;/* even columns width , fix width of table too*/
+    }
+    thead {
+        width: calc( 100% - 1em )/* scrollbar is average 1em/16px width, remove it from thead width */
+    }
+    table {
+        width: 400px;
+    }
+</style>
+</head>
+<body>
+    <div class="container mt-5 mb-5 text-center">
+        <h1>Stats</h1>
+        <div class="mt-5 row">
+            <div class="col">
+                <h2>Languages</h2>
+                <table class="table table-hover table-sm table">
+                    <thead>
+                        <tr>
+                        <th scope="col">Language</th>
+                        <th scope="col">Count</th>
+                        </tr>
+                    </thead>
+                    <tbody id="langs">
+                    </tbody>
+                </table>
+            </div>
+            <div class="col">
+                <h2>Topics</h2>
+                <table class="table table-hover table-sm table">
+                    <thead>
+                        <tr>
+                        <th scope="col">Topic</th>
+                        <th scope="col">Count</th>
+                        </tr>
+                    </thead>
+                    <tbody id="topics">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h2>Authors</h2>
+                <table class="table table-hover table-sm table">
+                    <thead>
+                        <tr>
+                        <th scope="col">Author</th>
+                        <th scope="col">Count</th>
+                        </tr>
+                    </thead>
+                    <tbody id="authors">
+                    </tbody>
+                </table>
+            </div>
+            <div class="col">
+                <h2>Publishers</h2>
+                <table class="table table-hover table-sm table">
+                    <thead>
+                        <tr>
+                        <th scope="col">Publisher</th>
+                        <th scope="col">Count</th>
+                        </tr>
+                    </thead>
+                    <tbody id="publishers">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script>
+        d3.json("data/refs.json").then(function(refs) {
+            function table(id, langs) {
+                var arr = Object.keys(langs).sort(function(a,b){return langs[b]-langs[a]})
+                d3.select(id)
+                    .selectAll("tr")
+                    .data(arr)
+                    .enter()
+                    .append("tr")
+                        .html(function(d) {
+                            return `<td>${d}</td><td>${langs[d]}</td>`
+                        })
+            }
+            var topics = {}
+            var langs = {}
+            var authors = {}
+            var publishers = {}
+            refs.forEach(d => {
+                d.topics.forEach(topic => {
+                    if (!(topic in topics)) topics[topic] = 0
+                    topics[topic]++
+                })
+                if (d.author) {
+                    d.author.forEach(author => {
+                        if (!(author in authors)) authors[author] = 0
+                        authors[author]++
+                    })
+                }
+                else if (d.editor) {
+                    d.editor.forEach(author => {
+                        if (!(author in authors)) authors[author] = 0
+                        authors[author]++
+                    })
+                }
+                for (lang in d.languages) {
+                    if (!(lang in langs)) langs[lang] = 0
+                    langs[lang]++
+                }
+                if (d.publisher) {
+                    if (!(d.publisher in publishers)) publishers[d.publisher] = 0
+                    publishers[d.publisher]++
+                }
+            })
+
+            table("#topics", topics)
+            table("#langs", langs)
+            table("#publishers", publishers)
+            table("#authors", authors)
+
+            // d3.select("#refs").text(data.length)
+            // d3.json("data/coords.json").then(function(more) {
+            //     d3.select("#langs").text(Object.keys(more.family).length)
+            //     d3.select("#places").text(Object.keys(more.cities).length)
+            // })
+        })
+    </script>
+</body>
+</html>

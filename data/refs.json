@@ -13183,5 +13183,170 @@
         },
         "url": "https://shodhganga.inflibnet.ac.in/handle/10603/122621",
         "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Hidden Syntax in Belhare",
+        "author": ["Balthasar Bickel"],
+        "year": 2004,
+        "editor": ["Anju Saxena"],
+        "booktitle": "Himalayan languages: past and present",
+        "publisher": "De Gruyter",
+        "location": "Berlin",
+        "languages": {
+            "Belhare": ["Belhara, Dhankuta"]
+        },
+        "topics": ["syntax"],
+        "url": "https://www.academia.edu/1415618/Hidden_syntax_in_Belhare"
+    },
+    {
+        "type": "inbook",
+        "title": "The acquisition of polysynthetic verb forms in Chintang",
+        "author": ["Sabine Stoll", "Jekaterina Mazara", "Balthasar Bickel"],
+        "year": 2017,
+        "editor": ["Michael Fortescue", "Marianne Mithun", "Nicholas Evans"],
+        "booktitle": "The Oxford Handbook of Polysynthesis",
+        "languages": {
+            "Chintang": ["Chintang"]
+        },
+        "topics": ["morphology", "language acquisition"],
+        "url": "https://www.academia.edu/26025141/The_acquisition_of_polysynthetic_verb_forms_in_Chintang"
+    },
+    {
+        "type": "inbook",
+        "title": "The acquisition of ergative case in Chintang",
+        "author": ["Sabine Stoll", "Balthasar Bickel"],
+        "year": 2013,
+        "editor": ["Sabine Stoll", "Edith Bavin"],
+        "booktitle": "The acquisition of ergativity",
+        "location": "Amsterdam",
+        "pages": "183--207",
+        "languages": {
+            "Chintang": ["Chintang"]
+        },
+        "topics": ["case and adpositions", "language acquisition"],
+        "url": "https://www.academia.edu/2436360/The_acquisition_of_ergative_case_in_Chintang"
+    },
+    {
+        "type": "book",
+        "title": "Chintang Valency Patterns",
+        "author": ["Robert Schikowski", "Balthasar Bickel", "Netra Paudyal"],
+        "year": 2013,
+        "publisher": "Max Planck Institute for Evolutionary Anthropology",
+        "location": "Leipzig",
+        "languages": {
+            "Chintang": ["Chintang"]
+        },
+        "topics": ["morphology", "syntax"],
+        "url": "https://www.academia.edu/2436364/Chintang_Valency_Patterns"
+    },
+    {
+        "type": "inproceedings",
+        "title": "Deriving a Lexicon for a Precision Grammar from Language Documentation Resources: A Case Study of Chintang",
+        "author": ["Emily M. Bender", "Robert Schikowski", "Balthasar Bickel"],
+        "year": 2012,
+        "booktitle": "Proceedings of the 24th International Conference on Computational Linguistics (COLING)",
+        "location": "Mumbai",
+        "editor": ["M. Kay", "C. Boitet"],
+        "pages": "247--262",
+        "languages": {
+            "Chintang": []
+        },
+        "topics": ["computational"],
+        "url": "https://www.aclweb.org/anthology/C12-1016.pdf"
+    },
+    {
+        "type": "inbook",
+        "title": "The syntax of three-argument verbs in Chintang and Belhare (Southeastern Kiranti)",
+        "author": ["Balthasar Bickel", "Manoj Rai", "Netra P. Paudyal", "Goma Banjade", "Toya N. Bhatta", "Martin Gaenszle", "Elena Lieven", "Ichchha Purna Rai", "Novel Kishore Rai", "Sabine Stoll"],
+        "booktitle": "Studies in ditransitive constructions: a comparative handbook",
+        "year": 2010,
+        "editor": ["A. Malchukov", "Martin Haspelmath", "Bernard Comrie"],
+        "pages": "382--408",
+        "url": "https://www.academia.edu/7915613/The_syntax_of_three_argument_verbs_in_Chintang_and_Belhare_Southeastern_Kiranti_",
+        "languages": {
+            "Chintang": [],
+            "Belhare": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "The sound system of Nàvakat",
+        "author": ["Anju Saxena"],
+        "journal": "Orientalia Suecana",
+        "location": "Uppsala",
+        "publisher": "Uppsala University",
+        "volume": 60,
+        "year": 2012,
+        "pages": "185--191",
+        "languages": {
+            "Navakat": ["Nako"]
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://uu.diva-portal.org/smash/get/diva2:540036/FULLTEXT01.pdf"
+    },
+    {
+        "type": "article",
+        "title": "A Preliminary Report on Spiti Phonemes",
+        "author": ["Atsuhiko Kato"],
+        "journal": "Senri Ethnological Reports",
+        "volume": 19,
+        "pages": "121--153",
+        "year": 2001,
+        "url": "http://doi.org/10.15021/00002144",
+        "languages": {
+            "Spiti": ["Sumling"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Some Remarks on Tabo Tibetan – A Variety of the Tibetic Language of Spiti",
+        "author": ["Veronika Hein"],
+        "journal": "Revue d’Etudes Tibétaines",
+        "volume": 41,
+        "year": 2017,
+        "pages": "111--127",
+        "languages": {
+            "Spiti": ["Tabo"]
+        },
+        "topics": ["historical", "comparative", "overview"],
+        "url": "http://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_41_06.pdf"
+    },
+    {
+        "type": "mastersthesis",
+        "title": "A Comparative Study of Negation between Yamphu and English Language",
+        "author": ["Basanti Thebe"],
+        "year": 2016,
+        "publisher": "Tribhuvan University",
+        "languages": {
+            "Yamphu": ["Sundar Dulari"]
+        },
+        "topics": ["syntax", "comparative"],
+        "url": "http://107.170.122.150:8080/xmlui/bitstream/handle/123456789/525/12511.pdf?sequence=1&isAllowed=y"
+    },
+    {
+        "type": "book",
+        "title": "Yamphu: Grammar, Texts and Lexicon",
+        "author": ["Ronald Rutgers"],
+        "year": 1998,
+        "publisher": "Leiden University",
+        "location": "Leiden",
+        "languages": {
+            "Yamphu": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "A Grammar of Wambule",
+        "author": ["Jean Robert Opgenort"],
+        "year": 2004,
+        "publisher": "Brill",
+        "languages": {
+            "Wambule": ["Hilepani", "Mohantar"]
+        },
+        "topics": ["overview"]
     }
 ]
