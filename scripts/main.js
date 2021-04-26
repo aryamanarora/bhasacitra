@@ -68,8 +68,8 @@ function closePane() {
 }
 
 Promise.all([
-    d3.json("../data/coords.json"),
-    d3.json("../data/refs.json"),
+    d3.json("data/coords.json"),
+    d3.json("data/refs.json"),
     d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json")
 ]).then(function(files) {
     load(...files)

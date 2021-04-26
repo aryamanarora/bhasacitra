@@ -56,10 +56,10 @@ var subg = g.append("g")
 var clicked = null
 
 Promise.all([
-    d3.json("../data/coords.json"),
-    d3.json("../data/refs.json"),
+    d3.json("data/coords.json"),
+    d3.json("data/refs.json"),
     d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json"),
-    d3.csv("../data/typology/phonology.csv")
+    d3.csv("data/typology/phonology.csv")
 ]).then(function(files) {
     load(...files)
 })
