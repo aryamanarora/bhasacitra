@@ -46,8 +46,8 @@ gtag('config', 'UA-52207113-1');
 </style>
 </head>
 <body>
-    <div class="container mt-5 mb-5 text-center">
-        <h1>Stats</h1>
+    <div class="container mt-5 mb-5">
+        <h1 class="text-center">Stats</h1>
         <div class="mt-5 row">
             <div class="col">
                 <h2>Languages</h2>
@@ -55,7 +55,7 @@ gtag('config', 'UA-52207113-1');
                     <thead>
                         <tr>
                         <th scope="col">Language</th>
-                        <th scope="col">Count</th>
+                        <th scope="col" class="text-right">Count</th>
                         </tr>
                     </thead>
                     <tbody id="langs">
@@ -68,40 +68,72 @@ gtag('config', 'UA-52207113-1');
                     <thead>
                         <tr>
                         <th scope="col">Topic</th>
-                        <th scope="col">Count</th>
+                        <th scope="col" class="text-right">Count</th>
                         </tr>
                     </thead>
                     <tbody id="topics">
                     </tbody>
                 </table>
             </div>
-        </div>
-        <div class="row">
             <div class="col">
                 <h2>Authors</h2>
                 <table class="table table-hover table-sm table">
                     <thead>
                         <tr>
                         <th scope="col">Author</th>
-                        <th scope="col">Count</th>
+                        <th scope="col" class="text-right">Count</th>
                         </tr>
                     </thead>
                     <tbody id="authors">
                     </tbody>
                 </table>
             </div>
+        </div>
+        <div class="row">
             <div class="col">
                 <h2>Publishers</h2>
                 <table class="table table-hover table-sm table">
                     <thead>
                         <tr>
                         <th scope="col">Publisher</th>
-                        <th scope="col">Count</th>
+                        <th scope="col" class="text-right">Count</th>
                         </tr>
                     </thead>
                     <tbody id="publishers">
                     </tbody>
                 </table>
+            </div>
+            <div class="col">
+                <h2>Type</h2>
+                <table class="table table-hover table-sm table">
+                    <thead>
+                        <tr>
+                        <th scope="col">Type</th>
+                        <th scope="col" class="text-right">Count</th>
+                        </tr>
+                    </thead>
+                    <tbody id="types">
+                    </tbody>
+                </table>
+            </div>
+            <div class="col">
+                <h2>Journals</h2>
+                <table class="table table-hover table-sm table">
+                    <thead>
+                        <tr>
+                        <th scope="col">Journal</th>
+                        <th scope="col" class="text-right">Count</th>
+                        </tr>
+                    </thead>
+                    <tbody id="journals">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h2>Years</h2>
+                <svg id="years"></svg>
             </div>
         </div>
     </div>
@@ -115,13 +147,10 @@ gtag('config', 'UA-52207113-1');
                     .enter()
                     .append("tr")
                         .html(function(d) {
-                            return `<td>${d}</td><td>${langs[d]}</td>`
+                            return `<td>${d}</td><td class="text-right">${langs[d]}</td>`
                         })
             }
-            var topics = {}
-            var langs = {}
-            var authors = {}
-            var publishers = {}
+            var topics = {}, langs = {}, authors = {}, publishers = {}, years = {}, types = {}, journals = {}
             refs.forEach(d => {
                 d.topics.forEach(topic => {
                     if (!(topic in topics)) topics[topic] = 0
@@ -147,12 +176,58 @@ gtag('config', 'UA-52207113-1');
                     if (!(d.publisher in publishers)) publishers[d.publisher] = 0
                     publishers[d.publisher]++
                 }
+                if (d.journal) {
+                    if (!(d.journal in journals)) journals[d.journal] = 0
+                    journals[d.journal]++
+                }
+                var y = d.year.toString().slice(0, 4)
+                if (y != "n.d") {
+                    if (!(y in years)) years[y] = 0
+                    years[y]++
+                }
+                if (!(d.type in types)) types[d.type] = 0
+                types[d.type]++
             })
 
-            table("#topics", topics)
+            table("#topics", topics) 
             table("#langs", langs)
             table("#publishers", publishers)
             table("#authors", authors)
+            table("#types", types)
+            table("#journals", journals)
+
+            var width = 800, height = 500, margin = 30
+            var svg = d3.select("#years")
+                .attr("viewBox", [0, 0, width, height])
+            var x = d3.scaleLinear()
+                .domain([1800, 2021]).nice()
+                .range([margin, width - margin])
+            var y = d3.scaleLinear()
+                .domain([0, 50]).nice()
+                .range([height - margin, margin])
+            svg.append("g")
+                .attr("fill", "steelblue")
+                .selectAll("rect")
+                .data(Object.entries(years))
+                .join("rect")
+                    .attr("x", d => x(d[0]))
+                    .attr("y", d => y(d[1]))
+                    .attr("height", d => y(0) - y(d[1]))
+                    .attr("width", x(1) - x(0));
+
+            var xAxis = d3.axisBottom()
+                .scale(x)
+                .tickFormat(d3.format("d"))
+            svg.append("g")
+                .call(xAxis)
+                .attr("transform", `translate(0,${height - margin})`)
+
+            var yAxis = d3.axisLeft()
+                .scale(y)
+            svg.append("g")
+                .call(yAxis)
+                .attr("transform", `translate(${margin},0)`)
+
 
             // d3.select("#refs").text(data.length)
             // d3.json("data/coords.json").then(function(more) {

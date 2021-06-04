@@ -180,8 +180,8 @@ function load(coord, ref, world) {
         refs[lang].sort(comp)
         var loc = projection([d3.mean(langs[lang], d => d[1]), d3.mean(langs[lang], d => d[0])])
         stored_coords[lang] = loc
-        stored_coords[lang][0] += Math.random() * 2 - 1
-        stored_coords[lang][1] += Math.random() * 2 - 1
+        stored_coords[lang][0] += Math.random() - 0.5
+        stored_coords[lang][1] += Math.random() - 0.5
         colour = '#' + averageRGB(stringToColour(coord.family[lang][1]), stringToColour(coord.family[lang][0]), 1, 3)
         if (coord.family[lang].length == 3) colour = '#' + averageRGB(stringToColour(coord.family[lang][2]), colour, 1, 3)
         var r = calculateRadius(refs[lang].length)

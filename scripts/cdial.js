@@ -27,11 +27,11 @@ function zoomed(event) {
         })
     d3.selectAll("#land, #voronoi")
         .attr("stroke-width", function() {
-            return 0
+            return 0 / event.transform.k
         })
     d3.selectAll("line")
         .attr("stroke-width", function() {
-            return 0
+            return 0 / event.transform.k
         })
     d3.selectAll("text")
         .attr("font-size", 30 / event.transform.k)
@@ -59,13 +59,15 @@ Promise.all([
     d3.json("data/coords.json"),
     d3.json("data/refs.json"),
     d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json"),
-    d3.csv("data/typology/phonology.csv")
+    d3.csv("data/typology/ks.csv")
 ]).then(function(files) {
     load(...files)
 })
 
 function load(coord, ref, world, csv) {
+    console.log(csv)
     data = csv.reduce((map, row) => (map[row["Language Name"]] = row, map), {})
+    console.log(data)
     topo = topojson.feature(world, world.objects.land).features
     // console.log(data)
     defs.selectAll("path")
@@ -134,13 +136,18 @@ function load(coord, ref, world, csv) {
     }
     var voronoi = d3.geoVoronoi()(cities_voronoi)
 
-    change("b")
+    change("kh")
     base.attr("mask", "url(#clip)")
+
     function change(phone) {
         d3.select("#phone").text(phone)
         console.log(phone)
         g.selectAll("circle").remove()
         base.selectAll("path").remove()
+
+        var make_colour = d3.scaleLinear()
+            .domain([0, 1])
+            .range([stringToColour("No"), stringToColour("yes")])
 
         var lang_count = {}
         base.selectAll("path")
@@ -160,7 +167,7 @@ function load(coord, ref, world, csv) {
                         else lang_count[lang] = true
                         d3.select(this).attr("data-lang", d3.select(this).attr("data-lang") + " " + lang.replace(" ", "_"))
                         var new_colour = "#EEEEEE"
-                        if (lang in data) new_colour = stringToColour(data[lang][phone])
+                        if (lang in data) new_colour = d3.color(make_colour(data[lang][phone])).formatHex()
                         // console.log(city, lang, cities[city][lang], new_colour)
                         // if (lang in data["breathy voice"].data && city in data["breathy voice"].data[lang]) new_colour = stringToColour(data["breathy voice"].data[lang][city])
                         // console.log(new_colour)
@@ -198,7 +205,7 @@ function load(coord, ref, world, csv) {
             stored_coords[lang][0]
             stored_coords[lang][1]
             colour = '#EEE'
-            if (lang in data) colour = stringToColour(data[lang][phone])
+            if (lang in data) colour = make_colour(data[lang][phone])
             var r = 3
 
             var x = g.append("circle")
