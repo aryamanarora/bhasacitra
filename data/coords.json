@@ -762,9 +762,15 @@
         "Agartala": [23.8315, 91.2868],
         "Chatkhil Upazila": [23.0514, 90.9775],
         "Shiraz": [29.5926, 52.5836],
-        "Khasab": [26.1644, 56.2426]
+        "Khasab": [26.1644, 56.2426],
+        "Hispar Valley": [36.17456, 74.98842],
+        "Behsud": [34.3436, 67.9057],
+        "Morchaghal": [36.0166652, 64.9491574],
+        "Nilaw": [35.2224477,70.2715342]
     },
     "family": {
+        "Moghol": ["Mongolic"],
+        "Hazaragi": ["Iranian", "Western", "Southwestern"],
         "Kumzari": ["Iranian", "Western", "Southwestern"],
         "Chepang": ["Sino-Tibetan", "Chepangic"],
         "Bujheli": ["Sino-Tibetan", "Chepangic"],

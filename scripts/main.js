@@ -6,9 +6,9 @@ var svg = d3.select("#map")
 var defs = svg.append("defs")
 var g = svg.append("g")
 
-var projection = d3.geoEqualEarth()
+var projection = d3.geoEquirectangular()
     .scale(1000)
-    .center([60, 20])
+    .center([80, 20])
     .translate([width / 2, height / 2])
 
 var path = d3.geoPath()
@@ -269,13 +269,14 @@ function load(coord, ref, world) {
                     .html(`${coord.family[l][0]} / ${coord.family[l][1]} ${coord.family[l].length == 3 ? "/ " + coord.family[l][2] : ""}`)
                 board.append("p")
                     .attr("class", "card-text")
-                    .html(refs[l].length + " source(s) covering " + langs[l].length + " location(s).")
+                    .html(refs[l].length + " source" + (refs[l].length == 1 ? "" : "s") + " covering " + langs[l].length + " location" + (langs[l].length == 1 ? "" : "s") + ".")
                 board = board.append("ul")
                     .attr("class", "card-text")
                     .style("overflow-y", "scroll")
 
                 refs[l].forEach(x => {
                     var note = make_ref(x)
+                    console.log(x)
                     x.languages[l].forEach(city => {
                         note += ` <span class="badge bg-secondary">${city}</span>`
                     })

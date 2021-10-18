@@ -2013,7 +2013,8 @@
         "languages": {
             "Kalam Kohistani": ["Kalam"]
         },
-        "topics": ["phonetics/phonology", "lexicography", "corpora"]
+        "topics": ["phonetics/phonology", "lexicography", "corpora"],
+        "url": "https://www.academia.edu/1992270/The_sounds_and_tones_of_Kalam_Kohistani_with_wordlist_and_texts"
     },
     {
         "type": "article",
@@ -4543,7 +4544,7 @@
         "languages": {
             "Nihali": []
         },
-        "topics": ["semantics"]
+        "topics": ["semantics", "expressives"]
     },
     {
         "type": "article",
@@ -4647,7 +4648,7 @@
         "topics": ["syntax", "case and adpositions"]
     },
     {
-        "type": "thesis",
+        "type": "mastersthesis",
         "title": "Burushaski case marking, agreement, and implications: An analysis of the Hunza dialect",
         "author": ["Alexander Smith"],
         "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.961.8781&rep=rep1&type=pdf",
@@ -5172,7 +5173,7 @@
         "languages": {
             "Birhor": ["Ladhup"]
         },
-        "topics": ["morphology"],
+        "topics": ["morphology", "expressives"],
         "url": "https://brill.com/view/book/9789004439153/BP000016.xml"
     },
     {
@@ -8559,7 +8560,7 @@
         "languages": {
             "Santali": []
         },
-        "topics": ["semantics"]
+        "topics": ["semantics", "expressives"]
     },
     {
         "type": "thesis",
@@ -10558,7 +10559,7 @@
         "languages": {
             "Kurux": []
         },
-        "topics": ["semantics", "historical"]
+        "topics": ["semantics", "historical", "expressives"]
     },
     {
         "type": "mastersthesis",
@@ -14628,7 +14629,7 @@
         "topics": ["syntax"]
     },
     {
-        "type": "thesis",
+        "type": "mastersthesis",
         "title": "Unaccusativity, Unergativity and The Causative Alternation in Hindi: A Minimalist Analysis",
         "author": ["Richa"],
         "publisher": "Jawaharlal Nehru University",
@@ -14638,5 +14639,573 @@
         "languages": {
             "Hindi-Urdu": []
         }
+    },
+    {
+        "type": "article",
+        "title": "Burushaski--An Extraordinary Language in the Karakoram Mountains",
+        "author": ["Dick Grune"],
+        "year": 1998,
+        "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.147.5386",
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "inbook",
+        "title": "Burushaski converbs in their South and Central Asian areal context",
+        "author": ["Bertil Tikkanen"],
+        "year": 1995,
+        "booktitle": "Converbs in Cross-Linguistic Perspective",
+        "publisher": "De Gruyter Mouton",
+        "editor": ["Martin Haspelmath", "Ekkehard König"],
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "Advances in Burushaski linguistics",
+        "author": ["Jan Henrik Holst"],
+        "year": 2014,
+        "publisher": "Narr Verlag",
+        "languages": {
+            "Burushaski": ["Hunza Valley", "Nagar Valley", "Yasin Valley"]
+        },
+        "topics": ["historical", "typology"]
+    },
+    {
+        "type": "article",
+        "title": "Das Burushaski--Schicksale einer zentralasiatischen Restsprache",
+        "author": ["Hermann Berger"],
+        "journal": "Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Philosophisch-Historische Klasse",
+        "year": 1992,
+        "pages": "3--25",
+        "url": "http://crossasia-repository.ub.uni-heidelberg.de/3180/1/Berger_Das_Burushaski_1992.pdf",
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Burushaski--Texte aus Hispar: Materialien zum Verständnis einer archaischen Bergkultur in Nordpakistan",
+        "author": ["Hugh van Skyhawk"],
+        "year": 2003,
+        "publisher": "Harrassowitz",
+        "languages": {
+            "Burushaski": ["Hispar Valley"]
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Türkische Lehnwörter im Burushaski",
+        "author": ["Volker Gerhard Rybatzki"],
+        "journal": "Anantaṁ śāstram. Indological and Linguistic Studies in Honour of Bertil Tikkanen",
+        "year": 2010,
+        "publisher": "Studia Orientalia",
+        "pages": "149--179",
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["language contact"]
+    },
+    {
+        "type": "article",
+        "title": "Vocabularies from the middle of the 20th century from Afghanistan: Part one: Iranian, Nuristani and Dardic materials I",
+        "author": ["A. F. Mackenzie", "Volker Gerhard Rybatzki"],
+        "journal": "Acta Orientalia Academiae Scientiarum Hung",
+        "year": 2013,
+        "volume": 66,
+        "number": 3,
+        "pages": "297--348",
+        "languages": {
+            "Hazaragi": ["Behsud"],
+            "Moghol": ["Morchaghal"],
+            "Southeastern Pashayi": ["Alingar"],
+            "Katavari": ["Nilaw"]
+        },
+        "topics": ["lexicography", "historical"],
+        "url": "https://akjournals.com/view/journals/062/66/3/article-p297.xml"
+    },
+    {
+        "type": "article",
+        "title": "Vocabularies from the middle of the 20th century from Afghanistan: Part one: Iranian, Nuristani and Dardic materials II",
+        "author": ["A. F. Mackenzie", "Volker Gerhard Rybatzki"],
+        "journal": "Acta Orientalia Academiae Scientiarum Hung",
+        "year": 2013,
+        "volume": 66,
+        "number": 4,
+        "pages": "443--469",
+        "languages": {
+            "Katavari": ["Nilaw"]
+        },
+        "topics": ["lexicography", "historical"],
+        "url": "https://akjournals.com/view/journals/062/66/4/article-p443.xml"
+    },
+    {
+        "type": "article",
+        "title": "Vocabularies from the middle of the 20th century from Afghanistan: Part two: Özbek and Moghol Materials",
+        "author": ["A. F. Mackenzie", "Volker Gerhard Rybatzki"],
+        "journal": "Acta Orientalia Academiae Scientiarum Hung",
+        "year": 2013,
+        "volume": 70,
+        "number": 4,
+        "pages": "431--478",
+        "languages": {
+            "Moghol": ["Morchaghal"]
+        },
+        "topics": ["lexicography", "historical"],
+        "url": "https://akjournals.com/view/journals/062/70/4/article-p431.xml"
+    },
+    {
+        "type": "article",
+        "title": "Concerning the typology of Burushaski and the roots of its prefixes d- and n-",
+        "author": ["Bertil Tikkanen"],
+        "journal": "Studia Orientalia Electronica",
+        "volume": 85,
+        "year": 1999,
+        "pages": "277--300",
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["typology", "morphology", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "Middle voice construction in Burushaski: From the perspective of a native speaker of the Hunza dialect",
+        "author": ["Piar Karim"],
+        "publisher": "University of North Texas",
+        "year": 2013,
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "topics": ["syntax", "morphology", "semantics"]
+    },
+    {
+        "type": "article",
+        "title": "Tibeto-Burman and Indo-European loans in Burushaski Kinship terminology",
+        "author": ["R. J. Parkin"],
+        "journal": "Bulletin of the School of Oriental and African Studies, University of London",
+        "volume": 50,
+        "number": 2,
+        "year": 1997,
+        "url": "https://www.jstor.org/stable/617120",
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["language contact"]
+    },
+    {
+        "type": "article",
+        "title": "A Burushaski Folktale, Transcribed and Translated: The Frog as a bride, or, the three princes and the fairy princess Salaasír",
+        "author": ["Bertil Tikkanen"],
+        "journal": "Studia Orientalia Electronica",
+        "volume": 67,
+        "year": 1991,
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "url": "https://journal.fi/store/article/view/49694",
+        "topics": ["corpora"]
+    },
+    {
+        "type": "book",
+        "title": "Srinagar Burushaski: A Descriptive and Comparative Account with Analyzed Texts",
+        "author": ["Sadaf Munshi"],
+        "publisher": "Brill",
+        "year": 2018,
+        "languages": {
+            "Burushaski": ["Srinagar"]
+        },
+        "topics": ["corpora", "overview"]
+    },
+    {
+        "type": "article",
+        "title": "Light Verbs and Noun Verb Agreement in Hunza Burushaski",
+        "author": ["Piar Karim"],
+        "journal": "Pakistaniaat",
+        "volume": 3,
+        "number": 3,
+        "year": 2011,
+        "url": "http://pakistaniaat.org/index.php/pak/article/view/138",
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Contact-induced language change in a trilingual context: The case of Burushaski in Srinagar",
+        "author": ["Sadaf Munshi"],
+        "journal": "Diachronica",
+        "volume": 27,
+        "number": 1,
+        "year": 2010,
+        "url": "https://www.jbe-platform.com/content/journals/10.1075/dia.27.1.02mun",
+        "languages": {
+            "Burushaski": ["Srinagar"]
+        },
+        "topics": ["language contact", "sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "Evidence for a Burushaski-Phrygian connection",
+        "author": ["Ilija Čašule"],
+        "journal": "Acta Orientalia",
+        "volume": 75,
+        "year": 2014,
+        "url": "https://journals.uio.no/actaorientalia/article/view/4457",
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["historical", "genetics"]
+    },
+    {
+        "type": "article",
+        "title": "Weight sensitivity and syllable codas in Srinagar Koshur",
+        "author": ["Sadaf Munshi", "Meghan J. Crowhurst"],
+        "journal": "Journal of Linguistics",
+        "volume": 48,
+        "number": 2,
+        "year": 2012,
+        "languages": {
+            "Kashmiri": ["Srinagar"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Documenting the Burushaski language: Issues in data collection, transmission, preservation, and revitalization",
+        "author": ["Sadaf Munshi", "Piar Karim"],
+        "booktitle": "1st International Conference on Language Documentation and Conservation",
+        "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/5058",
+        "year": 2009,
+        "languages": {
+            "Burushaski": ["Srinagar"]
+        },
+        "topics": ["language documentation/revitalization"]
+    },
+    {
+        "type": "inbook",
+        "title": "Passives in Burushaski",
+        "author": ["Yves-Charles Morin", "Étienne Tiffou"],
+        "booktitle": "Passive and Voice",
+        "year": 1988,
+        "languages": {
+            "Burushaski": []
+        },
+        "editor": ["Masayoshi Shibatani"],
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Phonetic correlates of laryngeal and place contrasts of Burushaski",
+        "author": ["Qandeel Hussain"],
+        "journal": "Speech Communication",
+        "volume": 126,
+        "year": 2021,
+        "pages": "71--89",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167639320302922",
+        "languages": {
+            "Burushaski": ["Hunza Valley"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "The Transformation of a Naga Prince Tale",
+        "author": ["Ruth L. Schmidt"],
+        "year": 2013,
+        "journal": "Oriental Archive",
+        "volume": 81,
+        "number": 1,
+        "pages": "1--15",
+        "languages": {
+            "Kohistani Shina": []
+        },
+        "topics": ["ethnography", "corpora"]
+    },
+    {
+        "type": "article",
+        "title": "Compound verbs in the Shina of Kohistan",
+        "author": ["Ruth L. Schmidt"],
+        "journal": "Acta Orientalia",
+        "year": 2004,
+        "volume": 65,
+        "languages": {
+            "Kohistani Shina": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Converbs in a Kohistani Shina Narrative",
+        "author": ["Ruth L. Schmidt"],
+        "journal": "Acta Orientalia",
+        "year": 2003,
+        "volume": 64,
+        "languages": {
+            "Kohistani Shina": []
+        },
+        "topics": ["syntax", "corpora"]
+    },
+    {
+        "type": "article",
+        "title": "The oral history of the Darmá lineage of Indus Kohistan",
+        "author": ["Ruth L. Schmidt"],
+        "journal": "European Bulletin of Himalayan Research",
+        "volume": 24,
+        "number": "Spring",
+        "languages": {
+            "Kohistani Shina": []
+        },
+        "year": 2003,
+        "topics": ["ethnography", "historical"],
+        "url": "http://himalaya.socanth.cam.ac.uk/collections/journals/ebhr/pdf/EBHR_25&26_03.pdf"
+    },
+    {
+        "type": "article",
+        "title": "Note on Col. Lorimer's Phonetics of Gilgit Shina",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Journal of the Royal Asiatic Society",
+        "volume": 56,
+        "number": 3,
+        "year": 1924,
+        "pages": "435--439",
+        "languages": {
+            "Shina": ["Gilgit"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Are the Four Series (Front t, d, r, n; Back ṭ, ḍ, ṛ, ṇ; Aspirates, and Non-Aspirates) Found in Sina?",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Journal of the Royal Asiatic Society",
+        "volume": 57,
+        "number": 1,
+        "year": 1925,
+        "pages": "87--93",
+        "languages": {
+            "Shina": []
+        },
+        "url": "https://www.jstor.org/stable/25220640",
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Dentals and Cerebrals in Shina",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Journal of the Royal Asiatic Society",
+        "year": 1925,
+        "pages": "497--498",
+        "languages": {
+            "Shina": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.jstor.org/stable/25220766"
+    },
+    {
+        "type": "article",
+        "title": "The Sounds of Shina",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Journal of the Royal Asiatic Society",
+        "year": 1925,
+        "pages": "799--802",
+        "languages": {
+            "Shina": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.jstor.org/stable/607089"
+    },
+    {
+        "type": "article",
+        "title": "West Himalayan Bŏhri and Ṣiṇā Bodŭ",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Journal of the Royal Asiatic Society",
+        "year": 1927,
+        "pages": "316--318",
+        "languages": {
+            "Shina": [],
+            "Kochi": [],
+            "Kiunthali": [],
+            "Kotgarhi": []
+        },
+        "topics": ["lexicography", "comparative"],
+        "url": "https://www.jstor.org/stable/25221120"
+    },
+    {
+        "type": "article",
+        "title": "A Brief Grammar of the Kanauri Language",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Zeitschrift der Deutschen Morgenländischen Gesellschaft",
+        "volume": 63,
+        "number": 4,
+        "year": 1909,
+        "pages": "661--687",
+        "url": "https://www.jstor.org/stable/43367401",
+        "languages": {
+            "Kinnauri": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "R Sounds in Kafir Languages",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Zeitschrift der Deutschen Morgenländischen Gesellschaft",
+        "number": 3,
+        "year": 1927,
+        "pages": "558--559",
+        "url": "https://www.jstor.org/stable/25221187",
+        "languages": {
+            "Ashkun": [],
+            "Katavari": [],
+            "Kalasha-ala": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Middle Indian -ḍ- > -ṛ- in Village Kaśmīrī",
+        "author": ["Thomas G. Bailey"],
+        "journal": "The Journal of the Royal Asiatic Society of Great Britain and Ireland",
+        "number": 3,
+        "year": 1929,
+        "pages": "606--608",
+        "url": "https://www.jstor.org/stable/25193945",
+        "languages": {
+            "Kashmiri": ["Srinagar"],
+            "Punjabi": []
+        },
+        "topics": ["phonetics/phonology", "historical", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Tone Rules in Kalam Kohistani (Garwi, Bashkarik)",
+        "author": ["Joan L. G. Baart"],
+        "journal": "Bulletin of the School of Oriental and African Studies, University of London",
+        "volume": 62,
+        "number": 1,
+        "year": 1999,
+        "pages": "88--104",
+        "languages": {
+            "Kalam Kohistani": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.jstor.org/stable/3107391"
+    },
+    {
+        "type": "article",
+        "title": "Tone and song in Kalam Kohistani (Pakistan)",
+        "author": ["Joan L. G. Baart"],
+        "journal": "LOT Occasional Series",
+        "volume": 2,
+        "year": 2004,
+        "pages": "5--15",
+        "languages": {
+            "Kalam Kohistani": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://dspace.library.uu.nl/handle/1874/295427"
+    },
+    {
+        "type": "book",
+        "title": "A grammar of the Kūi language",
+        "author": ["J. E. Friend-Pereira"],
+        "publisher": "Bengal Secretariat Book Depot",
+        "year": 1909,
+        "location": "Calcutta",
+        "languages": {
+            "Kui": []
+        },
+        "topics": ["overview"],
+        "url": "https://archive.org/details/grammarofkuilang00frierich"
+    },
+    {
+        "type": "article",
+        "title": "The Central Dravidian Languages",
+        "author": ["P. S. Subrahmanyam"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 89,
+        "number": 4,
+        "year": 1969,
+        "url": "https://www.jstor.org/stable/596945",
+        "languages": {
+            "Telugu": [],
+            "Gondi": [],
+            "Konda": [],
+            "Kui": [],
+            "Kuvi": [],
+            "Kolami": [],
+            "Naiki": [],
+            "Parji": [],
+            "Gadaba": [],
+            "Pengo": [],
+            "Manda": []
+        },
+        "topics": ["historical", "comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Parji Verb Inflection",
+        "author": ["Anoop Chandra Chandola"],
+        "journal": "Indo-Iranian Journal",
+        "volume": 7,
+        "number": "2/3",
+        "year": 1964,
+        "languages": {
+            "Parji": ["Mavlipadar"]
+        },
+        "topics": ["morphology"],
+        "url": "https://www.jstor.org/stable/24648486"
+    },
+    {
+        "type": "article",
+        "title": "The Palatalizing Rule in Tamil-Malayalam and Telugu",
+        "author": ["M. B. Emeneau"],
+        "journal": "Journal of the American Oriental Society",
+        "volume": 115,
+        "number": 3,
+        "year": 1995,
+        "pages": "401--409",
+        "languages": {
+            "Tamil": [],
+            "Malayalam": [],
+            "Telugu": []
+        },
+        "topics": ["historical", "phonetics/phonology"],
+        "url": "https://www.jstor.org/stable/606217"
+    },
+    {
+        "type": "article",
+        "title": "Tamil Expressives with Initial Voiced Stops",
+        "author": ["M. B. Emeneau", "Kausalya Hart"],
+        "journal": "Bulletin of the School of Oriental and African Studies, University of London",
+        "volume": 56,
+        "number": 1,
+        "year": 1993,
+        "pages": "75--86",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["semantics", "expressives"],
+        "url": "https://www.jstor.org/stable/620288"
+    },
+    {
+        "type": "article",
+        "title": "Names of plants in Kalam Kohistani (Pakistan)",
+        "author": ["Joan L. G. Baart", "Esther L. Baart-Bremer", "Muhammad Zaman Sagar"],
+        "journal": "Work Papers of the Summer Institute of Linguistics, University of North Dakota Session",
+        "volume": 48,
+        "url": "https://commons.und.edu/sil-work-papers/vol48/iss1/1/",
+        "year": 2004,
+        "languages": {
+            "Kalam Kohistani": []
+        },
+        "topics": ["ethnobiology"]
     }
 ]
