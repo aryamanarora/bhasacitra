@@ -2405,7 +2405,7 @@
         "languages": {
             "Pahari-Pothwari": ["Mirpur"]
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "compound verbs"]
     },
     {
         "type": "book",
@@ -5556,7 +5556,7 @@
         "languages": {
             "Gojri": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "compound verbs"]
     },
     {
         "type": "thesis",
@@ -6734,7 +6734,7 @@
         "languages": {
             "Sinhala": []
         },
-        "topics": ["syntax", "case and adpositions"]
+        "topics": ["syntax", "case and adpositions", "experiencers"]
     },
     {
         "type": "inbook",
@@ -10794,7 +10794,7 @@
     },
     {
         "type": "article",
-        "title": "Notes on the Balochi-Brahui Linguistics Commensality",
+        "title": "Notes on the Balochi-Brahui linguistic commensality",
         "author": ["J. Elfenbein"],
         "journal": "Transactions of the Philological Society",
         "volume": 80,
@@ -11126,22 +11126,6 @@
     },
     {
         "type": "book",
-        "title": "Non-nominative Subjects",
-        "volume": 2,
-        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
-        "year": 2004,
-        "publisher": "John Benjamins",
-        "languages": {
-            "Gujarati": [],
-            "Hindi-Urdu": [],
-            "Telugu": [],
-            "Marathi": [],
-            "Maithili": []
-        },
-        "topics": ["syntax"]
-    },
-    {
-        "type": "book",
         "title": "An Etymological Gujarati English Dictionary",
         "author": ["Malhar Bhikaji Belsare"],
         "year": 1904,
@@ -11150,31 +11134,6 @@
             "Gujarati": []
         },
         "topics": ["lexicography"]
-    },
-    {
-        "type": "book",
-        "title": "Lexical Anaphors and Pronouns in Selected South Asian Languages: A Principled Typology",
-        "editor": ["Barbara C. Lust", "Kashi Wali", "James W. Gair", "Kārumūri V. Subbārāo"],
-        "publisher": "De Gruyter Mouton",
-        "year": 2000,
-        "languages": {
-            "Kannada": [],
-            "Malayalam": [],
-            "Tamil": [],
-            "Telugu": [],
-            "Bengali": [],
-            "Gujarati": [],
-            "Hindi-Urdu": [],
-            "Kashmiri": [],
-            "Marathi": [],
-            "Odia": [],
-            "Punjabi": [],
-            "Sinhala": [],
-            "Mizo": [],
-            "Juang": []
-        },
-        "topics": ["syntax", "morphology"],
-        "doi": "10.1515/9783110818888"
     },
     {
         "type": "article",
@@ -11796,7 +11755,7 @@
         "languages": {
             "Tamil": []
         },
-        "topics": []
+        "topics": ["experiencers"]
     },
     {
         "type": "book",
@@ -11884,7 +11843,7 @@
     {
         "type": "book",
         "title": "The Evolution of Malayalam Morphology",
-        "author": ["L. V. Ramaswamy Ayyar"],
+        "author": ["L. V. Ramaswami Ayyar"],
         "year": 1936,
         "url": "https://archive.org/details/TheEvolutionOfMalayalamMorphology",
         "languages": {
@@ -14834,7 +14793,7 @@
         "languages": {
             "Burushaski": ["Hunza Valley"]
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "compound verbs"]
     },
     {
         "type": "article",
@@ -14938,7 +14897,7 @@
         "languages": {
             "Kohistani Shina": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "compound verbs"]
     },
     {
         "type": "article",
@@ -15207,5 +15166,1122 @@
             "Kalam Kohistani": []
         },
         "topics": ["ethnobiology"]
+    },
+    {
+        "type": "article",
+        "title": "The Tulu Verb",
+        "journal": "The Educational Review",
+        "author": ["L. V. Ramaswami Ayyar"],
+        "url": "http://www.southasiaarchive.com/Content/sarf.120034/208314/008",
+        "year": 1928,
+        "languages": {
+            "Tulu": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Brāhūī Forms and Dravidian Origins",
+        "journal": "The Educational Review",
+        "author": ["L. V. Ramaswami Ayyar"],
+        "url": "http://www.southasiaarchive.com/Content/sarf.120034/205941/005",
+        "year": 1929,
+        "languages": {
+            "Brahui": []
+        },
+        "topics": ["historical"]
+    },
+    {
+        "type": "article",
+        "title": "Tulu Initial Affricates and Sibilants",
+        "author": ["L. V. Ramaswami Ayyar"],
+        "journal": "The Quarterly Journal of the Mythic Society",
+        "year": 1932,
+        "languages": {
+            "Tulu": []
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "http://www.southasiaarchive.com/Content/sarf.120045/206797/002"
+    },
+    {
+        "type": "article",
+        "title": "Separating tense and finiteness: anchoring in Dravidian",
+        "author": ["R. Amritavalli"],
+        "journal": "Natural Language & Linguistic Theory",
+        "volume": 32,
+        "year": 2014,
+        "pages": "283--306",
+        "languages": {
+            "Tamil": [],
+            "Telugu": [],
+            "Malayalam": [],
+            "Kannada": []
+        },
+        "topics": ["syntax"],
+        "url": "https://link.springer.com/content/pdf/10.1007/s11049-013-9219-3.pdf"
+    },
+    {
+        "type": "inbook",
+        "title": "Nominal and Interrogative Complements in Kannada",
+        "author": ["R. Amritavalli"],
+        "booktitle": "Deep insights, broad perspectives: Essays in honor of Mamoru Saito",
+        "year": 2013,
+        "pages": "1--21",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Result phrases and dative experiencers in Kannada",
+        "author": ["R. Amritavalli"],
+        "journal": "19th ICL (International Congress of Linguists)",
+        "year": 2013,
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax", "experiencers"]
+    },
+    {
+        "type": "article",
+        "title": "The origins of functional and lexical categories: Tense-aspect and adjectives in Dravidian",
+        "author": ["R. Amritavalli"],
+        "journal": "Nanzan Linguistics",
+        "volume": 4,
+        "year": 2008,
+        "pages": "1--20",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"],
+        "url": "http://www.ic.nanzan-u.ac.jp/LINGUISTICS/publication/pdf/pdf/NL4-1-amritavalli.pdf"
+    },
+    {
+        "type": "article",
+        "title": "Parts, axial parts and next parts in Kannada",
+        "author": ["R. Amritavalli"],
+        "journal": "Tromso Working Papers on Language & Linguistics",
+        "volume": 34,
+        "number": 2,
+        "year": 2007,
+        "pages": "1--16",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"],
+        "url": "https://septentrio.uit.no/index.php/nordlyd/article/view/107"
+    },
+    {
+        "type": "inbook",
+        "title": "Some Developments in the Functional Architecture of the Kannada Clause",
+        "author": ["R. Amritavalli"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Two Types of Negation in Bengali",
+        "author": ["Gillian Catriona Ramchand"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "The Serial Verb Construction in Malayalam",
+        "author": ["K. A. Jayaseelan"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Causation and Reflexivity in Kannada",
+        "author": ["Jeffrey Lidz"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Light Verb Raising, Empty Preposition and Zero Derivation",
+        "author": ["P. Madhavan"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["syntax", "compound verbs"]
+    },
+    {
+        "type": "inbook",
+        "title": "Structural Case, Lexical Case and the Verbal Projection",
+        "author": ["Alice Davison"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Remarks on Adsentential, Adnominal, and Extraposed Relative Clauses in Hindi",
+        "author": ["James D. McCawley"],
+        "booktitle": "Clause structure in South Asian Languages",
+        "editor": ["V. Dayal", "A. Mahajan"],
+        "year": 2004,
+        "url": "https://link.springer.com/book/10.1007/978-1-4020-2719-2",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Experiencer datives in Kannada",
+        "author": ["R. Amritavalli"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax", "experiencers"]
+    },
+    {
+        "type": "inbook",
+        "title": "Syntactic change and convergence",
+        "author": ["Harbir Kaur Arora", "Kārumūri V. Subbārāo"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Dakkhini": [],
+            "Konkani": ["Uttara Kannada District"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "The syntax of experiencers in the Himalayas",
+        "author": ["Balthasar Bickel"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Nepali": [],
+            "Kashmiri": [],
+            "Maithili": [],
+            "Tibetan": [],
+            "Hayu": [],
+            "Belhare": [],
+            "Newar": [],
+            "Limbu": []
+        },
+        "topics": ["syntax", "experiencers"]
+    },
+    {
+        "type": "inbook",
+        "title": "Some non-nominative subjects in Bangla",
+        "author": ["Probal Dasgupta"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Non-nominative subjects in Hindi — Urdu VP structure and case parameters",
+        "author": ["Alice Davison"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Case as agreement",
+        "author": ["Peter E. Hook", "Omkar N. Koul"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Shina": ["Gultari"],
+            "Kashmiri": [],
+            "Poguli": [],
+            "Gujarati": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "The possessor — experiencer dative in Malayalam",
+        "author": ["K. A. Jayaseelan"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["syntax", "experiencers"]
+    },
+    {
+        "type": "inbook",
+        "title": "Acquisition of dative subject in Tamil",
+        "author": ["B. Lakshmi Bai"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax", "language acquisition"]
+    },
+    {
+        "type": "inbook",
+        "title": "On the origin of non-nominative subjects",
+        "author": ["Anoop K. Mahajan"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 1,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax", "historical"]
+    },
+    {
+        "type": "inbook",
+        "title": "Subjecthood of non-nominatives in Gujarati",
+        "author": ["P. J. Mistry"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Oblique main arguments in Hindi as localizing predications",
+        "author": ["Annie Montaut"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Non-nominative subjects in Telugu",
+        "author": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Acquisition of the non-nominative subject in Telugu",
+        "author": ["A. Usha Rani", "V. Sailaja"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["syntax", "language acquisition"]
+    },
+    {
+        "type": "inbook",
+        "title": "Non-nominative subjects in Marathi",
+        "author": ["Kashi Wali"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Non-nominative subjects in Maithili",
+        "author": ["Yogendra P. Yadava"],
+        "booktitle": "Non-nominative Subjects",
+        "volume": 2,
+        "editor": ["Peri Bhaskararao", "Kārumūri V. Subbārāo"],
+        "year": 2004,
+        "publisher": "John Benjamins",
+        "languages": {
+            "Maithili": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Question and negative polarity in the disjunction phrase",
+        "author": ["R. Amritavalli"],
+        "journal": "Syntax",
+        "volume": 6,
+        "number": 1,
+        "year": 2003,
+        "pages": "1--18",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"],
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9612.00054"
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Kannada",
+        "author": ["R. Amritavalli"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Malayalam",
+        "author": ["K. A. Jayaseelan"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Tamil",
+        "author": ["E. Annamalai"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Telugu",
+        "author": ["Kārumūri V. Subbārāo", "B. Murthy Lalitha"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Bangla",
+        "author": ["Gautam Sengupta"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Bengali": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Gujarati",
+        "author": ["P. J. Mistry"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Gujarati": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Hindi/Urdu",
+        "author": ["Alice Davison"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Hindi-Urdu": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Kashmiri",
+        "author": ["Kashi Wali", "Omkar N. Koul", "Peter E. Hook", "A. N. Koul"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Marathi",
+        "author": ["Kashi Wali"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Oriya",
+        "author": ["Tapas S. Ray"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Odia": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Punjabi",
+        "author": ["Tej K. Bhatia"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Punjabi": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Mizo",
+        "author": ["B. Murthy Lalitha", "Kārumūri V. Subbārāo"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Mizo": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Lexical anaphors and pronouns in Juang",
+        "author": ["Manideepa Patnaik", "Kārumūri V. Subbārāo"],
+        "year": 1999,
+        "booktitle": "Lexical anaphors and pronouns in selected South Asian Languages: A Principled Typology",
+        "editor": ["B. Lust", "K. Wali", "J. W. Gair", "Kārumūri V. Subbārāo"],
+        "location": "Berlin",
+        "publisher": "Mouton de Gruyter",
+        "pages": "715--776",
+        "url": "http://books.google.com/books?id=GRAWRpyqRusC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+        "languages": {
+            "Marathi": []
+        },
+        "topics": ["pragmatics"]
+    },
+    {
+        "type": "inbook",
+        "title": "Result clauses in Kannada",
+        "author": ["R. Amritavalli"],
+        "booktitle": "Linguisticoliterary: A Festschrift for Professor D.S. Dwivedi",
+        "editor": ["R. E. Asher", "Roy Harris"],
+        "publisher": "Pilgrims Books",
+        "location": "Delhi",
+        "year": 2000,
+        "pages": "51--59",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "A Kannada perspective on morphological causatives",
+        "author": ["R. Amritavalli"],
+        "booktitle": "Phases and interfaces of morphology",
+        "editor": ["M. Hariprasad", "Hemalatha Nagarajan", "P. Madhavan", "K. G. Vijayakrishnan"],
+        "volume": 2,
+        "publisher": "CIEFL",
+        "location": "Hyderabad",
+        "year": 1997,
+        "pages": "180--205",
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "inbook",
+        "title": "Addressee markers on verbs: A form of agreement?",
+        "author": ["R. Amritavalli"],
+        "booktitle": "Linguistics at large",
+        "editor": ["V. Prakasam", "S. V. Parasher"],
+        "publisher": "Booklinks",
+        "location": "Hyderabad",
+        "year": 1992,
+        "pages": "38--51",
+        "languages": {
+            "Tamil": [],
+            "Telugu": [],
+            "Kannada": []
+        },
+        "topics": ["morphology", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Valency in Kannada: Evidence for Interpretive Morphology",
+        "author": ["Jeffrey Lidz"],
+        "journal": "University of Pennsylvania Working Papers in Linguistics",
+        "volume": 5,
+        "number": 2,
+        "year": 1998,
+        "languages": {
+            "Kannada": []
+        },
+        "topics": ["morphology", "syntax"],
+        "url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1405&context=pwpl"
+    },
+    {
+        "type": "inproceedings",
+        "title": "A Telugu treebank based on a grammar book",
+        "author": ["Taraka Rama", "Sowmya Vajjala"],
+        "journal": "Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories",
+        "editor": ["Jan Hajič"],
+        "year": 2017,
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["syntax", "computational"],
+        "url": "https://aclanthology.org/W17-7616/"
+    },
+    {
+        "type": "book",
+        "title": "Grammar of Poumai Naga (Poula)",
+        "author": ["Sahiinii Lemaina Veikho"],
+        "publisher": "Brill",
+        "year": 2021,
+        "languages": {
+            "Poula": ["Koide"]
+        },
+        "topics": ["overview"],
+        "url": "https://brill.com/view/title/57482"
+    },
+    {
+        "type": "thesis",
+        "title": "A Descriptive Grammar of Muklom Tangsa",
+        "author": ["Mijke Mulder"],
+        "year": 2020,
+        "publisher": "La Trobe University",
+        "languages": {
+            "Muklom Tangsa": ["Kharsang"]
+        },
+        "topics": ["overview"],
+        "url": "https://opal.latrobe.edu.au/articles/thesis/A_Descriptive_Grammar_of_Muklom_Tangsa/13023293"
+    },
+    {
+        "type": "article",
+        "title": "Verb inflection in Muklom Tangsa",
+        "author": ["Mijke Mulder"],
+        "year": 2019,
+        "journal": "Himalayan Linguistics",
+        "volume": 18,
+        "number": 1,
+        "url": "https://escholarship.org/uc/item/4wc8x7bz",
+        "languages": {
+            "Muklom Tangsa": ["Kharsang"]
+        },
+        "topics": ["morphology", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Hierarchical indexing and the inverse in Muklom Tangsa",
+        "author": ["Mijke Mulder"],
+        "year": 2018,
+        "journal": "North East Indian Linguistics",
+        "volume": 8,
+        "url": "https://www.academia.edu/38286329/Hierarchical_indexing_and_the_inverse_in_Muklom_Tangsa",
+        "languages": {
+            "Muklom Tangsa": ["Kharsang"]
+        },
+        "topics": ["morphology", "syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Documenting a fuzzy tone system: The case of Muklom Tangsa",
+        "author": ["Mijke Mulder"],
+        "year": 2018,
+        "journal": "Journal of the Southeast Asian Linguistics Society",
+        "url": "https://www.academia.edu/37560664/Documenting_a_fuzzy_tone_system_The_case_of_Muklom_Tangsa",
+        "languages": {
+            "Muklom Tangsa": ["Kharsang"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Grammar of Hakhun Tangsa",
+        "author": ["Krishna Boro"],
+        "year": 2017,
+        "publisher": "University of Oregon",
+        "url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/22739",
+        "languages": {
+            "Hakhun Tangsa": ["Malugaon"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Argument indexation in Hakhun Tangsa",
+        "author": ["Krishna Boro"],
+        "volume": 18,
+        "number": 1,
+        "year": 2019,
+        "journal": "Himalayan Linguistics",
+        "url": "https://escholarship.org/uc/item/0mp7r7c4",
+        "languages": {
+            "Hakhun Tangsa": ["Malugaon"]
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Non-Dravidian Element in Manda Syntax: A Study in Linguistic Convergence",
+        "author": ["B. Ramakrishna Reddy"],
+        "journal": "Osmania Papers in Linguistics",
+        "volume": 6,
+        "year": 1980,
+        "pages": "71--88",
+        "languages": {
+            "Manda": []
+        },
+        "topics": ["syntax", "language contact"]
+    },
+    {
+        "type": "thesis",
+        "title": "Localist Studies in Telugu Syntax",
+        "author": ["B. Ramakrishna Reddy"],
+        "year": 1976,
+        "publisher": ["Nairobi University"],
+        "languages": {
+            "Telugu": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Constraints on Consonant Combinations in Manda",
+        "author": ["K. Nagamma Reddy", "B. Ramakrishna Reddy"],
+        "journal": "Osmania Papers in Linguistics",
+        "volume": 12,
+        "year": 1986,
+        "url": "http://arts.osmania.ac.in/Journals/Linguistics/Volume%2012.pdf#page=38",
+        "languages": {
+            "Manda": ["Thuamul Rampur"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "On Eravalla",
+        "author": ["V. Gnanasundaram", "N. Vijayan", "P. Suresh"],
+        "journal": "A Monthly of Dravidian Linguistics Association of India",
+        "volume": 38,
+        "number": 11,
+        "year": 2014,
+        "languages": {
+            "Eravalla": ["Pollachi"]
+        },
+        "topics": ["overview"],
+        "url": "http://www.ijdl.org/Html/NOV_14.pdf"
+    },
+    {
+        "type": "book",
+        "title": "A Study of Eravalla",
+        "author": ["V. Gnanasundaram"],
+        "year": 2012,
+        "publisher": "Department of Linguistics, Bharathiyar University",
+        "location": "Coimbatore",
+        "languages": {
+            "Eravalla": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Iṟavāppalaṅkuṭikaḷin Vālviyal [Socio-cultural Aspects of Eravallar Tribe]",
+        "author": ["T. Vijayalatchumi"],
+        "year": 2008,
+        "publisher": "Thirukkural Patippakam",
+        "location": "Chennai",
+        "languages": {
+            "Eravalla": []
+        },
+        "topics": ["ethnography"]
+    },
+    {
+        "type": "thesis",
+        "title": "A descriptive analysis of a dialect of Tamil",
+        "author": ["Vadasery Iyemperumal Subramoniam"],
+        "year": 1958,
+        "publisher": "Indiana University",
+        "languages": {
+            "Tamil": ["Nagercoil", "Thanjavur"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "thesis",
+        "title": "A Generative Grammar of Tamil",
+        "author": ["Shunmugom Agesthialingom Pillai"],
+        "year": 1963,
+        "publisher": "Indiana University",
+        "languages": {
+            "Tamil": ["Kanyakumari"]
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "The structure of the Tamil verb",
+        "author": ["A. Sathasivam"],
+        "year": 1956,
+        "url": "https://ora.ox.ac.uk/objects/uuid:b7e6e76e-3309-4187-97c3-8d9ae9924ee5",
+        "publisher": "Oxford University",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["morphology", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "A syntactic study of spoken Tamil",
+        "author": ["Rama Subbiah"],
+        "year": 1965,
+        "publisher": "University of London",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax"],
+        "url": "https://eprints.soas.ac.uk/29252/"
+    },
+    {
+        "type": "thesis",
+        "title": "The syntax of the verb in Ceylon Tamil",
+        "author": ["Thirulogendran Kandiah"],
+        "year": 1967,
+        "publisher": "University of London",
+        "languages": {
+            "Tamil": ["Jaffna"]
+        },
+        "topics": ["syntax"],
+        "url": "https://eprints.soas.ac.uk/29160/"
+    },
+    {
+        "type": "thesis",
+        "title": "Tamil auxiliary verbs",
+        "author": ["Ian Randall Hampton Dale"],
+        "year": 1975,
+        "publisher": "University of London",
+        "languages": {
+            "Tamil": ["Chidambaram"]
+        },
+        "topics": ["syntax", "morphology"],
+        "url": "https://eprints.soas.ac.uk/28685/"
+    },
+    {
+        "type": "thesis",
+        "title": "Adjectival Clauses in Tamil",
+        "author": ["E. Annamalai"],
+        "year": 1969,
+        "publisher": "University of Chicago",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax"],
+        "url": "https://www.proquest.com/docview/302486029/771ECD3E953C4459PQ/8"
+    },
+    {
+        "type": "thesis",
+        "title": "A Transformational Grammar of the Tamil Aspectual System",
+        "author": ["Harold F. Schiffman"],
+        "year": 1969,
+        "publisher": "University of Chicago",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "book",
+        "title": "The Tamil Auxiliary Verb System",
+        "author": ["Sanford B. Steever"],
+        "year": 2020,
+        "publisher": "Taylor & Francis",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "thesis",
+        "title": "Social Deixis in a Tamil Village",
+        "author": ["Stephen Curtis Levinson"],
+        "year": 1977,
+        "publisher": "University of California, Berkeley",
+        "languages": {
+            "Tamil": ["Coimbatore"]
+        },
+        "topics": ["sociolinguistics", "dialectology"],
+        "url": "https://www.mpi.nl/publications/item445902/social-deixis-tamil-village"
+    },
+    {
+        "type": "thesis",
+        "title": "Effectivity and causativity in Tamil",
+        "author": ["K. Paramasivam"],
+        "year": 1977,
+        "publisher": "University of Chicago",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Tamil Baby Talk: A Cross-Cultural Study",
+        "author": ["Susan Greenawalt Williamson"],
+        "year": 1979,
+        "publisher": "University of Pennsylvania",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["language acquisition"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Tamil Serial or Compound Verb",
+        "author": ["Vijayarani Jotimuttu Fedson"],
+        "year": 1981,
+        "publisher": "University of Chicago",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax", "compound verbs"]
+    },
+    {
+        "type": "thesis",
+        "title": "Phonetics of casual Tamil",
+        "author": ["C. R. Marthandan"],
+        "year": 1983,
+        "publisher": "University of London",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "thesis",
+        "title": "A study in auxiliation: The grammar of the indicative auxiliary verb system of Tamil",
+        "author": ["Sanford B. Steever"],
+        "year": 1983,
+        "publisher": "University of Chicago",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "Diglossia: A study of the theory with application to Tamil",
+        "author": ["Francis Britto"],
+        "year": 1985,
+        "publisher": "Georgetown University",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["sociolinguistics", "dialectology"]
+    },
+    {
+        "type": "thesis",
+        "title": "The phonology and morphology of Tamil",
+        "author": ["Prathima Christdas"],
+        "year": 1988,
+        "publisher": "Cornell University",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["phonetics/phonology", "morphology"]
+    },
+    {
+        "type": "thesis",
+        "title": "Functions of the verb in Tamil narration",
+        "author": ["Susan C. Herring"],
+        "year": 1991,
+        "publisher": "University of California, Berkeley",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["discourse", "semantics"]
+    },
+    {
+        "type": "thesis",
+        "title": "Negativity in Tamil: Untying the undefinable not",
+        "author": ["Subhadra Ramachandran"],
+        "year": 1991,
+        "publisher": "University of Ottawa",
+        "languages": {
+            "Tamil": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "thesis",
+        "title": "The Copula in Malayalam",
+        "author": ["Lindsey Marie Antonini"],
+        "year": 2020,
+        "publisher": "University of Georgia",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["syntax", "morphology"],
+        "url": "https://www.researchgate.net/publication/347863178_The_Copula_in_Malayalam"
+    },
+    {
+        "type": "thesis",
+        "title": "Malayalam phonology: An optimality theoretic approach",
+        "author": ["Suchitra Sadanandan"],
+        "year": 1999,
+        "publisher": "University of Southern California",
+        "languages": {
+            "Malayalam": []
+        },
+        "topics": ["phonetics/phonology"]
     }
 ]
