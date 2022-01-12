@@ -773,9 +773,19 @@
         "Thuamul Rampur": [19.5469397, 82.9206955],
         "Pollachi": [10.659, 77.008],
         "Chidambaram": [11.4, 79.7],
-        "Coimbatore": [11.0168, 76.9558]
+        "Coimbatore": [11.0168, 76.9558],
+        "Badakhshan Province": [36.7348, 70.8120],
+        "Dhodial": [34.433333, 73.266667],
+        "Gujranwala": [32.1877, 74.1945],
+        "Darwoz District": [38.5, 70.75],
+        "Rushon District": [38, 72.083333],
+        "Imphal": [24.8170, 93.9368]
     },
     "family": {
+        "Meitei": ["Sino-Tibetan", "Central Trans-Himalayan"],
+        "Rushani": ["Iranian", "Eastern", "Pamiri"],
+        "Dari": ["Iranian", "Western", "Southwestern"],
+        "Shughni": ["Iranian", "Eastern", "Shughni-Yazgulami"],
         "Eravalla": ["Dravidian", "Southern", "Tamil-Malayalam"],
         "Muklom Tangsa": ["Sino-Tibetan", "Brahmaputran", "Konyak"],
         "Hakhun Tangsa": ["Sino-Tibetan", "Brahmaputran", "Konyak"],

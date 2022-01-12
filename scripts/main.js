@@ -270,20 +270,30 @@ function load(coord, ref, world) {
                 board.append("p")
                     .attr("class", "card-text")
                     .html(refs[l].length + " source" + (refs[l].length == 1 ? "" : "s") + " covering " + langs[l].length + " location" + (langs[l].length == 1 ? "" : "s") + ".")
-                board = board.append("ul")
+                board = board.append("div")
                     .attr("class", "card-text")
                     .style("overflow-y", "scroll")
+                board = board.append("table")
+                    .attr("class", "table table-striped card-text text-small")
+                board.append("thead")
+                    .attr("class", "thead-dark")
+                    .append("tr")
+                    .html("<th>Author</th><th>Year</th><th>Title</th><th>Collection</th><th>Loc.</th><th>Top.</th>")
+                board = board.append("tbody")
 
                 refs[l].forEach(x => {
                     var note = make_ref(x)
                     console.log(x)
+                    note += '<td>'
                     x.languages[l].forEach(city => {
                         note += ` <span class="badge bg-secondary">${city}</span>`
                     })
+                    note += '</td><td>'
                     x.topics.forEach(topic => {
                         note += ` <span class="badge bg-primary">${topic}</span>`
                     })
-                    board.append("li")
+                    note += '</td>'
+                    board.append("tr")
                         .html(note)
                 })
             }

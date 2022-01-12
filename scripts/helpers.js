@@ -48,11 +48,12 @@ function calculateRadius(number) {
 
 function make_ref(x) {
     var note = ''
-    if (('editor' in x) && !('author' in x)) note += x.editor.join(', ')
-    else note += x.author.join(', ')
-    note += ` (${x.year}). ${(x.type == 'article' || x.type == 'inproceedings') ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}.`
-    if (x.journal) note += ` In <em>${x.journal}</em>${x.volume ? (' ' + x.volume) : ''}${x.number ? ('(' + x.number + ')') : ''}.`
-    if (x.booktitle) note += ` In <em>${x.booktitle}</em> ${x.editor ? '(' + x.editor.join(', ') + ')' : ""}.`
-    if (x.url) note += ` <a href="${x.url}">link</a>`
+    if (x.url) x.title = `<a href="${x.url}">${x.title}</a>`
+    if (('editor' in x) && !('author' in x)) note += `<td>${x.editor.join(', ')}</td>`
+    else note += `<td>${x.author.join(', ')}</td>`
+    note += `<td>${x.year}</td><td>${(x.type == 'article' || x.type == 'inproceedings') ? '"' + x.title + '"' : '<em>' + x.title + '</em>'}</td>`
+    if (x.journal) note += `<td><em>${x.journal}</em>${x.volume ? (' ' + x.volume) : ''}${x.number ? ('(' + x.number + ')') : ''}</td>`
+    else if (x.booktitle) note += `<td><em>${x.booktitle}</em> ${x.editor ? '(' + x.editor.join(', ') + ')' : ""}</td>`
+    else note += `<td></td>`
     return note
 }

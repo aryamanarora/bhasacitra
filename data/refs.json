@@ -790,7 +790,7 @@
         "languages": {
             "Kannada": []
         },
-        "topics": ["lexicography", "historical"]
+        "topics": ["lexicography", "etymology"]
     },
     {
         "type": "article",
@@ -4645,7 +4645,7 @@
         "languages": {
             "Burushaski": []
         },
-        "topics": ["syntax", "case and adpositions"]
+        "topics": ["syntax", "case and adpositions", "ergativity"]
     },
     {
         "type": "mastersthesis",
@@ -4722,7 +4722,7 @@
             "Marathi": ["Kupwad"],
             "Kannada": ["Kupwad"]
         },
-        "topics": ["language shift", "language contact", "syntax"]
+        "topics": ["language shift", "language contact", "syntax", "ergativity"]
     },
     {
         "type": "article",
@@ -5543,7 +5543,7 @@
         "languages": {
             "Pahari-Pothwari": []
         },
-        "topics": ["syntax", "case and adpositions"]
+        "topics": ["syntax", "case and adpositions", "ergativity"]
     },
     {
         "type": "article",
@@ -5621,7 +5621,7 @@
             "Kashmiri": [],
             "Hindko": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "ergativity"]
     },
     {
         "type": "article",
@@ -7763,7 +7763,7 @@
     {
         "type": "book",
         "title": "The Case System of Eastern Indo-Aryan Languages: A Typological Overview",
-        "author": ["Bornini Lahiri"],
+        "author": ["Bomini Lahiri"],
         "publisher": "Routledge",
         "year": 2021,
         "languages": {
@@ -9277,7 +9277,7 @@
         "languages": {
             "Wakhi": []
         },
-        "topics": ["syntax", "case and adpositions"]
+        "topics": ["syntax", "case and adpositions", "ergativity"]
     },
     {
         "type": "inproceedings",
@@ -9409,7 +9409,7 @@
         "languages": {
             "Brahui": ["Kalat"]
         },
-        "topics": ["historical", "lexicography"]
+        "topics": ["historical", "lexicography", "etymology"]
     },
     {
         "type": "book",
@@ -10048,7 +10048,7 @@
         "languages": {
             "Nepali": []
         },
-        "topics": ["syntax"],
+        "topics": ["syntax", "ergativity"],
         "url": "https://ling.sprachwiss.uni-konstanz.de/pages/home/butt/main/papers/leipzig07-hnd.pdf"
     },
     {
@@ -10559,7 +10559,7 @@
         "languages": {
             "Kurux": []
         },
-        "topics": ["semantics", "historical", "expressives"]
+        "topics": ["semantics", "etymology", "expressives"]
     },
     {
         "type": "mastersthesis",
@@ -10892,7 +10892,7 @@
             "Brahui": []
         },
         "doi": "10.1515/9783112415306-045",
-        "topics": ["historical"]
+        "topics": ["etymology"]
     },
     {
         "type": "article",
@@ -11133,7 +11133,7 @@
         "languages": {
             "Gujarati": []
         },
-        "topics": ["lexicography"]
+        "topics": ["lexicography", "etymology"]
     },
     {
         "type": "article",
@@ -12586,7 +12586,7 @@
         "languages": {
             "Hindi-Urdu": []
         },
-        "topics": ["historical"]
+        "topics": ["historical", "ergativity"]
     },
     {
         "type": "book",
@@ -13268,7 +13268,7 @@
         "languages": {
             "Chintang": ["Chintang"]
         },
-        "topics": ["case and adpositions", "language acquisition"],
+        "topics": ["case and adpositions", "language acquisition", "ergativity"],
         "url": "https://www.academia.edu/2436360/The_acquisition_of_ergative_case_in_Chintang"
     },
     {
@@ -14594,7 +14594,7 @@
         "publisher": "Jawaharlal Nehru University",
         "year": 2008,
         "url": "https://ojs.ub.uni-konstanz.de/jsal/dissertations/phd-richa.pdf",
-        "topics": ["syntax"],
+        "topics": ["syntax", "ergativity"],
         "languages": {
             "Hindi-Urdu": []
         }
@@ -15348,7 +15348,7 @@
         "languages": {
             "Hindi-Urdu": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "inbook",
@@ -15439,7 +15439,7 @@
         "languages": {
             "Hindi-Urdu": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "inbook",
@@ -15456,7 +15456,7 @@
             "Poguli": [],
             "Gujarati": []
         },
-        "topics": ["syntax"]
+        "topics": ["syntax", "case and adpositions"]
     },
     {
         "type": "inbook",
@@ -16283,5 +16283,651 @@
             "Malayalam": []
         },
         "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Shughni",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 1,
+        "year": 1928,
+        "pages": "32--84",
+        "languages": {
+            "Shughni": ["Badakhshan Province"]
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "An Etymological Vocabulary of the Shughni Group",
+        "author": ["Georg Morgenstierne"],
+        "publisher": "Wiesbaden",
+        "year": 1974,
+        "languages": {
+            "Shughni": []
+        },
+        "topics": ["etymology", "lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "A New Etymological Vocabulary of Pashto",
+        "author": ["Georg Morgenstierne"],
+        "year": 2003,
+        "editor": ["J. Elfenbein", "D. N. MacKenzie", "N. Sims-Williams"],
+        "publisher": "Wiesbaden",
+        "languages": {
+            "Pashto": []
+        },
+        "topics": ["etymology", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on the Pronunciation of Pashto (dialect of the Hazara District)",
+        "author": ["Georg Morgenstierne", "A. Lloyd-James"],
+        "journal": "Bulletin of the School of Oriental Studies, University of London",
+        "volume": 5,
+        "number": 1,
+        "year": 1928,
+        "pages": "53--62",
+        "languages": {
+            "Pashto": ["Dhodial"]
+        },
+        "topics": ["phonetics/phonology"],
+        "url": "https://www.jstor.org/stable/607782"
+    },
+    {
+        "type": "article",
+        "title": "The Language of the Ashkun Kafirs",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 2,
+        "year": 1929,
+        "pages": "192--289",
+        "languages": {
+            "Ashkun": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Waṇetsi Dialect of Pashto. A Preliminary Note",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 4,
+        "year": 1930,
+        "pages": "156--175",
+        "languages": {
+            "Wanetsi": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Balochi Etymology",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 5,
+        "year": 1931,
+        "pages": "37--53",
+        "languages": {
+            "Balochi": []
+        },
+        "topics": ["etymology"]
+    },
+    {
+        "type": "article",
+        "title": "Supplementary Notes on Ormuri",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 5,
+        "year": 1932,
+        "pages": "3--36",
+        "languages": {
+            "Ormuri": []
+        },
+        "topics": []
+    },
+    {
+        "type": "article",
+        "title": "Additional Notes on Ashkun",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 7,
+        "year": 1934,
+        "pages": "56--115",
+        "languages": {
+            "Ashkun": []
+        },
+        "topics": []
+    },
+    {
+        "type": "article",
+        "title": "Munji žūt: Gothic qi*i*",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 7,
+        "year": 1934,
+        "pages": "116--120",
+        "languages": {
+            "Munji": []
+        },
+        "topics": ["etymology"]
+    },
+    {
+        "type": "book",
+        "title": "Notes on Phalūṛa, an Unknown Dardic Language of Chitral",
+        "author": ["Georg Morgenstierne"],
+        "location": "Oslo",
+        "year": 1940,
+        "languages": {
+            "Palula": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on Dameli, a Kafir-Dardic Language of Chitral",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 12,
+        "year": 1942,
+        "pages": "115--198",
+        "languages": {
+            "Dameli": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Language of the Prasun Kafirs",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 15,
+        "year": 1949,
+        "pages": "188--334",
+        "languages": {
+            "Prasun": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "The Waigali Language",
+        "author": ["Georg Morgenstierne"],
+        "journal": "Norsk Tidsskrift for Sprogvidenskap",
+        "volume": 17,
+        "year": 1955,
+        "pages": "146--324",
+        "languages": {
+            "Kalasha-ala": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on the Sā̃si dialect",
+        "author": ["Thomas G. Bailey"],
+        "journal": "Journal of the Asiatic Society of Bengal",
+        "volume": 70,
+        "year": 1901,
+        "languages": {
+            "Sansi": []
+        },
+        "pages": "7--14",
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Panjabi manual and grammar: A guide to the colloquial Panjabi of the Northern Panjabi",
+        "author": ["Thomas G. Bailey", "T. Cummings"],
+        "url": "https://archive.org/details/panjabimanualgra00tgra",
+        "year": 1912,
+        "languages": {
+            "Punjabi": ["Gujranwala"]
+        },
+        "topics": ["overview", "pedagogical"]
+    },
+    {
+        "type": "article",
+        "title": "A linguistic assessment of the Munji language in Afghanistan",
+        "author": ["Daniela Beyer", "Simone Beck"],
+        "year": 2011,
+        "journal": "Language Documentation & Conservation",
+        "volume": 6,
+        "pages": "38--103",
+        "url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/4506/beyer_beck.pdf",
+        "languages": {
+            "Munji": []
+        },
+        "topics": ["overview", "sociolinguistics"]
+    },
+    {
+        "type": "article",
+        "title": "On some recent claims on Burushaski",
+        "author": ["Jan Henrik Holst"],
+        "year": 2021,
+        "journal": "Himalayan Linguistics",
+        "volume": 20,
+        "number": 1,
+        "languages": {
+            "Burushaski": []
+        },
+        "topics": ["historical", "comparative"],
+        "url": "https://escholarship.org/uc/item/93m7239c"
+    },
+    {
+        "type": "mastersthesis",
+        "title": "Mankiyali Phonology: Description and Analysis",
+        "author": ["Jonathan Charles Paramore"],
+        "year": 2021,
+        "publisher": "University of North Texas",
+        "languages": {
+            "Mankiyali": ["Mansehra District"]
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Notes on the Munda family of speech in India",
+        "author": ["Sten Konow"],
+        "journal": "Anthropos",
+        "year": 1908,
+        "volume": 3,
+        "pages": "68--82",
+        "url": "https://www.jstor.org/stable/40442526",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Nahālī: A linguistic study on paleoethnography",
+        "author": ["Robert Shafer"],
+        "journal": "Harvard Journal of Asiatic Studies",
+        "year": 1940,
+        "volume": 5,
+        "number": "3/4",
+        "url": "https://www.jstor.org/stable/2717916",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["ethnography", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "Field notes on Nahali",
+        "author": ["S. Bhattacharya"],
+        "journal": "Indian Linguistics",
+        "year": 1957,
+        "volume": 17,
+        "pages": "245--258",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "article",
+        "title": "Deutung einiger alter Stammesnammer der Bhil aus der vorarischen Mythologie des Epos und der Purāṇa",
+        "journal": "Wiener Zeitschrift für die Kunde Süd- und Ostasiens und Archiv für indische Philosophie",
+        "volume": 3,
+        "pages": "34--82",
+        "author": ["Hermann Berger"],
+        "year": 1959,
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["religion"]
+    },
+    {
+        "type": "article",
+        "title": "Contribution à l'étude des Nahals (Inde)",
+        "author": ["Bertrand de Candolle"],
+        "journal": "Anthropos",
+        "volume": 56,
+        "year": 1961,
+        "pages": "750--788",
+        "url": "https://www.jstor.org/stable/40455594",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["ethnography", "religion"]
+    },
+    {
+        "type": "book",
+        "title": "Nihali: A Comparative Study",
+        "author": ["F. B. J. Kuiper"],
+        "year": 1962,
+        "publisher": "N. V. Noord-Hollandsche Uitvers Maatschappĳ",
+        "location": "Amsterdam",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Review of Kuiper’s Nihali",
+        "author": ["T. Burrow"],
+        "year": 1963,
+        "journal": "Bulletin of the School of Oriental and African Studies",
+        "volume": 26,
+        "pages": "436--437",
+        "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/f-b-j-kuiper-a-comparative-study-mededelingen-der-koninklijke-nederlandse-akademie-van-wetenschappen-afd-letterkunde-nieuwe-reeks-deel-25-no-5-114-pp-amsterdam-nv-noordhollandsche-uitgevers-maatschappij-1962-guilders-1250/B0CB8E8A47869B4507FD858BFD5F653A",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["comparative"]
+    },
+    {
+        "type": "article",
+        "title": "Review of Kuiper’s Nihali",
+        "author": ["H.-J. Pinnow"],
+        "year": 1966,
+        "journal": "Orientalische Literaturzeitung",
+        "volume": 61,
+        "pages": "492--496",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["comparative"]
+    },
+    {
+        "type": "book",
+        "title": "Outline of Nihali Grammar (unpublished)",
+        "author": ["O. Lynch"],
+        "year": 1963,
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Nihali (Kaltu-Mandi): Its Place among the Munda Languages of India",
+        "author": ["Asha Mundlay"],
+        "year": "1964/1972",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["overview"]
+    },
+    {
+        "type": "book",
+        "title": "Die religiose-magische Weltasnschauung der Primitivstamme Indiens, Band 2: Die Bhilala, Korku, Gond, Baiga",
+        "author": ["M. Hermanns"],
+        "year": 1966,
+        "publisher": "Franz Steiner Verlag",
+        "location": "Weisbaden",
+        "languages": {
+            "Nihali": [],
+            "Bhilali": [],
+            "Gondi": [],
+            "Korku": []
+        },
+        "topics": ["religion"]
+    },
+    {
+        "type": "article",
+        "title": "Some Munda etymological notes on names in the Rāmāyaṇa",
+        "author": ["Norman H. Zide"],
+        "year": 1972,
+        "journal": "Journal of the Gaŋgānātʰ Jʰā Kēndriy Saṁskr̩t Vidyāpīṭʰ",
+        "volume": "XXVIII",
+        "pages": "747--763",
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["etymology", "onomastics"]
+    },
+    {
+        "type": "article",
+        "title": "A Nihali lexicon",
+        "author": ["Asha Mundlay"],
+        "year": 1979,
+        "journal": "Mother Tongue",
+        "volume": 5,
+        "languages": {
+            "Nihali": []
+        },
+        "topics": ["lexicography"]
+    },
+    {
+        "type": "book",
+        "title": "The Korkus of the Vindhya Hills",
+        "author": ["S. Fuchs"],
+        "year": 1988,
+        "publisher": "Inter-India Publications",
+        "location": "New Delhi",
+        "languages": {
+            "Korku": []
+        },
+        "topics": ["overview", "ethnography"]
+    },
+    {
+        "type": "book",
+        "title": "Korku Language: Grammar, Texts and Vocabulary",
+        "author": ["K. S. Nagaraja"],
+        "year": 1999,
+        "publisher": "ILCAA, Tokyo University of Foreign Studies",
+        "location": "Tokyo",
+        "languages": {
+            "Korku": []
+        },
+        "topics": ["overview", "corpora", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Korku-Nahali kinship terms — a comparative note",
+        "author": ["K. S. Nagaraja"],
+        "journal": "Indian Linguistics",
+        "volume": 69,
+        "year": 2008,
+        "pages": "259--265",
+        "languages": {
+            "Nihali": [],
+            "Korku": []
+        },
+        "topics": ["comparative", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Kinship terminologies reveal ancient contact zone in the Hindu Kush",
+        "author": ["Henrik Liljegren"],
+        "journal": "Linguistic Typology",
+        "year": 2021,
+        "url": "https://doi.org/10.1515/lingty-2021-2080",
+        "languages": {
+            "Burushaski": ["Hunza Valley", "Nagar Valley"],
+            "Bateri": [],
+            "Brokskat": [],
+            "Dameli": [],
+            "Gawarbati": [],
+            "Kalam Kohistani": [],
+            "Gojri": [],
+            "Hindko": [],
+            "Indus Kohistani": [],
+            "Kalasha-mon": [],
+            "Kalkoti": [],
+            "Kashmiri": [],
+            "Khowar": [],
+            "Kohistani Shina": [],
+            "Kundal Shahi": [],
+            "Pahari-Pothwari": [],
+            "Palula": [],
+            "Northeastern Pashayi": [],
+            "Northwestern Pashayi": [],
+            "Southeastern Pashayi": [],
+            "Southwestern Pashayi": [],
+            "Sauji": [],
+            "Shina": ["Gilgit", "Gurez Valley"],
+            "Torwali": [],
+            "Ushojo": [],
+            "Dari": ["Darwoz District"],
+            "Ishkashimi": [],
+            "Munji": [],
+            "Parachi": [],
+            "Pashto": [],
+            "Rushani": ["Rushon District"],
+            "Sanglechi": [],
+            "Shughni": [],
+            "Wakhi": [],
+            "Yidgha": [],
+            "Ashkun": [],
+            "Kamviri": [],
+            "Katavari": [],
+            "Prasun": [],
+            "Kalasha-ala": [],
+            "Balti": [],
+            "Ladakhi": [],
+            "Purik": []
+        },
+        "topics": ["language contact", "comparative", "lexicography"]
+    },
+    {
+        "type": "article",
+        "title": "Causal–Noncausal Verb Alternations in Sinhala, an Anticausativizing Indo-Aryan Language",
+        "author": ["Shigeki Yoshida"],
+        "journal": "Tōkyōdaigaku gengo-gaku ronshū",
+        "volume": 43,
+        "year": 2021,
+        "url": "https://researchmap.jp/shige_yoshida/published_papers/34304328/attachment_file.pdf",
+        "languages": {
+            "Sinhala": []
+        },
+        "topics": ["morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Overarching consonant alternations: A case study of an unbalanced trilingual situation Bundeli – Hindi – English",
+        "author": ["Tatiana I. Oranskaia"],
+        "journal": "Dynamics of Linguistic Diversity",
+        "year": 2017,
+        "pages": "163--191",
+        "languages": {
+            "Bundeli": [],
+            "Hindi-Urdu": []
+        },
+        "topics": ["sociolinguistics", "phonetics/phonology"]
+    },
+    {
+        "type": "article",
+        "title": "Ergativity and stage/individual level predications in Nepali and Manipuri",
+        "author": ["Tikaram Poudel"],
+        "journal": "Journal of South Asian Linguistics",
+        "year": 2020,
+        "volume": 11,
+        "url": "https://ojs.ub.uni-konstanz.de/jsal/index.php/jsal/article/view/9",
+        "languages": {
+            "Nepali": [],
+            "Meitei": ["Imphal"]
+        },
+        "topics": ["syntax", "ergativity"]
+    },
+    {
+        "type": "article",
+        "title": "The Semantics of the Ergative in Nepali",
+        "url": "https://cdltu.edu.np/wp-content/uploads/2021/05/Gipan3-2.pdf#page=68",
+        "author": ["Tikaram Poudel"],
+        "journal": "Gipan",
+        "volume": 3,
+        "number": 2,
+        "year": 2017,
+        "languages": {
+            "Nepali": []
+        },
+        "topics": ["semantics", "ergativity"]
+    },
+    {
+        "type": "article",
+        "title": "Nepali attention marker ni",
+        "author": ["Juha Sakari Yliniemi"],
+        "year": 2016,
+        "journal": "Himalayan Linguistics",
+        "volume": 15,
+        "number": 2,
+        "url": "https://escholarship.org/uc/item/56g779kv",
+        "languages": {
+            "Nepali": []
+        },
+        "topics": ["discourse"]
+    },
+    {
+        "type": "article",
+        "title": "Poslelog dekhi v jazykax nepali i kumaoni: puti grammatikalizacii",
+        "author": ["Je. A. Renkovskaja"],
+        "year": 2016,
+        "languages": {
+            "Nepali": [],
+            "Kumaoni": []
+        },
+        "topics": ["case and adpositions"],
+        "url": "https://www.elibrary.ru/item.asp?id=28942523"
+    },
+    {
+        "type": "article",
+        "title": "In Search of the Roots of Khaṛī-bolīHindī",
+        "author": ["Andrea Drocco"],
+        "journal": "International Journal of Language and Linguistics",
+        "volume": 6,
+        "year": 2019,
+        "pages": "112--120",
+        "languages": {
+            "Hindi-Urdu": [],
+            "Braj": []
+        },
+        "topics": ["historical"],
+        "url": "https://ijllnet.com/journals/Vol_6_No_2_June_2019/15.pdf"
+    },
+    {
+        "type": "book",
+        "title": "Verb Movement and the Syntax of Kashmiri",
+        "author": ["Rakesh Mohan Bhatt"],
+        "year": 2013,
+        "publisher": "Springer Netherlands",
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "The puzzle of Kashmiri stress: implications for weight theory",
+        "author": ["Bruce Morén"],
+        "journal": "Phonology",
+        "volume": 17,
+        "number": 3,
+        "year": 2000,
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["phonetics/phonology"]
+    },
+    {
+        "type": "book",
+        "title": "Peripheries in Kashmiri and Hindi-Urdu: The Syntax of Discourse-driven Movement",
+        "author": ["Emily Manetta"],
+        "year": 2011,
+        "languages": {
+            "Kashmiri": [],
+            "Hindi-Urdu": []
+        },
+        "publisher": "John Benjamins Publishing Company",
+        "topics": ["syntax", "discourse"]
+    },
+    {
+        "type": "article",
+        "title": "Two locations for negation: Evidence from Kashmiri",
+        "author": ["Sadaf Munshi", "Rajesh Bhatt"],
+        "journal": "Linguistic Variation Yearbook",
+        "volume": 9,
+        "number": 1,
+        "year": 2009,
+        "url": "https://www.jbe-platform.com/content/journals/10.1075/livy.9.06mun",
+        "languages": {
+            "Kashmiri": []
+        },
+        "topics": ["syntax"]
     }
 ]
