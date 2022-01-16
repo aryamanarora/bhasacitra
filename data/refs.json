@@ -1003,7 +1003,7 @@
         "languages": {
             "Dhivehi": ["Malé City", "Haddhunmathi (Laamu) Atoll"]
          },
-        "topics": ["morphology", "historical", "pragmatics"]
+        "topics": ["morphology", "historical", "pragmatics", "evidentiality"]
     },
     {
         "type": "book",
@@ -5765,7 +5765,7 @@
             "Palula": []
         },
         "url": "https://www.diva-portal.org/smash/get/diva2:1467648/FULLTEXT01.pdf",
-        "topics": ["pragmatics", "morphology"]
+        "topics": ["pragmatics", "morphology", "evidentiality"]
     },
     {
         "type": "thesis",
@@ -10062,7 +10062,7 @@
         "languages": {
             "Nepali": []
         },
-        "topics": ["pragmatics", "morphology"],
+        "topics": ["pragmatics", "morphology", "evidentiality"],
         "url": "http://sealang.net/sala/archives/pdf4/peterson2000evidentials.pdf"
     },
     {
@@ -13628,7 +13628,7 @@
         "languages": {
             "Burushaski": []
         },
-        "topics": ["pragmatics", "morphology"]
+        "topics": ["pragmatics", "morphology", "evidentiality"]
     },
     {
         "type": "inbook",
@@ -16929,5 +16929,193 @@
             "Kashmiri": []
         },
         "topics": ["syntax"]
+    },
+    {
+        "type": "article",
+        "title": "Documentation of the Kullui language: problems, results, prospects",
+        "author": ["Anastasia S. Krylova", "Evgeniya A. Renkovskaya"],
+        "journal": "Vāk Manthan",
+        "volume": 3,
+        "number": 1,
+        "year": 2018,
+        "url": "https://www.academia.edu/41920972/Documentation_of_the_Kullui_language_problems_results_prospects",
+        "languages": {
+            "Kullui": []
+        },
+        "topics": ["language documentation/revitalization"]
+    },
+    {
+        "type": "misc",
+        "title": "Kullui corpus",
+        "url": "http://kullui.polycorpora.org/",
+        "author": ["Evgenia A. Renkovskaya", "Julia V. Mazurova", "Anastasia S. Krylova"],
+        "year": "2019--2021",
+        "languages": {
+            "Kullui": ["Kullu", "Naggar", "Manali"]
+        },
+        "topics": ["corpora"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Genitive marking of arguments in Kullui (Indo-Aryan)",
+        "author": ["Evgenia A. Renkovskaya"],
+        "booktitle": "51 Societas Linguistica Europea Meeting 29 August – 1 September in Tallinn",
+        "location": "Tallinn",
+        "year": 2018,
+        "languages": {
+            "Kullui": []
+        },
+        "topics": ["case and adpositions", "syntax"]
+    },
+    {
+        "type": "inbook",
+        "title": "Documentation of the Himachali Pahari languages as a step towards language maintenance",
+        "author": ["Julia V. Mazurova", "Evgeniya A. Renkovskaya", "Anastasia S. Krylova"],
+        "booktitle": "Language Endangerment and Language Revitalization in Himalaya",
+        "year": 2018,
+        "pages": "149--175",
+        "languages": {
+            "Kullui": []
+        },
+        "topics": ["language documentation/revitalization"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Ginger: a Khotanese Loanword in Modern Purik-Tibetan",
+        "author": ["Bielmeier Roland"],
+        "booktitle": "Proceedings of the Tenth Seminar of the IATS, 2003",
+        "url": "https://brill.com/view/book/9789004233485/B9789004233485-s004.xml",
+        "year": 2003,
+        "languages": {
+            "Purik": []
+        },
+        "topics": ["lexicography", "historical"]
+    },
+    {
+        "type": "article",
+        "title": "The Origin and Evolution of the Opposition between Testimonial and Factual Evidentials in Purik and Other Varieties of Tibetan",
+        "author": ["Marius Zemp"],
+        "journal": "Open Linguistics",
+        "volume": 3,
+        "number": 1,
+        "year": 2017,
+        "pages": "613--637",
+        "url": "https://www.degruyter.com/document/doi/10.1515/opli-2017-0031/html",
+        "languages": {
+            "Purik": []
+        },
+        "topics": ["historical", "evidentiality"]
+    },
+    {
+        "type": "article",
+        "title": "Dramatizers in Purik and How They – Smack! – Evolved",
+        "author": ["Marius Zemp"],
+        "journal": "Journal of Research Institute",
+        "volume": 49,
+        "year": 2013,
+        "url": "https://www.academia.edu/8085633/Dramatizers_in_Purik_and_how_they_-_smack_-_evolved",
+        "languages": {
+            "Purik": []
+        },
+        "topics": ["historical", "expressives"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "The genesis of evidentiality in Tibetan",
+        "author": ["Marius Zemp"],
+        "booktitle": "‘Evidentiality’ in Tibetic languages and beyond – a closer look, International Workshop, 16–17 February 2019, Tübingen",
+        "location": "Tübingen",
+        "year": 2019,
+        "url": "https://www.academia.edu/38439855/The_genesis_of_evidentiality_in_Tibetan_pdf",
+        "languages": {
+            "Purik": [],
+            "Tibetan": [],
+            "Balti": []
+        },
+        "topics": ["historical", "evidentiality"]
+    },
+    {
+        "type": "article",
+        "title": "A functional reconstruction of the Proto-Tibetan verbal system",
+        "author": ["Marius Zemp"],
+        "journal": "Himalayan Linguistics",
+        "volume": 15,
+        "number": 2,
+        "year": 2016,
+        "url": "https://escholarship.org/uc/item/57p2b2s1",
+        "languages": {
+            "Purik": [],
+            "Tibetan": [],
+            "Balti": []
+        },
+        "topics": ["historical", "morphology"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Variation in subject-triggered clitic restrictions: A case of Punjabi",
+        "author": ["Gurmeet Kaur"],
+        "booktitle": "Proceedings of GLOW in Asia XI",
+        "volume": 1,
+        "year": 2017,
+        "url": "https://glowlinguistics.org/asia11/wp-content/uploads/sites/3/2017/11/v1-kaur.pdf",
+        "languages": {
+            "Punjabi": ["Kanpur"]
+        },
+        "topics": ["syntax", "sociolinguistics"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Addressee Agreement as the Locus of Imperative Syntax",
+        "author": ["Gurmeet Kaur"],
+        "booktitle": "49th meeting of the North East Linguistics Society, Cornell University",
+        "year": 2018,
+        "volume": 6,
+        "languages": {
+            "Punjabi": ["Kanpur"]
+        },
+        "url": "http://cornell2018.nelsconference.org/files/abstracts/NELS%2049%20Abstract%20115.pdf",
+        "topics": ["syntax"]
+    },
+    {
+        "type": "inproceedings",
+        "title": "Deferred imperatives across Indo-Aryan",
+        "author": ["Neil Banerjee", "Gurmeet Kaur"],
+        "booktitle": "Proceedings of (F)ASAL 10",
+        "languages": {
+            "Punjabi": [],
+            "Hindi-Urdu": [],
+            "Bengali": []
+        },
+        "url": "https://drive.google.com/file/d/1qPMZDuiod3PKH-dtC4VbjcE8RS_gy8GP/view",
+        "year": 2021,
+        "topics": ["syntax", "morphology"]
+    },
+    {
+        "type": "article",
+        "title": "Problems of classification in Pakistan Panjab",
+        "author": ["Christopher Shackle"],
+        "journal": "Transactions of the Philological Society",
+        "volume": 77,
+        "number": 1,
+        "year": 1979,
+        "languages": {
+            "Punjabi": [],
+            "Saraiki": [],
+            "Hindko": [],
+            "Pahari-Pothwari": []
+        },
+        "topics": ["language contact", "historical"]
+    },
+    {
+        "type": "thesis",
+        "title": "Siraiki and Siraiki literature, c.1750-1900, in Upper Sind and South-West Panjab",
+        "author": ["Christopher Shackle"],
+        "year": 1972,
+        "publisher": "School of Oriental and African Studies, University of London",
+        "url": "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.390232",
+        "languages": {
+            "Saraiki": []
+        },
+        "topics": ["literature", "overview", "lexicography"]
     }
 ]

@@ -87,7 +87,7 @@
             findAllMatches: true,
             // minMatchCharLength: 1,
             // location: 0,
-            threshold: 0.6,
+            threshold: 0.4,
             // distance: 100,
             // useExtendedSearch: false,
             ignoreLocation: true,
@@ -121,7 +121,7 @@
             const fuse = new Fuse(refs, options)
             d3.select("input")
                 .on("keyup", function() {
-                    d3.selectAll("li").remove()
+                    board.selectAll("tr").remove()
                     var search = this.value
                     find = fuse.search(search)
                     count.text(find.length)
